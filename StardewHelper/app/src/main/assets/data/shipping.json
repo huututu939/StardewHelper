@@ -1,0 +1,1399 @@
+[
+ {
+  "group": "作物",
+  "count": 54,
+  "items": [
+   {
+    "name": "防风草",
+    "price": 35,
+    "shippable": true,
+    "quality": {
+     "silver": 43,
+     "gold": 52,
+     "iridium": 70
+    }
+   },
+   {
+    "name": "青豆",
+    "price": 40,
+    "shippable": true,
+    "quality": {
+     "silver": 50,
+     "gold": 60,
+     "iridium": 80
+    }
+   },
+   {
+    "name": "花椰菜",
+    "price": 175,
+    "shippable": true,
+    "quality": {
+     "silver": 218,
+     "gold": 262,
+     "iridium": 350
+    }
+   },
+   {
+    "name": "土豆",
+    "price": 80,
+    "shippable": true,
+    "quality": {
+     "silver": 100,
+     "gold": 120,
+     "iridium": 160
+    }
+   },
+   {
+    "name": "郁金香",
+    "price": 30,
+    "shippable": true,
+    "quality": {
+     "silver": 37,
+     "gold": 45,
+     "iridium": 60
+    }
+   },
+   {
+    "name": "蓝爵士",
+    "price": 50,
+    "shippable": true
+   },
+   {
+    "name": "大蒜",
+    "price": 60,
+    "shippable": true
+   },
+   {
+    "name": "甘蓝",
+    "price": 110,
+    "shippable": true
+   },
+   {
+    "name": "大黄",
+    "price": 220,
+    "shippable": true,
+    "quality": {
+     "silver": 275,
+     "gold": 330,
+     "iridium": 440
+    }
+   },
+   {
+    "name": "草莓",
+    "price": 120,
+    "shippable": true,
+    "quality": {
+     "silver": 150,
+     "gold": 180,
+     "iridium": 240
+    }
+   },
+   {
+    "name": "咖啡豆",
+    "price": 15,
+    "shippable": true,
+    "quality": {
+     "silver": 18,
+     "gold": 22,
+     "iridium": 30
+    }
+   },
+   {
+    "name": "胡萝卜",
+    "price": 35,
+    "shippable": true,
+    "quality": {
+     "silver": 43,
+     "gold": 52,
+     "iridium": 70
+    }
+   },
+   {
+    "name": "甜瓜",
+    "price": 250,
+    "shippable": true,
+    "quality": {
+     "silver": 312,
+     "gold": 375,
+     "iridium": 500
+    }
+   },
+   {
+    "name": "西红柿",
+    "price": 60,
+    "shippable": true,
+    "quality": {
+     "silver": 75,
+     "gold": 90,
+     "iridium": 120
+    }
+   },
+   {
+    "name": "蓝莓",
+    "price": 50,
+    "shippable": true,
+    "quality": {
+     "silver": 62,
+     "gold": 75,
+     "iridium": 100
+    }
+   },
+   {
+    "name": "辣椒",
+    "price": 40,
+    "shippable": true,
+    "quality": {
+     "silver": 50,
+     "gold": 60,
+     "iridium": 80
+    }
+   },
+   {
+    "name": "玉米",
+    "price": 50,
+    "shippable": true,
+    "quality": {
+     "silver": 62,
+     "gold": 75,
+     "iridium": 100
+    }
+   },
+   {
+    "name": "啤酒花",
+    "price": 25,
+    "shippable": true,
+    "quality": {
+     "silver": 31,
+     "gold": 37,
+     "iridium": 50
+    }
+   },
+   {
+    "name": "向日葵",
+    "price": 80,
+    "shippable": true,
+    "quality": {
+     "silver": 100,
+     "gold": 120,
+     "iridium": 160
+    }
+   },
+   {
+    "name": "萝卜",
+    "price": 90,
+    "shippable": true,
+    "quality": {
+     "silver": 112,
+     "gold": 135,
+     "iridium": 180
+    }
+   },
+   {
+    "name": "虞美人",
+    "price": 140,
+    "shippable": true
+   },
+   {
+    "name": "夏季亮片",
+    "price": 90,
+    "shippable": true,
+    "quality": {
+     "silver": 112,
+     "gold": 135,
+     "iridium": 180
+    }
+   },
+   {
+    "name": "小麦",
+    "price": 25,
+    "shippable": true,
+    "quality": {
+     "silver": 31,
+     "gold": 37,
+     "iridium": 50
+    }
+   },
+   {
+    "name": "芋头",
+    "price": 100,
+    "shippable": true,
+    "quality": {
+     "silver": 125,
+     "gold": 150,
+     "iridium": 200
+    }
+   },
+   {
+    "name": "金皮西葫芦（夏南瓜）",
+    "price": 45,
+    "shippable": true
+   },
+   {
+    "name": "茄子",
+    "price": 60,
+    "shippable": true,
+    "quality": {
+     "silver": 75,
+     "gold": 90,
+     "iridium": 120
+    }
+   },
+   {
+    "name": "红叶卷心菜",
+    "price": 260,
+    "shippable": true,
+    "quality": {
+     "silver": 325,
+     "gold": 390,
+     "iridium": 520
+    }
+   },
+   {
+    "name": "山药",
+    "price": 160,
+    "shippable": true,
+    "quality": {
+     "silver": 200,
+     "gold": 240,
+     "iridium": 320
+    }
+   },
+   {
+    "name": "南瓜",
+    "price": 320,
+    "shippable": true,
+    "quality": {
+     "silver": 400,
+     "gold": 480,
+     "iridium": 640
+    }
+   },
+   {
+    "name": "蔓越莓",
+    "price": 75,
+    "shippable": true,
+    "quality": {
+     "silver": 93,
+     "gold": 112,
+     "iridium": 150
+    }
+   },
+   {
+    "name": "苋菜",
+    "price": 150,
+    "shippable": true,
+    "quality": {
+     "silver": 187,
+     "gold": 225,
+     "iridium": 300
+    }
+   },
+   {
+    "name": "洋蓟",
+    "price": 160,
+    "shippable": true,
+    "quality": {
+     "silver": 200,
+     "gold": 240,
+     "iridium": 320
+    }
+   },
+   {
+    "name": "葡萄",
+    "price": 80,
+    "shippable": true,
+    "quality": {
+     "silver": 100,
+     "gold": 120,
+     "iridium": 160
+    }
+   },
+   {
+    "name": "西蓝花",
+    "price": 70,
+    "shippable": true,
+    "quality": {
+     "silver": 87,
+     "gold": 105,
+     "iridium": 140
+    }
+   },
+   {
+    "name": "甜菜",
+    "price": 100,
+    "shippable": true,
+    "quality": {
+     "silver": 125,
+     "gold": 150,
+     "iridium": 200
+    }
+   },
+   {
+    "name": "霜瓜",
+    "price": 60,
+    "shippable": true,
+    "quality": {
+     "silver": 75,
+     "gold": 90,
+     "iridium": 120
+    }
+   },
+   {
+    "name": "远古水果",
+    "price": 550,
+    "shippable": true
+   },
+   {
+    "name": "椰子",
+    "price": 100,
+    "shippable": true,
+    "quality": {
+     "silver": 125,
+     "gold": 150,
+     "iridium": 200
+    }
+   },
+   {
+    "name": "仙人掌果子",
+    "price": 75,
+    "shippable": true,
+    "quality": {
+     "silver": 93,
+     "gold": 112,
+     "iridium": 150
+    }
+   },
+   {
+    "name": "香蕉",
+    "price": 150,
+    "shippable": true,
+    "quality": {
+     "silver": 187,
+     "gold": 225,
+     "iridium": 300
+    }
+   },
+   {
+    "name": "杨桃",
+    "price": 750,
+    "shippable": true,
+    "quality": {
+     "silver": 937,
+     "gold": 1125,
+     "iridium": 1500
+    }
+   },
+   {
+    "name": "小白菜",
+    "price": 80,
+    "shippable": true,
+    "quality": {
+     "silver": 100,
+     "gold": 120,
+     "iridium": 160
+    }
+   },
+   {
+    "name": "玫瑰仙子",
+    "price": 290,
+    "shippable": true,
+    "quality": {
+     "silver": 362,
+     "gold": 435,
+     "iridium": 580
+    }
+   },
+   {
+    "name": "苹果",
+    "price": 100,
+    "shippable": true,
+    "quality": {
+     "silver": 125,
+     "gold": 150,
+     "iridium": 200
+    }
+   },
+   {
+    "name": "杏子",
+    "price": 50,
+    "shippable": true,
+    "quality": {
+     "silver": 62,
+     "gold": 75,
+     "iridium": 100
+    }
+   },
+   {
+    "name": "橙子",
+    "price": 100,
+    "shippable": true,
+    "quality": {
+     "silver": 125,
+     "gold": 150,
+     "iridium": 200
+    }
+   },
+   {
+    "name": "桃子",
+    "price": 140,
+    "shippable": true,
+    "quality": {
+     "silver": 175,
+     "gold": 210,
+     "iridium": 280
+    }
+   },
+   {
+    "name": "石榴",
+    "price": 140,
+    "shippable": true,
+    "quality": {
+     "silver": 175,
+     "gold": 210,
+     "iridium": 280
+    }
+   },
+   {
+    "name": "樱桃",
+    "price": 80,
+    "shippable": true,
+    "quality": {
+     "silver": 100,
+     "gold": 120,
+     "iridium": 160
+    }
+   },
+   {
+    "name": "姜",
+    "price": 60,
+    "shippable": true,
+    "quality": {
+     "silver": 75,
+     "gold": 90,
+     "iridium": 120
+    }
+   },
+   {
+    "name": "菠萝",
+    "price": 300,
+    "shippable": true,
+    "quality": {
+     "silver": 375,
+     "gold": 450,
+     "iridium": 600
+    }
+   },
+   {
+    "name": "芒果",
+    "price": 130,
+    "shippable": true,
+    "quality": {
+     "silver": 162,
+     "gold": 195,
+     "iridium": 260
+    }
+   },
+   {
+    "name": "未碾米",
+    "price": 30,
+    "shippable": true,
+    "quality": {
+     "silver": 37,
+     "gold": 45,
+     "iridium": 60
+    }
+   },
+   {
+    "name": "茶叶",
+    "price": 50,
+    "shippable": true
+   }
+  ]
+ },
+ {
+  "group": "觅食",
+  "count": 28,
+  "items": [
+   {
+    "name": "野山葵",
+    "price": 50,
+    "shippable": true,
+    "quality": {
+     "silver": 62,
+     "gold": 75,
+     "iridium": 100
+    }
+   },
+   {
+    "name": "黄水仙",
+    "price": 30,
+    "shippable": true,
+    "quality": {
+     "silver": 37,
+     "gold": 45,
+     "iridium": 60
+    }
+   },
+   {
+    "name": "韭葱",
+    "price": 60,
+    "shippable": true,
+    "quality": {
+     "silver": 75,
+     "gold": 90,
+     "iridium": 120
+    }
+   },
+   {
+    "name": "蒲公英",
+    "price": 40,
+    "shippable": true,
+    "quality": {
+     "silver": 50,
+     "gold": 60,
+     "iridium": 80
+    }
+   },
+   {
+    "name": "羊肚菌",
+    "price": 150,
+    "shippable": true,
+    "quality": {
+     "silver": 187,
+     "gold": 225,
+     "iridium": 300
+    }
+   },
+   {
+    "name": "香料浆果",
+    "price": 80,
+    "shippable": true
+   },
+   {
+    "name": "甜豌豆",
+    "price": 50,
+    "shippable": true,
+    "quality": {
+     "silver": 62,
+     "gold": 75,
+     "iridium": 100
+    }
+   },
+   {
+    "name": "普通蘑菇",
+    "price": 40,
+    "shippable": true,
+    "quality": {
+     "silver": 50,
+     "gold": 60,
+     "iridium": 80
+    }
+   },
+   {
+    "name": "野李子",
+    "price": 80,
+    "shippable": true
+   },
+   {
+    "name": "榛子",
+    "price": 90,
+    "shippable": true,
+    "quality": {
+     "silver": 112,
+     "gold": 135,
+     "iridium": 180
+    }
+   },
+   {
+    "name": "黑莓",
+    "price": 20,
+    "shippable": true,
+    "quality": {
+     "silver": 25,
+     "gold": 30,
+     "iridium": 40
+    }
+   },
+   {
+    "name": "冬根",
+    "price": 70,
+    "shippable": true,
+    "quality": {
+     "silver": 87,
+     "gold": 105,
+     "iridium": 140
+    }
+   },
+   {
+    "name": "水晶果",
+    "price": 150,
+    "shippable": true,
+    "quality": {
+     "silver": 187,
+     "gold": 225,
+     "iridium": 300
+    }
+   },
+   {
+    "name": "雪山药",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "番红花",
+    "price": 60,
+    "shippable": true,
+    "quality": {
+     "silver": 75,
+     "gold": 90,
+     "iridium": 120
+    }
+   },
+   {
+    "name": "山洞萝卜",
+    "price": 25,
+    "shippable": true,
+    "quality": {
+     "silver": 31,
+     "gold": 37,
+     "iridium": 50
+    }
+   },
+   {
+    "name": "红蘑菇",
+    "price": 75,
+    "shippable": true,
+    "quality": {
+     "silver": 93,
+     "gold": 112,
+     "iridium": 150
+    }
+   },
+   {
+    "name": "紫蘑菇",
+    "price": 250,
+    "shippable": true,
+    "quality": {
+     "silver": 312,
+     "gold": 375,
+     "iridium": 500
+    }
+   },
+   {
+    "name": "蕨菜",
+    "price": 90,
+    "shippable": true,
+    "quality": {
+     "silver": 112,
+     "gold": 135,
+     "iridium": 180
+    }
+   },
+   {
+    "name": "松露",
+    "price": 625,
+    "shippable": true
+   },
+   {
+    "name": "苔藓",
+    "price": 5,
+    "shippable": true
+   },
+   {
+    "name": "骨头碎片",
+    "price": 12,
+    "shippable": true
+   },
+   {
+    "name": "鸡油菌",
+    "price": 160,
+    "shippable": true,
+    "quality": {
+     "silver": 200,
+     "gold": 240,
+     "iridium": 320
+    }
+   },
+   {
+    "name": "冬青树",
+    "price": 80,
+    "shippable": true,
+    "quality": {
+     "silver": 100,
+     "gold": 120,
+     "iridium": 160
+    }
+   },
+   {
+    "name": "美洲大树莓",
+    "price": 5,
+    "shippable": true
+   },
+   {
+    "name": "大葱",
+    "price": 8,
+    "shippable": true,
+    "quality": {
+     "silver": 10,
+     "gold": 12,
+     "iridium": 16
+    }
+   },
+   {
+    "name": "宝石甜莓",
+    "price": 3000,
+    "shippable": true,
+    "quality": {
+     "silver": 3750,
+     "gold": 4500,
+     "iridium": 6000
+    }
+   },
+   {
+    "name": "熔岩菇",
+    "price": 400,
+    "shippable": true,
+    "quality": {
+     "silver": 500,
+     "gold": 600,
+     "iridium": 800
+    }
+   }
+  ]
+ },
+ {
+  "group": "海鲜",
+  "count": 11,
+  "items": [
+   {
+    "name": "蛤",
+    "price": 50,
+    "shippable": true,
+    "quality": {
+     "silver": 62,
+     "gold": 75,
+     "iridium": 100
+    }
+   },
+   {
+    "name": "鸟蛤",
+    "price": 50,
+    "shippable": true,
+    "quality": {
+     "silver": 62,
+     "gold": 75,
+     "iridium": 100
+    }
+   },
+   {
+    "name": "海胆",
+    "price": 160,
+    "shippable": true,
+    "quality": {
+     "silver": 200,
+     "gold": 240,
+     "iridium": 320
+    }
+   },
+   {
+    "name": "珊瑚",
+    "price": 80,
+    "shippable": true,
+    "quality": {
+     "silver": 100,
+     "gold": 120,
+     "iridium": 160
+    }
+   },
+   {
+    "name": "蚌",
+    "price": 30,
+    "shippable": true,
+    "quality": {
+     "silver": 37,
+     "gold": 45,
+     "iridium": 60
+    }
+   },
+   {
+    "name": "牡蛎",
+    "price": 40,
+    "shippable": true,
+    "quality": {
+     "silver": 50,
+     "gold": 60,
+     "iridium": 80
+    }
+   },
+   {
+    "name": "海草",
+    "price": 20,
+    "shippable": true,
+    "quality": {
+     "silver": 25,
+     "gold": 30,
+     "iridium": 40
+    }
+   },
+   {
+    "name": "绿藻",
+    "price": 15,
+    "shippable": true,
+    "quality": {
+     "silver": 18,
+     "gold": 22,
+     "iridium": 30
+    }
+   },
+   {
+    "name": "白藻",
+    "price": 25,
+    "shippable": true,
+    "quality": {
+     "silver": 31,
+     "gold": 37,
+     "iridium": 50
+    }
+   },
+   {
+    "name": "鹦鹉螺",
+    "price": 120,
+    "shippable": true,
+    "quality": {
+     "silver": 150,
+     "gold": 180,
+     "iridium": 240
+    }
+   },
+   {
+    "name": "彩虹贝壳",
+    "price": 300,
+    "shippable": true,
+    "quality": {
+     "silver": 375,
+     "gold": 450,
+     "iridium": 600
+    }
+   }
+  ]
+ },
+ {
+  "group": "工匠品",
+  "count": 32,
+  "items": [
+   {
+    "name": "酒",
+    "price": 400,
+    "shippable": true
+   },
+   {
+    "name": "果汁",
+    "price": 150,
+    "shippable": true
+   },
+   {
+    "name": "果酱",
+    "price": 160,
+    "shippable": true
+   },
+   {
+    "name": "腌菜",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "蜂蜜",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "淡啤酒",
+    "price": 300,
+    "shippable": true
+   },
+   {
+    "name": "啤酒",
+    "price": 200,
+    "shippable": true
+   },
+   {
+    "name": "蜂蜜酒",
+    "price": 300,
+    "shippable": true
+   },
+   {
+    "name": "奶酪",
+    "price": 230,
+    "shippable": true
+   },
+   {
+    "name": "山羊奶酪",
+    "price": 400,
+    "shippable": true
+   },
+   {
+    "name": "蛋黄酱",
+    "price": 190,
+    "shippable": true
+   },
+   {
+    "name": "虚空蛋黄酱",
+    "price": 275,
+    "shippable": true
+   },
+   {
+    "name": "恐龙蛋黄酱",
+    "price": 800,
+    "shippable": true
+   },
+   {
+    "name": "布料",
+    "price": 470,
+    "shippable": true
+   },
+   {
+    "name": "松露油",
+    "price": 1065,
+    "shippable": true
+   },
+   {
+    "name": "油",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "鱼子",
+    "price": 30,
+    "shippable": true
+   },
+   {
+    "name": "鱼子酱",
+    "price": 500,
+    "shippable": true
+   },
+   {
+    "name": "熏鱼",
+    "price": 25,
+    "shippable": true
+   },
+   {
+    "name": "干果",
+    "price": 25,
+    "shippable": true
+   },
+   {
+    "name": "干蘑菇",
+    "price": 25,
+    "shippable": true
+   },
+   {
+    "name": "枫糖浆",
+    "price": 200,
+    "shippable": true
+   },
+   {
+    "name": "橡树树脂",
+    "price": 150,
+    "shippable": true
+   },
+   {
+    "name": "松焦油",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "面粉",
+    "price": 50,
+    "shippable": true
+   },
+   {
+    "name": "鸭蛋黄酱",
+    "price": 375,
+    "shippable": true
+   },
+   {
+    "name": "绿茶",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "腌鱼籽",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "鱿鱼墨汁",
+    "price": 110,
+    "shippable": true
+   },
+   {
+    "name": "神秘糖浆",
+    "price": 1000,
+    "shippable": true
+   },
+   {
+    "name": "葡萄干",
+    "price": 600,
+    "shippable": true
+   },
+   {
+    "name": "树液",
+    "price": 2,
+    "shippable": true
+   }
+  ]
+ },
+ {
+  "group": "动物制品",
+  "count": 16,
+  "items": [
+   {
+    "name": "蛋",
+    "price": 50,
+    "shippable": true,
+    "quality": {
+     "silver": 62,
+     "gold": 75,
+     "iridium": 100
+    }
+   },
+   {
+    "name": "大鸡蛋",
+    "price": 95,
+    "shippable": true,
+    "quality": {
+     "silver": 118,
+     "gold": 142,
+     "iridium": 190
+    }
+   },
+   {
+    "name": "棕色蛋",
+    "price": 50,
+    "shippable": true
+   },
+   {
+    "name": "棕色大鸡蛋",
+    "price": 95,
+    "shippable": true
+   },
+   {
+    "name": "鸭蛋",
+    "price": 95,
+    "shippable": true,
+    "quality": {
+     "silver": 118,
+     "gold": 142,
+     "iridium": 190
+    }
+   },
+   {
+    "name": "鸭毛",
+    "price": 250,
+    "shippable": true
+   },
+   {
+    "name": "牛奶",
+    "price": 125,
+    "shippable": true,
+    "quality": {
+     "silver": 156,
+     "gold": 187,
+     "iridium": 250
+    }
+   },
+   {
+    "name": "大牛奶",
+    "price": 190,
+    "shippable": true
+   },
+   {
+    "name": "羊奶",
+    "price": 225,
+    "shippable": true,
+    "quality": {
+     "silver": 281,
+     "gold": 337,
+     "iridium": 450
+    }
+   },
+   {
+    "name": "大羊奶",
+    "price": 345,
+    "shippable": true
+   },
+   {
+    "name": "羊毛",
+    "price": 340,
+    "shippable": true
+   },
+   {
+    "name": "兔子的脚",
+    "price": 565,
+    "shippable": true
+   },
+   {
+    "name": "鸵鸟蛋",
+    "price": 600,
+    "shippable": true,
+    "quality": {
+     "silver": 750,
+     "gold": 900,
+     "iridium": 1200
+    }
+   },
+   {
+    "name": "恐龙蛋",
+    "price": 350,
+    "shippable": true,
+    "quality": {
+     "silver": 437,
+     "gold": 525,
+     "iridium": 700
+    }
+   },
+   {
+    "name": "金蛋",
+    "price": 500,
+    "shippable": true,
+    "quality": {
+     "silver": 625,
+     "gold": 750,
+     "iridium": 1000
+    }
+   },
+   {
+    "name": "虚空蛋",
+    "price": 65,
+    "shippable": true,
+    "quality": {
+     "silver": 81,
+     "gold": 97,
+     "iridium": 130
+    }
+   }
+  ]
+ },
+ {
+  "group": "矿物宝石",
+  "count": 25,
+  "items": [
+   {
+    "name": "钻石",
+    "price": 750,
+    "shippable": true
+   },
+   {
+    "name": "紫水晶",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "海蓝宝石",
+    "price": 180,
+    "shippable": true
+   },
+   {
+    "name": "绿宝石",
+    "price": 250,
+    "shippable": true
+   },
+   {
+    "name": "红宝石",
+    "price": 250,
+    "shippable": true
+   },
+   {
+    "name": "黑方石",
+    "price": 300,
+    "shippable": true
+   },
+   {
+    "name": "翡翠",
+    "price": 200,
+    "shippable": true
+   },
+   {
+    "name": "黄水晶",
+    "price": 80,
+    "shippable": true
+   },
+   {
+    "name": "泪晶",
+    "price": 75,
+    "shippable": true
+   },
+   {
+    "name": "黑曜石",
+    "price": 200,
+    "shippable": true
+   },
+   {
+    "name": "精炼石英",
+    "price": 50,
+    "shippable": true
+   },
+   {
+    "name": "铜锭",
+    "price": 60,
+    "shippable": true
+   },
+   {
+    "name": "铁锭",
+    "price": 120,
+    "shippable": true
+   },
+   {
+    "name": "金锭",
+    "price": 250,
+    "shippable": true
+   },
+   {
+    "name": "铱锭",
+    "price": 1000,
+    "shippable": true
+   },
+   {
+    "name": "五彩碎片",
+    "price": 2000,
+    "shippable": true
+   },
+   {
+    "name": "粘土",
+    "price": 20,
+    "shippable": true
+   },
+   {
+    "name": "铜矿石",
+    "price": 5,
+    "shippable": true
+   },
+   {
+    "name": "铁矿石",
+    "price": 10,
+    "shippable": true
+   },
+   {
+    "name": "煤炭",
+    "price": 15,
+    "shippable": true
+   },
+   {
+    "name": "黄金矿石",
+    "price": 25,
+    "shippable": true
+   },
+   {
+    "name": "铱矿石",
+    "price": 100,
+    "shippable": true
+   },
+   {
+    "name": "火山晶石",
+    "price": 50,
+    "shippable": true
+   },
+   {
+    "name": "放射性矿石",
+    "price": 300,
+    "shippable": true
+   },
+   {
+    "name": "放射性矿锭",
+    "price": 3000,
+    "shippable": true
+   }
+  ]
+ },
+ {
+  "group": "其他",
+  "count": 16,
+  "items": [
+   {
+    "name": "金色南瓜",
+    "price": 2500,
+    "shippable": true
+   },
+   {
+    "name": "电池组",
+    "price": 500,
+    "shippable": true
+   },
+   {
+    "name": "星之果实",
+    "price": 0,
+    "shippable": false
+   },
+   {
+    "name": "古代种子",
+    "price": 5,
+    "shippable": true
+   },
+   {
+    "name": "神秘盒",
+    "price": 0,
+    "shippable": false
+   },
+   {
+    "name": "金色神秘盒",
+    "price": 0,
+    "shippable": false
+   },
+   {
+    "name": "珍珠",
+    "price": 2500,
+    "shippable": true
+   },
+   {
+    "name": "木材",
+    "price": 2,
+    "shippable": true
+   },
+   {
+    "name": "石头",
+    "price": 2,
+    "shippable": true
+   },
+   {
+    "name": "虫肉",
+    "price": 8,
+    "shippable": true
+   },
+   {
+    "name": "硬木",
+    "price": 15,
+    "shippable": true
+   },
+   {
+    "name": "史莱姆泥",
+    "price": 5,
+    "shippable": true
+   },
+   {
+    "name": "蝙蝠翅膀",
+    "price": 15,
+    "shippable": true
+   },
+   {
+    "name": "太阳精华",
+    "price": 40,
+    "shippable": true
+   },
+   {
+    "name": "虚空精华",
+    "price": 50,
+    "shippable": true
+   },
+   {
+    "name": "纤维",
+    "price": 1,
+    "shippable": true,
+    "quality": {
+     "silver": 1,
+     "gold": 1,
+     "iridium": 2
+    }
+   }
+  ]
+ }
+]

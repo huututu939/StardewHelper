@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  v2.50 D1：updatePeriodMillis 由 1800000（30 分钟，系统允许的最小值）放宽到 21600000（6 小时）。
+
+  WidgetRender.buildSnapshot 里唯一来自系统时钟的字段只有「现实 M月d日」；游戏日本身读的是
+  widget_prefs 镜像，由 App 内「调整游戏日期」滚轮经 PrefsRepo.setDate 写进 DataStore，
+  MainActivity 的 snapshot.collect 在同一进程内连着调 WidgetPrefs.sync + WidgetUpdater.refresh，
+  延迟是毫秒级，与轮询周期无关。30 分钟一轮换来的是每天 48 次进程唤醒去重渲染几乎不变的内容；
+  放宽到 6 小时后每天 4 次，06:00 闹钟仍每日兜底刷一次。
+
+  三个规格必须同值，且不得低于 30 分钟（低于会被系统静默钳制，源码里的数字就成了谎言）。
+  断言见 tools/verify_v214.py 第 43 节。
+
+  ⚠ 注释只能放在根元素**之前**：放在根元素的属性列表中间，AAPT2 会报
+    「元素类型 appwidget-provider 必须以相应的结束标记结尾」而编译失败。
+-->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:minWidth="180dp"
+    android:minHeight="50dp"
+    android:targetCellWidth="4"
+    android:targetCellHeight="1"
+    android:updatePeriodMillis="21600000"
+    android:initialLayout="@layout/widget_today"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen" />

@@ -1,0 +1,114 @@
+[
+ {
+  "id": "cc",
+  "name": "社区中心整修",
+  "req": "完成全部收集包（或 Joja 路线买齐）",
+  "cost": "收集包 26 个 / Joja 约 135,000g",
+  "after": "社区中心开放、皮埃尔天天开、Joja 永久关闭",
+  "checkKey": "bundles_all"
+ },
+ {
+  "id": "movie_theater",
+  "name": "电影院（废弃 Joja 超市改建）",
+  "req": "社区中心整修完成后的第一个雨天/雷雨前一天晚上睡觉触发过场，进废弃 Joja 超市拿「失踪的收集包」；或走 Joja 路，完成全部 Joja 社区升级",
+  "cost": "Joja 路：500,000g；两条路都要交齐失踪的收集包",
+  "after": "电影票 1,000g/张，每周一部 2 年一轮换；带村民同看，爱看的电影 +200 好感；节庆日不开放",
+  "checkKey": "movie_theater"
+ },
+ {
+  "id": "sewer",
+  "name": "下水道（生锈的钥匙）",
+  "req": "博物馆捐赠 60 件（古物或矿物）",
+  "cost": "",
+  "after": "科罗布斯、铱制洒水器、史莱姆鱼",
+  "checkKey": "museum60"
+ },
+ {
+  "id": "desert",
+  "name": "沙漠（巴士修复）",
+  "req": "完成金库收集包（暂未收录，可手动勾选） 或 Joja 买「公共汽车」",
+  "cost": "Joja 40,000g",
+  "after": "绿洲、沙漠商人、赌场区域",
+  "checkKey": "bundle_vault"
+ },
+ {
+  "id": "greenhouse",
+  "name": "温室",
+  "req": "完成茶水间收集包 或 Joja 修理",
+  "cost": "Joja 35,000g",
+  "after": "四季种植、无需稻草人（雨天仍要浇水）",
+  "checkKey": "bundle_pantry"
+ },
+ {
+  "id": "minecart",
+  "name": "矿车",
+  "req": "完成锅炉房收集包 或 Joja 买「矿车」",
+  "cost": "Joja 15,000g",
+  "after": "快速旅行（采石场需再修桥）",
+  "checkKey": "bundle_boiler"
+ },
+ {
+  "id": "quarry",
+  "name": "采石场（矿车终点）",
+  "req": "完成工艺室收集包 或 Joja 修桥",
+  "cost": "Joja 25,000g",
+  "after": "采石场",
+  "checkKey": "bundle_crafts"
+ },
+ {
+  "id": "skull",
+  "name": "骷髅洞穴（头骨钥匙）",
+  "req": "矿井 120 层宝箱免费取得头骨钥匙（骷髅洞穴入口在沙漠西北）",
+  "cost": "免费（120 层宝箱）",
+  "after": "铱矿高概率层、齐先生的挑战（25 层奖 10,000g）；头骨钥匙也在核桃房花 100 万g 重买（丢了的话）",
+  "checkKey": "skull_key"
+ },
+ {
+  "id": "casino",
+  "name": "赌场（神秘的齐）",
+  "req": "完成任务「神秘的齐」",
+  "cost": "",
+  "after": "老虎机、齐钻",
+  "checkKey": "quest_mysterious_qi"
+ },
+ {
+  "id": "island",
+  "name": "姜岛（威利的船）",
+  "req": "社区中心修复 → 威利来信 → 修船",
+  "cost": "200 硬木 + 5 电池组 + 5 铱锭；船票 1,000g",
+  "after": "姜岛全境、鹦鹉特快",
+  "checkKey": "island_boat"
+ },
+ {
+  "id": "island_trader",
+  "name": "姜岛商人",
+  "req": "解锁姜岛农舍 + 10 个金色核桃（砸开过金色椰子）",
+  "cost": "10 核桃",
+  "after": "每周轮换货（小帽子/蓝鸟面具等）",
+  "checkKey": "island_trader"
+ },
+ {
+  "id": "horse",
+  "name": "马（马厩）",
+  "req": "木匠的商店建马厩",
+  "cost": "见建筑页马厩造价",
+  "after": "骑马、马笛",
+  "checkKey": "stable"
+ },
+ {
+  "id": "bus_stop",
+  "name": "旅行货车",
+  "req": "无门槛，只在周五、周日 06:00–20:00 出现在煤矿森林",
+  "cost": "",
+  "after": "非当季商品、可补收集包",
+  "checkKey": "travelling_cart"
+ },
+ {
+  "id": "buoys",
+  "name": "浮标样式全解锁",
+  "req": "每钓到 2 种新鱼解锁下一个",
+  "cost": "",
+  "after": "全部浮标（除默认外按图鉴内全部鱼种解锁）",
+  "checkKey": "buoys_all"
+ }
+]

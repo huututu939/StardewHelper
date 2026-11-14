@@ -1,0 +1,492 @@
+{{Infobox villager
+|portrait  = Clint.png
+|birthday  = {{Season|Winter|26}}
+|location  = 鹈鹕镇
+|address   = [[铁匠铺]]
+|friends   = {{NPC|Emily}}
+|marriage  = 否
+|clinic    = {{Season|Winter|16}}
+|favorites={{Name|Amethyst}}{{Name|Aquamarine}}{{Name|Artichoke Dip}}{{Name|Emerald}}{{Name|Fiddlehead Risotto}}{{Name|Gold Bar}}{{Name|Iridium Bar}}{{Name|Jade}}{{Name|Omni Geode}}{{Name|Ruby}}{{Name|Topaz}}
+}}
+{{Quote|在户外工作可比整天在热腾腾的大火炉旁边好多了。我当这个铁匠都是因为我爸爸非要让我当啊。|克林特}}
+
+'''克林特'''是[[鹈鹕镇]]的一位[[居民]]。他经营着本地的[[铁匠铺]]。
+
+==日程表==
+在重建[[社区中心]]后，克林特每个星期五都会离开铁匠铺，从而无法让玩家购物，升级工具或是破开晶石，除非星期五下雨。
+
+[[姜岛#海滩度假村|姜岛的海滩度假村]]解锁后，克林特有时会在星期五去那儿度假。下午6点离开姜岛后，克林特会立即回家上床睡觉。克林特不会在冬季16日（他的体检日）或节日当天去姜岛。
+
+以下是克林特的日程安排，优先度从高到低排序。例如，如果当天下雨，雨天的时间表会比它下方的优先级更高。
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季16日（巴士站已修复）
+|-
+|style="width:15%"| 11:20 ||乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+| 11:40 ||站在[[绿洲]]的东侧。
+|-
+| 01:30 ||乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"| 11:10 ||乘坐巴士前往[[沙漠]]。
+|-
+| 11:30 ||到达他的[[沙漠节#村民商铺|商店摊位]]。
+|-
+| 00:00 ||离开摊位并乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|冬季15日
+|-
+|style="width:15%"| 08:50 ||在[[铁匠铺]]的柜台后面。
+|-
+| 17:00 ||离开铁匠铺，参加[[夜市]]。
+|-
+| 00:00 ||回铁匠铺睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|冬季16日
+|-
+|style="width:15%"| 09:00 ||在[[铁匠铺]]的柜台后面。
+|-
+| 10:30 ||离开[[铁匠铺]]前往[[哈维的诊所|诊所]]，到达后在候诊室等候。
+|-
+| 13:30 ||在左侧的检查室做年度体检。
+|-
+| 16:00 ||离开[[哈维的诊所|诊所]]，前往[[星之果实酒吧]]。
+|-
+| 00:00 ||回铁匠铺睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"| 06:00 ||离开[[铁匠铺]]前往[[星之果实酒吧]]。
+|-
+| 07:20 ||在[[星之果实酒吧]]内。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|雨天
+|-
+|style="width:15%"| 09:00 ||在[[铁匠铺]]的柜台后面。
+|-
+| 17:00 ||到铁砧旁工作。
+|-
+| 19:00 ||离开[[铁匠铺]]前往[[星之果实酒吧]]。
+|-
+| 00:00 ||离开[[星之果实酒吧]]，回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期五（社区中心已修复）
+|-
+|style="width:15%"| 08:50 ||出门到[[社区中心]]的锅炉房去。
+|-
+| 17:00 ||离开[[社区中心]]前往[[星之果实酒吧]]。
+|-
+| 00:00 ||离开[[星之果实酒吧]]，回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|日常时间表
+|-
+|style="width:15%"| 09:00 ||在[[铁匠铺]]的柜台后面。
+|-
+| 17:00 ||到铁砧旁工作。
+|-
+| 19:00 ||离开[[铁匠铺]]前往[[星之果实酒吧]]。
+|-
+| 20:20 ||到达[[星之果实酒吧]]。
+|-
+| 00:00 ||离开[[星之果实酒吧]]，回家睡觉。
+|-
+|}
+
+==人际关系==
+克林特是[[星之果实酒吧]]的常客。然而醉翁之意不在酒，他喜欢[[艾米丽]]，希望以此为机会接近在酒吧工作的艾米丽。[[格斯]]对此有所察觉，但没有戳破。
+
+克林特的房间里面的一封信点明了这一点。信上写着：
+
+{{Squote|亲爱的艾米丽，
+我知道你只是把我当成朋友而已。
+
+这是我的错。我太害羞了。我始终无法鼓起勇气向你说实话。
+
+这就是为什么我要给自己写这封信，而且写完后我一定会把这信给揉成一团然后扔到墙角。}}
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|没错！我一直在找的就是这个！}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Clint Happy.png|48px|center]]
+|colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Amethyst.png|center]]
+|[[紫水晶]]
+|{{Description|Amethyst}}
+|[[采矿]] - [[矿井]]
+|
+|-
+|[[File:Aquamarine.png|center]]
+|[[海蓝宝石]]
+|{{Description|Aquamarine}}
+|[[采矿]] - [[矿井]]
+|
+|-
+|[[File:Artichoke Dip.png|center]]
+|[[水煮洋蓟]]
+|{{Description|Artichoke Dip}}
+|[[烹饪]]
+|{{Name|Artichoke|1}}{{Name|Milk|1}}
+|-
+|[[File:Emerald.png|center]]
+|[[绿宝石]]
+|{{Description|Emerald}}
+|[[采矿]] - [[矿井]]
+|
+|-
+|[[File:Fiddlehead Risotto.png|center]]
+|[[意式蕨菜炖饭]]
+|{{Description|Fiddlehead Risotto}}
+|[[烹饪]]
+|{{Name|Oil|1}}{{Name|Fiddlehead Fern|1}}{{Name|Garlic|1}}
+|-
+|[[File:Gold Bar.png|center]]
+|[[金锭]]
+|{{Description|Gold Bar}}
+|[[熔炉]]
+|{{Name|Gold Ore|5}}{{Name|Coal|1}}
+|-
+|[[File:Iridium Bar.png|center]]
+|[[铱锭]]
+|{{Description|Iridium Bar}}
+|[[熔炉]]
+|{{Name|Iridium Ore|5}}{{Name|Coal|1}}
+|-
+|[[File:Jade.png|center]]
+|[[翡翠]]
+|{{Description|Jade}}
+|[[采矿]] - [[矿井]]
+|
+|-
+|[[File:Omni Geode.png|center]]
+|[[万象晶球]]
+|{{Description|Omni Geode}}
+|[[采矿]] - [[矿井]]
+|
+|-
+|[[File:Ruby.png|center]]
+|[[红宝石]]
+|{{Description|Ruby}}
+|[[采矿]] - [[矿井]]
+|
+|-
+|[[File:Topaz.png|center]]
+|[[黄水晶]]
+|{{Description|Topaz}}
+|[[采矿]] - [[矿井]]
+|
+|}
+
+===喜欢===
+{{Squote|有趣的礼物。谢谢！}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Clint Happy.png|48px|center]]
+|colspan="4"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[花]]）</li></ul>
+|-
+|[[File:Copper Bar.png|center]]
+|[[铜锭]]
+|{{Description|Copper Bar}}
+|[[熔炉]]
+|{{Name|Copper Ore|5}}{{Name|Coal|1}}
+|-
+|[[File:Iron Bar.png|center]]
+|[[铁锭]]
+|{{Description|Iron Bar}}
+|[[熔炉]]
+|{{Name|Iron Ore|5}}{{Name|Coal|1}}
+|-
+|[[File:Mining Monthly.png|center]]
+|[[采矿月刊]]
+|{{Description|Mining Monthly}}
+|[[书]]
+|
+|}
+
+===一般===
+{{Squote|谢谢你啊。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Clint.png|48px|center]]
+|colspan="4"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[采矿月刊]]）</li><li>'''所有蛋类'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树的水果]]和[[美洲大树莓]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Coal.png|center]]
+|[[煤炭]]
+|{{Description|Coal}}
+|[[采矿]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Gold Ore.png|center]]
+|[[黄金矿石]]
+|{{Description|Gold Ore}}
+|[[采矿]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Iridium Ore.png|center]]
+|[[铱矿石]]
+|{{Description|Iridium Ore}}
+|[[采矿]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Refined Quartz.png|center]]
+|[[精炼石英]]
+|{{Description|Refined Quartz}}
+|[[采集]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+<nowiki>*</nowiki>''注意[[恐龙蛋]]在送礼时被视为[[古物]]而不是蛋类。''
+
+===不喜欢===
+{{Squote|*唉*……}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Clint Concerned.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[煤炭]]、[[铜锭]]、[[金锭]]、[[铁锭]]、[[铱锭]]、[[铱矿石]]、[[铁矿石]]、[[万象晶球]]、[[精炼石英]]）</li><li>'''所有[[花]]'''（除了[[虞美人花]]）</li></ul>
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|}
+
+===讨厌===
+{{Squote|这让我很失望。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Clint Concerned.png|48px|center]]
+|colspan="4"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]] 
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物|{{MailByType|礼物}}
+|三心|{{Snippets|元素|小标题|醉翁之意}}
+{{Event
+ |hearts  = 3
+ |trigger = 在星期一晚上7点到11点之间前往[[星之果实酒吧]]。
+ |details = 克林特说他没有什么女人缘，但和他打过交道的人，都知道他是个好人，于是他向你询问受女孩喜欢的秘诀，希望你给他提提建议。
+* {{choice|靠你的能力和魅力打动女性。|25}} 他会回答, "好的……我记住了。"
+* {{choice|做些疯狂的事情，让别人猜不透你。|25}} 他会回答, "好的……我记住了。"
+* {{choice|表现得正常一点儿……做你自己就好。|0}} 他会回答, "我很自然……但还是失败了。"
+* {{choice|把女人当男人一样对待。|50}} 他会回答, "好吧……我记着点。"
+<br />这时艾米丽走过来问克林特：''“嗨，克林特，今晚想来点儿什么？”''
+<br />克林特一惊：''“正确！”''（尴尬的沉默）''“呃……我是说，请给我来个大份儿干酪。再多浇一份酱汁。”''
+<br />艾米丽向你问好，克林特：“''额……*清嗓子*谢……谢谢，艾米丽。谢谢你……给我点单。那个，艾米丽？我……*吞口水*我在想……''”
+<br />艾米丽：“''克林特，怎么了？''”
+<br />克林特：“''…… 算了，没什么。''”
+<br />'''于是艾米丽走开了，到一旁为谢恩点单，与他聊天还问他有没有新的小鸡故事。'''
+<br />克林特垂头丧气：“''唉。我没救了……''”
+ |quote = 我没救了……
+ |dialogues = {{EventByID|97}}
+}}
+
+{{Snippets|元素|小标题|食谱分享}}
+{{MailByType|食谱|3|Algae Soup}}
+|六心|<nowiki/>
+{{Event
+ |hearts  = 6
+ |trigger = 早上9:00到下午6:30之间，从[[煤矿森林]]进入[[鹈鹕镇]]时触发。需要已经触发他的[[#3心事件|3心事件]]才能触发本事件。
+
+注意：一旦你和[[艾米丽]]结婚, 或是触发了她的[[艾米丽#8心事件|8心事件]]或[[艾米丽#10心事件|10心事件]]，这个事件将永不发生。
+ |details ='''你发现克林特躲在灌木丛里偷窥艾米丽。'''
+<br />克林特：“''……你抓住我了。我本来计划和艾米丽约会。我站在她的门阶上，所有……但是接下来我听到她来了就躲进了这个灌木丛中。现在我就等着她跟卡洛琳聊完，这样我就能偷偷回家了。''”
+<br />克林特：“''你刚刚说什么？如果我不约她出去你就再也不升级你的工具了？”(停顿)“你真是个坏蛋，*唉*……好吧, 我约。''”
+<br />'''于是他靠近艾米丽想和她单独聊聊，艾米丽请[[卡洛琳]]稍等一会。'''
+<br />艾米丽：“''克林特，怎么了？''”
+<br />克林特：“''不知道你……明天……有没有……空……和……我一起……*咽口水*”(停顿)“我有两张明天嘉年华的票。你……可以跟我一起去吗？''”
+<br />艾米丽：“''当然，克林特！那听起来太棒了！''”
+<br />克林特：“''真的吗？好！我5点来接你。''”
+<br />克林特之后喜欲狂般地向你炫耀：“''看到了么？！我明晚有约会了！妈呀……我太紧张了。多谢你刚刚逼我这么做。我好害怕，但是又好开心。''”
+ |quote = 妈呀……我好紧张。
+ |dialogues = {{EventByID|101}}
+}}
+|七心|{{MailByType|食谱|7|Bean Hotpot}}
+}}
+
+==对话和提问==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|特殊|{{Dialogue|特殊}}
+|提问|{{Dialogue|提问}}
+}}
+
+==任务==
+*任务[[任务#Forging Ahead|“开始铸造”]]: 在你收集到第一个[[铜矿石]]后的早晨，克林特会拜访你并给你一个用于[[打造]][[熔炉]]的蓝图。
+*任务[[任务#Clints Attempt|“克林特的努力”]]: 克林特会在[[冬季]]6日给你寄一封信，要求你给[[艾米丽]]一颗[[紫水晶]]，并告诉她这是他送的。 奖励是与[[艾米丽]]的1心[[友谊#好感度机制|好感度]]。
+*任务[[任务#A Favor For Clint|“克林特的小忙”]]: 克林特会在[[冬季]]17日给你寄一封信，让你给他带一块[[铁锭]]。 奖励是{{Price|500}}以及1心[[友谊#好感度机制|好感度]]。
+*克林特可能会随机地在[[皮埃尔的杂货店]]外的告示板上发布需求收集矿石或者[[煤炭]]的任务。奖励是一定数量的金币，根据请求的物品/数量不同而不同。 
+**注意，你并不需要在你的背包中放有矿石或者[[煤炭]]来完成任务。收集到所需物品后，只要和克林特对话就能完成任务。把任何数量的矿石或是煤炭交给他会被视作将其中的一个作为礼物送给克林特。
+*克林特可能会随机在[[皮埃尔的杂货店]]外面的布告栏上发布[[任务#求助任务|求助任务]]，请求玩家杀死一定数量的怪物或带给他某个随机物品。杀死怪兽的奖励是一定数量的金币，根据怪兽种类和数量变动。运送物品的奖励为3倍普通品质需求物品的价格以及150点[[友谊|好感度]]。
+*特别任务[[任务#洞穴巡查|"洞穴巡查"]]：在[[镇长的庄园]]前的[[任务#鹈鹕镇的特别任务|特别任务板]]上，克林特可能随机要求玩家击杀[[蝙蝠]]、[[灰尘精灵]]、[[骷髅]]或[[蛆]]的其中一种，数量为50只。奖励是{{Price|6000}}和[[晶球破开器]]配方。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Clint.png
+File:Clint Happy.png
+File:Clint Concerned.png
+File:Clint Surprised.png
+File:Clint Annoyed.png
+File:Clint Joja Cola.png
+File:Clint Dress Up.png
+File:Clint Dress Up 2.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Clint Winter 00.png
+File:Clint Winter 01.png
+File:Clint Winter 02.png
+File:Clint Winter 04.png
+File:Clint Winter 03.png
+File:Clint Winter 05.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Clint Beach.png
+File:Clint Beach Happy.png
+File:Clint Beach Concerned.png
+File:Clint Beach Annoyed.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==你知道吗==
+*克林特房间里一个音响中的磁带表明他是个蓝调音乐迷。
+*克林特握着Joja可乐的图片中，只画了4根手指。其他星露谷中的各个角色（除亚历克斯）在可以看见手的时候都画了5根手指。
+*克林特的7心食谱是豆类火锅，而艾米丽在冬天会问玩家会不会做豆类火锅。这可能说明克林特曾向艾米丽推荐过这道菜，或是为了艾米丽而学。
+*开发者ConcernedApe曾提到过，克林特的年龄是30-40岁左右。([https://www.reddit.com/r/StardewValley/comments/q804ir/ source]).
+*克林特的围裙可以裁制出来，用1个[[布料]]和1个[[意式蕨菜炖饭]]制作[[裁缝#上衣|铁匠围裙]]即可。
+
+==历史==
+{{History|1.4|修复了达到 3 心好感度后克林特会寄送所有食谱的问题。修复了在骑马进入鹈鹕镇时不会触发[[#6心事件| 6 心事件]]的问题。修复了矿石收集任务中的漏洞。}}
+{{History|1.5|新增了克林特在海滩度假村时的肖像。}}
+{{History|1.6|增加收到特定礼物时的对话。新增冬季肖像。}}
+
+{{NavboxVillagers}}
+
+[[Category:NPC]]
+
+{{EN|Clint}}

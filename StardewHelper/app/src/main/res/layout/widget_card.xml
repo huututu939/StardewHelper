@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 今日小组件 v2.6.1（2×2 方卡）：fusion_pixel 字体 + 季节文字色 + 进度条。
+     v2.136.0：深木色外框移除（用户反馈边框突兀），衬底改纯白（代码设置），只留内容。 -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/w_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- 外层容器（v2.136.0 起不再画框：padding 与木色背景已移除） -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/w_inner"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:padding="8dp"
+            android:background="#FFFFFF">
+
+            <!-- v2.89.0：标题行右边加「▸ 明天」按钮（点一下把日期往后推一天） -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:id="@+id/w_title"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:textSize="15sp"
+                    android:textColor="#33421A"
+                    android:maxLines="1"
+                    android:ellipsize="end"
+                    android:shadowColor="#50000000"
+                    android:shadowDy="1"
+                    android:fontFamily="@font/fusion_pixel" />
+
+                <!-- c224：热区 38×15dp 太小（触控指南 48×48dp），padding+min 撑到 ≈54×28 -->
+                <TextView
+                    android:id="@+id/w_next"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="4dp"
+                    android:minWidth="44dp"
+                    android:minHeight="28dp"
+                    android:gravity="center"
+                    android:paddingStart="10dp"
+                    android:paddingEnd="10dp"
+                    android:paddingTop="6dp"
+                    android:paddingBottom="6dp"
+                    android:background="#33000000"
+                    android:textSize="11sp"
+                    android:fontFamily="@font/fusion_pixel" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/w_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:textSize="10sp"
+                android:textColor="#6B7E42"
+                android:fontFamily="@font/fusion_pixel" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="2dp"
+                android:layout_marginTop="4dp"
+                android:layout_marginBottom="4dp"
+                android:background="#33000000" />
+
+            <TextView
+                android:id="@+id/w_line1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="1dp"
+                android:textSize="13sp"
+                android:maxLines="2"
+                android:ellipsize="end"
+                android:fontFamily="@font/fusion_pixel" />
+
+            <!-- 季节进度（大格条） -->
+            <LinearLayout
+                android:id="@+id/w_progress_row"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="6dp"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/w_progress_bar"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="15sp"
+                    android:letterSpacing="0.05"
+                    android:fontFamily="@font/fusion_pixel" />
+
+                <TextView
+                    android:id="@+id/w_progress_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="2dp"
+                    android:textSize="10sp"
+                    android:fontFamily="@font/fusion_pixel" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

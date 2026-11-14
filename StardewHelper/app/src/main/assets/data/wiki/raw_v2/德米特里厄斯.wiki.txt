@@ -1,0 +1,691 @@
+{{Infobox villager
+|portrait  = Demetrius.png
+|birthday  = {{Season|Summer|19}}
+|location  = 深山
+|address   = [[木匠的商店|山路24号]]
+|family    = {{NPC|Robin|妻子}}{{NPC|Maru|女儿}}{{NPC|Sebastian|继子}}
+|marriage  = 否
+|clinic    = {{Season|Summer}} 25日
+|favorites = {{Name|Bean Hotpot}}{{Name|Ice Cream}}{{Name|Rice Pudding}}{{Name|Strawberry}}
+}}
+{{Quote|我在家里的实验室里研究当地的动植物。你看到我的女儿玛鲁了吗？她很想见见你。|德米特里厄斯}}
+'''德米特里厄斯'''是星露谷的[[居民]]。他和妻子[[罗宾]]、女儿[[玛鲁]]、继子[[塞巴斯蒂安]]一起住在[[木匠的商店|山路24号]]。
+
+德米特里厄斯是一个研究谷中野生动物的科学家。经常能发现他在他的实验室中或在野外工作。
+
+==日程表==
+[[姜岛]]海滩度假村修复后，德米特里厄斯偶尔会去度个假，直到下午6点离开回家睡觉，德米特里厄斯不会在他体检日（夏季25日）和节日当天去度假。
+
+下面显示的是德米特里厄斯在每个季节中优先级从高到低的日程表。例如，如果下雨，那么此日程就将覆盖其下的所有日程。
+
+{{ScheduleHeader|Spring}}
+|-
+|
+'''春季16日（巴士站已修复）'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|11:30
+|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+|11:40
+|站在厨师处。
+|-
+|01:20
+|乘坐巴士返回星露谷。
+|}
+
+'''沙漠节（作为商店摊主）'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|11:10
+|乘坐巴士前往[[沙漠]]。
+|-
+|11:30
+|到达他的[[沙漠节#村民商铺|商店摊位]]。
+|-
+|00:00
+|离开摊位并乘坐巴士返回星露谷。
+|}
+
+'''雨天'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室中看报纸。
+|-
+|11:00
+|在实验室显微镜下做笔记。
+|-
+|15:00
+|站在[[木匠的商店]]柜台后面，接近罗宾。
+|-
+|15:40
+|回到实验室显微镜下做笔记。
+|-
+|18:00
+|走进厨房，站在冰箱前。
+|-
+|19:20
+|站在厨房的火炉前。
+|-
+|20:00
+|来到自己的卧室，站在书架旁。
+|-
+|22:00
+|上床睡觉。
+|}
+
+'''星期五'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室显微镜下做笔记。
+|-
+|16:00
+|前往[[星之果实酒吧]]。
+|-
+|17:50
+|位于[[星之果实酒吧]]，站在[[罗宾]]旁边。
+|-
+|19:20
+|在酒吧和[[罗宾]]跳舞。
+|-
+|21:00
+|离开酒吧，回家睡觉。
+|}
+
+'''日常时间表'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，站在厨房的水槽前。
+|-
+|11:00
+|实验室显微镜下做笔记。
+|-
+|14:30
+|出门，站在[[木匠的商店]]车库旁边的盆栽附近。
+|-
+|15:30
+|站在[[木匠的商店]]东南方向的悬崖边。
+|-
+|19:00
+|回到家里，走进厨房，站在冰箱前。
+|-
+|20:40
+|站在厨房的火炉前。
+|-
+|21:00
+|来到自己的卧室，站在书架旁。
+|-
+|22:30
+|上床睡觉。
+|}
+|}
+{{ScheduleHeader|Summer}}
+|-
+|
+'''绿雨（第一年）'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|全天
+|站在[[木匠的商店]]东边附近的灌木丛中采集样本。
+|}
+
+'''夏季25日'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|08:40
+|离开[[木匠的商店|家]]，前往[[哈维的诊所]]。
+|-
+|13:30
+|走到诊所左侧的检查室。
+|-
+|16:00
+|离开诊所回家，站在他卧室的书架旁边。
+|-
+|22:00
+|上床睡觉。
+|}
+
+'''雨天'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室中看报纸。
+|-
+|11:00
+|在实验室显微镜下做笔记。
+|-
+|15:00
+|站在[[木匠的商店]]柜台后面，接近罗宾。
+|-
+|15:40
+|回到实验室显微镜下做笔记。
+|-
+|18:00
+|走进厨房，站在冰箱前。
+|-
+|19:20
+|站在厨房的火炉前。
+|-
+|20:00
+|来到自己的卧室，站在书架旁。
+|-
+|22:00
+|上床睡觉。
+|}
+
+'''星期五'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室显微镜下做笔记。
+|-
+|16:00
+|前往[[星之果实酒吧]]。
+|-
+|17:50
+|位于[[星之果实酒吧]]，站在[[罗宾]]旁边。
+|-
+|19:20
+|在酒吧和[[罗宾]]跳舞。
+|-
+|21:00
+|离开酒吧，回家睡觉。
+|-
+|22:40
+|和[[罗宾]]一起到家。
+|}
+
+'''日常时间表'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，站在厨房的水槽前。
+|-
+|11:00
+|前往[[社区中心]]西侧的喷泉。
+|-
+|19:00
+|回到家里，走进厨房，站在冰箱前。
+|-
+|20:40
+|站在厨房的火炉前。
+|-
+|21:00
+|来到自己的卧室，站在书架旁。
+|-
+|22:30
+|上床睡觉。
+|}
+|}
+{{ScheduleHeader|Fall}}
+|-
+|
+'''雨天'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室中看报纸。
+|-
+|11:00
+|在实验室显微镜下做笔记。
+|-
+|15:00
+|站在[[木匠的商店]]柜台后面，接近罗宾。
+|-
+|15:40
+|回到实验室显微镜下做笔记。
+|-
+|18:00
+|走进厨房，站在冰箱前。
+|-
+|19:20
+|站在厨房的火炉前。
+|-
+|20:00
+|来到自己的卧室，站在书架旁。
+|-
+|22:00
+|上床睡觉。
+|}
+
+'''星期五'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室显微镜下做笔记。
+|-
+|16:00
+|前往[[星之果实酒吧]]。
+|-
+|17:50
+|位于[[星之果实酒吧]]，站在[[罗宾]]旁边。
+|-
+|19:20
+|在酒吧和[[罗宾]]跳舞。
+|-
+|21:00
+|离开酒吧，回家睡觉。
+|}
+
+'''日常时间表'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，站在厨房的水槽前。
+|-
+|11:00
+|出门，前往湖泊北部靠近桥梁的地方，做笔记。
+|-
+|19:00
+|回到家里，走进厨房，站在冰箱前。
+|-
+|20:40
+|站在厨房的火炉前。
+|-
+|21:00
+|来到自己的卧室，站在书架旁。
+|-
+|22:30
+|上床睡觉。
+|}
+|}
+{{ScheduleHeader|Winter}}
+|-
+|
+'''冬季16日'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室中看报纸。
+|-
+|11:00
+|在实验室显微镜下做笔记。
+|-
+|15:00
+|站在[[木匠的商店]]柜台后面，接近罗宾。
+|-
+|15:40
+|离开家，参加[[夜市]]。
+|-
+|23:30
+|离开夜市，回家睡觉。
+|}
+
+'''雨天'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室中看报纸。
+|-
+|11:00
+|在实验室显微镜下做笔记。
+|-
+|15:00
+|站在[[木匠的商店]]柜台后面，接近罗宾。
+|-
+|15:40
+|回到实验室显微镜下做笔记。
+|-
+|18:00
+|走进厨房，站在冰箱前。
+|-
+|19:20
+|站在厨房的火炉前。
+|-
+|20:00
+|来到自己的卧室，站在书架旁。
+|-
+|22:00
+|上床睡觉。
+|}
+
+'''星期五'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室显微镜下做笔记。
+|-
+|16:00
+|前往[[星之果实酒吧]]。
+|-
+|17:50
+|位于[[星之果实酒吧]]，站在[[罗宾]]旁边。
+|-
+|19:20
+|在酒吧和[[罗宾]]跳舞。
+|-
+|21:00
+|离开酒吧，回家睡觉。
+|}
+
+'''日常时间表'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|07:50
+|在[[木匠的商店|家]]里，实验室中看报纸。
+|-
+|11:00
+|在实验室显微镜下做笔记。
+|-
+|15:00
+|站在[[木匠的商店]]柜台后面，接近罗宾。
+|-
+|15:40
+|回到实验室显微镜下做笔记。
+|-
+|18:00
+|走进厨房，站在冰箱前。
+|-
+|19:20
+|站在厨房的火炉前。
+|-
+|20:00
+|来到自己的卧室，站在书架旁。
+|-
+|22:00
+|上床睡觉。
+|}
+|}
+
+==人际关系==
+德米特里厄斯和他的妻子[[罗宾]]、女儿[[玛鲁]]以及继子[[塞巴斯蒂安]]一起生活。根据他们房间里的两本书《最大化你的第二次婚姻》和《第一次继父的实用建议》，可大致推测德米特里厄斯是罗宾的第二任丈夫。从日常对话和玛鲁的二心事件中可以看出德米特里厄斯非常保护女儿。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|你把这个送给我？太棒了！}}
+
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Demetrius Happy.png|48px|center]]
+|colspan="4" | <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Bean Hotpot.png|center]]
+|[[豆类火锅]]
+|{{Description|Bean Hotpot}}
+|[[烹饪]]
+|{{Name|Green Bean|2}}
+|-
+|[[File:Ice Cream.png|center]]
+|[[冰淇淋]]
+|{{Description|Ice Cream}}
+|[[烹饪]] 冰淇淋商店 [[绿洲]]
+|{{Name|Milk|1}}{{Name|Sugar|1}}
+|-
+|[[File:Rice Pudding.png|center]]
+|[[大米布丁]]
+|{{Description|Rice Pudding}}
+|[[烹饪]]
+|{{Name|Milk|1}}{{Name|Sugar|1}}{{Name|Rice|1}}
+|-
+|[[File:Strawberry.png|center]]
+|[[草莓]]
+|{{Description|Strawberry}}
+|[[耕种]] - [[春季]]
+|
+|}
+
+===喜欢===
+{{Squote|非常感谢！这个标本很有意思。}}
+
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+|-
+| [[File:Demetrius Happy.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''</li><li>'''所有蛋类'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[草莓]]）</li></ul>
+|-
+|[[File:Dinosaur Egg.png|center]]
+|[[恐龙蛋]]
+|{{Description|Dinosaur Egg}}
+|[[恐龙]]、[[钓鱼#宝箱|钓鱼宝箱]]等
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集#矿井|矿井]]<br />[[山洞]]
+|}
+
+===一般===
+{{Squote|你想的真周到。}}
+{|class="wikitable sortable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Demetrius.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''</li><li>'''[[鱼#鱼的种类|所有鱼]]'''（除了[[鲤鱼]]和[[蜗牛]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|一种美味的蘑菇，带有水果味和略带辛辣的味道。
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|稍微坚硬，肉质滑。
+|[[采集]] - [[秋季]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|黄水仙}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|蒲公英}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|真是巨大的一颗榛子！
+|[[采集]] - [[秋季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|洋葱的一个美味的亲戚。
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢|火山]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|因为独特的味道而深受欢迎。
+|[[采集]] - [[春季]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|这小山药藏在雪里。
+|[[采集]] - [[冬季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|春天生长的一种根茎香料。
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|一种淀粉块茎植物。
+|[[采集]] - [[冬季]]
+|}
+
+===不喜欢===
+{{Squote|……这是什么？}}
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+|-
+| [[File:Demetrius Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[鱼#鱼的种类|鱼]]和[[恐龙蛋]]）</li></ul>
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[采集]] – [[矿井]]
+|}
+
+===讨厌===
+{{Squote|这个真恶心。}}
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+|-
+| [[File:Demetrius Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|翠绿的叶子和鲜红的红色浆果使它成为受欢迎的冬季装饰。
+|[[采集]] - [[冬季]]
+|}
+
+==观影==
+{{Theater}}
+
+==事件==
+当你的总收入达到{{price|25000}}，德米特里厄斯将在早上来到你的农场，告诉你一些他需要帮助的研究。然后，他将自愿改善[[山洞]]，以吸引果蝠或生产蘑菇。
+
+在夏天，德米特里厄斯将给你写一封信，告诉你[[月光水母起舞]]。
+
+==好感度事件==
+{{TabsP
+|礼物
+|{{MailByType|礼物}}
+|三心
+|{{MailByType|食谱|3|Fried Mushroom}}
+|六心
+|<nowiki/>
+{{Event
+|hearts  = 6
+|trigger = 在德米特里厄斯和[[罗宾]]都在家时进入[[木匠的商店]]。
+|details = 德米特里厄斯和罗宾两人在争论。罗宾让德米特里厄斯去拿点水果，结果他拿来了西红柿。德米特里厄斯声称西红柿就是水果，而罗宾认为这与西红柿在科学上的分类无关，她觉得只要是正常人都不会认为西红柿是水果。此时德米特里厄斯会向玩家提问，玩家的选择会影响与他的好感度。
+{{Squote|你觉得西红柿算什么？
+:{{choice|蔬菜|-30}}
+::真的？我以为农民会知道正确答案呢……
+:{{choice|水果|50}}
+::看见没？{{玩家}}和我达成一致了哦。}}
+|quote = 你觉得西红柿算什么？
+|dialogues = {{EventByID|25}}
+}}
+|七心
+|{{MailByType|食谱|7|Autumn's Bounty}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|特殊|{{Dialogue|特殊}}
+|备注|<nowiki />
+'''初次见面'''
+{{Squote|你好啊！我是德米特里厄斯，是这里的科学家以及'''神父'''。谢谢你的自我介绍！我在家里的实验室里研究当地的动植物。你看到我的女儿玛鲁了吗？她很想见见你。}}
+德米特里厄斯并非神父，此处为误译，应为“父亲”。德米特里厄斯对于自己的女儿[[玛鲁]]多有爱护，因此与玩家初次见面时特地强调了这一点。
+
+'''夏季'''
+{{Squote|嗯……如果'''独角金内酯'''的水平可以提高，会对菌根生长产生影响吗？噢！抱歉。我在思考一些数据，没注意到你。有什么事吗？}}
+独角金内酯中的角为错别字，实际应为'''独脚金内酯'''。独脚金内酯是一种植物激素，具有刺激寄生植物种子萌发、促进丛枝菌根真菌菌丝产生分枝, 直接或间接抑制植物侧芽萌发和与寄主植物共生等诸多作用。其生理作用发挥与生长素和细胞分裂素有相互作用（crosstalk）。
+
+'''[[月光水母起舞]]（偶数年）'''
+{{Squote|钓鱼的时候有可能钓到一种“凝胶”，虽然不是活物，但你还别说，质感跟月光水母'''有点像'''呢……}}
+此处在英语原文中是双关，但翻译后存在错误（甚至与原文完全相反）。原文为“There's a different kind of 'jelly', that anglers sometimes pull out of the water. Despite the name, they are '''very different''' in nature to the Moonlight Jellies...”，即“钓鱼的时候有可能钓到一种凝胶（Jelly）。虽然名称相似，但是它们的质感跟月光水母（Moonlight Jellies）'''完全不同'''。”
+}}
+
+==任务==
+*[[任务#Crop Research|"谷物研究"]]：在[[夏季]]第20天，德米特里厄斯会给你写封信，希望你能给他带个[[甜瓜]]。奖励是{{Price|550}}和1[[友谊]]心。
+*[[任务#Aquatic Research|"水生生物研究"]]：在第二年的[[夏季]]第6天，德米特里厄斯会给你写封信，希望你能给他带个[[河豚]]。奖励是{{Price|750}}和1[[友谊]]心。
+*德米特里厄斯可能会在[[皮埃尔的杂货店]]外面的[[任务#求助任务|布告栏]]上要求你杀死一定数量的[[怪物]]或者给她来随机的物品。杀死怪物的奖励根据怪物/种类会不相同，但都是一定数量的金币。物品交付任务的奖励是物品基础价格的3倍和150[[友谊]]点。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Demetrius.png
+File:Demetrius Happy.png
+File:Demetrius Concerned.png
+File:Demetrius Neutral.png
+File:Demetrius Annoyed.png
+File:Demetrius Surprised.png
+File:Demetrius Thinking.png
+File:Demetrius Green Rain.png
+</gallery>
+
+<gallery mode="packed" class="portraitgallery">
+File:Demetrius Winter 00.png
+File:Demetrius Winter 01.png
+File:Demetrius Winter 02.png
+File:Demetrius Winter 05.png
+File:Demetrius Winter 04.png
+File:Demetrius Winter 06.png
+File:Demetrius Winter 03.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==你知道吗==
+*如果跳舞之夜罗宾正在农场上进行建筑工作，晚上德米特里厄斯会自己一个人在酒吧跳舞。
+
+==历史==
+{{History|1.4|修复了3心事件中会送出所有配方的bug。}}
+{{History|1.6|现在德米特里厄斯喜欢[[恐龙蛋]]。新增冬季肖像和绿雨时的肖像。增加收到特定礼物时的对话。}}
+
+{{NavboxVillagers}}
+
+{{EN|Demetrius}}

@@ -1,0 +1,557 @@
+{{Infobox villager
+|portrait  = Krobus.png
+|birthday  = {{Season|Winter|1}}
+|location  = 下水道
+|address   = 科罗布斯的商店
+|marriage  = 否（可成为室友）
+|favorites = {{name|Diamond}}{{name|Iridium Bar}}{{name|Pumpkin}}{{name|Void Egg}}{{name|Void Mayonnaise}}{{name|Wild Horseradish}}
+{{name|Monster Compendium}}
+{{name|Monster Musk}}
+}}
+{{Quote|……你有没有在矿井里面遇到其他像我这样的家伙？如果他们不太友好，我向你道歉。我们啊，已经明白了要去畏惧人类……我们遇到了太多……不友好的人类。|科罗布斯}}
+'''科罗布斯'''是一个暗影人。他是一个对玩家友好的[[怪物]]，但他仍认为其他的怪物是“他的朋友”。他对阳光十分敏感，因此他居住在[[下水道]]。
+
+科罗布斯出售各种稀有物品，且玩家可与他成为室友。
+
+==日程表==
+科罗布斯不能待在阳光下，所以他会一直在[[下水道]]中，不会移动。他也不会参与任何居民活动。
+
+==商店==
+科罗布斯的商店一直开放，即使是[[节日]]也不例外。
+
+===固定出售===
+{|class="wikitable sortable roundedborder"
+!class="unsortable"|图片
+!名字
+!class="unsortable"|描述
+!数量
+!单价
+|-
+| [[File:Void Egg.png|center]]
+| [[虚空蛋]]
+| {{Description|Void Egg}}
+| data-sort-value="99"|无限
+| data-sort-value="0005000" | {{price|5000}}
+|-
+| [[File:Void Essence.png|center]]
+| [[虚空精华]]
+| {{Description|Void Essence}}
+| data-sort-value="10"|10
+| data-sort-value="0000100" | {{price|100}}
+|-
+| [[File:Solar Essence.png|center]]
+| [[太阳精华]]
+| {{Description|Solar Essence}}
+| data-sort-value="10"|10
+| data-sort-value="0000080" | {{price|80}}
+|-
+|[[File:Sign Of The Vessel.png|center]]
+|[[船标]]
+|{{Description|Sign Of The Vessel}}
+|data-sort-value="99"|无限
+|data-sort-value="0000350"|{{price|350}}
+|-
+|[[File:Monster Fireplace.png|center|48px]]
+|[[怪物壁炉]]
+|{{Description|furniture}}
+|data-sort-value="99"|无限
+|data-sort-value="0020000"|{{price|20000}}
+|-
+| [[File:Stardrop.png|center]]
+| [[星之果实]]
+| {{Description|Stardrop}}
+| data-sort-value="01"|只可购买一次
+| data-sort-value="0020000" | {{price|20000}}
+|-
+| {{Recipe|Crystal Floor|48|center}}
+| [[水晶地板|水晶地板（图纸）]]
+| 制作水晶地板的蓝图
+| data-sort-value="01"|只可购买一次
+| data-sort-value="0000500" | {{price|500}}
+|-
+| {{Recipe|Wicked Statue|48|center}}
+| [[邪恶雕像|邪恶雕像（图纸）]]
+| 制作邪恶雕像的蓝图
+| data-sort-value="01"|只可购买一次
+| data-sort-value="0001000" | {{price|1000}}
+|-
+| [[File:Butterfly Powder.png|center]]
+| [[蝴蝶粉]]
+| 撒在宠物身上即可将它驱逐出农场，驱逐后无法复原。
+| data-sort-value="99"|无限
+| data-sort-value="0020000" | {{price|20000}}
+|-
+| [[File:Wizard Catalogue.png|center]]
+| [[法师目录]]
+| {{Description|Wizard Catalogue}}
+| data-sort-value="01"|无限
+| data-sort-value="0150000" | {{price|150000}}
+|-
+| [[File:Return Scepter.png|center]]
+| [[回程魔杖]]
+| {{Description|Return Scepter}}
+| data-sort-value="01"|只可购买一次
+| data-sort-value="2000000" | {{price|2000000}}
+|}
+
+===滚动出售===
+{|class="wikitable sortable roundedborder"
+! class="unsortable"|图片
+! 物品
+! class="unsortable"|描述
+! 日期
+! 数量
+! 单价
+|-
+| [[File:Slime.png|center]]
+| [[史莱姆泥]]
+| {{Description|Slime}}
+| data-sort-value="1"|周一
+| 50
+| {{price|10}}
+|-
+| [[File:Omni Geode.png|center]]
+| [[万象晶球]]
+| {{Description|Omni Geode}}
+| data-sort-value="2"|周二
+| 1
+| {{price|300}}
+|-
+| [[File:Bream.png|32px|center]]
+| [[鱼]]或[[磁铁]]
+|
+{{name|Albacore|class=inline}} •
+{{name|Bullhead|class=inline}} •
+{{name|Chub|class=inline}} •
+{{name|Dorado|class=inline}} •
+{{name|Halibut|class=inline}} •
+{{name|Lingcod|class=inline}} •
+{{name|Shad|class=inline}} •
+{{name|Sturgeon|class=inline}} •
+{{name|Tiger Trout|class=inline}} •
+{{name|Tilapia|class=inline}} •
+{{name|Magnet|class=inline}}
+<p>'''提示'''：每种物品出现的概率相等，均为 1/11 (≈9%) 。</p>
+| data-sort-value="3"|周三
+| 5
+| {{price|200}}
+|-
+| [[File:Mixed Seeds.png|center|48px]]
+| [[混合种子]]
+| {{Description|Mixed Seeds}}
+| data-sort-value="4"|周四
+| 10
+| {{price|30}}
+|-
+| [[File:Iridium Sprinkler.png|center]]
+| [[铱制洒水器]]
+| {{Description|Iridium Sprinkler}}
+| data-sort-value="5"|周五
+| 1
+| {{price|10000}}
+|-
+| [[File:Cooking Icon.png|center]]
+| [[烹饪|菜肴]]
+|
+{|class="mw-collapsible mw-collapsed
+|-
+! style="text-align: left;"|列表&nbsp;
+|-
+|{{name|Autumn's Bounty}}
+{{name|Baked Fish}}
+{{name|Bean Hotpot}}
+{{name|Blueberry Tart}}
+{{name|Bread}}
+{{name|Carp Surprise}}
+{{name|Cheese Cauliflower}}
+{{name|Chocolate Cake}}
+{{name|Complete Breakfast}}
+{{name|Cookie|}}
+
+|{{name|Cranberry Sauce}}
+{{name|Crispy Bass}}
+{{name|Dish O' The Sea}}
+{{name|Eggplant Parmesan}}
+{{name|Farmer's Lunch}}
+{{name|Fish Taco}}
+{{name|Fried Calamari}}
+{{name|Fried Eel}}
+{{name|Fried Egg}}
+{{name|Fried Mushroom}}
+
+|{{name|Glazed Yams}}
+{{name|Hashbrowns}}
+{{name|Ice Cream}}
+{{name|Lucky Lunch}}
+{{name|Maki Roll}}
+{{name|Miner's Treat}}
+{{name|Omelet}}
+{{name|Pancakes}}
+{{name|Parsnip Soup}}
+{{name|Pepper Poppers}}
+
+|{{name|Pink Cake}}
+{{name|Pizza}}
+{{name|Pumpkin Soup}}
+{{name|Red Plate}}
+{{name|Rhubarb Pie}}
+{{name|Rice Pudding}}
+{{name|Roots Platter}}
+{{name|Salad}}
+{{name|Salmon Dinner}}
+{{name|Sashimi}}
+
+|{{name|Spaghetti}}
+{{name|Spicy Eel}}
+{{name|Strange Bun}}
+{{name|Stuffing}}
+{{name|Super Meal}}
+{{name|Survival Burger}}
+{{name|Tom Kha Soup}}
+{{name|Tortilla}}
+{{name|Trout Soup}}
+{{name|Vegetable Medley}}
+|}
+'''提示：'''[[面包]]出现的概率为 2/51 (≈3.9%) ，其他菜肴出现的概率为 1/51 (≈2%) 。价格随机。
+| data-sort-value="6"|周六
+| 5
+| class="no-wrap"|{{price|50}} -{{price|500}}
+|-
+| [[File:Bat Wing.png|center]]
+| [[蝙蝠翅膀]]
+| {{Description|Bat Wing}}
+| data-sort-value="7"|周日
+| 10
+| {{price|30}}
+|}
+
+==人际关系==
+科罗布斯住在[[下水道]]，并且几乎不会外出或者与其他[[居民]]互动。
+
+他不喜欢[[矮人]]，因为矮人与其族人之间绵延千年的[[设定#元素战争|战争]]才刚刚结束。他相信如果矮人知道他在哪里，他们会派一个刺客。
+
+[[法师]]知晓他的存在，并会出面[[矮人#爱心事件|介入阻止他们的冲突]]。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|这真是份惊艳的礼物。收到这个东西在我的族里可以说是很荣幸的事情。}} 
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+! style="width: 48px;" class="unsortable" |图片
+!style="min-width: 4em;"|名称
+!描述
+!style="min-width: 4em;"|来源
+|-
+| [[File:Krobus Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Diamond.png|center]]
+|[[钻石]]
+|{{Description|Diamond}}
+|[[采矿]]
+|-
+|[[File:Iridium Bar.png|center]]
+|[[铱锭]]
+|{{Description|Iridium Bar}}
+|[[熔炉]]
+|-
+|[[File:Pumpkin.png|center]]
+|[[南瓜]]
+|{{Description|Pumpkin}}
+|[[农作物|耕种]] -  [[秋季]]
+|-
+|[[File:Void Egg.png|center]]
+|[[虚空蛋]]
+|{{Description|Void Egg}}
+|[[虚空鸡]]
+|-
+|[[File:Void Mayonnaise.png|center]]
+|[[虚空蛋黄酱]]
+|{{Description|Void Mayonnaise}}
+|[[蛋黄酱机]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+| [[采集]] -  [[春季]]
+|-
+|[[file:Monster Compendium.png]]
+|[[怪物图鉴]]
+|{{description|Monster Compendium}}
+|[[书摊老板]]
+|-
+|[[File:Monster Musk.png]]
+|[[怪兽香水]]
+|{{description|Monster Musk}}
+|[[制作]]
+|}
+
+===喜欢===
+{{Squote|非常感谢你。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!所需原料
+|-
+| [[File:Krobus Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[生命药水]]和不包括[[海泡布丁]]、[[奇怪的小面包]]在内的'''[[烹饪|所有菜品]]'''）</li></ul>
+|-
+|[[File:Gold Bar.png|center]]
+|[[金锭]]
+|{{Description|Gold Bar}}
+|[[熔炉]]
+|
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+| [[采集]] - 矿井
+|
+|-
+|[[File:Seafoam Pudding.png|center]]
+|[[海泡布丁]]
+|{{Description|Seafoam Pudding}}
+|[[烹饪]]
+|{{name|Flounder|1}}{{name|Midnight Carp|1}}{{name|Squid Ink|1}}
+|-
+|[[File:Strange Bun.png|center]]
+|[[奇怪的小面包]]
+|{{Description|Strange Bun}}
+|[[烹饪]]
+|{{name|Wheat Flour|1}}{{name|Periwinkle|1}}{{name|Void Mayonnaise|1}}
+|}
+
+===一般===
+{{Squote|谢谢。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Krobus.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[怪物图鉴]]）</li><li>'''所有蛋类'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]和[[美洲大树莓]]）</li><li>'''所有奶类'''</li></ul>
+|}
+'''注意：'''在送礼时，[[恐龙蛋]]被视为[[古物]]而不是蛋类。
+
+===不喜欢===
+{{Squote|人类的口味……还真是有趣。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Krobus Sad.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[金锭]]、[[铱锭]]、[[虚空蛋]]）</li><li>'''所有[[烹饪|料理]]'''（除了[[面包]]、[[煎鸡蛋]]、[[奇怪的小面包]]和[[海泡布丁]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|class="no-wrap"|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Life Elixir.png|center]]
+|[[生命药水]]
+|{{Description|Life Elixir}}
+|[[打造]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===讨厌===
+{{Squote|噢！嗯。我会收下的。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Krobus Sad.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''（除了[[怪兽香水]]、[[海泡布丁]]、[[奇怪的小面包]]、[[虚空蛋黄酱]]）</li></ul>
+|}
+
+==观影==
+{{Theater|备注=玩家无法在周五邀请科罗布斯同行观影。}}
+
+==室友==
+如果玩家[[婚姻|未婚]]，将[[虚空幽灵吊坠]]送给科罗布斯，科罗布斯会在3天后搬入[[农舍]]。科罗布斯和玩家是柏拉图式的关系。和科罗布斯成为室友后，玩家不能再与其他村民结婚。
+
+和其他人物一样，科罗布斯会在卧室右边增设自己的房间，但他不会在农舍后设置活动区。
+
+科罗布斯平时不会外出活动，他可能会在雨天离开农舍，站在门廊前。好感达到13心后，科罗布斯会给予玩家一个[[星之果实]]。科罗布斯可能会更换家中的[[墙纸]]或[[地板]]。
+
+游戏中的室友机制和婚姻机制几乎相同，不过部分机制有别于普通的婚姻：
+*互动由亲吻替换为拥抱
+*互动时的爱心气泡替换为微笑的气泡
+*不会举行典礼
+*向其他可攻略对象赠送礼物不会触发嫉妒机制
+**与科罗布斯成为室友仍然能够触发集体十心事件
+*可通过[[镇长的庄园]]处的书结束室友关系，并且无需收费
+**科罗布斯搬离后，与他对话他会沉默，同时也会拒绝接受礼物
+**[[记忆之黑暗神殿]]可以抹去科罗布斯对玩家的记忆
+*无法和科罗布斯生孩子或者收养孩子
+**如果与前任配偶拥有孩子，科罗布斯会帮忙抚养
+*科罗布斯不会做家务
+*科罗布斯晚上不会睡觉，不过他会在十点之后回到房间内然后站在中央
+**玩家依然可以和他互动
+
+科罗布斯搬进[[农舍]]后，[[下水道]]原位置会替换为一个宝箱，与之交互即可购买物品。
+
+在雨天的早上，科罗布斯可能给予玩家[[海胆]]、[[虚空蛋]]、[[虚空蛋黄酱]]或[[虚空鲑鱼]]作为礼物。
+在非雨天则可能给予[[炒鳗鱼]]、[[幸运午餐]]或[[虞美人籽松糕]]作为礼物。
+不管当前天气如何，科罗布斯都可能给予玩家一个[[奇怪的小面包]]作为礼物。
+
+<gallery>
+Krobus_Roommate_Room.png|科罗布斯在[[农舍]]的房间
+Sewer Chest.png|[[下水道]]中的宝箱
+</gallery>
+
+==好感度事件==
+{{TabsP
+|三心|{{MailByType|配方|3|Dark Sign}}
+|十四心|{{Event
+ |hearts  = 14
+ |trigger = 在非雨天的 20:00 ~ 01:00 间进入沙滩。
+ |details = 科罗布斯正坐在[[沙滩]]的码头上看水中的月光水母，此时海中出现了一只[[鱼人]]。鱼人伸出它的触手，科罗布斯跳了上去与它一起兜风。一个心形对话气泡出现在科罗布斯的头上，示意他很享受这次兜风。
+ |quote = 
+ |dialogues = <div class="event-label show" style="display: block;">[ 该事件没有任何对话 ]</div>
+}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Snippets|元素|小标题|初次见面}}
+{{Squote|人类访客？真罕见啊……
+我是科罗布斯，是专门出售稀有商品和外来商品的商人。}}<!-- NPC.cs.3990 -->
+{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|室友|{{Dialogue|配偶}}
+|特殊|{{Dialogue|特殊}}<!-- 山顶对话需要屏蔽 -->
+}}
+
+==任务==
+*[[任务#Dark Talisman|暗黑护身符]]：接取[[法师]]关于[[魔法墨水]]的委托后，玩家需要进入下水道，与科罗布斯对话。科罗布斯会帮玩家打开[[突变虫穴]]的屏障，之后玩家需要穿过[[突变虫穴]]，拿到黑暗护身符。
+*[[任务#A Winter Mystery|冬日谜团]]：在[[冬季]]早上6点至下午4点间，从[[农场]]前往[[巴士站]]，会触发一个动画。跟随雪地上的脚印，到[[鹈鹕镇]]北边[[社区中心]]附近摇动灌木。一个“暗影人”（大概率是科罗布斯）会赠送玩家一个[[放大镜]]。之后玩家可以收集[[秘密纸条]]。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+Krobus.png
+Krobus Happy.png
+Krobus Sad.png
+Krobus Surprise.png
+Krobus Blush.png
+Krobus Angry.png
+Krobus Sinister.png
+Krobus Laughing.png
+Krobus Trenchcoat.png
+</gallery>
+
+==你知道吗==
+*科罗布斯说，他的名字在他们的语言里是“过桥人”的意思。
+*科罗布斯讨厌收到[[奇怪的小面包]]作为礼物，但是矿井中的[[暗影狂徒]]却会掉落这个。并且如果玩家和他是室友，科罗布斯偶尔会给玩家赠送一个。直到版本更新后科罗布斯对待奇怪的小面包的态度才从讨厌变成喜欢。
+*科罗布斯说，出于对由巴的尊重，他在星期五保持沉默（也不会看电影）。一般情况下，他在周五的对话内容只有“......”。在以下情况下，他会在周五发言：
+**雨天
+**初次见面
+**在[[任务#Dark Talisman|“暗黑护身符”任务]]期间与他交谈
+**送给他一个[[虚空幽灵吊坠]]
+**在与他成为室友后农舍中有[[怪物]]（例如[[史莱姆]]）
+**在与他成为室友且被驱逐后给他礼物
+*如果玩家试图在周五送[[电影票]]给科罗布斯，会提示“科罗布斯看起来很疑惑”。他不会在周五去看电影。
+*科罗布斯的周二对话中称，他对阳光很敏感，在白天不能离开[[下水道]]；在1.3版本中改为了对阳光敏感，大多数日子都不能出去。这样的修改有可能是因为[[任务#A Winter Mystery|“冬日谜团”]]任务的加入。
+*据说科罗布斯的族人在“一场大灾难”之后进入了物理位面。
+*科罗布斯是唯一一个不喜欢星之果实冰糕作为[[电影院]]零食的NPC。不过，他仍然喜欢[[星之果茶]]。
+**当被给予时，他的对话暗示他喜欢它的气味而不是味道：“那是星之果茶吗？谢谢你！只要滴上一滴，我的屋子就能香上一整天。”
+*在科罗布斯面前饮用[[虚空蛋黄酱]]，他会说“不错哦”。
+
+==漏洞==
+*如果多个玩家同时在[[合作|多人游戏]]中打开科罗布斯的商店，则可以绕过物品的购买数量限制（新的购买上限为：购买限量×玩家数量）。例如，如果两个玩家都没有购买[[铱制洒水器]]，则通过此方式，两个玩家可以在周五购买共两个铱制洒水器（原本上限为每周一个）。
+
+==画廊==
+[[File:KrobusInSewer.png|thumb|left|150px|科罗布斯在[[下水道]]中]]
+{{clear}}
+
+==历史==
+{{History|1.0|加入游戏。}}
+{{History|1.1|现在出售[[回程魔杖]]和[[虚空蛋]]，并帮助完成[[任务#Dark Talisman|暗黑护身符]]的任务}}
+{{History|1.3|在商店中加入船标和怪物壁炉。加入“冬日谜团”任务。修改周二的对话。}} 
+{{History|1.4|现在玩家在未婚情况下可邀请其成为室友。移除反复打开商店可重复购买其出售的鱼和菜肴的问题。}}
+{{History|1.4.4|取消嫉妒。}}
+{{history|1.6|现在怪兽香水和怪物图鉴是科罗布斯的最爱。新增特殊对话。}}
+{{history|1.6.3|添加了[[科罗布斯的肖像]]。}}
+
+{{NavboxVillagers}}
+
+[[Category:商店]]
+
+{{EN|Krobus}}

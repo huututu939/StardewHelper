@@ -1,0 +1,1377 @@
+[
+ {
+  "name": "煎鸡蛋",
+  "ingredients": [
+   {
+    "name": "蛋",
+    "count": 1
+   }
+  ],
+  "source": "初始拥有",
+  "effect": "50体/22血"
+ },
+ {
+  "name": "煎蛋卷",
+  "ingredients": [
+   {
+    "name": "蛋",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 春季28日（或星之果实酒吧购买100g）",
+  "effect": "100体/45血"
+ },
+ {
+  "name": "沙拉",
+  "ingredients": [
+   {
+    "name": "韭葱",
+    "count": 1
+   },
+   {
+    "name": "蒲公英",
+    "count": 1
+   },
+   {
+    "name": "醋",
+    "count": 1
+   }
+  ],
+  "source": "艾米丽 好感3心（来信）",
+  "effect": "113体/50血"
+ },
+ {
+  "name": "乳酪花椰菜",
+  "ingredients": [
+   {
+    "name": "花椰菜",
+    "count": 1
+   },
+   {
+    "name": "奶酪",
+    "count": 1
+   }
+  ],
+  "source": "潘姆 好感3心（来信）",
+  "effect": "138体/62血"
+ },
+ {
+  "name": "烤鱼",
+  "ingredients": [
+   {
+    "name": "太阳鱼",
+    "count": 1
+   },
+   {
+    "name": "鲷鱼",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 夏季7日",
+  "effect": "75体/33血"
+ },
+ {
+  "name": "防风草汤",
+  "ingredients": [
+   {
+    "name": "防风草",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   },
+   {
+    "name": "醋",
+    "count": 1
+   }
+  ],
+  "source": "卡罗琳 好感3心（来信）",
+  "effect": "85体/38血"
+ },
+ {
+  "name": "蔬菜杂烩",
+  "ingredients": [
+   {
+    "name": "西红柿",
+    "count": 1
+   },
+   {
+    "name": "甜菜",
+    "count": 1
+   }
+  ],
+  "source": "卡罗琳 好感7心（来信）",
+  "effect": "165体/74血"
+ },
+ {
+  "name": "披萨",
+  "ingredients": [
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "西红柿",
+    "count": 1
+   },
+   {
+    "name": "奶酪",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 春季7日（或酒吧购买150g）",
+  "effect": "150体/67血"
+ },
+ {
+  "name": "豆类火锅",
+  "ingredients": [
+   {
+    "name": "四季豆",
+    "count": 2
+   }
+  ],
+  "source": "克林特 好感7心（来信）",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "琉璃山药",
+  "ingredients": [
+   {
+    "name": "山药",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 秋季21日",
+  "effect": "200体/90血"
+ },
+ {
+  "name": "惊喜鲤鱼",
+  "ingredients": [
+   {
+    "name": "鲤鱼",
+    "count": 4
+   }
+  ],
+  "source": "酱料女皇 第2年 夏季7日",
+  "effect": "90体/40血"
+ },
+ {
+  "name": "薯饼",
+  "ingredients": [
+   {
+    "name": "土豆",
+    "count": 1
+   },
+   {
+    "name": "油",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 春季14日（或酒吧购买50g）",
+  "effect": "90体/40血"
+ },
+ {
+  "name": "薄煎饼",
+  "ingredients": [
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "蛋",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 夏季14日（或酒吧购买100g）",
+  "effect": "90体/40血"
+ },
+ {
+  "name": "鲑鱼晚餐",
+  "ingredients": [
+   {
+    "name": "鲑鱼",
+    "count": 1
+   },
+   {
+    "name": "苋菜",
+    "count": 1
+   },
+   {
+    "name": "甘蓝菜",
+    "count": 1
+   }
+  ],
+  "source": "格斯 好感3心（来信）",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "鱼肉卷",
+  "ingredients": [
+   {
+    "name": "金枪鱼",
+    "count": 1
+   },
+   {
+    "name": "墨西哥薄饼",
+    "count": 1
+   },
+   {
+    "name": "红叶卷心菜",
+    "count": 1
+   },
+   {
+    "name": "蛋黄酱",
+    "count": 1
+   }
+  ],
+  "source": "Linus 好感7心（来信）",
+  "effect": "165体/74血"
+ },
+ {
+  "name": "香酥鲈鱼",
+  "ingredients": [
+   {
+    "name": "大嘴鲈鱼",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "油",
+    "count": 1
+   }
+  ],
+  "source": "肯特 好感3心（来信）",
+  "effect": "90体/40血"
+ },
+ {
+  "name": "爆炒青椒",
+  "ingredients": [
+   {
+    "name": "辣椒",
+    "count": 1
+   },
+   {
+    "name": "奶酪",
+    "count": 1
+   }
+  ],
+  "source": "谢恩 好感3心（来信）",
+  "effect": "130体/58血"
+ },
+ {
+  "name": "面包",
+  "ingredients": [
+   {
+    "name": "面粉",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 夏季28日（或酒吧购买100g）",
+  "effect": "50体/22血"
+ },
+ {
+  "name": "椰汁汤",
+  "ingredients": [
+   {
+    "name": "椰子",
+    "count": 1
+   },
+   {
+    "name": "虾",
+    "count": 1
+   },
+   {
+    "name": "普通蘑菇",
+    "count": 1
+   }
+  ],
+  "source": "桑迪 好感7心（来信）",
+  "effect": "175体/78血"
+ },
+ {
+  "name": "鳟鱼汤",
+  "ingredients": [
+   {
+    "name": "虹鳟",
+    "count": 1
+   },
+   {
+    "name": "绿藻",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 秋季14日",
+  "effect": "100体/45血"
+ },
+ {
+  "name": "巧克力蛋糕",
+  "ingredients": [
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   },
+   {
+    "name": "蛋",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 冬季14日",
+  "effect": "150体/67血"
+ },
+ {
+  "name": "粉红蛋糕",
+  "ingredients": [
+   {
+    "name": "甜瓜",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   },
+   {
+    "name": "蛋",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 夏季21日",
+  "effect": "250体/112血"
+ },
+ {
+  "name": "大黄派",
+  "ingredients": [
+   {
+    "name": "大黄",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "玛妮 好感7心（来信）",
+  "effect": "215体/96血"
+ },
+ {
+  "name": "饼干",
+  "ingredients": [
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   },
+   {
+    "name": "蛋",
+    "count": 1
+   }
+  ],
+  "source": "艾芙琳 4心事件",
+  "effect": "90体/40血"
+ },
+ {
+  "name": "意大利面",
+  "ingredients": [
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "西红柿",
+    "count": 1
+   }
+  ],
+  "source": "路易斯 好感3心（来信）",
+  "effect": "75体/33血"
+ },
+ {
+  "name": "炒鳗鱼",
+  "ingredients": [
+   {
+    "name": "鳗鱼",
+    "count": 1
+   },
+   {
+    "name": "油",
+    "count": 1
+   }
+  ],
+  "source": "乔治 好感3心（来信）",
+  "effect": "75体/33血"
+ },
+ {
+  "name": "香辣鳗鱼",
+  "ingredients": [
+   {
+    "name": "鳗鱼",
+    "count": 1
+   },
+   {
+    "name": "辣椒",
+    "count": 1
+   }
+  ],
+  "source": "乔治 好感7心（来信）",
+  "effect": "115体/51血"
+ },
+ {
+  "name": "生鱼片",
+  "ingredients": [
+   {
+    "name": "任意鱼",
+    "count": 1
+   }
+  ],
+  "source": "Linus 好感3心（来信）",
+  "effect": "75体/33血"
+ },
+ {
+  "name": "生鱼寿司",
+  "ingredients": [
+   {
+    "name": "任意鱼",
+    "count": 1
+   },
+   {
+    "name": "海草",
+    "count": 1
+   },
+   {
+    "name": "大米",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 夏季21日（或酒吧购买300g）",
+  "effect": "100体/45血"
+ },
+ {
+  "name": "墨西哥薄饼",
+  "ingredients": [
+   {
+    "name": "玉米",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 秋季7日（或酒吧购买100g）",
+  "effect": "50体/22血"
+ },
+ {
+  "name": "红之盛宴",
+  "ingredients": [
+   {
+    "name": "红叶卷心菜",
+    "count": 1
+   },
+   {
+    "name": "萝卜",
+    "count": 1
+   }
+  ],
+  "source": "艾米丽 好感7心（来信）",
+  "effect": "240体/108血"
+ },
+ {
+  "name": "帕尔玛奶酪茄子",
+  "ingredients": [
+   {
+    "name": "茄子",
+    "count": 1
+   },
+   {
+    "name": "西红柿",
+    "count": 1
+   }
+  ],
+  "source": "路易斯 好感7心（来信）",
+  "effect": "175体/78血"
+ },
+ {
+  "name": "大米布丁",
+  "ingredients": [
+   {
+    "name": "牛奶",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   },
+   {
+    "name": "大米",
+    "count": 1
+   }
+  ],
+  "source": "艾芙琳 好感7心（来信）",
+  "effect": "115体/51血"
+ },
+ {
+  "name": "冰淇淋",
+  "ingredients": [
+   {
+    "name": "牛奶",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "乔迪 好感7心（来信）",
+  "effect": "100体/45血"
+ },
+ {
+  "name": "蓝莓千层酥",
+  "ingredients": [
+   {
+    "name": "蓝莓",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   },
+   {
+    "name": "蛋",
+    "count": 1
+   }
+  ],
+  "source": "皮埃尔 好感3心（来信）",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "秋日恩赐",
+  "ingredients": [
+   {
+    "name": "山药",
+    "count": 1
+   },
+   {
+    "name": "南瓜",
+    "count": 1
+   }
+  ],
+  "source": "德米特里厄斯 好感7心（来信）",
+  "effect": "220体/99血"
+ },
+ {
+  "name": "南瓜汤",
+  "ingredients": [
+   {
+    "name": "南瓜",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   }
+  ],
+  "source": "罗宾 好感7心（来信）",
+  "effect": "200体/90血"
+ },
+ {
+  "name": "巨无霸餐",
+  "ingredients": [
+   {
+    "name": "白菜",
+    "count": 1
+   },
+   {
+    "name": "蔓越莓",
+    "count": 1
+   },
+   {
+    "name": "洋蓟",
+    "count": 1
+   }
+  ],
+  "source": "肯特 好感7心（来信）",
+  "effect": "160体/72血"
+ },
+ {
+  "name": "红莓酱",
+  "ingredients": [
+   {
+    "name": "蔓越莓",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "格斯 好感7心（来信）",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "塞料面包",
+  "ingredients": [
+   {
+    "name": "面包",
+    "count": 1
+   },
+   {
+    "name": "蔓越莓",
+    "count": 1
+   },
+   {
+    "name": "榛子",
+    "count": 1
+   }
+  ],
+  "source": "潘姆 好感7心（来信）",
+  "effect": "170体/76血"
+ },
+ {
+  "name": "农夫午餐",
+  "ingredients": [
+   {
+    "name": "煎蛋卷",
+    "count": 1
+   },
+   {
+    "name": "防风草",
+    "count": 1
+   }
+  ],
+  "source": "耕种技能3级解锁",
+  "effect": "200体/90血"
+ },
+ {
+  "name": "救生汉堡",
+  "ingredients": [
+   {
+    "name": "面包",
+    "count": 1
+   },
+   {
+    "name": "山洞胡萝卜",
+    "count": 1
+   },
+   {
+    "name": "茄子",
+    "count": 1
+   }
+  ],
+  "source": "觅食技能8级解锁",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "海之菜肴",
+  "ingredients": [
+   {
+    "name": "沙丁鱼",
+    "count": 2
+   },
+   {
+    "name": "薯饼",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼技能3级解锁",
+  "effect": "150体/67血"
+ },
+ {
+  "name": "矿工特供",
+  "ingredients": [
+   {
+    "name": "山洞胡萝卜",
+    "count": 2
+   },
+   {
+    "name": "糖",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   }
+  ],
+  "source": "采矿技能3级解锁",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "块茎拼盘",
+  "ingredients": [
+   {
+    "name": "山洞胡萝卜",
+    "count": 1
+   },
+   {
+    "name": "冬根",
+    "count": 1
+   }
+  ],
+  "source": "战斗技能3级解锁",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "三倍浓缩咖啡",
+  "ingredients": [
+   {
+    "name": "咖啡",
+    "count": 3
+   }
+  ],
+  "source": "星之果实酒吧购买配方5000g",
+  "effect": "8体/3血"
+ },
+ {
+  "name": "海泡布丁",
+  "ingredients": [
+   {
+    "name": "比目鱼",
+    "count": 1
+   },
+   {
+    "name": "午夜鲤鱼",
+    "count": 1
+   },
+   {
+    "name": "鱿鱼墨汁",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼技能9级解锁",
+  "effect": "175体/78血"
+ },
+ {
+  "name": "海藻汤",
+  "ingredients": [
+   {
+    "name": "绿藻",
+    "count": 4
+   }
+  ],
+  "source": "克林特 好感3心（来信）",
+  "effect": "75体/33血"
+ },
+ {
+  "name": "清汤",
+  "ingredients": [
+   {
+    "name": "白藻",
+    "count": 2
+   }
+  ],
+  "source": "玛妮 好感3心（来信）",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "葡萄干布丁",
+  "ingredients": [
+   {
+    "name": "野李子",
+    "count": 2
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 冬季7日",
+  "effect": "175体/78血"
+ },
+ {
+  "name": "水煮洋蓟",
+  "ingredients": [
+   {
+    "name": "洋蓟",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 秋季28日",
+  "effect": "100体/45血"
+ },
+ {
+  "name": "蔬菜什锦盖饭",
+  "ingredients": [
+   {
+    "name": "山洞胡萝卜",
+    "count": 1
+   },
+   {
+    "name": "普通蘑菇",
+    "count": 1
+   },
+   {
+    "name": "甘蓝菜",
+    "count": 1
+   },
+   {
+    "name": "油",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 春季7日",
+  "effect": "200体/90血"
+ },
+ {
+  "name": "烤榛子",
+  "ingredients": [
+   {
+    "name": "榛子",
+    "count": 3
+   }
+  ],
+  "source": "酱料女皇 第2年 夏季28日",
+  "effect": "175体/78血"
+ },
+ {
+  "name": "南瓜派",
+  "ingredients": [
+   {
+    "name": "南瓜",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 冬季21日",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "萝卜沙拉",
+  "ingredients": [
+   {
+    "name": "油",
+    "count": 1
+   },
+   {
+    "name": "醋",
+    "count": 1
+   },
+   {
+    "name": "萝卜",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 春季21日",
+  "effect": "200体/90血"
+ },
+ {
+  "name": "水果沙拉",
+  "ingredients": [
+   {
+    "name": "蓝莓",
+    "count": 1
+   },
+   {
+    "name": "甜瓜",
+    "count": 1
+   },
+   {
+    "name": "杏",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 秋季7日",
+  "effect": "263体/118血"
+ },
+ {
+  "name": "黑莓脆皮饼",
+  "ingredients": [
+   {
+    "name": "黑莓",
+    "count": 2
+   },
+   {
+    "name": "糖",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 秋季14日",
+  "effect": "175体/78血"
+ },
+ {
+  "name": "蔓越莓糖果",
+  "ingredients": [
+   {
+    "name": "蔓越莓",
+    "count": 1
+   },
+   {
+    "name": "苹果",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 冬季28日",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "意式烤面包",
+  "ingredients": [
+   {
+    "name": "面包",
+    "count": 1
+   },
+   {
+    "name": "油",
+    "count": 1
+   },
+   {
+    "name": "西红柿",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 冬季21日",
+  "effect": "113体/50血"
+ },
+ {
+  "name": "卷心菜沙拉",
+  "ingredients": [
+   {
+    "name": "红叶卷心菜",
+    "count": 1
+   },
+   {
+    "name": "醋",
+    "count": 1
+   },
+   {
+    "name": "蛋黄酱",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第1年 春季14日",
+  "effect": "213体/95血"
+ },
+ {
+  "name": "意式蕨菜炖饭",
+  "ingredients": [
+   {
+    "name": "油",
+    "count": 1
+   },
+   {
+    "name": "蕨菜",
+    "count": 1
+   },
+   {
+    "name": "大蒜",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 秋季28日",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "虞美人籽松糕",
+  "ingredients": [
+   {
+    "name": "罂粟",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 冬季7日",
+  "effect": "150体/67血"
+ },
+ {
+  "name": "烩鱼汤",
+  "ingredients": [
+   {
+    "name": "小龙虾",
+    "count": 1
+   },
+   {
+    "name": "蚌",
+    "count": 1
+   },
+   {
+    "name": "玉黍螺",
+    "count": 1
+   },
+   {
+    "name": "西红柿",
+    "count": 1
+   }
+  ],
+  "source": "威利 好感7心（来信）",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "海鲜杂烩汤",
+  "ingredients": [
+   {
+    "name": "蛤",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   }
+  ],
+  "source": "威利 好感3心（来信）",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "法式田螺",
+  "ingredients": [
+   {
+    "name": "蜗牛",
+    "count": 1
+   },
+   {
+    "name": "大蒜",
+    "count": 1
+   }
+  ],
+  "source": "威利 好感5心（来信）",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "龙虾浓汤",
+  "ingredients": [
+   {
+    "name": "龙虾",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   }
+  ],
+  "source": "威利 好感9心（来信）",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "枫糖棒",
+  "ingredients": [
+   {
+    "name": "枫糖浆",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 夏季14日",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "蟹黄糕",
+  "ingredients": [
+   {
+    "name": "螃蟹",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "蛋",
+    "count": 1
+   },
+   {
+    "name": "油",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 秋季21日",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "虾鸡尾酒",
+  "ingredients": [
+   {
+    "name": "西红柿",
+    "count": 1
+   },
+   {
+    "name": "虾",
+    "count": 1
+   },
+   {
+    "name": "野辣根",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 冬季28日",
+  "effect": "225体/101血"
+ },
+ {
+  "name": "姜汁汽水",
+  "ingredients": [
+   {
+    "name": "姜",
+    "count": 3
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "火山地牢矮人商店购买配方1000g",
+  "effect": "63体/28血"
+ },
+ {
+  "name": "香蕉布丁",
+  "ingredients": [
+   {
+    "name": "香蕉",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   },
+   {
+    "name": "糖",
+    "count": 1
+   }
+  ],
+  "source": "姜岛商人 骨头碎片×30兑换配方",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "芒果糯米饭",
+  "ingredients": [
+   {
+    "name": "芒果",
+    "count": 1
+   },
+   {
+    "name": "椰子",
+    "count": 1
+   },
+   {
+    "name": "大米",
+    "count": 1
+   }
+  ],
+  "source": "雷欧 好感7心（来信）",
+  "effect": "113体/50血"
+ },
+ {
+  "name": "夏威夷芋泥",
+  "ingredients": [
+   {
+    "name": "芋头",
+    "count": 4
+   }
+  ],
+  "source": "雷欧 好感3心（来信）",
+  "effect": "75体/33血"
+ },
+ {
+  "name": "热带咖喱",
+  "ingredients": [
+   {
+    "name": "椰子",
+    "count": 1
+   },
+   {
+    "name": "菠萝",
+    "count": 1
+   },
+   {
+    "name": "辣椒",
+    "count": 1
+   }
+  ],
+  "source": "姜岛度假村购买配方2000g",
+  "effect": "150体/67血"
+ },
+ {
+  "name": "墨汁意大利饺",
+  "ingredients": [
+   {
+    "name": "鱿鱼墨汁",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "西红柿",
+    "count": 1
+   }
+  ],
+  "source": "战斗技能9级解锁（临时免疫减益）",
+  "effect": "125体/56血"
+ },
+ {
+  "name": "炒蘑菇",
+  "ingredients": [
+   {
+    "name": "普通蘑菇",
+    "count": 1
+   },
+   {
+    "name": "羊肚菌",
+    "count": 1
+   },
+   {
+    "name": "油",
+    "count": 1
+   }
+  ],
+  "source": "德米特里厄斯 好感3心（来信）",
+  "effect": "135体/60血"
+ },
+ {
+  "name": "炸鱿鱼",
+  "ingredients": [
+   {
+    "name": "鱿鱼",
+    "count": 1
+   },
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "油",
+    "count": 1
+   }
+  ],
+  "source": "乔迪 好感3心（来信）",
+  "effect": "80体/36血"
+ },
+ {
+  "name": "幸运午餐",
+  "ingredients": [
+   {
+    "name": "海参",
+    "count": 1
+   },
+   {
+    "name": "墨西哥薄饼",
+    "count": 1
+   },
+   {
+    "name": "蓝爵士",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年春28日；钓鱼 8 级也能解锁",
+  "effect": "100体/45血"
+ },
+ {
+  "name": "完美早餐",
+  "ingredients": [
+   {
+    "name": "煎鸡蛋",
+    "count": 1
+   },
+   {
+    "name": "牛奶",
+    "count": 1
+   },
+   {
+    "name": "薯饼",
+    "count": 1
+   },
+   {
+    "name": "薄煎饼",
+    "count": 1
+   }
+  ],
+  "source": "酱料女皇 第2年 春季21日",
+  "effect": "200体/90血"
+ },
+ {
+  "name": "奇怪的小面包",
+  "ingredients": [
+   {
+    "name": "面粉",
+    "count": 1
+   },
+   {
+    "name": "滨螺",
+    "count": 1
+   },
+   {
+    "name": "虚空蛋黄酱",
+    "count": 1
+   }
+  ],
+  "source": "谢恩 好感7心（来信）",
+  "effect": "100体/45血"
+ },
+ {
+  "name": "苔藓汤",
+  "ingredients": [
+   {
+    "name": "苔藓",
+    "count": 20
+   }
+  ],
+  "source": "觅食技能3级解锁",
+  "effect": "70体/31血"
+ }
+]

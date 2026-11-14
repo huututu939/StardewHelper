@@ -1,0 +1,97 @@
+<onlyinclude>{{{{{1|Infobox craft}}}
+|name            = 熔炉
+|eng             = Furnace
+|image2          = Furnace On
+|description     = {{Description|Furnace}}
+|source          = [[打造]]
+|recipe          = 收集一颗[[铜矿石]]后由[[克林特]]提供
+|ingredients     = {{Name|Copper Ore|20}}{{Name|Stone|25}}
+}}</onlyinclude>
+'''熔炉'''是一种[[打造#精炼设备|精炼设备]]，用于将[[矿石]]熔炼为金属锭，以便[[打造]]各种配方。在获取到一个[[铜矿石]]后，在次日上午 6:00 到上午 11:30 之间离开农舍，[[克林特]]会登门拜访，告诉玩家熔炉的制造配方。通过任何方式获取到的铜矿石（包括采矿、开晶球，钓鱼宝箱或者从[[克林特]]处购买）都能触发这个事件。
+
+如果[[克林特]]前来提供制造配方时玩家还未认识他，他会在见面时做自我介绍。
+
+完成{{Bundle|Blacksmiths||y}}可以获得 1 个熔炉作为奖励。
+
+==熔炼==
+当玩家[[物品栏]]中有足够的[[煤炭]]时，将材料拿在手上并点击熔炉，就可以进行熔炼。每次熔炼任意材料时，都需要一个[[煤炭]]。
+
+{|class="wikitable sortable"
+!原料
+!产物
+!熔炼时间<ref name="processtime"/>
+!售出价格
+![[File:Blacksmith Icon.png|24px|link=]]铁匠职业（+50%）
+|-
+|{{name|Bouquet|1}}
+|{{name|Wilted Bouquet|1}}
+|{{duration|≤10分钟}}
+|{{price|100}}
+|不适用
+|-
+|{{name|Copper Ore|5}}
+|{{name|Copper Bar|1}}
+|{{duration|30分钟}}
+|{{price|60}}
+|{{price|90}}
+|-
+|{{name|Quartz|1}}
+|{{name|Refined Quartz|1}}
+|{{duration|90分钟（1小时30分钟）}}
+|{{price|50}}
+|不适用
+|-
+|{{name|Fire Quartz|1}}
+|{{name|Refined Quartz|3}}
+|{{duration|90分钟（1小时30分钟）}}
+|{{price|50}}（3份）
+|不适用
+|-
+|{{name|Iron Ore|5}}
+|{{name|Iron Bar|1}}
+|{{duration|120分钟（2小时）}}
+|{{price|120}}
+|{{price|180}}
+|-
+|{{name|Gold Ore|5}}
+|{{name|Gold Bar|1}}
+|{{duration|300分钟（5小时）}}
+|{{price|250}}
+|{{price|375}}
+|-
+|{{name|Iridium Ore|5}}
+|{{name|Iridium Bar|1}}
+|{{duration|480分钟（8小时）}}
+|{{price|1000}}
+|{{price|1500}}
+|-
+|{{name|Radioactive Ore|5}}
+|{{name|Radioactive Bar|1}}
+|{{duration|560分钟（9小时20分钟）}}
+|{{price|3000}}
+|{{price|4500}}
+|-
+|}
+
+==打造==
+{{Crafts|head}}
+{{:重型熔炉|CraftRow}}
+{{Crafts|foot}}
+
+==参考==
+<references>
+  <ref name="processtime">参见游戏代码中的 <samp>Object::performObjectDropInAction</samp> 和 <samp>Data\Machines.xnb</samp>中的(BC)13分支。</ref>
+</references>
+
+==历史==
+{{History|1.0|加入游戏。}}
+{{History|1.3.27|现在可以烧制[[火水晶]]。}}
+{{History|1.4|可以将[[花束]]烧制成[[枯萎的花束]]，可以堆叠。}}
+{{History|1.5|加入[[放射性矿石]]和[[放射性矿锭]]。}}
+{{history|1.6|现在可用于打造[[重型熔炉]]。}}
+
+{{NavboxMining}}
+
+[[分类:可制作物品]]
+
+{{EN|Furnace}}

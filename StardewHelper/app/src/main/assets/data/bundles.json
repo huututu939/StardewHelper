@@ -1,0 +1,701 @@
+[
+ {
+  "room": "工艺房（手工作坊）",
+  "bundles": [
+   {
+    "name": "春季采集",
+    "items": [
+     {
+      "name": "野山葵",
+      "count": 1
+     },
+     {
+      "name": "黄水仙",
+      "count": 1
+     },
+     {
+      "name": "韭葱",
+      "count": 1
+     },
+     {
+      "name": "蒲公英",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "夏季采集",
+    "items": [
+     {
+      "name": "葡萄",
+      "count": 1
+     },
+     {
+      "name": "香料浆果",
+      "count": 1
+     },
+     {
+      "name": "甜豌豆",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "秋季采集",
+    "items": [
+     {
+      "name": "普通蘑菇",
+      "count": 1
+     },
+     {
+      "name": "野李子",
+      "count": 1
+     },
+     {
+      "name": "榛子",
+      "count": 1
+     },
+     {
+      "name": "黑莓",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "冬季采集",
+    "items": [
+     {
+      "name": "冬根",
+      "count": 1
+     },
+     {
+      "name": "水晶果",
+      "count": 1
+     },
+     {
+      "name": "雪山药",
+      "count": 1
+     },
+     {
+      "name": "番红花",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "建筑",
+    "items": [
+     {
+      "name": "木材",
+      "count": 99
+     },
+     {
+      "name": "石头",
+      "count": 99
+     },
+     {
+      "name": "硬木",
+      "count": 10
+     }
+    ]
+   },
+   {
+    "name": "异国情调采集",
+    "choose": 5,
+    "items": [
+     {
+      "name": "椰子",
+      "count": 1
+     },
+     {
+      "name": "仙人掌果",
+      "count": 1
+     },
+     {
+      "name": "山洞萝卜",
+      "count": 1
+     },
+     {
+      "name": "红蘑菇",
+      "count": 1
+     },
+     {
+      "name": "紫蘑菇",
+      "count": 1
+     },
+     {
+      "name": "枫糖浆",
+      "count": 1
+     },
+     {
+      "name": "橡树树脂",
+      "count": 1
+     },
+     {
+      "name": "松焦油",
+      "count": 1
+     },
+     {
+      "name": "羊肚菌",
+      "count": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "room": "储物间（茶水间）",
+  "bundles": [
+   {
+    "name": "春季作物",
+    "items": [
+     {
+      "name": "防风草",
+      "count": 1
+     },
+     {
+      "name": "青豆",
+      "count": 1
+     },
+     {
+      "name": "花椰菜",
+      "count": 1
+     },
+     {
+      "name": "土豆",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "夏季作物",
+    "items": [
+     {
+      "name": "西红柿",
+      "count": 1
+     },
+     {
+      "name": "辣椒",
+      "count": 1
+     },
+     {
+      "name": "蓝莓",
+      "count": 1
+     },
+     {
+      "name": "甜瓜",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "秋季作物",
+    "items": [
+     {
+      "name": "玉米",
+      "count": 1
+     },
+     {
+      "name": "茄子",
+      "count": 1
+     },
+     {
+      "name": "南瓜",
+      "count": 1
+     },
+     {
+      "name": "山药",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "高品质作物",
+    "choose": 3,
+    "items": [
+     {
+      "name": "金星防风草",
+      "count": 5
+     },
+     {
+      "name": "金星甜瓜",
+      "count": 5
+     },
+     {
+      "name": "金星南瓜",
+      "count": 5
+     },
+     {
+      "name": "金星玉米",
+      "count": 5
+     }
+    ]
+   },
+   {
+    "name": "动物制品",
+    "choose": 5,
+    "items": [
+     {
+      "name": "大壶牛奶",
+      "count": 1
+     },
+     {
+      "name": "棕色大鸡蛋",
+      "count": 1
+     },
+     {
+      "name": "大鸡蛋",
+      "count": 1
+     },
+     {
+      "name": "大瓶羊奶",
+      "count": 1
+     },
+     {
+      "name": "动物毛",
+      "count": 1
+     },
+     {
+      "name": "鸭蛋",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "工匠制品",
+    "choose": 6,
+    "items": [
+     {
+      "name": "松露油",
+      "count": 1
+     },
+     {
+      "name": "布料",
+      "count": 1
+     },
+     {
+      "name": "山羊奶酪",
+      "count": 1
+     },
+     {
+      "name": "奶酪",
+      "count": 1
+     },
+     {
+      "name": "蜂蜜",
+      "count": 1
+     },
+     {
+      "name": "果酱",
+      "count": 1
+     },
+     {
+      "name": "苹果",
+      "count": 1
+     },
+     {
+      "name": "杏子",
+      "count": 1
+     },
+     {
+      "name": "橙子",
+      "count": 1
+     },
+     {
+      "name": "桃子",
+      "count": 1
+     },
+     {
+      "name": "石榴",
+      "count": 1
+     },
+     {
+      "name": "樱桃",
+      "count": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "room": "鱼缸",
+  "bundles": [
+   {
+    "name": "河鱼",
+    "items": [
+     {
+      "name": "太阳鱼",
+      "count": 1
+     },
+     {
+      "name": "鲶鱼",
+      "count": 1
+     },
+     {
+      "name": "西鲱",
+      "count": 1
+     },
+     {
+      "name": "虎纹鳟鱼",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "湖鱼",
+    "items": [
+     {
+      "name": "大嘴鲈鱼",
+      "count": 1
+     },
+     {
+      "name": "鲤鱼",
+      "count": 1
+     },
+     {
+      "name": "大头鱼",
+      "count": 1
+     },
+     {
+      "name": "鲟鱼",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "海鱼",
+    "items": [
+     {
+      "name": "沙丁鱼",
+      "count": 1
+     },
+     {
+      "name": "金枪鱼",
+      "count": 1
+     },
+     {
+      "name": "红鲷鱼",
+      "count": 1
+     },
+     {
+      "name": "罗非鱼",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "夜间垂钓",
+    "items": [
+     {
+      "name": "大眼鱼",
+      "count": 1
+     },
+     {
+      "name": "鲷鱼",
+      "count": 1
+     },
+     {
+      "name": "鳗鱼",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "蟹笼",
+    "choose": 5,
+    "items": [
+     {
+      "name": "龙虾",
+      "count": 1
+     },
+     {
+      "name": "小龙虾",
+      "count": 1
+     },
+     {
+      "name": "螃蟹",
+      "count": 1
+     },
+     {
+      "name": "鸟蛤",
+      "count": 1
+     },
+     {
+      "name": "蚌",
+      "count": 1
+     },
+     {
+      "name": "虾",
+      "count": 1
+     },
+     {
+      "name": "蜗牛",
+      "count": 1
+     },
+     {
+      "name": "玉黍螺",
+      "count": 1
+     },
+     {
+      "name": "牡蛎",
+      "count": 1
+     },
+     {
+      "name": "蛤",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "特色鱼类",
+    "items": [
+     {
+      "name": "河豚",
+      "count": 1
+     },
+     {
+      "name": "鬼鱼",
+      "count": 1
+     },
+     {
+      "name": "沙鱼",
+      "count": 1
+     },
+     {
+      "name": "木跃鱼",
+      "count": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "room": "锅炉房（熔炉房）",
+  "bundles": [
+   {
+    "name": "铁匠",
+    "items": [
+     {
+      "name": "铜锭",
+      "count": 1
+     },
+     {
+      "name": "铁锭",
+      "count": 1
+     },
+     {
+      "name": "金锭",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "地质学家",
+    "items": [
+     {
+      "name": "石英",
+      "count": 1
+     },
+     {
+      "name": "地晶",
+      "count": 1
+     },
+     {
+      "name": "泪晶",
+      "count": 1
+     },
+     {
+      "name": "火水晶",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "冒险家",
+    "choose": 2,
+    "items": [
+     {
+      "name": "黏液",
+      "count": 99
+     },
+     {
+      "name": "蝙蝠翅膀",
+      "count": 10
+     },
+     {
+      "name": "太阳精华",
+      "count": 1
+     },
+     {
+      "name": "虚空精华",
+      "count": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "room": "布告栏",
+  "bundles": [
+   {
+    "name": "厨师",
+    "items": [
+     {
+      "name": "枫糖浆",
+      "count": 1
+     },
+     {
+      "name": "蕨菜",
+      "count": 1
+     },
+     {
+      "name": "松露",
+      "count": 1
+     },
+     {
+      "name": "虞美人",
+      "count": 1
+     },
+     {
+      "name": "生鱼寿司",
+      "count": 1
+     },
+     {
+      "name": "煎鸡蛋",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "染料",
+    "items": [
+     {
+      "name": "红蘑菇",
+      "count": 1
+     },
+     {
+      "name": "海胆",
+      "count": 1
+     },
+     {
+      "name": "向日葵",
+      "count": 1
+     },
+     {
+      "name": "鸭毛",
+      "count": 1
+     },
+     {
+      "name": "海蓝宝石",
+      "count": 1
+     },
+     {
+      "name": "红叶卷心菜",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "土地研究",
+    "items": [
+     {
+      "name": "紫蘑菇",
+      "count": 1
+     },
+     {
+      "name": "鹦鹉螺化石",
+      "count": 1
+     },
+     {
+      "name": "鲤鱼",
+      "count": 1
+     },
+     {
+      "name": "冷冻晶洞",
+      "count": 1
+     }
+    ]
+   },
+   {
+    "name": "饲料",
+    "items": [
+     {
+      "name": "小麦",
+      "count": 10
+     },
+     {
+      "name": "干草",
+      "count": 10
+     },
+     {
+      "name": "苹果",
+      "count": 3
+     }
+    ]
+   },
+   {
+    "name": "魔法师",
+    "items": [
+     {
+      "name": "橡树树脂",
+      "count": 1
+     },
+     {
+      "name": "果酒",
+      "count": 1
+     },
+     {
+      "name": "兔子的脚",
+      "count": 1
+     },
+     {
+      "name": "石榴",
+      "count": 1
+     }
+    ]
+   }
+  ]
+ },
+ {
+  "room": "电影院（废弃 Joja 超市改建）",
+  "optional": true,
+  "note": "不是社区中心的房间，是社区中心修好之后才出现的独立建筑。\n献祭流：修复社区中心后的第一个雨天或雷雨的前一天晚上睡觉，闪电劈开废弃 Joja 超市；进去拿到「失踪的收集包」，交齐后第二天雄莫把这里改建成电影院。\nJoja 流：完成全部 Joja 社区升级后，莫里斯可用 500,000g 把 Joja 仓库改建为电影院。\n两条路都得交齐下面这个包（Joja 流同样要交）。",
+  "bundles": [
+   {
+    "name": "失踪的收集包",
+    "items": [
+     {
+      "name": "银星果酒",
+      "count": 1,
+      "src": "木桶、姜岛度假村（任意水果；银星及以上品质）"
+     },
+     {
+      "name": "恐龙蛋黄酱",
+      "count": 1,
+      "src": "蛋黄酱机"
+     },
+     {
+      "name": "五彩碎片",
+      "count": 1,
+      "src": "采矿"
+     },
+     {
+      "name": "金星上古水果",
+      "count": 5,
+      "src": "农作物"
+     },
+     {
+      "name": "金星虚空鲑鱼",
+      "count": 1,
+      "src": "巫婆沼泽钓鱼（金或铱品质）"
+     },
+     {
+      "name": "鱼籽酱",
+      "count": 1,
+      "src": "罐头瓶：把鲟鱼鱼籽放进罐头瓶"
+     }
+    ]
+   }
+  ]
+ }
+]

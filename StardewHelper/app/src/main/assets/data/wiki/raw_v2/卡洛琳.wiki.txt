@@ -1,0 +1,487 @@
+{{Infobox villager
+|portrait  = Caroline.png
+|birthday  = {{Season|Winter|7}}
+|location  = 鹈鹕镇
+|address   = [[皮埃尔的杂货店]]
+|family    = {{NPC|Pierre|丈夫}}{{NPC|Abigail|女儿}}
+|friends   = {{NPC|Jodi}}
+|marriage  = 否
+|clinic    = {{Season|Fall|25}}
+|favorites = {{Name|Fish Taco}}{{Name|Green Tea}}{{Name|Summer Spangle}}{{Name|Tropical Curry}}
+}}
+{{Quote|我们刚搬到这里的时候，我花了些功夫才安顿下来……我对于家庭生活还没有做好准备。
+皮埃尔有点儿传统……但他是个好人。他也有雄心壮志，但他总把家庭放在第一位。|卡洛琳}}
+'''卡洛琳'''是居住在[[鹈鹕镇]]的一名[[居民]]。
+
+==日程表==
+姜岛[[姜岛#海滩度假村|海滩度假村]]修复后，卡洛琳偶尔会去度个假，下午6点离开小岛后，卡洛琳将立即回家睡觉。卡洛琳不会在节日或诊所预约日当天去度假。
+
+下面显示的是卡洛琳的行程表，从上到下优先级逐次下降，比如下雨时行程安排的优先级就会比它下面的高。如果是一个下雨的星期五，那么卡洛琳会按照下雨时的行程表行动。
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|春季15日（巴士站已修复）
+|-
+|style="width:15%"| 10:40 ||乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+| 11:00 ||站在[[沙漠节#村民商铺|村民商店]]的东侧。
+|-
+| 00:50 ||乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"| 11:10 ||乘坐巴士前往[[沙漠]]。
+|-
+| 11:30 ||到达她的[[沙漠节#村民商铺|商店摊位]]。
+|-
+| 00:00 ||离开摊位并乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|秋季25日
+|-
+|style="width:15%"| 08:00 ||在[[皮埃尔的杂货店|家]]中厨房。
+|-
+| 10:00 ||离开厨房前往她的卧室。
+|-
+| 12:00 ||前往[[哈维的诊所]]，然后站在候诊室中。
+|-
+| 13:30 ||走到诊所里靠左边的检查室。
+|-
+| 16:00 ||回家然后待在客厅里。
+|-
+| 21:00 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|冬季16日
+|-
+|style="width:15%"| 08:00 ||在[[皮埃尔的杂货店|家]]中厨房。
+|-
+| 12:00 ||走到杂货店的货架之间。
+|-
+| 13:30 ||出门前往小镇广场。
+|-
+| 16:00 ||离开小镇广场前往[[夜市]]。
+|-
+| 23:30 ||离开夜市回家。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"|全天||在[[皮埃尔的杂货店|家]]里的客厅。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|雨天
+|-
+|style="width:15%"| 08:00 ||在[[皮埃尔的杂货店|家]]中厨房。
+|-
+| 12:00 ||走到杂货店的货架之间。
+|-
+| 13:30 ||前往她的卧室并站在书架旁边看书。
+|-
+| 16:00 ||离开卧室前往客厅。
+|-
+| 21:00 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期二
+|-
+|style="width:15%"| 08:00 ||站在家里客厅最上面的桌子旁边。
+|-
+| 10:30 ||走到客厅中间。
+|-
+| 13:00 ||在客厅和其他有氧健身俱乐部的成员一起健身。
+|-
+| 16:00 ||结束健身，待在客厅里和其他人聊天。
+|-
+| 18:10 ||前往厨房吃点零食。
+|-
+| 21:00 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期三
+|-
+|style="width:15%"| 08:00 ||在[[皮埃尔的杂货店|家]]中厨房。
+|-
+| 10:00 ||前往家里的日光房，站在茶苗旁边。
+|-
+| 12:00 ||出门前往[[社区中心]]左边的喷泉。
+|-
+| 17:00 ||回家站在客厅里。
+|-
+| 21:00 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期五
+|-
+|style="width:15%"| 08:00 ||在[[皮埃尔的杂货店|家]]中厨房。
+|-
+| 10:00 ||前往家里的日光房，站在茶苗旁边。
+|-
+| 12:00 ||出门前往[[博物馆]]看书。
+|-
+| 17:00 ||回家待在客厅中。
+|-
+| 21:00 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期六（社区中心已修复）
+|-
+|style="width:15%"| 08:00 ||在[[皮埃尔的杂货店|家]]中厨房。
+|-
+| 11:00 ||出门前往[[社区中心]]，然后待在大厅的书架旁边看书。
+|-
+| 17:00 ||回家站在客厅里。
+|-
+| 21:00 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期天
+|-
+|style="width:15%"| 09:00 ||站在她的卧室里。
+|-
+| 10:40 ||在卧室的书架旁边看书。
+|-
+| 13:30 ||走到杂货店的货架之间。
+|-
+| 14:40 ||出门前往[[社区中心]]南边的树下。
+|-
+| 18:30 ||回家站在她的卧室里。
+|-
+| 21:00 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|日常时间表
+|-
+|style="width:15%"| 08:00 ||在[[皮埃尔的杂货店|家]]中厨房。
+|-
+| 10:00 ||前往家里的日光房，站在茶苗旁边。
+|-
+| 12:00 ||走到杂货店的货架之间。
+|-
+| 13:30 ||出门，和[[乔迪]]一起站在小镇广场。
+|-
+| 16:00 ||回家站在客厅里。
+|-
+| 21:00 ||上床睡觉。
+|-
+|}
+
+==人际关系==
+卡洛琳与[[皮埃尔]]是夫妻，他们和女儿[[阿比盖尔]]一起住在[[皮埃尔的杂货店‏‎]]。
+
+每个星期二，卡洛琳会和[[乔迪]]、[[玛妮]]、[[艾米丽]]、[[罗宾]]一起参加有氧健身俱乐部。
+
+[[乔迪]]的对话中称，卡洛琳是她的好朋友，她与卡洛琳无话不说。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|你把这个送给我？我开心得不知道说什么了。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Caroline Happy.png|48px|center]]
+|colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Fish Taco.png|center]]
+|[[鱼肉卷]]
+|{{Description|Fish Taco}}
+|[[烹饪]]
+|{{Name|Tuna|1}}{{Name|Tortilla|1}}{{Name|Red Cabbage|1}}{{Name|Mayonnaise|1}}
+|-
+|[[File:Green Tea.png|center]]
+|[[绿茶]]
+|{{Description|Green Tea}}
+|[[小桶]]
+|{{Name|Tea Leaves|1}}
+|-
+|[[File:Summer Spangle.png|center]]
+|class="no-wrap"|[[夏季亮片]]
+|{{Description|Summer Spangle}}
+|[[农作物|耕种]] - [[夏季]]
+|
+|-
+|[[File:Tropical Curry.png|center]]
+|[[热带咖喱]]
+|{{Description|Tropical Curry}}
+|[[烹饪]]
+|{{Name|Coconut|1}}{{Name|Pineapple|1}}{{Name|Hot Pepper|1}}
+|}
+
+===喜欢===
+{{Squote|噢，天哪！你真的送给我？}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Caroline Happy.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[苋菜]]、[[鸭蛋黄酱]]、[[蛋黄酱]]）</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集#春季|采集]] - [[春季]]
+|-
+|[[File:Tea Leaves.png|center]]
+|[[茶叶]]
+|{{Description|Tea Leaves}}
+|[[茶树]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|}
+
+===一般===
+{{Squote|噢，这个不错。谢谢。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Caroline.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[茶叶]]）</li><li>'''所有蛋类'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]和[[美洲大树莓]]）</li><li>'''所有奶类'''</li></ul>
+|}
+<nowiki>*</nowiki>''注意[[恐龙蛋]]在送礼时被视为[[古物]]而不是蛋类。''
+
+===不喜欢===
+{{Squote|不，不，不……}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Caroline Concerned.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''</li></ul>
+|-
+|[[File:Amaranth.png|center]]
+|[[苋菜]]
+|{{Description|Amaranth}}
+|[[农作物#苋菜|耕种]] - [[秋季]]
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Duck Mayonnaise.png|center]]
+|[[鸭蛋黄酱]]
+|{{Description|Duck Mayonnaise}}
+|[[蛋黄酱机]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Mayonnaise.png|center]]
+|[[蛋黄酱]]
+|{{Description|Mayonnaise}}
+|[[蛋黄酱机]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===讨厌===
+{{Squote|这完全是垃圾。我感觉被侮辱了。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Caroline Concerned.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[采集]] - 矿井
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物
+|{{MailByType|礼物}}
+|二心
+|<nowiki />
+{{Event
+ |hearts  = 2
+ |trigger = 晴天早上9点至下午5点之间，打开卡洛琳家的厨房左上方的门进入日光房。
+ |details=
+[[File:Caroline Sunroom.png|thumb|160px|right|日光房内部]]
+卡洛琳向你展示她的新“私人”日光房，并询问你的看法。
+*{{Choice|很漂亮！|0}}
+*{{Choice|很舒适。|0}}
+*{{Choice|这里太热了……|0}}
+*{{Choice|没有我的农场好！|0}}
+卡洛琳继续向你描述这个日光房是让她感到宁静的庇护所，并邀请你喝一杯家里自己种的[[绿茶]]。你可以选择“是”或“否”（不会影响好感度）。随后会播放一段动画，接着卡洛琳表示欢迎你随时来这里放松。
+
+日光房在这之后便会解锁，玩家可以在任何时候进入。日光房内有一株[[茶树]]，可以在每个季节最后一周内每天收获一个[[茶叶]]。
+
+触发事件后第二天，卡洛琳会将[[茶苗]]的配方寄给你。
+ |quote = 我一直想给你展示一下的……这是我的私人日光室。
+ |dialogues = {{EventByID|719926}}
+}}
+|三心
+|{{MailByType|食谱|3|Parsnip Soup}}
+|六心
+|<nowiki />
+{{Event
+ |hearts  = 6
+ |trigger = 卡洛琳和[[阿比盖尔]]都在家时，进入[[皮埃尔的杂货店]] 。
+ |details = [[卡洛琳]]和阿比盖尔在厨房吵架。二人的争吵以卡洛琳道歉结束。此时阿比盖尔注意到屋子里好像有其他人，玩家担心被发现，走掉了，阿比盖尔以为是房子里面闹鬼。
+ |quote = ……你说得对。我很抱歉。
+ |dialogues = {{EventByID|17}}
+}}
+|七心
+|{{MailByType|食谱|7|Vegetable Medley}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|特殊|{{Dialogue|特殊}}
+}}
+
+==任务==
+*任务[[任务#Carving Pumpkins|“雕刻南瓜”]]：[[秋季]]19日时，卡洛琳会来信请玩家给她带一个[[南瓜]]。任务奖励是{{Price|500}}并会增加与卡洛琳间的1心[[友谊|好感度]]。
+*特别任务[[任务#Island Ingredients|“岛屿食材”]]：第一年[[秋季]]2日解锁特别任务板后，玩家有几率接到来自卡洛琳的特别任务，要求玩家在28天内售出100份特定农作物（[[芋头]]/[[姜]]/[[菠萝]]之一）。任务奖励为等同于普通品质农作物50%价格的金币，玩家还会在任务完成的第二天收到来自卡洛琳的[[太阳能板]]配方。
+*卡洛琳可能会随机在[[皮埃尔的杂货店]]外面的布告栏上发布[[任务#求助任务|求助任务]]，任务奖励金币为3倍普通品质需求物品的价格以及150点[[友谊|好感度]]。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Caroline.png
+File:Caroline Happy.png
+File:Caroline Concerned.png
+File:Caroline Neutral.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Caroline Winter 00.png
+File:Caroline Winter 01.png
+File:Caroline Winter 02.png
+File:Caroline Winter 03.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Caroline Beach.png
+File:Caroline Beach Happy.png
+File:Caroline Beach Concerned.png
+File:Caroline Beach Neutral.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==你知道吗==
+*卡洛琳会在信中给你寄[[防风草汤]]的菜谱，但她的丈夫却讨厌这道菜。
+*卡洛琳讨厌[[蛋黄酱]]，而需要用到蛋黄酱制作的[[鱼肉卷]]却是她的最爱。
+*不论天气如何，卡洛琳偶尔会有这样的对话：“今天天气真不错呢。在这样的日子里，我喜欢去帮[[艾芙琳]]照料公共花园。”
+**无论任何天气，游戏中都没有她帮助艾芙琳照料花园的画面。
+*卡洛琳日光房的茶苗是可以获得的，玩家需要用任意斧头砍茶树200下即可挖掉茶树获得一个[[茶苗]]，并且该茶树每天都会重新长出。
+
+==漏洞==
+*即使玩家已经重建了[[社区中心]]，[[皮埃尔的杂货店]]也已经每天都营业。在夏季时，卡洛琳有时候依然会说：“周三的时候商店不开门哦。如果要买东西的话，可一定要牢记啊。”
+
+==历史==
+{{History|1.4|新增2心事件。新增绿茶为卡洛琳的最爱，茶叶为喜欢。修复了达到3心好感度后卡洛琳会寄送所有食谱的问题。}}
+{{History|1.5|新增了卡洛琳在海滩度假村时的肖像。}}
+{{history|1.6|现在卡洛琳喜欢野山葵。新增冬季肖像。新增收到特定礼物时独特对话。}}
+
+{{NavboxVillagers}}
+
+[[Category:NPC]]
+
+{{EN|Caroline}}

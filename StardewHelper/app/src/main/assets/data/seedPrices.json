@@ -1,0 +1,353 @@
+[
+ {
+  "name": "防风草种子",
+  "year2": false,
+  "pierre": 20,
+  "pierreOff": 30,
+  "joja": 25,
+  "jojaMember": 20,
+  "note": ""
+ },
+ {
+  "name": "青豆种子",
+  "year2": false,
+  "pierre": 60,
+  "pierreOff": 90,
+  "joja": 75,
+  "jojaMember": 60,
+  "note": ""
+ },
+ {
+  "name": "花椰菜种子",
+  "year2": false,
+  "pierre": 80,
+  "pierreOff": 120,
+  "joja": 100,
+  "jojaMember": 80,
+  "note": ""
+ },
+ {
+  "name": "土豆种子",
+  "year2": false,
+  "pierre": 50,
+  "pierreOff": 75,
+  "joja": 62,
+  "jojaMember": 50,
+  "note": ""
+ },
+ {
+  "name": "郁金香球茎",
+  "year2": false,
+  "pierre": 20,
+  "pierreOff": 30,
+  "joja": 25,
+  "jojaMember": 20,
+  "note": ""
+ },
+ {
+  "name": "甘蓝种子",
+  "year2": false,
+  "pierre": 70,
+  "pierreOff": 105,
+  "joja": 87,
+  "jojaMember": 70,
+  "note": ""
+ },
+ {
+  "name": "蓝爵士种子",
+  "year2": false,
+  "pierre": 30,
+  "pierreOff": 45,
+  "joja": 37,
+  "jojaMember": 30,
+  "note": ""
+ },
+ {
+  "name": "大蒜种子",
+  "year2": true,
+  "pierre": 40,
+  "pierreOff": 60,
+  "joja": null,
+  "jojaMember": null,
+  "note": ""
+ },
+ {
+  "name": "甜瓜种子",
+  "year2": false,
+  "pierre": 80,
+  "pierreOff": 120,
+  "joja": 100,
+  "jojaMember": 80,
+  "note": ""
+ },
+ {
+  "name": "西红柿种子",
+  "year2": false,
+  "pierre": 50,
+  "pierreOff": 75,
+  "joja": 62,
+  "jojaMember": 50,
+  "note": ""
+ },
+ {
+  "name": "蓝莓种子",
+  "year2": false,
+  "pierre": 80,
+  "pierreOff": 120,
+  "joja": null,
+  "jojaMember": null,
+  "note": ""
+ },
+ {
+  "name": "辣椒种子",
+  "year2": false,
+  "pierre": 40,
+  "pierreOff": 60,
+  "joja": 50,
+  "jojaMember": 40,
+  "note": ""
+ },
+ {
+  "name": "小麦种子",
+  "year2": false,
+  "pierre": 10,
+  "pierreOff": 15,
+  "joja": 12,
+  "jojaMember": 10,
+  "note": ""
+ },
+ {
+  "name": "萝卜种子",
+  "year2": false,
+  "pierre": 40,
+  "pierreOff": 60,
+  "joja": 50,
+  "jojaMember": 40,
+  "note": ""
+ },
+ {
+  "name": "虞美人种子",
+  "year2": false,
+  "pierre": 100,
+  "pierreOff": 150,
+  "joja": 125,
+  "jojaMember": 100,
+  "note": ""
+ },
+ {
+  "name": "夏季亮片种子",
+  "year2": false,
+  "pierre": 50,
+  "pierreOff": 75,
+  "joja": 62,
+  "jojaMember": 50,
+  "note": ""
+ },
+ {
+  "name": "啤酒花种子",
+  "year2": false,
+  "pierre": 60,
+  "pierreOff": 90,
+  "joja": 75,
+  "jojaMember": 60,
+  "note": ""
+ },
+ {
+  "name": "玉米种子",
+  "year2": false,
+  "pierre": 150,
+  "pierreOff": 225,
+  "joja": 187,
+  "jojaMember": 150,
+  "note": ""
+ },
+ {
+  "name": "向日葵种子",
+  "year2": false,
+  "pierre": 200,
+  "pierreOff": 300,
+  "joja": 125,
+  "jojaMember": "100g（比皮埃尔低）",
+  "note": ""
+ },
+ {
+  "name": "红叶卷心菜种子",
+  "year2": true,
+  "pierre": 100,
+  "pierreOff": 150,
+  "joja": null,
+  "jojaMember": null,
+  "note": ""
+ },
+ {
+  "name": "茄子种子",
+  "year2": false,
+  "pierre": 20,
+  "pierreOff": 30,
+  "joja": 25,
+  "jojaMember": 20,
+  "note": ""
+ },
+ {
+  "name": "南瓜种子",
+  "year2": false,
+  "pierre": 100,
+  "pierreOff": 150,
+  "joja": 125,
+  "jojaMember": 100,
+  "note": ""
+ },
+ {
+  "name": "小白菜种子",
+  "year2": false,
+  "pierre": 50,
+  "pierreOff": 75,
+  "joja": 62,
+  "jojaMember": 50,
+  "note": ""
+ },
+ {
+  "name": "山药种子",
+  "year2": false,
+  "pierre": 60,
+  "pierreOff": 90,
+  "joja": 75,
+  "jojaMember": 60,
+  "note": ""
+ },
+ {
+  "name": "蔓越莓种子",
+  "year2": false,
+  "pierre": 240,
+  "pierreOff": 360,
+  "joja": 300,
+  "jojaMember": 240,
+  "note": ""
+ },
+ {
+  "name": "玫瑰仙子种子",
+  "year2": false,
+  "pierre": 200,
+  "pierreOff": 300,
+  "joja": 250,
+  "jojaMember": 200,
+  "note": ""
+ },
+ {
+  "name": "苋菜种子",
+  "year2": false,
+  "pierre": 70,
+  "pierreOff": 105,
+  "joja": 87,
+  "jojaMember": 70,
+  "note": ""
+ },
+ {
+  "name": "葡萄种子",
+  "year2": false,
+  "pierre": 60,
+  "pierreOff": 90,
+  "joja": 75,
+  "jojaMember": 60,
+  "note": ""
+ },
+ {
+  "name": "洋蓟种子",
+  "year2": true,
+  "pierre": 30,
+  "pierreOff": 45,
+  "joja": null,
+  "jojaMember": null,
+  "note": ""
+ },
+ {
+  "name": "大黄种子",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "绿洲 100；旅行货车 150~1,000"
+ },
+ {
+  "name": "甜菜种子",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "绿洲 20；旅行货车 100~1,000"
+ },
+ {
+  "name": "杨桃种子",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "绿洲 400；旅行货车随机"
+ },
+ {
+  "name": "草莓种子",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "复活节（春 13）皮埃尔摊位 100；沙漠节 5 / 6 个卡利科三花蛋，玛鲁 10 个（限 20）"
+ },
+ {
+  "name": "咖啡豆",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "旅行货车 2,500（秋、冬 25% 概率上架）；姜岛探索获取"
+ },
+ {
+  "name": "芋头块茎",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "姜岛商人：2 个骨头碎片（只换不卖，不收金币）"
+ },
+ {
+  "name": "胡萝卜种子",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "不可用金币购买，见下方"
+ },
+ {
+  "name": "西蓝花种子",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "不可用金币购买，见下方"
+ },
+ {
+  "name": "夏南瓜种子、霜瓜种子",
+  "year2": false,
+  "pierre": null,
+  "pierreOff": null,
+  "joja": null,
+  "jojaMember": null,
+  "note": "不可用金币购买；中文 wiki 暂无页面，具体途径未核"
+ },
+ {
+  "name": "稻苗种子",
+  "year2": false,
+  "pierre": 40,
+  "pierreOff": 60,
+  "joja": null,
+  "jojaMember": null,
+  "note": "仅春季出售（1.6 新增）"
+ }
+]

@@ -1,0 +1,332 @@
+{{Infobox villager
+|portrait  = Sandy.png
+|birthday  = {{Season|秋季|15}}
+|location  = 沙漠
+|address   = [[绿洲]]
+|friends   = {{NPC|Emily}}
+|marriage  = 否
+|favorites = {{name|Crocus}}{{name|Daffodil}}{{name|Mango Sticky Rice}}{{name|Sweet Pea}}
+}}
+{{Quote|我的真名不是桑迪，你懂的，为了工作嘛。|桑迪}}
+'''桑迪'''是一位住在[[沙漠|卡利科沙漠]]的[[居民]]，她经营着沙漠中一家叫做[[绿洲]]的商店。玩家需要通过完成[[收集包#金库|金库收集包]]、修好巴士，或者通过[[Joja社区发展申请书]]花费{{price|40000}}购买“公共汽车”，才能去沙漠并见到桑迪。
+
+==日程表==
+桑迪通常不会离开[[绿洲]]，除了在她生日（秋季15日）和[[沙漠节]]期间。其他时间只要在商店营业时间内（09:00到23:50），都可以在[[绿洲]]找到她。
+
+如果[[巴士站]]已修复，在秋季15日这一天，绿洲会在上午营业，但在13:00，桑迪会离开商店，与艾米丽一起在沙漠中散步。
+
+桑迪不会去[[姜岛#海滩度假村|姜岛的海滩度假村]]。
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季15日、16日和17日（巴士站已修复）
+|-
+|style="width:15%"|08:30
+|离开[[绿洲]]，站在[[艾米丽]]的[[沙漠节#艾米丽的服装服务|服装服务]]小屋前。
+|-
+|00:00
+|返回绿洲。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|秋季15日（巴士站已修复）
+|-
+|style="width:15%"|09:00
+|在[[绿洲]]的柜台后方。
+|-
+|12:00
+|在柜台后方，侧身与[[艾米丽]]聊天。
+|-
+|13:00
+|离开绿洲商店，和艾米丽一起站在绿洲前的长椅旁。
+|-
+|15:00
+|从绿洲走到沙漠西北方的池塘旁。
+|-
+|17:00
+|从池塘走到[[沙漠#Sand Dragon|沙之巨龙]]旁。
+|-
+|18:00
+|从沙之巨龙走到沙漠中的巴士旁。
+|-
+|19:00
+|从巴士走到[[沙漠商人]]旁。
+|-
+|20:00
+|返回[[绿洲]]门口。
+|-
+|22:50
+|离开[[绿洲]]门口。
+|-
+|23:30
+|到达巴士旁的长椅处。
+|-
+|00:00
+|送别[[艾米丽]]。
+|-
+|00:10
+|返回[[绿洲]]。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|日常时间表
+|-
+|style="width:15%"|全天
+|在[[绿洲]]的柜台后方。
+|}
+
+==人际关系==
+桑迪允许[[齐先生]]在她商店后面经营[[赌场]]，但他们并不熟悉，因为齐先生给的租金丰厚，所以她不会过问齐先生的事情。她还提到了她跟[[艾米丽]]是朋友，初次见面的时候，桑迪就会说艾米丽给她写信提到过玩家。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|噢！我真的超喜欢收到来自镇里的礼物。我太开心了！ ~}} 
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Sandy Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Crocus.png|center]]
+|[[番红花]]
+|{{Description|Crocus}}
+|[[采集]] - [[冬季]]
+|
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|
+|-
+|[[File:Mango Sticky Rice.png|center]]
+|[[芒果糯米饭]]
+|{{Description|Mango Sticky Rice}}
+|[[烹饪]]
+|{{name|Mango|1}}{{name|Coconut|1}}{{name|Rice|1}}
+|-
+|[[File:Sweet Pea.png|center]]
+|[[甜豌豆]]
+|{{Description|Sweet Pea}}
+|[[采集]] - [[夏季]]
+|
+|}
+
+===喜欢===
+{{Squote|看起来很棒。太谢谢啦！}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Sandy Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''</li><li>'''所有[[水果]]'''</li></ul>
+|-
+|[[File:Goat Milk.png|center]]
+|[[羊奶]]
+|{{Description|Goat Milk}}
+|[[山羊]]
+|-
+|[[File:Large Goat Milk.png|center]]
+|[[大瓶羊奶]]
+|{{Description|Large Goat Milk}}
+|[[山羊]]
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[采集]] - 矿井
+|-
+|[[File:Wool.png|center]]
+|[[动物毛]]
+|{{Description|Wool}}
+|[[动物|绵羊, 兔子]]
+|}
+
+===一般===
+{{Squote|这是给我的吗？非常感谢！}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Sandy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[动物毛]]）</li><li>'''所有蛋'''（除了[[虚空蛋]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Large Milk.png|center]]
+|[[大壶牛奶]]
+|{{Description|Large Milk}}
+|[[牛]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Milk.png|center]]
+|[[牛奶]]
+|{{Description|Milk}}
+|[[牛]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集|冬季]]
+|}
+
+===不喜欢===
+{{Squote|噢！嗯。谢谢你了。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Sandy Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''</li></ul>
+|}
+
+===讨厌===
+{{Squote|*吸气*……这是什么？}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Sandy Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|初见
+|<nowiki />
+{{Event
+ |hearts  = 0
+ |quote = 有……顾客？
+ |trigger = 玩家赚取至少{{Price|10}} 后，首次进入[[绿洲]]时触发。
+ |details = 
+ |dialogues = {{EventByID|67}}
+}}
+|礼物
+|{{MailByType|礼物}}
+|七心
+|{{MailByType|食谱|7|Tom Kha Soup}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|特殊|{{Dialogue|特殊}}
+}}
+
+== 任务 ==
+*桑迪可能会在[[皮埃尔的杂货店]]外边的[[任务#求助任务|布告栏]]上随机发布要求提供一件物品的求助任务。奖励是与物品的三倍价值等值的金币和150[[友谊|友谊点]]。
+*在[[任务#剧情任务|“海盗的妻子”]]任务中，玩家需要将[[任务#任务相关物品|星露谷玫瑰]]交给桑迪。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Sandy.png
+File:Sandy Happy.png
+File:Sandy Concerned.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==你知道吗==
+*桑迪的初次见面对话有一个隐藏条件：玩家至少已经赚取了10金。
+**如果玩家尝试通过非正常手段在游戏极早期进入绿洲，将不会正常触发对话剧情。
+*桑迪不是她的真名。游戏中并未提及她的真名是什么。
+**桑迪（Sandy）可能暗指她的所在地，她的英文原名意为沙地（此处指的是[[沙漠|卡利科沙漠]]的沙地，而非矿井的[[矿井#沙地|沙地]]）。
+*桑迪会在[[任务#求助任务|布告栏]]上随机发布请求提供一件物品的任务，但酬金或许还不及车费。
+*周五和桑迪对话，她可能会说：“在这里耕种不会有好结果，甜心。除非你是想种仙人掌”。但是实际上，玩家并不能在[[沙漠]]种[[仙人掌种子]]。
+*周六和桑迪对话，她可能会说：“你看起来很口渴。来，尝尝这杯冰冻鲜奶”，并给玩家一杯[[牛奶]]。
+*桑迪可能会和[[艾米丽]]一起去[[电影院]]看电影。
+*只有进入过[[绿洲]]，沙漠节期间才能给桑迪送礼。
+
+==历史==
+{{History|1.3.27|桑迪的信使用了一种新的白色内衬信纸，这是她独有的。}}
+{{history|1.6|现在收到特定礼物时会有独特的对话。现在桑迪会出席[[沙漠节]]。}}
+
+{{NavboxVillagers}}
+
+{{EN|Sandy}}

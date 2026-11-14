@@ -1,0 +1,374 @@
+{{Infobox villager
+|portrait  = George.png
+|birthday  = {{Season|Fall|24}}
+|location  = 鹈鹕镇
+|address   = [[河间大道1号]]
+|family    = {{NPC|Evelyn|妻子}}{{NPC|Alex|外孙}}
+|marriage  = 否
+|clinic    = 每季第23日
+|favorites = {{Name|Fried Mushroom}}{{Name|Leek}}
+}}
+{{Quote|我的爷爷也是农夫。这是个令人尊敬的职业。如果我年轻一点我就去你的农场指点你几招了。|乔治}}
+
+'''乔治·莫尔纳'''是居住在[[鹈鹕镇]]的一名[[居民]]。
+
+==日程表==
+下面显示的是乔治的日程表，从上到下按优先顺序排列。例如，如果下雨，那么此日程就将覆盖其下的所有日程。
+
+每个季节第23天，乔治都会和[[艾芙琳]]一起去[[哈维的诊所]]体检。乔治不会去姜岛的[[姜岛#海滩度假村|海滩度假村]]。
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季17日（巴士站已修复）
+|-
+|style="width:15%"| 09:40 ||乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+| 09:50 ||与[[艾芙琳]]一同在靠近巴士的路边。
+|-
+| 22:50 ||乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"| 11:10 ||乘坐巴士前往[[沙漠]]。
+|-
+| 11:30 ||到达他的[[沙漠节#村民商铺|商店摊位]]。
+|-
+| 00:00 ||离开摊位并乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|冬季17日
+|-
+|style="width:15%"| 06:30 ||在家看电视。
+|-
+| 12:00 ||在家里厨房的餐桌旁边。
+|-
+| 16:20 ||离开家前往[[夜市]]。
+|-
+| 23:40 ||离开夜市回家。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"|全天||位于厨房。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|每个季节的23日（星期二）
+|-
+|style="width:15%"| 06:30 ||在家里厨房的餐桌旁边。
+|-
+| 10:30 ||离开家前往[[哈维的诊所]]的候诊室。
+|-
+| 13:30 ||前往诊所里靠左边的检查室。
+|-
+| 16:00 ||离开诊所回家看电视。
+|-
+| 20:00 ||回到他的卧室睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|雨天
+|-
+|style="width:15%"| 06:30 ||在家看电视。
+|-
+| 12:00 ||在家里厨房的餐桌旁边。
+|-
+| 15:00 ||再次回去看电视。
+|-
+| 20:00 ||回到他的卧室睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|夏季的星期五
+|-
+|style="width:15%"| 06:30 ||在家看电视。
+|-
+| 12:00 ||离开家待在家旁边的的树下面。
+|-
+| 15:00 ||回家看电视。
+|-
+| 20:00 ||回到他的卧室睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期天（已触发[[亚历克斯]]14心事件）
+|-
+|style="width:15%"| 06:30 ||在家看电视。
+|-
+|11:00
+|前往[[星之果实酒吧]]的里屋看体育比赛。
+|-
+| 15:00 ||回家看电视。
+|-
+| 20:00 ||回到他的卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期天
+|-
+|style="width:15%"| 06:30 ||在家看电视。
+|-
+|10:00
+|离开家前往[[皮埃尔]]家中的[[由巴]]祭坛处。
+|-
+|14:00
+|离开[[由巴]]祭坛回家继续看电视。
+|-
+|20:00
+|回到他的卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|日常时间表
+|-
+|style="width:15%"| 06:30 ||在家看电视。
+|-
+| 12:00 ||在家里厨房的餐桌旁边。
+|-
+| 15:00 ||继续去看电视。
+|-
+| 20:00 ||回到他的卧室睡觉。
+|-
+|}
+
+==人际关系==
+乔治是[[艾芙琳]]的丈夫，与外孙[[亚历克斯]]住在一起。[[亚历克斯]]过世的母亲[[克莱拉]]是乔治的女儿。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|这是我最喜欢的东西！谢谢。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:George Happy.png|48px|center]]
+|colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Fried Mushroom.png|center]]
+|[[炒蘑菇]]
+|{{Description|Fried Mushroom}}
+|[[烹饪]]
+|{{Name|Common Mushroom|1}}{{Name|Morel}}{{Name|Oil|1}}
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集#春季|采集]] - [[春季]]
+|
+|}
+
+===喜欢===
+{{Squote|谢谢你啊。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:George Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了'''[[花]]'''）</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集#春季|采集]] - [[春季]]
+|}
+
+===一般===
+{{Squote|礼物？唔……}}
+如果玩家在送出一般礼物后再次与乔治对话，他会说：
+{{Squote|你想要什么回礼吗？}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:George.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''</li><li>'''所有的蛋类'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]和[[美洲大树莓]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[春季]]<br />[[山洞]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+<nowiki>*</nowiki>''注意[[恐龙蛋]]在送礼时被视为[[古物]]而不是蛋类。''
+
+===不喜欢===
+{{Squote|真是个糟糕的礼物。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:George Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[粘土]]）</li><li>'''所有[[花]]'''（除了[[虞美人花]]）</li></ul>
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|}
+
+===讨厌===
+{{Squote|这是我见过最烂的礼物了。多谢。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:George Concerned.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|-
+|[[File:Clay.png|center]]
+|[[粘土]]
+|{{Description|Clay}}
+|[[采集]] - [[锄头]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[采集]] - [[矿井]]
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{Tabs
+|title1=礼物|content1={{MailByType|礼物}}
+|title2=三心|content2={{MailByType|食谱|3|Fried Eel}}
+|title3=六心|content3=<nowiki/>
+{{Event
+ |hearts = 6
+ |quote = 那是 30 年前，如果不是那场意外……
+ |trigger = 乔治在家时，进入他的家。
+ |details = 来到乔治家里时，玩家会发现他挣扎着想够书架上的什么东西。玩家走过去帮了他。他会对玩家表示感谢，然后是一阵沉默。随后乔治会告诉玩家自己无法走路的原因是使用炸药不慎。
+ |dialogues = {{EventByID|18}}
+}}
+|title4=七心|content4={{MailByType|食谱|7|Spicy Eel}}
+}}
+
+==对话==
+{{Tabs
+|title1=日常|content1={{Dialogue|日常}}
+|title2=节日|content2={{Dialogue|节日}}
+|title3=人际|content3={{Dialogue|关系}}
+|title4=特殊|content4={{Dialogue|特殊}}
+}}
+
+==任务==
+*任务[[任务#Knee Therapy|“膝盖疗养”]]：[[夏季]]25日的时候，乔治会来信要求玩家带一个[[辣椒]]给他。任务奖励为{{Price|200}}并会增加与乔治间的1心[[友谊|好感度]]。
+*乔治可能会随机在[[皮埃尔的杂货店]]外面的布告栏上发布[[任务#求助任务|求助任务]]，任务奖励金币为3倍普通品质需求物品的价格以及150点[[友谊|好感度]]。
+*在任务[[任务#The_Pirates_Wife|“海盗的妻子”]]中，需要把[[任务#Advanced TV Remote|高级电视遥控器]]交给乔治。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:George.png
+File:George Happy.png
+File:George Concerned.png
+File:George Annoyed.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:George Winter 00.png
+File:George Winter 01.png
+File:George Winter 02.png
+File:George Winter 03.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==历史==
+{{History|1.4|修复了达到 3 心好感度后乔治会寄送所有食谱的问题。}}
+{{History|1.6|新增收到特定礼物时的对话。新增冬季肖像。}}
+
+{{NavboxVillagers}}
+
+[[Category:NPC]]
+
+{{EN|George}}

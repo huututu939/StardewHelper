@@ -1,0 +1,578 @@
+{{Infobox villager
+|portrait  = Evelyn.png
+|birthday  = {{Season|冬季|20}}
+|location  = 鹈鹕镇
+|address   = [[河间大道1号]]
+|family    = {{NPC|George|丈夫}}{{NPC|Alex|外孙}}
+|marriage  = 否
+|clinic    = 每季第2日<br />每季第23日（与[[乔治]]一起）
+|favorites = {{name|Beet}}{{name|Chocolate Cake}}{{name|Diamond}}{{name|Fairy Rose}}{{name|Raisins}}{{name|Stuffing}}{{name|Tulip}}
+}}
+{{Quote|艾芙琳在鹈鹕镇生活了一辈子。她总是充满希望、积极向上。“奶奶”的日常就是照顾小镇上的花园，烘培她的秘制饼干和追忆星露谷光辉的往事。|[https://steamcommunity.com/market/listings/753/413150-Evelyn Steam 集换式卡牌描述]}}
+
+'''艾芙琳'''是一位住在[[鹈鹕镇]]上的[[居民]]，负责照顾小镇的花园。
+
+==日程表==
+艾芙琳常常待在家中的厨房里，或者在照料镇中心的花园。
+
+每个季节的第2天，她都会去[[哈维的诊所]]体检。每个季节的第23天，她会陪乔治一起去体检。艾芙琳不会去姜岛的[[姜岛#海滩度假村|海滩度假村]]。
+
+下面显示的是艾芙琳的日程表，从上到下按优先顺序排列。例如，如果下雨，那么此日程就将覆盖其下的所有日程。
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季17日（巴士站已修复）
+|-
+|style="width:15%"|09:50
+|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+|10:00
+|与[[乔治]]一同在靠近巴士的路边。
+|-
+|22:50
+|乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"|11:10
+|乘坐巴士前往[[沙漠]]。
+|-
+|11:30
+|到达她的[[沙漠节#村民商铺|商店摊位]]。
+|-
+|00:00
+|离开摊位并乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"|全天
+|站在厨房里。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|每个季节的第2天（星期二）
+|-
+|style="width:15%"|08:00
+|在家中的厨房。
+|-
+|10:30
+|离开家，前往[[哈维的诊所]]的候诊室。
+|-
+|13:30
+|走到诊所里靠左边的检查室。
+|-
+|16:00
+|离开诊所，回到家里的厨房。
+|-
+|19:00
+|走到她家客厅的书架前。
+|-
+|21:30
+|去卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|每个季节的第23天（星期二）
+|-
+|style="width:15%"|08:00
+|在家中的厨房。
+|-
+|10:40
+|和[[乔治]]一起离开家，前往[[哈维的诊所]]的候诊室。
+|-
+|13:30
+|和乔治一起前往检查室。
+|-
+|16:10
+|离开诊所，回到家里的厨房。
+|-
+|19:00
+|走到她家客厅的书架前。
+|-
+|21:30
+|去卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|冬季17日
+|-
+|style="width:15%"|08:00
+|在家中的厨房。
+|-
+|10:40
+|陪乔治看电视。
+|-
+|12:10
+|站在餐桌旁。
+|-
+|13:00
+|在家里坐着。
+|-
+|16:30
+|到达[[夜市]]。
+|-
+|23:40
+|回到卧室。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|雨天
+|-
+|style="width:15%"|08:00
+|在家中的厨房。
+|-
+|10:40
+|陪乔治看电视。
+|-
+|12:10
+|站在餐桌旁。
+|-
+|16:30
+|站在厨房电器旁。
+|-
+|19:00
+|走到她家客厅的书架前。
+|-
+|21:30
+|去卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期一、星期四和星期六（社区中心已修复）
+|-
+|style="width:15%"|08:00
+|在家中的厨房。
+|-
+|10:40
+|陪乔治看电视。
+|-
+|12:10
+|前往社区中心，坐在工艺室的扶手椅上。
+|-
+|16:30
+|回家，站在厨房电器旁。
+|-
+|19:00
+|走到她家客厅的书架前。
+|-
+|21:30
+|去卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|夏季日常时间表
+|-
+|style="width:15%"|08:00
+|在家中的厨房。
+|-
+|10:40
+|陪乔治看电视。
+|-
+|12:10
+|站在餐桌旁。
+|-
+|13:00
+|前去照料小镇广场西北方的盆栽。
+|-
+|16:30
+|站在厨房电器旁。
+|-
+|19:00
+|走到她家客厅的书架前。
+|-
+|21:30
+|去卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|日常时间表
+|-
+|style="width:15%"|08:00
+|在家中的厨房。
+|-
+|10:40
+|陪乔治看电视。
+|-
+|12:10
+|站在餐桌旁。
+|-
+|13:00
+|前去照料小镇广场东南方的盆栽。
+|-
+|16:30
+|站在厨房电器旁。
+|-
+|19:00
+|走到她家客厅的书架前。
+|-
+|21:30
+|去卧室睡觉。
+|}
+
+==人际关系==
+她和丈夫[[乔治]]以及外孙[[亚历克斯]]住在一起。亚历克斯已故的母亲[[克莱拉]]是她的女儿。
+
+乔治和艾芙琳卧室的床头柜上放着一封克莱拉的信：
+{{Squote|妈妈：<p>如果你看到了这封信，那就说明我已经去世了。我很抱歉你不得不承受这一切。我爱你们两个人。</p><p>别太难过，我现在已经去了由巴那里。</p><p>我最后的要求：照顾好亚历克斯。他需要一个家，需要能好好照顾他的家人。他是一个好孩子。</p><p> 我爱你们，</p>克莱拉}}
+
+玩家与艾芙琳初次见面时，艾芙琳说玩家可以称呼她为“奶奶”。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|*喘气*……这真是了不起的礼物！}}
+如果玩家在送出最爱的礼物后再次与艾芙琳对话，她会说：
+{{Squote|你可真会逗老太太开心。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!class="unsortable" style="width: 48px;" |图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Evelyn.png|48px|center]]
+|colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Beet.png|center]]
+|[[甜菜]]
+|{{Description|Beet}}
+|[[耕种]]
+|
+|-
+|[[File:Chocolate Cake.png|center]]
+|[[巧克力蛋糕]]
+|{{Description|Chocolate Cake}}
+|[[烹饪]]
+|{{name|Wheat Flour|1}}{{name|Sugar|1}}{{name|Egg|1}}
+|-
+|[[File:Diamond.png|center]]
+|[[钻石]]
+|{{Description|Diamond}}
+|[[采矿]]
+|
+|-
+|[[File:Fairy Rose.png|center]]
+|[[玫瑰仙子]]
+|{{Description|Fairy Rose}}
+|[[耕种]]
+|
+|-
+|[[File:Raisins.png|center]]
+|[[葡萄干]]
+|{{Description|Raisins}}
+|[[烘干机]]
+|{{name|Grape|5}}
+|-
+|[[File:Stuffing.png|center]]
+|[[塞料面包]]
+|{{Description|Stuffing}}
+|[[烹饪]]
+|{{name|Bread|1}}{{name|Cranberries|1}}{{name|Hazelnut|1}}
+|-
+|[[File:Tulip.png|center]]
+|[[郁金香]]
+|{{Description|Tulip}}
+|[[耕种]]
+|
+|}
+
+===喜欢===
+{{Squote|哎呀，它看上去棒极了！你人真好。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Evelyn Happy.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[炒鳗鱼]]、[[蒜]]、[[生鱼寿司]]、[[生鱼片]]、[[香辣鳗鱼]]、[[鳟鱼汤]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[file:Broken Glasses.png]]
+|[[破损的眼镜]]
+|{{description|Broken Glasses}}
+| [[工具#钓鱼竿|钓鱼竿]] • [[蟹笼]] • [[垃圾桶]] • [[鱼塘]]
+|-
+|[[File:Clam.png|center]]
+|[[蛤]]
+|{{Description|Clam}}
+|[[采集]] - [[沙滩]] • [[蟹笼]]
+|-
+|[[File:Cockle.png|center]]
+|[[鸟蛤]]
+|{{Description|Cockle}}
+|[[采集]] - [[沙滩]] • [[蟹笼]]
+|-
+|[[File:Coral.png|center]]
+|[[珊瑚]]
+|{{Description|Coral}}
+|[[采集]] - [[沙滩]]
+|-
+|[[File:Mussel.png|center]]
+|[[蚌]]
+|{{Description|Mussel}}
+|[[采集]] - [[沙滩]] • [[蟹笼]]
+|-
+|[[File:Nautilus Shell.png|center]]
+|[[鹦鹉螺]]
+|{{Description|Nautilus Shell}}
+|[[采集]] - [[沙滩]]
+|-
+|[[File:Oyster.png|center]]
+|[[牡蛎]]
+|{{Description|Oyster}}
+|[[采集]] - [[沙滩]] • [[蟹笼]]
+|-
+|[[File:Sea Urchin.png|center]]
+|[[海胆]]
+|{{Description|Sea Urchin}}
+|[[采集]] - [[沙滩]]
+|}
+
+===一般===
+{{Squote|真好啊。谢谢你，亲爱的。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Evelyn.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[鹦鹉螺]]和[[珊瑚]]）</li><li>'''所有蛋'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]、[[美洲大树莓]]、[[香味浆果]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|蒲公英}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|榛子}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|熔岩菇}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|姜}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===不喜欢===
+{{Squote|呃，我该把它放在哪儿呢？}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Evelyn Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[粘土]]和[[鱼]]）</li></ul>
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|}
+
+===讨厌===
+{{Squote|……它的味道好难闻。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Evelyn Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''（除了[[破损的眼镜]]和[[海胆]]）</li><li>'''所有[[鱼]]'''（除了[[蛤]]、[[鸟蛤]]、[[蚌]]、[[牡蛎]]）</li></ul>
+|-
+|[[File:Clay.png|center]]
+|[[粘土]]
+|{{Description|粘土}}
+|[[采集]] - [[锄头]]
+|
+|-
+|[[File:Fried Eel.png|center]]
+|[[炒鳗鱼]]
+|{{Description|Fried Eel}}
+|[[烹饪]]
+|{{name|Eel|1}}{{name|Oil|1}}
+|-
+|[[File:Garlic.png|center]]
+|[[蒜]]
+|{{Description|蒜}}
+|[[耕种]] - [[春季]]
+|
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|冬青树}}
+|[[采集]] - [[冬季]]
+|
+|-
+|[[File:Maki Roll.png|center]]
+|[[生鱼寿司]]
+|{{Description|生鱼寿司}}
+|[[烹饪]]
+|[[File:Fish.png|24px|link=]] 任意[[鱼]]（1）{{name|Seaweed|1}}{{name|Rice|1}}
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|
+|-
+|[[File:Sashimi.png|center]]
+|[[生鱼片]]
+|{{Description|Sashimi}}
+|[[烹饪]]
+|[[File:Fish.png|24px|link=]] 任意[[鱼]]（1）
+|-
+|[[File:Spice Berry.png|center]]
+|[[香味浆果]]
+|{{Description|Spice Berry}}
+|[[采集]] - [[夏季]]
+|
+|-
+|[[File:Spicy Eel.png|center]]
+|[[香辣鳗鱼]]
+|{{Description|Spicy Eel}}
+|[[烹饪]]
+|{{name|Eel|1}}{{name|Hot Pepper|1}}
+|-
+|[[File:Trout Soup.png|center]]
+|[[鳟鱼汤]]
+|{{Description|Trout Soup}}
+|[[烹饪]]
+|{{name|Rainbow Trout|1}}{{name|Green Algae|1}}
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物
+|{{MailByType|礼物}}
+|四心
+|<nowiki />
+{{Event
+ |hearts  = 4
+ |trigger = 艾芙琳在家时，进入[[河间大道1号|艾芙琳的家]]。
+ |details = 你看到艾芙琳在烤饼干。她给你吃了几块，并询问你的感受：
+
+* {{choice|很美味！|100}}
+* {{choice|就像在嚼冰球|-100}}
+
+不论选择哪一种回答，艾芙琳都会赠予玩家[[饼干]]的食谱。
+ |quote = 给，尝尝味道怎么样？
+ |dialogues = {{EventByID|19}}
+}}
+|七心
+|{{MailByType|食谱|7|Rice Pudding}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|人际}}
+|特殊|{{Dialogue|特殊}}
+}}
+
+==任务==
+*任务[[任务#Grannys Gift|“奶奶的礼物”]]：第二年[[春季]]15日的时候，艾芙琳会写一封信要一颗[[韭葱]]。任务奖励为{{Price|500}}并会增加与艾芙琳间的1心[[友谊|好感度]]。
+*艾芙琳可能会随机在[[皮埃尔的杂货店]]外面的布告栏上发布[[任务#求助任务|求助任务]]，任务奖励金币为3倍普通品质需求物品的价格以及150点[[友谊|好感度]]。
+*任务[[任务#Gifts for George|“给乔治的礼物”]]：在[[镇长的庄园]]前方的特别任务板完成后的[[春季]]，艾芙琳会随机在这里发布任务，要求玩家收集并交付12个[[韭葱]]到她家的炉子上。任务奖励为{{Price|2000}}和一个[[咖啡机]]。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Evelyn.png
+File:Evelyn Happy.png
+File:Evelyn Concerned.png
+File:Evelyn Neutral.png
+File:Evelyn Winter 00.png
+File:Evelyn Winter 01.png
+File:Evelyn Winter 02.png
+File:Evelyn Winter 03.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==你知道吗==
+* 即使玩家已经触发了艾芙琳的4心事件并获得了[[饼干]]的食谱，她在对话中仍会说“以后我没准会把做法告诉你哦。”
+
+==历史==
+{{history|1.6|新增冬季肖像。增加收到特定礼物时的对话。现在艾芙琳喜欢破损的眼镜。艾芙琳现在喜欢除海草外的所有沙滩采集品。}}
+
+{{NavboxVillagers}}
+
+{{EN|Evelyn}}

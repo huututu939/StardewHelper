@@ -1,0 +1,374 @@
+[
+ {
+  "name": "石英",
+  "group": "可采集矿物",
+  "places": "矿井1-120层｜垃圾桶",
+  "price": 25
+ },
+ {
+  "name": "地晶",
+  "group": "可采集矿物",
+  "places": "矿井1-39层｜掘地虫10%｜钓鱼宝箱｜淘盘｜晶洞｜万能晶洞",
+  "price": 50
+ },
+ {
+  "name": "泪晶",
+  "group": "可采集矿物",
+  "places": "矿井40-79层｜钓鱼宝箱｜淘盘｜冷冻晶洞｜灰尘精灵2%",
+  "price": 75
+ },
+ {
+  "name": "火水晶",
+  "group": "可采集矿物",
+  "places": "矿井80-120层｜钓鱼宝箱｜淘盘｜岩浆晶洞",
+  "price": 100
+ },
+ {
+  "name": "绿宝石",
+  "group": "宝石",
+  "places": "绿宝石矿｜宝石矿｜钓鱼宝箱｜淘盘｜垃圾桶",
+  "price": 250
+ },
+ {
+  "name": "海蓝宝石",
+  "group": "宝石",
+  "places": "海蓝宝石矿｜宝石矿｜钓鱼宝箱｜淘盘｜垃圾桶",
+  "price": 180
+ },
+ {
+  "name": "红宝石",
+  "group": "宝石",
+  "places": "红宝石矿｜宝石矿｜淘盘｜垃圾桶",
+  "price": 250
+ },
+ {
+  "name": "紫水晶",
+  "group": "宝石",
+  "places": "紫水晶矿｜宝石矿｜绿色史莱姆｜钓鱼宝箱｜淘盘",
+  "price": 100
+ },
+ {
+  "name": "黄水晶",
+  "group": "宝石",
+  "places": "黄水晶矿｜宝石矿｜钓鱼宝箱｜淘盘｜垃圾桶",
+  "price": 80
+ },
+ {
+  "name": "翡翠",
+  "group": "宝石",
+  "places": "翡翠矿｜宝石矿｜蓝色史莱姆｜淘盘｜垃圾桶",
+  "price": 200
+ },
+ {
+  "name": "钻石",
+  "group": "宝石",
+  "places": "钻石矿｜宝石矿｜钓鱼宝箱｜淘盘｜垃圾桶",
+  "price": 750
+ },
+ {
+  "name": "五彩碎片",
+  "group": "宝石",
+  "places": [
+   "铱",
+   "金",
+   "矿",
+   "4",
+   "%",
+   "｜",
+   "神",
+   "秘",
+   "石",
+   "2",
+   "5",
+   "%",
+   "｜",
+   "钓",
+   "鱼",
+   "宝",
+   "箱",
+   "｜",
+   "万",
+   "能",
+   "晶",
+   "洞",
+   "0",
+   ".",
+   "4",
+   "%",
+   "｜",
+   "暗",
+   "影",
+   "怪",
+   "0",
+   ".",
+   "0",
+   "5",
+   "%",
+   "｜",
+   "木",
+   "乃",
+   "伊",
+   "0",
+   ".",
+   "1",
+   "%",
+   "｜",
+   "飞",
+   "蛇",
+   "0",
+   ".",
+   "1",
+   "%"
+  ],
+  "price": 2000
+ },
+ {
+  "name": "虎眼石",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "猫眼石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "赤红猫眼石",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "透闪石",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "黑方石",
+  "group": "晶球矿物",
+  "places": "黑色史莱姆｜岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "重晶石",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "青泥石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "方解石",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "白云石",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "硅钙石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "氟磷灰石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "杰明石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "日光榴石",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "绿水镍矿",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "铁铅矿",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "蓝晶石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "酸性月岩",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "孔雀石",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "柱星叶石",
+  "group": "晶球矿物",
+  "places": "黑色史莱姆｜岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "柠檬石",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "新硅钙石",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "雌黄",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "石化史莱姆",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞｜史莱姆球",
+  "price": null
+ },
+ {
+  "name": "雷公蛋",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "黄铁矿",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "海洋石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "幽灵水晶",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "碧玉",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "天青石",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "大理石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "沙岩",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "花岗岩",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "玄武岩",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "石灰石",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "皂石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "赤铁矿",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "泥石",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "黑曜石",
+  "group": "晶球矿物",
+  "places": "岩浆晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "板岩",
+  "group": "晶球矿物",
+  "places": "晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "精灵石",
+  "group": "晶球矿物",
+  "places": "冷冻晶洞｜万能晶洞",
+  "price": null
+ },
+ {
+  "name": "陶瓷碎片",
+  "group": "晶球矿物",
+  "places": [
+   "岩浆晶洞",
+   "万象晶球"
+  ],
+  "price": null
+ }
+]

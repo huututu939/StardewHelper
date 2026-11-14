@@ -1,0 +1,466 @@
+{{Infobox villager
+|portrait  = Marnie.png
+|birthday  = [[File:Fall.png|24px|link=]] [[秋季]]18日
+|location  = 煤矿森林
+|address   = [[玛妮的牧场‏‎]]
+|family    = {{NPC|Jas|侄女}}{{NPC|Shane|侄子}}
+|friends   = {{NPC|Lewis‏‎}}
+|marriage  = 否
+|clinic    = {{Season|Fall|18}}<br />{{Season|Winter|18}}（陪[[贾斯]]一起）
+|favorites = {{name|Diamond}}{{name|Farmer's Lunch}}{{name|Pink Cake}}{{name|Pumpkin Pie}}
+}}
+{{Quote|动物是如此的天真无邪，真好。如果我们不照顾它们，谁来照顾它们呢？但愿当我拿走鸡蛋的时候，母鸡们不会太难过。|玛妮}}
+'''玛妮'''是[[星露谷]]的[[居民]]。她居住在[[玛妮的牧场]]。玛妮的牧场位于[[煤矿森林]]东北处，靠近[[鹈鹕镇]]的西南入口。
+
+玛妮在[[玛妮的牧场]]经营她自己的商店。玛妮的开店时间是每天09:00至16:00（周一周二除外，不过这时尽管建筑仍可进入）。她出售[[动物]]和动物用品。
+
+==日程表==
+[[姜岛#海滩度假村|姜岛的海滩度假村]]解锁后，玛妮有时会在星期一或星期二去那儿度假。下午6点离开姜岛后，玛妮会立即回家上床睡觉。玛妮不会在秋季18日（她的体检日）或节日当天去姜岛。
+
+以下是玛妮的日程安排，优先度从高到低排序。例如，如果当天下雨，雨天的时间表会比它下方的优先级更高。
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|春季17日（巴士站已修复）
+|-
+|style="width:15%"|10:50
+|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+|11:10
+|站在[[沙漠商人]]旁的巴士站牌处。
+|-
+|23:40
+|乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"|11:10
+|乘坐巴士前往[[沙漠]]。
+|-
+|11:30
+|到达她的[[沙漠节#村民商铺|商店摊位]]。
+|-
+|00:00
+|离开摊位并乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|秋季18日
+|-
+|style="width:15%"|06:00
+|在[[玛妮的牧场]]，她的房间里。
+|-
+|10:30
+|离开[[玛妮的牧场]]并走去[[哈维的诊所]]。
+|-
+|12:00
+|到达[[哈维的诊所]]，站在候诊室中。
+|-
+|13:30
+|走进[[哈维的诊所]]的检查室。
+|-
+|16:00
+|离开[[哈维的诊所]]并走回[[玛妮的牧场]]。
+|-
+|17:30
+|到达[[玛妮的牧场]]并站在厨房里。
+|-
+|21:00
+|离开厨房，走回自己的房间并睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|冬季16日
+|-
+|style="width:15%"|06:00
+|在[[玛妮的牧场]]，她的房间里。
+|-
+|09:00
+|站在[[玛妮的牧场]]的柜台后面。
+|-
+|16:00
+|参加[[夜市]]。
+|-
+|23:40
+|走回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|冬季18日
+|-
+|style="width:15%"|09:00
+|在[[玛妮的牧场]]，她的房间里。
+|-
+|11:00
+|离开[[玛妮的牧场]]带着[[贾斯]]到[[哈维的诊所]]。
+|-
+|12:00
+|站在诊所的候诊室。
+|-
+|13:40
+|走进诊所的检查室。
+|-
+|16:00
+|离开[[哈维的诊所]]并走回[[玛妮的牧场]]。
+|-
+|18:00
+|到达[[玛妮的牧场]]并站在厨房里。
+|-
+|21:00
+|离开厨房，走回自己的房间并睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"|全天
+|位于[[玛妮的牧场|家]]里的厨房。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|雨天 或 星期四
+|-
+|style="width:15%"|06:00
+|在[[玛妮的牧场]]，她的房间里。
+|-
+|09:00
+|站在[[玛妮的牧场]]的柜台后面。
+|-
+|16:00
+|关闭商店，走到厨房。
+|-
+|18:00
+|离开厨房，走进她的房间。站在梳妆台前。
+|-
+|21:00
+|上床睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期一
+|-
+|style="width:15%"|06:00
+|在[[玛妮的牧场]]，她的房间里。
+|-
+|08:10
+|离开[[玛妮的牧场]]走向[[皮埃尔的杂货店]]。
+|-
+|12:00
+|离开[[皮埃尔的杂货店]]并走回[[玛妮的牧场]]。
+|-
+|13:30
+|到达[[玛妮的牧场]]并站在厨房里。
+|-
+|21:00
+|离开厨房，走回自己的房间并睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期二
+|-
+|style="width:15%"|06:00
+|在[[玛妮的牧场]]，她的房间里。
+|-
+|10:00
+|离开[[玛妮的牧场]]并走向[[皮埃尔的杂货店]]。
+|-
+|12:00
+|到达[[皮埃尔的杂货店]]，和[[卡洛琳]]、[[乔迪]]、[[艾米丽]]、[[罗宾]]一起锻炼身体。
+|-
+|16:00
+|锻炼结束后，和大家一起聊天。
+|-
+|18:10
+|离开[[皮埃尔的杂货店]]并走回[[玛妮的牧场]]。
+|-
+|20:00
+|到达[[玛妮的牧场]]并站在厨房里。
+|-
+|21:00
+|离开厨房，走回自己的房间并睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|日常时间表
+|-
+|style="width:15%"|06:00
+|在[[玛妮的牧场]]，她的房间里。
+|-
+|09:00
+|站在[[玛妮的牧场]]的柜台后面。
+|-
+|16:00
+|关闭[[玛妮的牧场]]并走到她的房间。
+|-
+|17:00
+|离开[[玛妮的牧场]]并走到[[星之果实酒吧]]。
+|-
+|23:00
+|离开[[星之果实酒吧]]并走回[[玛妮的牧场]]。
+|}
+
+==人际关系==
+玛妮与她的姪女[[贾斯]]以及外甥[[谢恩]]住在一起。如果周二不下雨，她会去[[皮埃尔的杂货店]]，与[[卡洛琳]]、[[乔迪]]、[[艾米丽]]和[[罗宾]]一起锻炼身体。
+
+[[刘易斯]]和玛妮有非常亲密的关系。虽然玛妮在[[花舞节]]称自己是单身，但是从[[#6心事件|刘易斯和玛妮的6心事件]]中能看出他们在约会。刘易斯经常会去玛妮的牧场照顾她的“业务需求”，并且这两人经常晚上在[[星之果实酒吧]]一起喝酒。在某个[[任务#剧情任务|剧情任务]]中，刘易斯求你帮忙找到他的幸运紫色短裤，而这条短裤可以在玛妮的卧室里找到。
+
+==送礼==
+{{GiftHeader}}
+===最爱===
+{{Squote|真是一份好到令人难以置信的礼物！谢谢。}}
+
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Marnie Happy.png|48px|center]]
+| colspan="4" | <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Diamond.png|center]]
+|[[钻石]]
+|{{description|Diamond}}
+|[[采矿]]
+|
+|-
+|[[File:Farmer's Lunch.png|center]]
+|[[农夫午餐]]
+|{{description|Farmer's Lunch}}
+|[[烹饪]]
+|{{name|Omelet|1}}{{name|Parsnip|1}}
+|-
+|[[File:Pink Cake.png|center]]
+|[[粉红蛋糕]]
+|{{description|Pink Cake}}
+|[[烹饪]]
+|{{name|Melon|1}}{{name|Wheat Flour|1}}{{name|Sugar|1}}{{name|Egg|1}}
+|-
+|[[File:Pumpkin Pie.png|center]]
+|[[南瓜派]]
+|{{description|Pumpkin Pie}}
+|[[烹饪]]
+|{{name|Pumpkin|1}}{{name|Wheat Flour|1}}{{name|Milk|1}}{{name|Sugar|1}}
+|}
+
+===喜欢===
+{{Squote|非常感谢！}}
+
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+|-
+| [[File:Marnie Happy.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''</li><li>'''所有蛋类'''（除了[[虚空蛋]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{description|Quartz}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Stardew Valley Almanac.png]]
+|[[星露谷年历]]
+|{{description|Stardew Valley Almanac}}
+|[[书摊老板]]
+|}
+
+===一般===
+{{Squote|非常感谢！这看起来不错。}}
+{|class="wikitable sortable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+|[[File:Marnie.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[星露谷年历]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]和[[美洲大树莓]]）</li></ul>
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===不喜欢===
+{{Squote|噢。我想我会收下它的。}}
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+|-
+| [[File:Marnie Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[粘土]]）</li></ul>
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{description|Salmonberry}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Seaweed.png|center]]
+|[[海草]]
+|{{description|Seaweed}}
+|[[钓鱼]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|}
+
+===讨厌===
+{{Squote|这东西一文不值。我搞不懂你怎么想的。}}
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+|-
+| [[File:Marnie Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''（除了[[海草]]）</li></ul>
+|-
+|[[File:Clay.png|center]]
+|[[粘土]]
+|{{description|Clay}}
+|[[采集]] - [[锄头]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{description|Holly}}
+|[[采集]] - [[冬季]]
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物
+|{{MailByType|礼物}}
+|三心
+|<nowiki />
+{{Snippets|元素|小标题|玛妮的请求}}
+{{Event
+ |hearts  = 3
+ |trigger = 在早上6：00~早上9：30之间，离开你的[[农舍]]。
+ |details = 离开[[农舍]]时，玛妮会向玩家打招呼。她会告诉玩家她正在尝试训练她的山羊说“哈啰”，但是它们不听话，除非玛妮有它们最爱的食物——[[山洞萝卜]]。玛妮希望玩家在 09:00 ~ 17:00 之间带一个[[山洞萝卜]]到她的牧场。当玩家带着[[山洞萝卜]]在 09:00 ~ 17:00 进入[[玛妮的牧场]]（请注意牧场营业时间），便会出现玩家给予玛妮萝卜的动画。不管玛妮在不在家都会触发这个动画。
+ |quote = 
+ |dialogues = {{EventByID|91}}{{EventByID|92}}
+}}
+{{Snippets|元素|小标题|食谱分享}}
+{{MailByType|食谱|3|Pale Broth}}
+|六心
+|<nowiki />
+{{Event
+ |hearts  = 6
+ |trigger = 晴天的 19:00 ~ 23:00 间进入小镇。<p>注意：只有和[[刘易斯]]也达到6心才能触发。</p>
+ |details = 玩家在刘易斯家后方出现。刘易斯和玛妮在河边讨论要不要将他们的关系公之于众。刘易斯说这会有损他的权威，玛妮说他过于在乎自己的工作。最后，玛妮同意保守秘密。此时，玩家会突然出现并吓到他们。刘易斯问玩家有没有听到什么，玩家可以选择不同的回答。如果玩家选择保守秘密，刘易斯会十分感激。如果玩家想要公之于众，则会招致刘易斯反感。玛妮质问玩家为什么躲在房子后面，玩家心虚，跑远了。
+*{{Choice|是的……但是我会保密的。|50|刘易斯}}
+*{{Choice|是的……我要告诉大家。|-100|刘易斯}}
+ |quote = 你躲在这里干什么？
+ |dialogues = {{EventByID|639373}}
+}}
+|七心
+|{{MailByType|食谱|7|Rhubarb Pie}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|特殊|{{Dialogue|特殊}}
+}}
+
+==你知道吗==
+* 正常情况下，物品购买菜单中显示“饲料大甩卖”。此处有0.01%的几率触发玛妮的隐藏台词：“*叹气* ……门打开的时候我还以为开门的人是刘易斯呢。”
+* 即使玩家和[[谢恩]]结婚了，玛妮仍然会说最近几个月[[谢恩]]一直和她住在一起。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Marnie.png
+File:Marnie Happy.png
+File:Marnie Concerned.png
+File:Marnie Neutral.png
+File:Marnie Surprised.png
+File:Marnie Winter 00.png
+File:Marnie Winter 01.png
+File:Marnie Winter 02.png
+File:Marnie Winter 03.png
+File:Marnie Winter 04.png
+File:Marnie Beach.png
+File:Marnie Beach Happy.png
+File:Marnie Beach Concerned.png
+File:Marnie Beach Neutral.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==历史==
+{{History|1.4|修复了所有食谱都会在3心事件II时发送的漏洞。}}
+{{History|1.5|增加了度假时的肖像。}}
+{{history|1.6|增加了冬季肖像。现在玛妮喜欢星露谷年历。}}
+
+{{NavboxVillagers}}
+
+{{EN|Marnie}}

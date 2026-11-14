@@ -1,0 +1,462 @@
+{{Infobox villager
+|portrait  = Robin.png
+|birthday  = {{Season|Fall|21}}
+|location  = 深山
+|address   = [[木匠的商店|山路24号]]
+|family    = {{NPC|Demetrius|丈夫}}{{NPC|Maru|女儿}}{{NPC|Sebastian|儿子}}
+|marriage  = 否
+|clinic    = {{Season|Summer|18}}
+|favorites = {{name|Goat Cheese}}{{name|Peach}}{{name|Spaghetti}}{{name|Woody's Secret}}
+}}
+{{Quote|我有告诉过你我们的房子是我负责建造的吗？这是我入行以来最伟大的成就之一了。|罗宾}}
+'''罗宾'''是[[鹈鹕镇]]的一位[[居民]]。她和丈夫[[德米特里厄斯]]、女儿[[玛鲁]]、儿子[[塞巴斯蒂安‏‎]]一起居住在[[木匠的商店|山路24号]]。
+
+罗宾是镇里的木匠，并且在家里经营着[[木匠的商店]]，营业时间是9:00至17:00，每周二不营业，周五则会提前1小时结束营业。
+
+==日程表==
+通常情况下，罗宾在早上8点起床并走向[[木匠的商店]]的柜台，8:20即开始营业。商店在17:00结束营业，她通常在19:30左右回到卧室，并在21:00上床睡觉。星期五晚上，她会在16:00提前结束营业，然后和[[德米特里厄斯]]一起去[[星之果实酒吧]]跳舞。
+
+罗宾每周二会去[[皮埃尔的杂货店]]和[[乔迪]]、[[卡洛琳]]、[[艾米丽]]、[[玛妮]]一起健身，因此，[[木匠的商店]]每周二不营业。不过，如果玩家在她经过柜台时（9:40左右）点击柜台，仍可暂时访问商店页面。
+
+罗宾通常不会在雨天离开[[木匠的商店]]，除非她需要建造[[木匠的商店#农场建筑|农场建筑]]。当她在玩家的[[农场]]上建造或升级建筑物时，她的商店暂停营业。
+
+[[姜岛#海滩度假村|姜岛的海滩度假村]]解锁后，罗宾有时会在周二去那儿。18:00离开姜岛后，罗宾会立即回家上床睡觉。罗宾不会在[[节日]]当天去姜岛。
+
+以下是她的日程安排，优先级从高到低（例如，如果当天下雨，雨天的时间表会比下方的优先级更高）。
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |春季16日（巴士站已修复）
+|-
+| style="width: 15%;" |11:20
+| style="width: 85%;" |乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+|11:40
+|在探险家工会挑战摊位与[[马龙]]和[[吉尔]]交谈。
+|-
+|00:20
+|乘坐巴士返回星露谷。
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |沙漠节（作为商店摊主）
+|-
+| style="width: 15%;" |11:10
+| style="width: 85%;" |乘坐巴士前往[[沙漠]]。
+|-
+|11:30
+|到达她的[[沙漠节#村民商铺|商店摊位]]。
+|-
+|00:00
+|离开摊位并乘坐巴士返回星露谷。
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |绿雨（第一年）
+|-
+| style="width: 15%;" |全天
+| style="width: 85%;" |位于[[塞巴斯蒂安]]的房间。
+|-
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |夏季18日
+|-
+| style="width: 15%;" |06:00
+| style="width: 85%;" |在她的卧室里。
+|-
+|07:00
+|走向[[木匠的商店]]的柜台。
+|-
+|08:00
+|离开柜台，前往[[哈维的诊所]]。
+|-
+|16:00
+|离开哈维的诊所，回[[木匠的商店|家]]。
+|-
+|21:00
+|上床睡觉。
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |雨天
+|-
+| style="width: 15%;" |06:00
+| style="width: 85%;" |在她的卧室里。
+|-
+|08:00
+|走向[[木匠的商店]]的柜台。
+|-
+|17:00
+|离开商店的柜台，前往家中的厨房。
+|-
+|19:30
+|进入她的卧室。
+|-
+|21:00
+|上床睡觉。
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |星期一（社区中心已修复）
+|-
+| style="width: 15%;" |06:00
+| style="width: 85%;" |在她的卧室里。
+|-
+|08:00
+|走向[[木匠的商店]]的柜台。
+|-
+|17:00
+|离开[[木匠的商店]]，前往[[社区中心]]。
+|-
+|19:30
+|离开社区中心，回[[木匠的商店|家]]。
+|-
+|22:00
+|上床睡觉。
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |冬季16日
+|-
+| style="width: 15%;" |06:00
+| style="width: 85%;" |在她的卧室里。
+|-
+|08:00
+|走向[[木匠的商店]]的柜台。
+|-
+|17:00
+|离开木匠的商店，参加[[夜市]]。
+|-
+|23:30
+|离开夜市，回家睡觉。
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |星期二
+|-
+| style="width: 15%;" |06:00
+| style="width: 85%;" |在她的卧室里。
+|-
+|09:30
+|走向[[皮埃尔的杂货店]]。
+|-
+|13:00
+|开始锻炼。
+|-
+|16:00
+|结束锻炼，与[[乔迪]]、[[卡洛琳]]、[[玛妮]]一起聊天。
+|-
+|18:00
+|离开皮埃尔的杂货店，回到[[木匠的商店|自己家的厨房]]。
+|-
+|19:30
+|离开厨房，走到卧室。
+|-
+|21:00
+|上床睡觉。
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |星期五
+|-
+| style="width: 15%;" |06:00
+| style="width: 85%;" |在她的卧室里。
+|-
+|08:00
+|走向[[木匠的商店]]的柜台。
+|-
+|16:00
+|离开木匠的商店，前往[[星之果实酒吧]]。
+|-
+|19:20
+|在星之果实酒吧中，与[[德米特里厄斯]]跳舞。
+|-
+|21:00
+|离开[[星之果实酒吧]]，回[[木匠的商店|家]]睡觉。
+|}
+
+{| class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+! colspan="2" |日常时间表
+|-
+| style="width: 15%;" |06:00
+| style="width: 85%;" |在她的卧室里。
+|-
+|08:00
+|走向[[木匠的商店]]的柜台。
+|-
+|17:00
+|离开木匠的商店，站在[[深山]]西南部的悬崖前。
+|-
+|19:30
+|走回她的卧室。
+|-
+|21:00
+|上床睡觉。
+|}
+
+==人际关系==
+罗宾与丈夫[[德米特里厄斯]]、女儿[[玛鲁]]和儿子[[塞巴斯蒂安]]住在一起。玛鲁是她和德米特里厄斯的女儿，塞巴斯蒂安是她和前任的孩子。德米特里厄斯很可能是她的第二任丈夫，因为他们房间的书架上有两本书，分别名为《最大化你的二次婚姻》和《初次继父实用小贴士》。
+
+罗宾每周二都会和[[乔迪]]、[[卡洛琳]]、[[艾米丽]]、[[玛妮]]一起参加健身班。
+
+==送礼==
+{{GiftHeader}}
+
+'''注意：'''在罗宾建造或升级大部分[[木匠的商店#农场建筑|农场建筑]]时，无法向她赠送礼物。不过，在罗宾升级[[农舍]]、[[鸡舍]]和[[畜棚]]时，玩家可以向她送礼。
+
+===最爱===
+{{Squote|这是给我的吗？哇哦，我爱死它了！！}} 
+
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Robin Happy.png|48px|center]]
+| colspan="4" | <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Goat Cheese.png|center]]
+|[[山羊奶酪]]
+|{{Description|Goat Cheese}}
+|[[压酪机]]
+|
+|-
+|[[File:Peach.png|center]]
+|[[桃子]]
+|{{Description|Peach}}
+|[[桃子树]]
+|
+|-
+|[[File:Spaghetti.png|center]]
+|[[意大利面]]
+|{{Description|Spaghetti}}
+|[[烹饪]]，[[星之果实酒吧]]
+|{{name|Wheat Flour|1}}{{name|Tomato|1}}
+|-
+|[[File:Woody's Secret.png]]
+|[[伐木秘事]]
+|{{description|Woody's Secret}}
+|[[书摊老板]]
+|
+|}
+
+===喜欢===
+{{Squote|谢谢！我很喜欢！}}
+
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+|-
+| [[File:Robin Happy.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''</li><li>'''所有奶类'''</li><li>'''所有[[水果]]'''（除了[[桃子]]）</li></ul>
+|-
+|[[File:Hardwood.png|center]]
+|[[硬木]]
+|{{Description|Hardwood}}
+|[[采集]]
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[采集]] - [[矿井]]
+|-
+|[[file:Woodcutter's Weekly.png|center]]
+|[[樵夫周刊]]
+|{{description|Woodcutter's Weekly}}
+|[[书摊老板]]
+|}
+
+===一般===
+{{Squote|谢谢。这个我也许用得着。}}
+{|class="wikitable sortable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Robin.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[樵夫周刊]]和[[伐木秘事]]）</li><li>'''所有蛋类'''（除了[[虚空蛋]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集#秋季|采集]] - [[秋季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集#春季|采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===不喜欢===
+注意：[[恐龙蛋]]作为礼物时被算作[[古物]]类而不是蛋类。而[[古物]]类是村民普遍不喜欢的礼物。
+{{Squote|呃……为什么给我这个？}}
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Robin Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[硬木]]）</li></ul>
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|}
+
+===讨厌===
+{{Squote|怎么回事……？这礼物太糟糕了！}}
+{|class="wikitable roundedborder" style="width:65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" |图片
+!名称
+!描述
+!来源
+|-
+| [[File:Robin Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物
+|{{MailByType|礼物}}
+|六心
+|<nowiki />
+{{Event
+ |hearts = 6
+ |trigger = 当罗宾在的时候进入[[木匠的商店]]。
+ |details = 你看到罗宾正在清理她的锯上的灰尘。她问你是否用木头做过什么东西，你可以回答“有”或“没有”，然后她说她觉得你们已经成为了好朋友，她可以信任地把木工的诀窍教给你了。她给你两个蓝图——[[鼓块]]和[[长笛块]]。她说，用自己制作的东西来装饰农场感觉很棒。
+ |quote = 我觉得凭咱俩的关系，已经可以把我木匠的诀窍告诉你啦！
+ |dialogues = {{EventByID|33}}
+}}
+|七心
+|{{MailByType|食谱|7|Pumpkin Soup}}
+|开场动画
+|<nowiki />
+{{Event
+ |trigger = 你继承了爷爷留下的在星露谷的旧农场，即将在这片陌生的土地上开始新生活。
+ |quote = 我叫罗宾，是这里的木匠。是镇长刘易斯派我来送你去你的新家的。
+ |dialogues = {{EventByID|60367}}
+}}
+|特别订单
+|<nowiki />
+{{Event
+ |trigger = 第 1 年[[秋季]] 2 日开始，进入[[鹈鹕镇]]会触发一段过场动画（无天气要求，若当天没有进入鹈鹕镇则顺延），[[镇长的庄园|刘易斯的房子]]前安装了一个[[任务#鹈鹕镇的特别任务|特别订单看板]]。看板上的任务往往比[[任务#求助任务|布告栏]]上的任务难度更大、奖励更丰厚。
+ |quote = 呃……刘易斯？你只是帮我拿着钉子而已。
+ |dialogues = {{EventByID|15389722}}
+}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|特殊|{{Dialogue|特殊}}
+}}
+
+==任务==
+[[任务|罗宾丢失的斧子]]:  [[春季]]11日, 罗宾将送来一封信称自己的斧子丢失了, 提供{{price|250}}奖励给归还者.
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+Robin.png
+Robin Wave.png
+Robin Happy.png
+Robin Concerned.png
+Robin Neutral.png
+Robin Annoyed.png
+Robin Thinking.png
+</gallery>
+
+<gallery mode="packed" class="portraitgallery">
+Robin Winter 00.png
+Robin Winter 01.png
+Robin Winter 02.png
+Robin Winter 03.png
+Robin Winter 04.png
+Robin Winter 05.png
+Robin Winter 06.png
+</gallery>
+
+<gallery mode="packed" class="portraitgallery">
+Robin Beach.png
+Robin Beach Happy.png
+Robin Beach Concerned.png
+Robin Beach Annoyed.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==历史==
+{{History|1.5|新增五个肖像，分别为四个海滩肖像和一个新肖像。}}
+{{History|1.6|新增冬季肖像。现在伐木秘事是罗宾的最爱，现在罗宾喜欢樵夫周刊。新增特殊对话。}}
+
+{{NavboxVillagers}}
+
+{{EN|Robin}}

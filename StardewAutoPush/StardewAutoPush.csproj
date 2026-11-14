@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    星露小助手 · 存档自动推送 mod（Part A）
+    - ModBuildConfig 会自动定位游戏目录（E:/Steam/... 在 Steam libraryfolders.vdf 里登记过就能找到），
+      编译产物默认自动部署到游戏 Mods 文件夹。
+    - 目标 net6.0：星露谷 1.6 + SMAPI 4.x 的运行时。
+  -->
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>disable</Nullable>
+    <AssemblyName>StardewAutoPush</AssemblyName>
+    <RootNamespace>StardewAutoPush</RootNamespace>
+    <!-- ⚠ 版本号与 manifest.json 的 Version 必须一致（ModBuildConfig 用它命名 zip）。
+         1.0.0 基础版 → 1.1.0 Token 状态机 → 1.2.0 发现顺序调整（直探优先）
+         → 1.3.0 快捷键 + GMCM → 1.3.1 修初始化时机 → 1.3.3 HUD 图标改走 messageSubject
+         → 1.3.4 manifest 补「协议为本项目自有，未参考其他开源项目」的声明。 -->
+    <Version>1.3.4</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.*" />
+  </ItemGroup>
+
+</Project>

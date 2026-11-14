@@ -1,0 +1,860 @@
+{
+ "machines": [
+  {
+   "name": "小桶",
+   "name_en": "Keg",
+   "recipe": "木材30+铜锭1+铁锭1+橡树树脂1",
+   "recipe_source": "耕种等级8/工艺室配方包",
+   "recipes": [
+    {
+     "input": "小麦",
+     "input_en": "Wheat",
+     "input_base_price": 25,
+     "output": "啤酒",
+     "output_en": "Beer",
+     "output_price": 200,
+     "processing_time_hours": 29.17,
+     "profit": 175,
+     "profit_per_hour": 6.0,
+     "note": ""
+    },
+    {
+     "input": "啤酒花",
+     "input_en": "Hops",
+     "input_base_price": 25,
+     "output": "淡啤酒",
+     "output_en": "Pale_Ale",
+     "output_price": 300,
+     "processing_time_hours": 37.5,
+     "profit": 275,
+     "profit_per_hour": 7.33,
+     "note": ""
+    },
+    {
+     "input": "咖啡豆x5",
+     "input_en": "Coffee Bean x5",
+     "input_base_price": 75,
+     "output": "咖啡",
+     "output_en": "Coffee",
+     "output_price": 150,
+     "processing_time_hours": 2.0,
+     "profit": 75,
+     "profit_per_hour": 37.5,
+     "note": ""
+    },
+    {
+     "input": "蜂蜜",
+     "input_en": "Honey",
+     "input_base_price": 100,
+     "output": "蜂蜜酒",
+     "output_en": "Mead",
+     "output_price": 300,
+     "processing_time_hours": 10.0,
+     "profit": 200,
+     "profit_per_hour": 20.0,
+     "note": "普通野花蜂蜜;花香蜂蜜按蜂蜜价值"
+    },
+    {
+     "input": "茶叶",
+     "input_en": "Tea Leaves",
+     "input_base_price": 25,
+     "output": "绿茶",
+     "output_en": "Green Tea",
+     "output_price": 100,
+     "processing_time_hours": 3.0,
+     "profit": 75,
+     "profit_per_hour": 25.0,
+     "note": "1.4新增"
+    },
+    {
+     "input": "大米",
+     "input_en": "Rice",
+     "input_base_price": 40,
+     "output": "醋",
+     "output_en": "Vinegar",
+     "output_price": 100,
+     "processing_time_hours": 10.0,
+     "profit": 60,
+     "profit_per_hour": 6.0,
+     "note": "1.6新增"
+    },
+    {
+     "input": "杨桃",
+     "input_en": "Starfruit",
+     "input_base_price": 750,
+     "output": "杨桃酒",
+     "output_en": "Starfruit Wine",
+     "output_price": 2250,
+     "processing_time_hours": 166.67,
+     "profit": 1500,
+     "profit_per_hour": 9.0,
+     "note": "水果酒=3×基础价"
+    },
+    {
+     "input": "远古果实",
+     "input_en": "Ancient Fruit",
+     "input_base_price": 550,
+     "output": "远古果实酒",
+     "output_en": "Ancient Fruit Wine",
+     "output_price": 1650,
+     "processing_time_hours": 166.67,
+     "profit": 1100,
+     "profit_per_hour": 6.6,
+     "note": ""
+    },
+    {
+     "input": "菠萝",
+     "input_en": "Pineapple",
+     "input_base_price": 300,
+     "output": "菠萝酒",
+     "output_en": "Pineapple Wine",
+     "output_price": 900,
+     "processing_time_hours": 166.67,
+     "profit": 600,
+     "profit_per_hour": 3.6,
+     "note": ""
+    },
+    {
+     "input": "甜瓜",
+     "input_en": "Melon",
+     "input_base_price": 250,
+     "output": "甜瓜酒",
+     "output_en": "Melon Wine",
+     "output_price": 750,
+     "processing_time_hours": 166.67,
+     "profit": 500,
+     "profit_per_hour": 3.0,
+     "note": ""
+    },
+    {
+     "input": "草莓",
+     "input_en": "Strawberry",
+     "input_base_price": 120,
+     "output": "草莓酒",
+     "output_en": "Strawberry Wine",
+     "output_price": 360,
+     "processing_time_hours": 166.67,
+     "profit": 240,
+     "profit_per_hour": 1.44,
+     "note": ""
+    },
+    {
+     "input": "葡萄",
+     "input_en": "Grape",
+     "input_base_price": 80,
+     "output": "葡萄酒",
+     "output_en": "Wine",
+     "output_price": 240,
+     "processing_time_hours": 166.67,
+     "profit": 160,
+     "profit_per_hour": 0.96,
+     "note": ""
+    },
+    {
+     "input": "蔓越莓",
+     "input_en": "Cranberries",
+     "input_base_price": 75,
+     "output": "蔓越莓酒",
+     "output_en": "Cranberry Wine",
+     "output_price": 225,
+     "processing_time_hours": 166.67,
+     "profit": 150,
+     "profit_per_hour": 0.9,
+     "note": ""
+    },
+    {
+     "input": "蓝莓",
+     "input_en": "Blueberry",
+     "input_base_price": 50,
+     "output": "蓝莓酒",
+     "output_en": "Blueberry Wine",
+     "output_price": 150,
+     "processing_time_hours": 166.67,
+     "profit": 100,
+     "profit_per_hour": 0.6,
+     "note": ""
+    },
+    {
+     "input": "仙人掌果",
+     "input_en": "Cactus Fruit",
+     "input_base_price": 75,
+     "output": "仙人掌果酒",
+     "output_en": "Cactus Fruit Wine",
+     "output_price": 225,
+     "processing_time_hours": 166.67,
+     "profit": 150,
+     "profit_per_hour": 0.9,
+     "note": ""
+    },
+    {
+     "input": "番茄",
+     "input_en": "Tomato",
+     "input_base_price": 60,
+     "output": "番茄汁",
+     "output_en": "Juice",
+     "output_price": 135,
+     "processing_time_hours": 100.0,
+     "profit": 75,
+     "profit_per_hour": 0.75,
+     "note": "蔬菜汁=2.25×基础价"
+    },
+    {
+     "input": "南瓜",
+     "input_en": "Pumpkin",
+     "input_base_price": 320,
+     "output": "南瓜汁",
+     "output_en": "Pumpkin Juice",
+     "output_price": 720,
+     "processing_time_hours": 100.0,
+     "profit": 400,
+     "profit_per_hour": 4.0,
+     "note": ""
+    },
+    {
+     "input": "红叶卷心菜",
+     "input_en": "Red Cabbage",
+     "input_base_price": 260,
+     "output": "红叶卷心菜汁",
+     "output_en": "Red Cabbage Juice",
+     "output_price": 585,
+     "processing_time_hours": 100.0,
+     "profit": 325,
+     "profit_per_hour": 3.25,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "name": "罐头瓶",
+   "name_en": "Preserves Jar",
+   "recipe": "木材50+石炭40+煤1",
+   "recipe_source": "耕种等级4",
+   "recipes": [
+    {
+     "input": "杨桃",
+     "input_en": "Starfruit",
+     "input_base_price": 750,
+     "output": "杨桃果酱",
+     "output_en": "Starfruit Jelly",
+     "output_price": 1550,
+     "processing_time_hours": 66.67,
+     "profit": 800,
+     "profit_per_hour": 12.0,
+     "note": "果酱/腌菜=2×基础价+50"
+    },
+    {
+     "input": "大黄",
+     "input_en": "Rhubarb",
+     "input_base_price": 220,
+     "output": "大黄果酱",
+     "output_en": "Rhubarb Jelly",
+     "output_price": 490,
+     "processing_time_hours": 66.67,
+     "profit": 270,
+     "profit_per_hour": 4.05,
+     "note": "果酱/腌菜=2×基础价+50"
+    },
+    {
+     "input": "草莓",
+     "input_en": "Strawberry",
+     "input_base_price": 120,
+     "output": "草莓果酱",
+     "output_en": "Strawberry Jelly",
+     "output_price": 290,
+     "processing_time_hours": 66.67,
+     "profit": 170,
+     "profit_per_hour": 2.55,
+     "note": "果酱/腌菜=2×基础价+50"
+    },
+    {
+     "input": "南瓜",
+     "input_en": "Pumpkin",
+     "input_base_price": 320,
+     "output": "腌南瓜",
+     "output_en": "Pickles",
+     "output_price": 690,
+     "processing_time_hours": 66.67,
+     "profit": 370,
+     "profit_per_hour": 5.55,
+     "note": "果酱/腌菜=2×基础价+50"
+    },
+    {
+     "input": "土豆",
+     "input_en": "Potato",
+     "input_base_price": 50,
+     "output": "腌土豆",
+     "output_en": "Pickles",
+     "output_price": 150,
+     "processing_time_hours": 66.67,
+     "profit": 100,
+     "profit_per_hour": 1.5,
+     "note": "果酱/腌菜=2×基础价+50"
+    },
+    {
+     "input": "番茄",
+     "input_en": "Tomato",
+     "input_base_price": 60,
+     "output": "腌番茄",
+     "output_en": "Pickles",
+     "output_price": 170,
+     "processing_time_hours": 66.67,
+     "profit": 110,
+     "profit_per_hour": 1.65,
+     "note": "果酱/腌菜=2×基础价+50"
+    },
+    {
+     "input": "腌菜(任意蔬菜)",
+     "input_en": "Any Vegetable",
+     "input_base_price": 0,
+     "output": "腌菜",
+     "output_en": "Pickles",
+     "output_price": 0,
+     "processing_time_hours": 66.67,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": "任意蔬菜均可,价=2×基础价+50"
+    },
+    {
+     "input": "果酱(任意水果)",
+     "input_en": "Any Fruit",
+     "input_base_price": 0,
+     "output": "果酱",
+     "output_en": "Jelly",
+     "output_price": 0,
+     "processing_time_hours": 66.67,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": "任意水果均可,价=2×基础价+50"
+    }
+   ]
+  },
+  {
+   "name": "蛋黄酱机",
+   "name_en": "Mayonnaise Machine",
+   "recipe": "木材15+石头15+矿物1+铜锭1",
+   "recipe_source": "耕种等级2",
+   "recipes": [
+    {
+     "input": "鸡蛋",
+     "input_en": "Egg",
+     "input_base_price": 50,
+     "output": "蛋黄酱",
+     "output_en": "Mayonnaise",
+     "output_price": 190,
+     "processing_time_hours": 3.0,
+     "profit": 140,
+     "profit_per_hour": 46.67,
+     "note": ""
+    },
+    {
+     "input": "大鸡蛋",
+     "input_en": "Large Egg",
+     "input_base_price": 95,
+     "output": "金色蛋黄酱",
+     "output_en": "Gold Mayonnaise",
+     "output_price": 285,
+     "processing_time_hours": 3.0,
+     "profit": 190,
+     "profit_per_hour": 63.33,
+     "note": ""
+    },
+    {
+     "input": "鸭蛋",
+     "input_en": "Duck Egg",
+     "input_base_price": 95,
+     "output": "鸭蛋黄酱",
+     "output_en": "Duck Mayonnaise",
+     "output_price": 375,
+     "processing_time_hours": 3.0,
+     "profit": 280,
+     "profit_per_hour": 93.33,
+     "note": ""
+    },
+    {
+     "input": "虚空蛋",
+     "input_en": "Void Egg",
+     "input_base_price": 65,
+     "output": "虚空蛋黄酱",
+     "output_en": "Void Mayonnaise",
+     "output_price": 275,
+     "processing_time_hours": 3.0,
+     "profit": 210,
+     "profit_per_hour": 70.0,
+     "note": ""
+    },
+    {
+     "input": "恐龙蛋",
+     "input_en": "Dinosaur Egg",
+     "input_base_price": 350,
+     "output": "恐龙蛋黄酱",
+     "output_en": "Dinosaur Mayonnaise",
+     "output_price": 800,
+     "processing_time_hours": 3.0,
+     "profit": 450,
+     "profit_per_hour": 150.0,
+     "note": ""
+    },
+    {
+     "input": "鸵鸟蛋",
+     "input_en": "Ostrich Egg",
+     "input_base_price": 600,
+     "output": "鸵鸟蛋黄酱x10",
+     "output_en": "Ostrich Mayonnaise x10",
+     "output_price": 1900,
+     "processing_time_hours": 3.0,
+     "profit": 1300,
+     "profit_per_hour": 433.33,
+     "note": "1蛋=10罐蛋黄酱"
+    }
+   ]
+  },
+  {
+   "name": "压酪机",
+   "name_en": "Cheese Press",
+   "recipe": "木材45+石炭45",
+   "recipe_source": "耕种等级6",
+   "recipes": [
+    {
+     "input": "牛奶",
+     "input_en": "Milk",
+     "input_base_price": 125,
+     "output": "奶酪",
+     "output_en": "Cheese",
+     "output_price": 230,
+     "processing_time_hours": 3.33,
+     "profit": 105,
+     "profit_per_hour": 31.53,
+     "note": ""
+    },
+    {
+     "input": "大牛奶",
+     "input_en": "Large Milk",
+     "input_base_price": 190,
+     "output": "大奶酪(金)",
+     "output_en": "Large Cheese",
+     "output_price": 345,
+     "processing_time_hours": 3.33,
+     "profit": 155,
+     "profit_per_hour": 46.55,
+     "note": ""
+    },
+    {
+     "input": "山羊奶",
+     "input_en": "Goat Milk",
+     "input_base_price": 225,
+     "output": "山羊奶酪",
+     "output_en": "Goat Cheese",
+     "output_price": 400,
+     "processing_time_hours": 3.33,
+     "profit": 175,
+     "profit_per_hour": 52.55,
+     "note": ""
+    },
+    {
+     "input": "大山羊奶",
+     "input_en": "Large Goat Milk",
+     "input_base_price": 345,
+     "output": "大山羊奶酪(金)",
+     "output_en": "Large Goat Cheese",
+     "output_price": 600,
+     "processing_time_hours": 3.33,
+     "profit": 255,
+     "profit_per_hour": 76.58,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "name": "织布机",
+   "name_en": "Loom",
+   "recipe": "木材60+纤维30+松树脂1",
+   "recipe_source": "耕种等级7",
+   "recipes": [
+    {
+     "input": "羊毛",
+     "input_en": "Wool",
+     "input_base_price": 340,
+     "output": "布",
+     "output_en": "Cloth",
+     "output_price": 470,
+     "processing_time_hours": 4.0,
+     "profit": 130,
+     "profit_per_hour": 32.5,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "name": "蜂房",
+   "name_en": "Bee House",
+   "recipe": "木材40+煤8+铁锭1",
+   "recipe_source": "耕种等级3",
+   "recipes": [
+    {
+     "input": "无(自动)",
+     "input_en": "Wild Honey",
+     "input_base_price": 0,
+     "output": "野花蜜",
+     "output_en": "Wild Honey",
+     "output_price": 100,
+     "processing_time_hours": 96,
+     "profit": 100,
+     "profit_per_hour": 1.04,
+     "note": ""
+    },
+    {
+     "input": "附近罂粟花",
+     "input_en": "Poppy Honey",
+     "input_base_price": 0,
+     "output": "罂粟蜜",
+     "output_en": "Poppy Honey",
+     "output_price": 380,
+     "processing_time_hours": 96,
+     "profit": 380,
+     "profit_per_hour": 3.96,
+     "note": ""
+    },
+    {
+     "input": "附近仙女玫瑰",
+     "input_en": "Fairy Rose Honey",
+     "input_base_price": 0,
+     "output": "仙女玫瑰蜜",
+     "output_en": "Fairy Rose Honey",
+     "output_price": 680,
+     "processing_time_hours": 96,
+     "profit": 680,
+     "profit_per_hour": 7.08,
+     "note": ""
+    }
+   ]
+  },
+  {
+   "name": "烘干机",
+   "name_en": "Dehydrator",
+   "recipe": "1.6配方",
+   "recipe_source": "1.6(姜岛/配方)",
+   "recipes": [
+    {
+     "input": "水果x5",
+     "input_en": "Fruit x5",
+     "input_base_price": 0,
+     "output": "果干",
+     "output_en": "Dried Fruit",
+     "output_price": 0,
+     "processing_time_hours": 24.0,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": "果干=7.5×水果基础价+25（次日早晨取，约1天）；5个同种水果烘 1 份"
+    },
+    {
+     "input": "蘑菇x5",
+     "input_en": "Mushrooms x5",
+     "input_base_price": 0,
+     "output": "脱水蘑菇",
+     "output_en": "Dried Mushrooms",
+     "output_price": 0,
+     "processing_time_hours": 24.0,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": "脱水蘑菇=7.5×蘑菇基础价+25"
+    },
+    {
+     "input": "葡萄x5",
+     "input_en": "Grape x5",
+     "input_base_price": 0,
+     "output": "葡萄干",
+     "output_en": "Raisins",
+     "output_price": 600,
+     "processing_time_hours": 24.0,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": "5 葡萄 → 葡萄干 600g（固定价）"
+    }
+   ]
+  },
+  {
+   "name": "产油机",
+   "name_en": "Oil Maker",
+   "recipe": "粘液20+硬木5+金锭1",
+   "recipe_source": "耕种等级8",
+   "recipes": [
+    {
+     "input": "松露",
+     "input_en": "Truffle",
+     "input_base_price": 625,
+     "output": "松露油",
+     "output_en": "Truffle Oil",
+     "output_price": 1065,
+     "processing_time_hours": 6.0,
+     "profit": 440,
+     "profit_per_hour": 73.33,
+     "note": "官方 6 小时"
+    },
+    {
+     "input": "向日葵",
+     "input_en": "Sunflower",
+     "input_base_price": 20,
+     "output": "向日葵油",
+     "output_en": "Sunflower Oil",
+     "output_price": 100,
+     "processing_time_hours": 1.0,
+     "profit": 80,
+     "profit_per_hour": 80.0,
+     "note": ""
+    },
+    {
+     "input": "玉米",
+     "input_en": "Corn",
+     "input_base_price": 50,
+     "output": "油",
+     "output_en": "Oil",
+     "output_price": 100,
+     "processing_time_hours": 16.67,
+     "profit": 50,
+     "profit_per_hour": 3.0,
+     "note": ""
+    },
+    {
+     "input": "向日葵种子",
+     "input_en": "Sunflower Seeds",
+     "input_base_price": 20,
+     "output": "油",
+     "output_en": "Oil",
+     "output_price": 100,
+     "processing_time_hours": 48.0,
+     "profit": 80,
+     "profit_per_hour": 1.67,
+     "note": "官方 3200 分钟 = 2 天"
+    }
+   ]
+  },
+  {
+   "name": "宝石复制机",
+   "name_en": "Crystalarium",
+   "recipe": "石头99+金锭5+铱锭5",
+   "recipe_source": "采矿等级9",
+   "recipes": [
+    {
+     "input": "钻石",
+     "input_en": "Diamond",
+     "input_base_price": 750,
+     "output": "钻石(复制)",
+     "output_en": "Diamond",
+     "output_price": 750,
+     "processing_time_hours": 120,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": "放入1颗宝石后永久复制;钻石5天/颗"
+    },
+    {
+     "input": "石英",
+     "input_en": "Quartz",
+     "input_base_price": 25,
+     "output": "石英(复制)",
+     "output_en": "Quartz",
+     "output_price": 25,
+     "processing_time_hours": 20,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": "石英1天/颗"
+    }
+   ],
+   "profit_note": "原料无标准收购价,利润需按实际成本计算。水晶球复制宝石:放入1颗宝石后永久运转复制该宝石,产出价值=所放入宝石的价值,复制周期随宝石种类变化(石英约1天,翡翠约3天,钻石5天,祖母绿等更短)。表中profit=0仅因原料(放入的那颗宝石)被视为一次性沉没投入,并非设备不赚钱。"
+  },
+  {
+   "name": "炭窑",
+   "name_en": "Charcoal Kiln",
+   "recipe": "石头20",
+   "recipe_source": "采集等级2",
+   "recipes": [
+    {
+     "input": "木材x10",
+     "input_en": "Wood x10",
+     "input_base_price": 0,
+     "output": "煤炭",
+     "output_en": "Coal",
+     "output_price": 15,
+     "processing_time_hours": 4.0,
+     "profit": 15,
+     "profit_per_hour": 3.75,
+     "note": "10木材→1煤,4小时;木材无收购价,实际省煤"
+    }
+   ]
+  },
+  {
+   "name": "碎骨机",
+   "name_en": "Bone Mill",
+   "recipe": "石头30+骨碎片3+粘土3",
+   "recipe_source": "采矿(配方)",
+   "recipes": [
+    {
+     "input": "骨碎片x5",
+     "input_en": "Bone Fragment x5",
+     "input_base_price": 0,
+     "output": "品质肥料",
+     "output_en": "Quality Fertilizer",
+     "output_price": 40,
+     "processing_time_hours": 3.0,
+     "profit": 40,
+     "profit_per_hour": 13.33,
+     "note": "骨头→肥料;骨碎片无收购价"
+    }
+   ],
+   "profit_note": "原料无标准收购价(骨碎片Bone Fragment不可出售),利润需按实际成本计算。碎骨机将骨头/骨碎片磨成肥料:5骨碎片→品质肥料(40g);也可产出树肥/休闲肥料,价值取决于实际产出肥料种类。表中profit按品质肥料计为40g,实际期望收益因产出随机而定。"
+  },
+  {
+   "name": "种子生产器",
+   "name_en": "Seed Maker",
+   "recipe": "木材25+煤10+金锭1",
+   "recipe_source": "耕种等级9",
+   "recipes": [
+    {
+     "input": "任意作物(如远古果实)",
+     "input_en": "Any Crop",
+     "input_base_price": 0,
+     "output": "该作物种子x1-3",
+     "output_en": "Crop Seeds",
+     "output_price": 0,
+     "processing_time_hours": 0.33,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": "1个作物→1-3个该作物种子;20分钟;含混合种子概率"
+    }
+   ],
+   "profit_note": "原料为作物、产出为种子,种子无标准收购价,利润需按实际成本计算。种子生产器:1个作物→1~3个该作物种子(或约1/3概率产出混合种子),20分钟。经济价值体现在'种子自供、省种子钱并无限扩种',而非直接售价,故profit=0。"
+  },
+  {
+   "name": "回收机",
+   "name_en": "Recycling Machine",
+   "recipe": "木材25+石头25+铁锭1",
+   "recipe_source": "钓鱼等级4",
+   "recipes": [
+    {
+     "input": "垃圾",
+     "input_en": "Trash",
+     "input_base_price": 0,
+     "output": "石头x1-3",
+     "output_en": "Stone",
+     "output_price": 0,
+     "processing_time_hours": 1.0,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": ""
+    },
+    {
+     "input": "浮木",
+     "input_en": "Driftwood",
+     "input_base_price": 0,
+     "output": "木材",
+     "output_en": "Wood",
+     "output_price": 0,
+     "processing_time_hours": 1.0,
+     "profit": 0,
+     "profit_per_hour": 0.0,
+     "note": ""
+    },
+    {
+     "input": "破损CD",
+     "input_en": "Broken CD",
+     "input_base_price": 0,
+     "output": "精制石英",
+     "output_en": "Refined Quartz",
+     "output_price": 50,
+     "processing_time_hours": 1.0,
+     "profit": 50,
+     "profit_per_hour": 50.0,
+     "note": ""
+    },
+    {
+     "input": "墨镜",
+     "input_en": "Sunglasses",
+     "input_base_price": 0,
+     "output": "布",
+     "output_en": "Cloth",
+     "output_price": 470,
+     "processing_time_hours": 1.0,
+     "profit": 470,
+     "profit_per_hour": 470.0,
+     "note": "1.6新增回收"
+    }
+   ],
+   "profit_note": "原料无标准收购价(垃圾类物品不可出售),利润需按实际成本计算。回收机把钓鱼垃圾转化为资源:垃圾→石头/煤炭/铁锭(概率),浮木→木材/煤炭,破损CD/报纸→精制石英,墨镜(1.6)→布。价值取决于实际产出资源种类,表中逐条列出典型产出。"
+  },
+  {
+   "name": "史莱姆蛋压机",
+   "name_en": "Slime Egg-Press",
+   "recipe": "煤25+火石英1",
+   "recipe_source": "战斗等级6",
+   "recipes": [
+    {
+     "input": "粘液x100",
+     "input_en": "Slime x100",
+     "input_base_price": 0,
+     "output": "史莱姆蛋",
+     "output_en": "Slime Egg",
+     "output_price": 500,
+     "processing_time_hours": 20.0,
+     "profit": 500,
+     "profit_per_hour": 25.0,
+     "note": "100粘液→1史莱姆蛋(绿500g) · 官方 20 小时"
+    }
+   ]
+  },
+  {
+   "name": "熔炉",
+   "name_en": "Furnace",
+   "recipe": "石头20+铜锭1",
+   "recipe_source": "采矿(手册)",
+   "recipes": [
+    {
+     "input": "铜矿石",
+     "input_en": "Copper Ore",
+     "input_base_price": 0,
+     "output": "铜锭",
+     "output_en": "Copper Bar",
+     "output_price": 50,
+     "processing_time_hours": 2.0,
+     "profit": 50,
+     "profit_per_hour": 25.0,
+     "note": "需1煤;矿石价另计"
+    },
+    {
+     "input": "铁矿石",
+     "input_en": "Iron Ore",
+     "input_base_price": 0,
+     "output": "铁锭",
+     "output_en": "Iron Bar",
+     "output_price": 120,
+     "processing_time_hours": 2.0,
+     "profit": 120,
+     "profit_per_hour": 60.0,
+     "note": ""
+    },
+    {
+     "input": "金矿石",
+     "input_en": "Gold Ore",
+     "input_base_price": 0,
+     "output": "金锭",
+     "output_en": "Gold Bar",
+     "output_price": 250,
+     "processing_time_hours": 5.0,
+     "profit": 250,
+     "profit_per_hour": 50.0,
+     "note": ""
+    },
+    {
+     "input": "铱矿石",
+     "input_en": "Iridium Ore",
+     "input_base_price": 0,
+     "output": "铱锭",
+     "output_en": "Iridium Bar",
+     "output_price": 1000,
+     "processing_time_hours": 8.0,
+     "profit": 1000,
+     "profit_per_hour": 125.0,
+     "note": ""
+    }
+   ]
+  }
+ ]
+}

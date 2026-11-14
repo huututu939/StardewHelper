@@ -1,0 +1,10 @@
+{
+  "Name": "SaveAutoPush",
+  "Author": "huututu939",
+  "Version": "1.3.4",
+  "Description": "Save once, auto-push this farm save to the Stardew Helper app over LAN (非官方玩家作品，与 ConcernedApe 无关；数据只在你的局域网内传输). 协议为本项目自有，未参考其他开源项目。",
+  "UniqueID": "huututu939.SaveAutoPush",
+  "EntryDll": "StardewAutoPush.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateChecks": []
+}

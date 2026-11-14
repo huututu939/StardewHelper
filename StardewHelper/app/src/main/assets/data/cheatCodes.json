@@ -1,0 +1,1246 @@
+[
+ {
+  "name": "五彩碎片",
+  "name_en": "Prismatic Shard",
+  "spawn_code": "74",
+  "category_cn": "宝石",
+  "description": "最稀有宝石，沙漠石碑兑换银河剑",
+  "method": "naming"
+ },
+ {
+  "name": "传说之鱼",
+  "name_en": "Legend",
+  "spawn_code": "163",
+  "category_cn": "鱼",
+  "description": "最值钱的鱼王，春夏雨天山区湖",
+  "method": "naming"
+ },
+ {
+  "name": "兔子的脚",
+  "name_en": "Rabbit's Foot",
+  "spawn_code": "446",
+  "category_cn": "动物制品",
+  "description": "提升运气，万能礼物",
+  "method": "naming"
+ },
+ {
+  "name": "上古种子",
+  "name_en": "Ancient Seeds",
+  "spawn_code": "499",
+  "category_cn": "种子",
+  "description": "种植远古果实，可重复收获",
+  "method": "naming"
+ },
+ {
+  "name": "星之果实",
+  "name_en": "Stardrop",
+  "spawn_code": "434",
+  "category_cn": "特殊物品",
+  "description": "永久增加34点能量上限",
+  "method": "naming"
+ },
+ {
+  "name": "铱锭",
+  "name_en": "Iridium Bar",
+  "spawn_code": "337",
+  "category_cn": "金属锭",
+  "description": "最高级加工金属，升级工具必需",
+  "method": "naming"
+ },
+ {
+  "name": "南瓜",
+  "name_en": "Pumpkin",
+  "spawn_code": "276",
+  "category_cn": "作物",
+  "description": "万灵节高产秋季作物",
+  "method": "naming"
+ },
+ {
+  "name": "杨桃",
+  "name_en": "Starfruit",
+  "spawn_code": "268",
+  "category_cn": "作物",
+  "description": "最值钱的普通作物，酿酒首选",
+  "method": "naming"
+ },
+ {
+  "name": "上古水果",
+  "name_en": "Ancient Fruit",
+  "spawn_code": "454",
+  "category_cn": "作物",
+  "description": "最值钱果子，酿酒长线收益",
+  "method": "naming"
+ },
+ {
+  "name": "钻石",
+  "name_en": "Diamond",
+  "spawn_code": "72",
+  "category_cn": "宝石",
+  "description": "万能礼物，合成坚固戒指素材",
+  "method": "naming"
+ },
+ {
+  "name": "红宝石",
+  "name_en": "Ruby",
+  "spawn_code": "64",
+  "category_cn": "宝石",
+  "description": "火山锻造增加武器攻击",
+  "method": "naming"
+ },
+ {
+  "name": "绿宝石",
+  "name_en": "Emerald",
+  "spawn_code": "60",
+  "category_cn": "宝石",
+  "description": "火山锻造提升武器速度",
+  "method": "naming"
+ },
+ {
+  "name": "紫水晶",
+  "name_en": "Amethyst",
+  "spawn_code": "66",
+  "category_cn": "宝石",
+  "description": "早期最易获得的好感礼物",
+  "method": "naming"
+ },
+ {
+  "name": "草莓",
+  "name_en": "Strawberry",
+  "spawn_code": "400",
+  "category_cn": "作物",
+  "description": "春季多次结果，回本快",
+  "method": "naming"
+ },
+ {
+  "name": "蔓越莓",
+  "name_en": "Cranberry",
+  "spawn_code": "282",
+  "category_cn": "作物",
+  "description": "秋季多次结果，高产",
+  "method": "naming"
+ },
+ {
+  "name": "绯红鱼",
+  "name_en": "Crimsonfish",
+  "spawn_code": "159",
+  "category_cn": "鱼",
+  "description": "四大鱼王之一，夏季海滩",
+  "method": "naming"
+ },
+ {
+  "name": "鮟鱇鱼",
+  "name_en": "Angler",
+  "spawn_code": "160",
+  "category_cn": "鱼",
+  "description": "四大鱼王之一，秋季小镇河",
+  "method": "naming"
+ },
+ {
+  "name": "冰川鱼",
+  "name_en": "Glacierfish",
+  "spawn_code": "775",
+  "category_cn": "鱼",
+  "description": "四大鱼王之一，冬季南岛尽头",
+  "method": "naming"
+ },
+ {
+  "name": "变异鲤鱼",
+  "name_en": "Mutant Carp",
+  "spawn_code": "682",
+  "category_cn": "鱼",
+  "description": "四大鱼王之一，下水道",
+  "method": "naming"
+ },
+ {
+  "name": "虚空蛋",
+  "name_en": "Void Egg",
+  "spawn_code": "305",
+  "category_cn": "动物制品",
+  "description": "孵化器孵出虚空鸡",
+  "method": "naming"
+ },
+ {
+  "name": "恐龙蛋",
+  "name_en": "Dinosaur Egg",
+  "spawn_code": "107",
+  "category_cn": "古物",
+  "description": "孵化器孵出恐龙，产恐龙 Mayo",
+  "method": "naming"
+ },
+ {
+  "name": "虎斑史莱姆蛋",
+  "name_en": "Tiger Slime Egg",
+  "spawn_code": "857",
+  "category_cn": "杂项",
+  "description": "1.6虎斑史莱姆巢穴蛋",
+  "method": "naming"
+ },
+ {
+  "name": "黄金南瓜",
+  "name_en": "Golden Pumpkin",
+  "spawn_code": "373",
+  "category_cn": "特殊物品",
+  "description": "万灵节迷宫奖品，送礼用",
+  "method": "naming"
+ },
+ {
+  "name": "放射性矿石",
+  "name_en": "Radioactive Ore",
+  "spawn_code": "909",
+  "category_cn": "矿石",
+  "description": "制作放射性锭与末日装置",
+  "method": "naming"
+ },
+ {
+  "name": "海蓝宝石",
+  "name_en": "Aquamarine",
+  "spawn_code": "62",
+  "category_cn": "宝石",
+  "description": "火山锻造增加暴击率",
+  "method": "naming"
+ },
+ {
+  "name": "金锭",
+  "name_en": "Gold Bar",
+  "spawn_code": "336",
+  "category_cn": "金属锭",
+  "description": "中期最常用高级金属",
+  "method": "naming"
+ },
+ {
+  "name": "黄水晶",
+  "name_en": "Topaz",
+  "spawn_code": "68",
+  "category_cn": "宝石",
+  "description": "矿井矿石",
+  "method": "naming"
+ },
+ {
+  "name": "翡翠",
+  "name_en": "Jade",
+  "spawn_code": "70",
+  "category_cn": "宝石",
+  "method": "naming"
+ },
+ {
+  "name": "石英",
+  "name_en": "Quartz",
+  "spawn_code": "80",
+  "category_cn": "宝石",
+  "description": "矿井采集",
+  "method": "naming"
+ },
+ {
+  "name": "火水晶",
+  "name_en": "Fire Quartz",
+  "spawn_code": "82",
+  "category_cn": "宝石",
+  "description": "矿井80层以下",
+  "method": "naming"
+ },
+ {
+  "name": "泪晶",
+  "name_en": "Frozen Tear",
+  "spawn_code": "84",
+  "category_cn": "宝石",
+  "description": "矿井40-80层",
+  "method": "naming"
+ },
+ {
+  "name": "地晶",
+  "name_en": "Earth Crystal",
+  "spawn_code": "86",
+  "category_cn": "宝石",
+  "description": "矿井1-40层",
+  "method": "naming"
+ },
+ {
+  "name": "山洞萝卜",
+  "name_en": "Cave Carrot",
+  "spawn_code": "78",
+  "category_cn": "采集物",
+  "method": "naming"
+ },
+ {
+  "name": "香蕉",
+  "spawn_code": "91",
+  "category_cn": "采集物",
+  "method": "naming"
+ },
+ {
+  "name": "椰子",
+  "name_en": "Coconut",
+  "spawn_code": "88",
+  "category_cn": "采集物",
+  "description": "沙漠/姜岛采集",
+  "method": "naming"
+ },
+ {
+  "name": "仙人掌果",
+  "name_en": "Cactus Fruit",
+  "spawn_code": "90",
+  "category_cn": "采集物",
+  "description": "['summer']季作物",
+  "method": "naming"
+ },
+ {
+  "name": "宝石甜莓",
+  "name_en": "Sweet Gem Berry",
+  "spawn_code": "417",
+  "category_cn": "采集物",
+  "method": "naming"
+ },
+ {
+  "name": "铜矿石",
+  "name_en": "Copper Ore",
+  "spawn_code": "378",
+  "category_cn": "矿石",
+  "description": "矿井1-40层",
+  "method": "naming"
+ },
+ {
+  "name": "铁矿石",
+  "name_en": "Iron Ore",
+  "spawn_code": "380",
+  "category_cn": "矿石",
+  "description": "矿井40-80层",
+  "method": "naming"
+ },
+ {
+  "name": "煤炭",
+  "name_en": "Coal",
+  "spawn_code": "382",
+  "category_cn": "矿石",
+  "method": "naming"
+ },
+ {
+  "name": "黄金矿石",
+  "name_en": "Gold Ore",
+  "spawn_code": "384",
+  "category_cn": "矿石",
+  "description": "矿井80层以下",
+  "method": "naming"
+ },
+ {
+  "name": "铱矿石",
+  "name_en": "Iridium Ore",
+  "spawn_code": "386",
+  "category_cn": "矿石",
+  "description": "矿井骷髅洞/100层以下",
+  "method": "naming"
+ },
+ {
+  "name": "石头",
+  "name_en": "Stone",
+  "spawn_code": "40",
+  "category_cn": "矿石",
+  "description": "敲矿石",
+  "method": "naming"
+ },
+ {
+  "name": "铜锭",
+  "name_en": "Copper Bar",
+  "spawn_code": "334",
+  "category_cn": "金属锭",
+  "description": "熔炉冶炼5铜矿",
+  "method": "naming"
+ },
+ {
+  "name": "铁锭",
+  "name_en": "Iron Bar",
+  "spawn_code": "335",
+  "category_cn": "金属锭",
+  "description": "熔炉冶炼5铁矿",
+  "method": "naming"
+ },
+ {
+  "name": "精炼石英",
+  "name_en": "Refined Quartz",
+  "spawn_code": "338",
+  "category_cn": "金属锭",
+  "description": "熔炉冶炼石英",
+  "method": "naming"
+ },
+ {
+  "name": "放射性矿锭",
+  "name_en": "Radioactive Bar",
+  "spawn_code": "910",
+  "category_cn": "金属锭",
+  "method": "naming"
+ },
+ {
+  "name": "金色核桃",
+  "spawn_code": "73",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "金色椰子",
+  "spawn_code": "791",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "晶球",
+  "name_en": "Geode",
+  "spawn_code": "535",
+  "category_cn": "特殊物品",
+  "description": "矿井敲开",
+  "method": "naming"
+ },
+ {
+  "name": "冰封晶球",
+  "name_en": "Frozen Geode",
+  "spawn_code": "536",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "岩浆晶球",
+  "name_en": "Magma Geode",
+  "spawn_code": "537",
+  "category_cn": "特殊物品",
+  "description": "矿井80层以下",
+  "method": "naming"
+ },
+ {
+  "name": "万象晶球",
+  "name_en": "Omni Geode",
+  "spawn_code": "749",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "稀有种子",
+  "name_en": "Rare Seed",
+  "spawn_code": "347",
+  "category_cn": "特殊物品",
+  "description": "种植后生长为甜宝石浆果",
+  "method": "naming"
+ },
+ {
+  "name": "松露",
+  "name_en": "Truffle",
+  "spawn_code": "430",
+  "category_cn": "特殊物品",
+  "description": "猪产出",
+  "method": "naming"
+ },
+ {
+  "name": "银河之魂",
+  "spawn_code": "896",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "龙牙",
+  "spawn_code": "852",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "珍珠",
+  "name_en": "Pearl",
+  "spawn_code": "797",
+  "category_cn": "特殊物品",
+  "description": "夜市交换",
+  "method": "naming"
+ },
+ {
+  "name": "马笛",
+  "spawn_code": "911",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "魔法糖冰棍",
+  "name_en": "Magic Rock Candy",
+  "spawn_code": "279",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "齐钻",
+  "spawn_code": "858",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "珍稀诱钩",
+  "name_en": "Curiosity Lure",
+  "spawn_code": "856",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "金蛋",
+  "name_en": "Golden Egg",
+  "spawn_code": "928",
+  "category_cn": "特殊物品",
+  "description": "黄金鸡产出",
+  "method": "naming"
+ },
+ {
+  "name": "电影票",
+  "spawn_code": "809",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "虚空幽灵吊坠",
+  "spawn_code": "808",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "皮埃尔缺货清单",
+  "spawn_code": "897",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "矮人语教程",
+  "name_en": "Dwarvish Translation Guide",
+  "spawn_code": "326",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "加压喷头",
+  "spawn_code": "915",
+  "category_cn": "特殊物品",
+  "method": "naming"
+ },
+ {
+  "name": "蓝色史莱姆蛋",
+  "name_en": "Blue Slime Egg",
+  "spawn_code": "413",
+  "category_cn": "动物制品",
+  "method": "naming"
+ },
+ {
+  "name": "红色史莱姆蛋",
+  "name_en": "Red Slime Egg",
+  "spawn_code": "437",
+  "category_cn": "动物制品",
+  "method": "naming"
+ },
+ {
+  "name": "紫色史莱姆蛋",
+  "name_en": "Purple Slime Egg",
+  "spawn_code": "439",
+  "category_cn": "动物制品",
+  "method": "naming"
+ },
+ {
+  "name": "鸵鸟蛋",
+  "name_en": "Ostrich Egg",
+  "spawn_code": "289",
+  "category_cn": "动物制品",
+  "description": "鸵鸟产出",
+  "method": "naming"
+ },
+ {
+  "name": "鸭蛋",
+  "name_en": "Duck Egg",
+  "spawn_code": "442",
+  "category_cn": "动物制品",
+  "description": "鸭产出",
+  "method": "naming"
+ },
+ {
+  "name": "鸭毛",
+  "name_en": "Duck Feather",
+  "spawn_code": "444",
+  "category_cn": "动物制品",
+  "method": "naming"
+ },
+ {
+  "name": "动物毛",
+  "name_en": "Wool",
+  "spawn_code": "440",
+  "category_cn": "动物制品",
+  "description": "兔子产出",
+  "method": "naming"
+ },
+ {
+  "name": "鱼籽",
+  "spawn_code": "812",
+  "category_cn": "动物制品",
+  "method": "naming"
+ },
+ {
+  "name": "鱿鱼墨汁",
+  "name_en": "Squid Ink",
+  "spawn_code": "814",
+  "category_cn": "动物制品",
+  "method": "naming"
+ },
+ {
+  "name": "小型光辉戒指",
+  "name_en": "Small Glow Ring",
+  "spawn_code": "516",
+  "category_cn": "戒指",
+  "description": "矿箱/公会",
+  "method": "naming"
+ },
+ {
+  "name": "光辉戒指",
+  "name_en": "Glow Ring",
+  "spawn_code": "517",
+  "category_cn": "戒指",
+  "description": "矿箱/公会",
+  "method": "naming"
+ },
+ {
+  "name": "磁铁戒指",
+  "name_en": "Magnet Ring",
+  "spawn_code": "519",
+  "category_cn": "戒指",
+  "description": "矿箱",
+  "method": "naming"
+ },
+ {
+  "name": "史莱姆克星戒指",
+  "name_en": "Slime Charmer Ring",
+  "spawn_code": "520",
+  "category_cn": "戒指",
+  "description": "史莱姆屋事件",
+  "method": "naming"
+ },
+ {
+  "name": "战士戒指",
+  "name_en": "Warrior Ring",
+  "spawn_code": "521",
+  "category_cn": "戒指",
+  "description": "击杀100蝙蝠奖励",
+  "method": "naming"
+ },
+ {
+  "name": "吸血戒指",
+  "name_en": "Vampire Ring",
+  "spawn_code": "522",
+  "category_cn": "戒指",
+  "description": "击杀100蝙蝠",
+  "method": "naming"
+ },
+ {
+  "name": "点唱机戒指",
+  "spawn_code": "528",
+  "category_cn": "戒指",
+  "method": "naming"
+ },
+ {
+  "name": "保护戒指",
+  "name_en": "Protection Ring",
+  "spawn_code": "861",
+  "category_cn": "戒指",
+  "description": "受伤后无敌时间+0.4秒",
+  "method": "naming"
+ },
+ {
+  "name": "结实戒指",
+  "name_en": "Sturdy Ring",
+  "spawn_code": "525",
+  "category_cn": "戒指",
+  "description": "负面效果持续时间减半",
+  "method": "naming"
+ },
+ {
+  "name": "幸运戒指",
+  "name_en": "Lucky Ring",
+  "spawn_code": "859",
+  "category_cn": "戒指",
+  "description": "1.6新增",
+  "method": "naming"
+ },
+ {
+  "name": "窃贼戒指",
+  "name_en": "Burglar's Ring",
+  "spawn_code": "526",
+  "category_cn": "戒指",
+  "description": "怪物收集奖励",
+  "method": "naming"
+ },
+ {
+  "name": "黄水晶戒指",
+  "name_en": "Topaz Ring",
+  "spawn_code": "530",
+  "category_cn": "戒指",
+  "description": "防御+1",
+  "method": "naming"
+ },
+ {
+  "name": "紫水晶戒指",
+  "name_en": "Amethyst Ring",
+  "spawn_code": "529",
+  "category_cn": "戒指",
+  "description": "击退力+10%",
+  "method": "naming"
+ },
+ {
+  "name": "铱环",
+  "name_en": "Iridium Band",
+  "spawn_code": "527",
+  "category_cn": "戒指",
+  "description": "公会7500g",
+  "method": "naming"
+ },
+ {
+  "name": "海蓝宝石戒指",
+  "name_en": "Aquamarine Ring",
+  "spawn_code": "531",
+  "category_cn": "戒指",
+  "description": "暴击率+10%",
+  "method": "naming"
+ },
+ {
+  "name": "翡翠戒指",
+  "name_en": "Jade Ring",
+  "spawn_code": "532",
+  "category_cn": "戒指",
+  "description": "暴击威力+10%",
+  "method": "naming"
+ },
+ {
+  "name": "红宝石戒指",
+  "name_en": "Ruby Ring",
+  "spawn_code": "534",
+  "category_cn": "戒指",
+  "description": "攻击+10%",
+  "method": "naming"
+ },
+ {
+  "name": "蟹壳戒指",
+  "name_en": "Crabshell Ring",
+  "spawn_code": "810",
+  "category_cn": "戒指",
+  "description": "防御+5",
+  "method": "naming"
+ },
+ {
+  "name": "燃烧弹戒指",
+  "name_en": "Napalm Ring",
+  "spawn_code": "811",
+  "category_cn": "戒指",
+  "description": "击杀敌人时爆炸",
+  "method": "naming"
+ },
+ {
+  "name": "荆棘戒指",
+  "name_en": "Thorns Ring",
+  "spawn_code": "839",
+  "category_cn": "戒指",
+  "description": "受伤时反弹伤害",
+  "method": "naming"
+ },
+ {
+  "name": "热咖啡戒指",
+  "name_en": "Hot Java Ring",
+  "spawn_code": "860",
+  "category_cn": "戒指",
+  "description": "击杀怪物时概率掉落咖啡",
+  "method": "naming"
+ },
+ {
+  "name": "凤凰戒指",
+  "name_en": "Phoenix Ring",
+  "spawn_code": "863",
+  "category_cn": "戒指",
+  "description": "火山宝箱",
+  "method": "naming"
+ },
+ {
+  "name": "樱桃炸弹",
+  "name_en": "Cherry Bomb",
+  "spawn_code": "286",
+  "category_cn": "炸弹",
+  "description": "制作/购买",
+  "method": "naming"
+ },
+ {
+  "name": "炸弹",
+  "name_en": "Bomb",
+  "spawn_code": "287",
+  "category_cn": "炸弹",
+  "description": "制作/购买",
+  "method": "naming"
+ },
+ {
+  "name": "超级炸弹",
+  "name_en": "Mega Bomb",
+  "spawn_code": "288",
+  "category_cn": "炸弹",
+  "description": "制作/购买",
+  "method": "naming"
+ },
+ {
+  "name": "爆炸弹丸",
+  "spawn_code": "441",
+  "category_cn": "炸弹",
+  "method": "naming"
+ },
+ {
+  "name": "史莱姆泥",
+  "name_en": "Slime",
+  "spawn_code": "766",
+  "category_cn": "怪物材料",
+  "method": "naming"
+ },
+ {
+  "name": "蝙蝠翅膀",
+  "name_en": "Bat Wings",
+  "spawn_code": "767",
+  "category_cn": "怪物材料",
+  "description": "蝙蝠掉落",
+  "method": "naming"
+ },
+ {
+  "name": "太阳精华",
+  "name_en": "Solar Essence",
+  "spawn_code": "768",
+  "category_cn": "怪物材料",
+  "method": "naming"
+ },
+ {
+  "name": "虚空精华",
+  "name_en": "Void Essence",
+  "spawn_code": "769",
+  "category_cn": "怪物材料",
+  "description": "暗影/影子掉落",
+  "method": "naming"
+ },
+ {
+  "name": "虫肉",
+  "name_en": "Bug Meat",
+  "spawn_code": "684",
+  "category_cn": "怪物材料",
+  "description": "虫子掉落",
+  "method": "naming"
+ },
+ {
+  "name": "生命药水",
+  "name_en": "Life Elixir",
+  "spawn_code": "773",
+  "category_cn": "药剂",
+  "description": "战斗2级解锁",
+  "method": "naming"
+ },
+ {
+  "name": "能量滋补水",
+  "name_en": "Energy Tonic",
+  "spawn_code": "349",
+  "category_cn": "药剂",
+  "method": "naming"
+ },
+ {
+  "name": "三倍浓缩咖啡",
+  "name_en": "Triple Shot Espresso",
+  "spawn_code": "253",
+  "category_cn": "食物",
+  "method": "naming"
+ },
+ {
+  "name": "混合种子",
+  "name_en": "Mixed Seeds",
+  "spawn_code": "770",
+  "category_cn": "种子",
+  "description": "割草",
+  "method": "naming"
+ },
+ {
+  "name": "矮人卷轴I",
+  "name_en": "Dwarf Scroll I",
+  "spawn_code": "96",
+  "category_cn": "古物",
+  "description": "矿井怪物掉落",
+  "method": "naming"
+ },
+ {
+  "name": "矮人卷轴II",
+  "name_en": "Dwarf Scroll II",
+  "spawn_code": "97",
+  "category_cn": "古物",
+  "description": "矿井怪物掉落",
+  "method": "naming"
+ },
+ {
+  "name": "矮人卷轴III",
+  "name_en": "Dwarf Scroll III",
+  "spawn_code": "98",
+  "category_cn": "古物",
+  "description": "矿井怪物掉落",
+  "method": "naming"
+ },
+ {
+  "name": "矮人卷轴IV",
+  "name_en": "Dwarf Scroll IV",
+  "spawn_code": "99",
+  "category_cn": "古物",
+  "description": "矿井怪物掉落",
+  "method": "naming"
+ },
+ {
+  "name": "箭头",
+  "name_en": "Arrowhead",
+  "spawn_code": "101",
+  "category_cn": "古物",
+  "description": "简陋的狩猎用尖状石器",
+  "method": "naming"
+ },
+ {
+  "name": "精灵珠宝",
+  "name_en": "Elvish Jewelry",
+  "spawn_code": "104",
+  "category_cn": "古物",
+  "method": "naming"
+ },
+ {
+  "name": "古剑",
+  "name_en": "Ancient Sword",
+  "spawn_code": "109",
+  "category_cn": "古物",
+  "method": "naming"
+ },
+ {
+  "name": "生锈齿轮",
+  "name_en": "Rusty Cog",
+  "spawn_code": "112",
+  "category_cn": "古物",
+  "method": "naming"
+ },
+ {
+  "name": "鹦鹉螺化石",
+  "name_en": "Nautilus Fossil",
+  "spawn_code": "586",
+  "category_cn": "古物",
+  "description": "姜岛化石",
+  "method": "naming"
+ },
+ {
+  "name": "金色镰刀",
+  "name_en": "Golden Scythe",
+  "spawn_code": "53",
+  "category_cn": "武器",
+  "description": "1.6新增/矿洞",
+  "method": "naming"
+ },
+ {
+  "name": "银河剑",
+  "name_en": "Galaxy Sword",
+  "spawn_code": "(W)4",
+  "category_cn": "武器",
+  "description": "沙漠三块五彩石碑兑换的最强光剑",
+  "method": "chat"
+ },
+ {
+  "name": "铱金洒水器",
+  "name_en": "Iridium Sprinkler",
+  "spawn_code": "(BC)645",
+  "category_cn": "特殊物品",
+  "description": "覆盖24格，农场自动化核心",
+  "method": "chat"
+ },
+ {
+  "name": "黑暗剑",
+  "name_en": "Dark Sword",
+  "spawn_code": "(W)2",
+  "category_cn": "武器",
+  "description": "散发着吸血鬼能量",
+  "method": "chat"
+ },
+ {
+  "name": "圣刃",
+  "name_en": "Holy Blade",
+  "spawn_code": "(W)3",
+  "category_cn": "武器",
+  "description": "握在手中充满希望",
+  "method": "chat"
+ },
+ {
+  "name": "黑曜石之刃",
+  "name_en": "Obsidian Edge",
+  "spawn_code": "(W)8",
+  "category_cn": "武器",
+  "description": "矿100层宝箱",
+  "method": "chat"
+ },
+ {
+  "name": "熔岩武士刀",
+  "name_en": "Lava Katana",
+  "spawn_code": "(W)9",
+  "category_cn": "武器",
+  "description": "熔岩中锻造的强大刀刃",
+  "method": "chat"
+ },
+ {
+  "name": "双手大剑",
+  "name_en": "Claymore",
+  "spawn_code": "(W)10",
+  "category_cn": "武器",
+  "description": "非常重",
+  "method": "chat"
+ },
+ {
+  "name": "银河匕首",
+  "name_en": "Galaxy Dagger",
+  "spawn_code": "(W)23",
+  "category_cn": "武器",
+  "description": "银河剑后公会",
+  "method": "chat"
+ },
+ {
+  "name": "银河锤",
+  "name_en": "Galaxy Hammer",
+  "spawn_code": "(W)29",
+  "category_cn": "武器",
+  "description": "银河剑后公会",
+  "method": "chat"
+ },
+ {
+  "name": "弯刀",
+  "name_en": "Cutlass",
+  "spawn_code": "(W)44",
+  "category_cn": "武器",
+  "description": "精致的刀刃",
+  "method": "chat"
+ },
+ {
+  "name": "雪人牙",
+  "name_en": "Yeti Tooth",
+  "spawn_code": "(W)48",
+  "category_cn": "武器",
+  "method": "chat"
+ },
+ {
+  "name": "铱针",
+  "name_en": "Iridium Needle",
+  "spawn_code": "(W)61",
+  "category_cn": "武器",
+  "method": "chat"
+ },
+ {
+  "name": "无限之刃",
+  "name_en": "Infinity Blade",
+  "spawn_code": "(W)62",
+  "category_cn": "武器",
+  "description": "银河剑+银河之魂升级",
+  "method": "chat"
+ },
+ {
+  "name": "无限之锤",
+  "name_en": "Infinity Gavel",
+  "spawn_code": "(W)63",
+  "category_cn": "武器",
+  "description": "银河锤+银河之魂",
+  "method": "chat"
+ },
+ {
+  "name": "无限匕首",
+  "name_en": "Infinity Dagger",
+  "spawn_code": "(W)64",
+  "category_cn": "武器",
+  "method": "chat"
+ },
+ {
+  "name": "牛仔之靴",
+  "name_en": "Cowboy Boots",
+  "spawn_code": "(B)515",
+  "category_cn": "靴子",
+  "method": "chat",
+  "description": "矿宝箱"
+ },
+ {
+  "name": "太空靴",
+  "name_en": "Space Boots",
+  "spawn_code": "(B)514",
+  "category_cn": "靴子",
+  "description": "矿宝箱",
+  "method": "chat"
+ },
+ {
+  "name": "战地靴",
+  "name_en": "Combat Boots",
+  "spawn_code": "(B)508",
+  "category_cn": "靴子",
+  "description": "冒险者公会",
+  "method": "chat"
+ },
+ {
+  "name": "皮靴",
+  "name_en": "Leather Boots",
+  "spawn_code": "(B)506",
+  "category_cn": "靴子",
+  "description": "冒险者公会",
+  "method": "chat"
+ },
+ {
+  "name": "橡胶靴",
+  "name_en": "Rubber Boots",
+  "spawn_code": "(B)505",
+  "category_cn": "靴子",
+  "description": "矿宝箱",
+  "method": "chat"
+ },
+ {
+  "name": "工作靴",
+  "name_en": "Work Boots",
+  "spawn_code": "(B)507",
+  "category_cn": "靴子",
+  "method": "chat"
+ },
+ {
+  "name": "冻土靴",
+  "name_en": "Tundra Boots",
+  "spawn_code": "(B)509",
+  "category_cn": "靴子",
+  "method": "chat"
+ },
+ {
+  "name": "黑暗之靴",
+  "name_en": "Dark Boots",
+  "spawn_code": "(B)511",
+  "category_cn": "靴子",
+  "method": "chat"
+ },
+ {
+  "name": "蹈火者靴",
+  "name_en": "Firewalker Boots",
+  "spawn_code": "(B)512",
+  "category_cn": "靴子",
+  "method": "chat"
+ },
+ {
+  "name": "精灵鞋",
+  "name_en": "Genie Shoes",
+  "spawn_code": "(B)513",
+  "category_cn": "靴子",
+  "description": "矿箱",
+  "method": "chat"
+ },
+ {
+  "name": "水晶鞋",
+  "name_en": "Crystal Shoes",
+  "spawn_code": "(B)878",
+  "category_cn": "靴子",
+  "method": "chat"
+ },
+ {
+  "name": "洒水器",
+  "name_en": "Sprinkler",
+  "spawn_code": "(BC)599",
+  "category_cn": "设备",
+  "description": "耕种2级解锁",
+  "method": "chat"
+ },
+ {
+  "name": "优质洒水器",
+  "name_en": "Quality Sprinkler",
+  "spawn_code": "(BC)621",
+  "category_cn": "设备",
+  "description": "耕种6级解锁",
+  "method": "chat"
+ },
+ {
+  "name": "熔炉",
+  "name_en": "Furnace",
+  "spawn_code": "(BC)13",
+  "category_cn": "设备",
+  "description": "克林特邮件事件（采集1+铜矿石后次日）",
+  "method": "chat"
+ },
+ {
+  "name": "蜂房",
+  "name_en": "Bee House",
+  "spawn_code": "(BC)10",
+  "category_cn": "设备",
+  "description": "耕种3级解锁",
+  "method": "chat"
+ },
+ {
+  "name": "酒桶",
+  "spawn_code": "(BC)12",
+  "category_cn": "设备",
+  "method": "chat"
+ },
+ {
+  "name": "罐头瓶",
+  "name_en": "Preserves Jar",
+  "spawn_code": "(BC)15",
+  "category_cn": "设备",
+  "description": "耕种4级解锁",
+  "method": "chat"
+ },
+ {
+  "name": "压酪机",
+  "name_en": "Cheese Press",
+  "spawn_code": "(BC)16",
+  "category_cn": "设备",
+  "description": "耕种6级解锁",
+  "method": "chat"
+ },
+ {
+  "name": "织布机",
+  "name_en": "Loom",
+  "spawn_code": "(BC)17",
+  "category_cn": "设备",
+  "description": "耕种7级解锁",
+  "method": "chat"
+ },
+ {
+  "name": "榨油机",
+  "spawn_code": "(BC)19",
+  "category_cn": "设备",
+  "method": "chat"
+ },
+ {
+  "name": "回收机",
+  "name_en": "Recycling Machine",
+  "spawn_code": "(BC)20",
+  "category_cn": "设备",
+  "description": "钓鱼4级配方",
+  "method": "chat"
+ },
+ {
+  "name": "宝石复制机",
+  "spawn_code": "(BC)21",
+  "category_cn": "设备",
+  "method": "chat"
+ },
+ {
+  "name": "蛋黄酱机",
+  "name_en": "Mayonnaise Machine",
+  "spawn_code": "(BC)24",
+  "category_cn": "设备",
+  "description": "耕种2级解锁",
+  "method": "chat"
+ },
+ {
+  "name": "种子生产器",
+  "name_en": "Seed Maker",
+  "spawn_code": "(BC)25",
+  "category_cn": "设备",
+  "description": "觅食9级",
+  "method": "chat"
+ },
+ {
+  "name": "自动采集器",
+  "spawn_code": "(BC)165",
+  "category_cn": "设备",
+  "method": "chat"
+ },
+ {
+  "name": "自动抚摸器",
+  "spawn_code": "(BC)272",
+  "category_cn": "设备",
+  "method": "chat"
+ },
+ {
+  "name": "太阳能板",
+  "name_en": "Solar Panel",
+  "spawn_code": "(BC)231",
+  "category_cn": "设备",
+  "description": "卡洛琳特别任务奖励",
+  "method": "chat"
+ }
+]

@@ -1,0 +1,669 @@
+{{Infobox villager
+|portrait  = Emily.png
+|birthday  = {{Season|Spring|27}}
+|location  = 鹈鹕镇
+|address   = [[柳巷2号]]
+|family    = {{NPC|Haley|妹妹}}
+|friends   = {{NPC|Sandy}}
+|marriage  = 是
+|clinic    = {{Season|Winter|11}}
+|favorites = {{name|Amethyst}}{{name|Aquamarine}}{{name|Cloth}}{{name|Emerald}}{{name|Jade}}{{name|Ruby}}{{name|Survival Burger}}{{name|Topaz}}{{name|Wool}}{{name|Parrot Egg|link=鹦鹉蛋}}
+}}
+{{Quote|我在格斯酒吧工作只是为了维生……可是我真正的梦想是当裁缝。你看，这些衣服都是我亲手缝的哦。|艾米丽}}
+'''艾米丽'''是居住在[[鹈鹕镇]]的[[居民]]之一。她的家位于[[柳巷2号]]，在鹈鹕镇的西南角，[[柳巷1号|乔迪家]]的右侧。大部分时间，她都从 16:00 开始在[[星之果实酒吧]]工作直至凌晨。
+
+艾米丽非常喜欢自己做衣服，在她的家里有[[柳巷2号#缝纫机|缝纫机]]和[[染色|染料罐]]。或许是因为这一点再加上在小镇上很难获得材料，[[布料]]与[[动物毛]]是她最爱的[[友谊|礼物]]。
+
+{{Snippets|摘要|可结婚}}
+
+==日程表==
+{{Snippets|日程|表格}}
+
+{{Snippets|日程|度假村}}
+
+桑迪的生日当天（秋季 15 日），艾米丽会全天陪伴着桑迪，不会去度假或者工作。
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"| 11:10 ||乘坐巴士前往[[沙漠]]。
+|-
+| 11:30 ||到达她的[[沙漠节#村民商铺|商店摊位]]。
+|-
+| 00:00 ||离开摊位并乘坐巴士返回星露谷。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季15日、16日和17日（巴士站已修复）
+|-
+|style="width:15%"| 09:30 ||乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+| 10:00 ||站在她的[[沙漠节#艾米丽的服装服务|服装服务处]]。
+|-
+| 00:30 ||乘坐巴士返回星露谷。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|秋季15日（巴士站已修复）
+|-
+|style="width:15%"| 09:00 ||在她的卧室中。
+|-
+| 10:30 ||离开家前往[[沙漠]]探望[[桑迪]]。
+|-
+| 00:00 ||回家休息。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|冬季11日
+|-
+|style="width:15%"| 09:00 ||在她的卧室中。
+|-
+| 10:30 ||出门前往[[哈维的诊所]]，待在候诊室。
+|-
+| 13:30 ||走进检查室。
+|-
+| 16:00 ||离开哈维的诊所，去[[星之果实酒吧]]工作。
+|-
+| 00:30 ||回家睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|冬季15日
+|-
+|style="width:15%"| 09:00 ||在她的卧室中。
+|-
+| 12:00 ||从卧室中出来，站在客厅里。
+|-
+| 14:30 ||出门去参加[[夜市]]。
+|-
+| 00:30 ||回家睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"|全天||位于[[星之果实酒吧]]。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|雨天
+|-
+|style="width:15%"| 09:00 ||在她的卧室中。
+|-
+| 12:00 ||从卧室中出来，站在客厅里。
+|-
+| 15:30 ||出门去[[星之果实酒吧]]工作。
+|-
+| 00:30 ||回家睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期二
+|-
+|style="width:15%"| 09:00 ||在她的卧室中。
+|-
+| 10:00 ||出门前往[[皮埃尔的杂货店]]，参加健身锻炼。
+|-
+| 13:00 ||开始健身锻炼。
+|-
+| 16:00 ||离开杂货店，去[[星之果实酒吧]]工作。
+|-
+| 00:30 ||回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期五（社区中心已修复）
+|-
+|style="width:15%"| 09:00 ||在她的卧室中。
+|-
+| 10:00 ||走向[[社区中心]]，站在工艺室中。
+|-
+| 15:30 ||离开社区中心，去[[星之果实酒吧]]工作。
+|-
+| 00:30 ||回家睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|日常时间表
+|-
+|style="width:15%"| 09:00 ||在她的卧室中。
+|-
+| 12:00 ||从卧室中出来，站在客厅里。
+|-
+| 15:30 ||出门去[[星之果实酒吧]]工作。
+|-
+| 00:30 ||回家睡觉。
+|}
+{{ScheduleHeader|Marriage}}
+|-
+|
+'''春季15日、16日和17日（巴士站已修复）'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+| 08:00 ||离开农场参加[[沙漠节]]，站在她的[[沙漠节#艾米丽的服装服务|服装服务处]]。
+|-
+| 00:30 ||返回农场。
+|-
+|}
+
+'''秋季15日（巴士站已修复）'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+| 06:00 ||位于农场。
+|-
+| 12:00 ||到达[[绿洲]]探望[[桑迪]]。
+|-
+| 13:00 ||从[[绿洲]]出门，在[[沙漠]]中散步。
+|-
+| 00:00 ||回家休息。
+|-
+|}
+
+'''星期一'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|08:30
+|离开农舍，前往[[柳巷2号]]，站在厨房里。
+|-
+|11:00
+|离开[[柳巷2号]]，站在[[社区中心]]东侧，看着镇上的河流。
+|-
+|15:00
+|去[[星之果实酒吧]]工作。
+|-
+|22:00
+|离开酒吧，回家。
+|-
+|}
+
+'''星期五'''
+{|class="wikitable scheduleheader"
+! style="width: 15%;" |时间
+! style="width: 85%;" |地点
+|-
+|08:30
+|离开农舍，前往[[鱼店]]西侧的码头。
+|-
+|13:00
+|离开[[沙滩]]，前往[[皮埃尔的杂货店]]。
+|-
+|15:00
+|离开杂货店，去[[星之果实酒吧]]工作。
+|-
+|22:00
+|离开酒吧，回家。
+|-
+|}
+|}
+
+==人际关系==
+艾米丽和她的妹妹[[海莉]]住在一起，二人共同照看[[柳巷2号|父母的房子]]。近两年她们的父母一直在世界各地旅行。艾米丽被[[格斯]]聘用，在[[星之果实酒吧]]做兼职。她是[[桑迪]]的好朋友。[[桑迪]]与玩家初次见面的时候，会说艾米丽在写给她的信中提到过玩家。
+
+[[克林特]]暗恋着艾米丽，但不敢表白。
+
+{{Snippets|人际关系|花舞节|谢恩}}
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|这礼物妙极了！太感谢你了。}} 
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+|[[File:Emily Happy.png|48px|center]]
+|colspan="4"|<ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Amethyst.png|center]]
+|[[紫水晶]]
+|一种紫色的水晶。
+|[[采矿]]
+|
+|-
+|[[File:Aquamarine.png|center]]
+|[[海蓝宝石]]
+|一种闪闪发亮的蓝绿色宝石。
+|[[采矿]]
+|
+|-
+|[[File:Cloth.png|center]]
+|[[布料]]
+|一匹上好的动物毛布料。
+|[[工匠物品]]
+|{{name|Wool}}
+|-
+|[[File:Emerald.png|center]]
+|[[绿宝石]]
+|一种亮绿色的珍贵宝石。
+|[[采矿]]
+|
+|-
+|[[File:Jade.png|center]]
+|[[翡翠]]
+|一种淡绿色的装饰石。
+|[[采矿]]
+|
+|-
+|[[File:Ruby.png|center]]
+|[[红宝石]]
+|一种因其浓艳的颜色和美丽的光泽受人追捧的珍贵宝石。
+|[[采矿]]
+|
+|-
+|[[File:Survival Burger.png|center]]
+|[[救生汉堡]]
+|探险家们的便携小吃。
+|[[烹饪]]
+|{{name|Bread|1}}{{name|Cave Carrot|1}}{{name|Eggplant|1}}
+|-
+|[[File:Topaz.png|center]]
+|[[黄水晶]]
+|很常见，但是因为漂亮还是很有价值。
+|[[采矿]]
+|
+|-
+|[[File:Wool.png|center]]
+|[[动物毛]]
+|柔软蓬松的羊毛。
+|[[动物|绵羊 / 兔子]]
+|
+|-
+|[[File:Parrot_Egg.png|center]]
+|[[鹦鹉蛋]]
+|召唤一只跟随你的X级鹦鹉，使得杀怪时有Y概率掉落金币。
+|[[饰品]]
+|
+|}
+
+===喜欢===
+{{Squote|非常感谢！这礼物让我感受到了正能量。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+|[[File:Emily Happy.png|48px|center]]
+|colspan="3"|<ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[鱼肉卷]]、[[炒鳗鱼]]、[[冰淇淋]]、[[生鱼寿司]]、[[大米布丁]]、[[鲑鱼晚餐]]、[[香辣鳗鱼]]、[[生鱼片]]）</li></ul>
+|-
+|[[File:Daffodil.png]]
+|[[黄水仙]]
+|一种传统的春天花朵，适合送礼。
+|[[采集]] - [[春季]]
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|一种常见于洞穴和矿井里的纯净晶体。
+|[[采集]] - 矿井
+|}
+
+===一般===
+{{Squote|谢谢！}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!class="unsortable" style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+|[[File:Emily.png|48px|center]]
+|colspan="4"|<ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[动物毛]]）</li><li>'''所有蛋类'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]和[[美洲大树莓]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|稍微坚硬，肉质滑。
+|[[采集]] - [[秋季]]
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|一种美味的蘑菇，味道像水果，稍辣。
+|[[采集]] - [[秋季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|虽然不算漂亮，但是叶子适合做沙拉。
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|真是巨大的一颗榛子！
+|[[采集]] - [[秋季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|洋葱的美味近亲。
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|因为独特的味道而深受欢迎。
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|一种在山洞深处的稀有蘑菇。"
+|[[采集]] - [[秋季]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|这种小山药隐藏在雪地下。
+|[[采集]] - [[冬季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|春天生长的一种根茎香料。
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|一种淀粉块茎植物
+|[[采集]] - [[冬季]]
+|}
+
+===不喜欢===
+{{Squote|……抱歉。 {{玩家}}。我不喜欢这个。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+|[[File:Emily Concerned.png|48px|center]]
+|colspan="4"|<ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[鹦鹉蛋]]）</li></ul>
+|-
+|[[File:Fried Eel.png]]
+|[[炒鳗鱼]]
+|油腻而可口。
+|[[烹饪]]
+|{{name|Eel|1}}{{name|Oil|1}}
+|-
+|[[File:Ice Cream.png]]
+|[[冰淇淋]]
+|很难找到一个不喜欢它的人。
+|[[烹饪]]
+|{{name|Milk|1}}{{name|Sugar|1}}
+|-
+|[[File:Rice Pudding.png]]
+|[[大米布丁]]
+|有浓郁的奶油，又甜，并且吃起来也很有意思。
+|[[烹饪]]
+|{{name|Milk|1}}{{name|Sugar|1}}{{name|Rice|1}}
+|-
+|[[File:Salmonberry.png]]
+|[[美洲大树莓]]
+|一种带有森林的味道的春天浆果。
+|[[采集]] - [[春季]]
+|
+|-
+|[[File:Spicy Eel.png]]
+|[[香辣鳗鱼]]
+|真的很辣！小心点。
+|[[烹饪]]
+|{{name|Eel|1}}{{name|Hot Pepper|1}}
+|}
+
+===讨厌===
+{{Squote|这礼物有着强烈的负能量。我受不了。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+|[[File:Emily Concerned.png|48px|center]]
+|colspan="4"|<ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|-
+|[[File:Fish Taco.png]]
+|[[鱼肉卷]]
+|闻起来就很美味。
+|[[烹饪]]
+|{{name|Tuna|1}}{{name|Tortilla|1}}{{name|Red Cabbage|1}}{{name|Mayonnaise|1}}
+|-
+|[[File:Holly.png]]
+|[[冬青树]]
+|它的叶子和鲜红的浆果让它成为了极受欢迎的冬天饰品。
+|[[采集]]
+|
+|-
+|[[File:Maki Roll.png]]
+|[[生鱼寿司]]
+|紫菜裹着的鱼和米饭。
+|[[烹饪]]
+|[[File:Fish.png|24px|link=]] 任意[[鱼]]（1）{{name|Seaweed|1}}{{name|Rice|1}}
+|-
+|[[File:Salmon Dinner.png]]
+|[[鲑鱼晚餐]]
+|柠檬汁给它增添了特别的味道。
+|[[烹饪]]
+|{{name|Salmon|1}}{{name|Amaranth|1}}{{name|Kale|1}}
+|-
+|[[File:Sashimi.png]]
+|[[生鱼片]]
+|切成薄片的生的鱼
+|[[烹饪]]
+|{{name|Fish|1}}
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物|{{MailByType|礼物}}
+|二心
+|<nowiki />
+{{Event
+ |hearts = 2
+ |quote = 
+ |trigger = 当艾米丽在家时进入[[柳巷2号|她家]]。
+ |details = 艾米丽正在她的卧室里睡觉。屏幕上的画面一转，你发现自己正在观看艾米丽的梦。这是一个充满了抽象的图形与色彩、云朵与棕榈树的幻境空间。艾米丽漂浮在一片巨大云层上的一个紫色石砌结构上。她一边冥想，一边吟诵着一些“魔法咒语”。这时你出现在云上，让她非常惊讶。她想知道为何你在她的梦境当中。此时一些彩虹条纹飞过画面，艾米丽认为这是某种征兆。你消失了，她从睡梦中醒来。她下床之后自言自语，认为你有些特殊之处，她相信你们之间的命运会在不久的将来交织在一起。
+ |dialogues = {{EventByID|471942}}
+}}
+
+|三心={{MailByType|食谱|3|Salad}}
+
+|四心
+|<nowiki />
+{{Event
+ |hearts = 4
+ |quote = 
+ |trigger = 触发过二心事件后，在晴天的 06:00 至 17:00 之间进入[[鹈鹕镇]]。该剧情在[[冬季]]不会触发。
+ |details = 艾米丽在一个晴朗的早晨离开她的家。三只鹦鹉飞过，她向它们招手并称它们为“朋友”。过了一会儿，她继续赶路，但很快就困惑地停住了。第四只鹦鹉飞得过低，撞上了她房子的窗户。鹦鹉受伤了，艾米丽冲过去抱着可怜的鹦鹉，许诺会照顾它。此后会有一只鹦鹉在艾米丽的卧室里。鹦鹉会跳来跳去，在玩家与之互动时会发出叫声。 
+
+(如玩家和艾米丽结婚，鹦鹉也会出现在你的家中。)
+ |dialogues = {{EventByID|463391}}
+}}
+
+|六心
+|<nowiki />
+{{Event
+ |hearts = 6
+ |quote = 
+ |trigger = 触发过四心事件后，当艾米丽在家时进入[[柳巷2号|她家]]。
+ |details = 你走进艾米丽的房间。她告诉你，她很高兴能向你展示她的秘密爱好，她已经练习了很久。然后她会打开她的音响，开始为你表演舞蹈。在灯光和音乐结束后，她会问你对她表演的看法。你有三个选择：
+*{{Choice|这太奇妙了！|25}}
+*{{Choice|真尴尬……|-50}}
+*{{Choice|（保持沉默并缓缓鼓掌）|25}}
+ |dialogues = {{EventByID|917409}}
+}}
+
+|七心={{MailByType|食谱|7|Red Plate}}
+
+|八心
+|<nowiki />
+{{Event
+ |hearts = 8
+ |quote = 
+ |trigger = 收到艾米丽的邀请信后于任意一天（包括当天）进入[[镇长的庄园]]。
+ |details = 艾米丽会写信邀请你出席她的“服装疗法”聚会：
+ 
+{{Mail|id=EmilyClothingTherapy}}
+
+进入[[镇长的庄园]]。艾米丽解释道，聚会的目的是帮助小镇上的人们通过衣着表达真实的自我。参加者有[[刘易斯]]、[[阿比盖尔]]、[[谢恩]]、[[罗宾]]和[[克林特]]。每个人轮流到帘幕背后换衣服。艾米丽指导他们选择能“表达自己”的任何衣服，并穿出来勇敢地向世人展现自己。你会一个个看到角色们的选择。[[谢恩]]穿上了全套“哥特”服装。[[罗宾]]穿上了美丽的连衣裙并放下了长发，展现出她具有女性气质的一面。镇长[[刘易斯]]戴了很花哨的帽子、披风和手杖。[[阿比盖尔]]身着全套盔甲。[[克林特]]全程很焦虑，但艾米丽催促他后，他也进行了变装。他穿了扣上钮扣的衬衫，粉红的短裤和贝雷帽。艾米丽看到之后说：“啊...可爱！”，这使得[[克林特]]情绪很低落。他离开以后，艾米丽带着浪漫的情绪向玩家靠近。[[克林特]]冲了进来，说着穿这身出去太尴尬了。他看见玩家和艾米丽，感觉糟糕透了。他说了几句话之后就离开了。艾米丽对此感到很困惑。
+
+ |dialogues = {{EventByID|2123243}}
+}}
+
+|十心
+|<nowiki />
+{{Event
+ |hearts = 10
+ |quote = 
+ |trigger = 艾米丽来信邀请你晚上10点后去[[秘密森林]]。收到信后在任意晴天的 22:00 至 01:40 之间进入秘密森林（包括当天）。该事件在大型节日的当天不会触发。<br />注：收到信后，触发正式剧情的前置条件中不包括和艾米丽的好感度达到 10 心（不少于2500点），而是需要艾米丽是你的女朋友。这一点不同于任何其他可结婚角色的十心好感度剧情。
+ |details = {{Mail|id=EmilyCamping}}
+
+你和艾米丽在[[秘密森林]]露营。森林里传来奇怪的叫声。艾米丽说她很冷并向玩家靠近。一头熊从树林里出现，并靠近玩家和艾米丽。熊发出了咕噜的声音，吓得你们两人跳起来钻进帐篷。熊在帐篷边徘徊了一会儿就离开了。艾米丽说有一只睡袋漏在了外面，而且她不想去拿……所以你们两人要共享一个睡袋。帐篷里传出一些动静，屏幕暗下来，这一天结束了。
+
+注：该阶段剧情完成后会'''立即进入下一天'''，请提前做好准备。
+
+第二天玩家会收到艾米丽写的信： 
+
+{{Mail|id=EmilyDoneCamping}}
+ |dialogues = {{EventByID|2123343}}
+}}
+
+|十四心
+|<nowiki />
+{{Event
+ |hearts = 14
+ |quote = 
+ |trigger = '''第一部分：''' 在 06:00 至 08:20 之间进入自家农场。<br />'''第二部分：''' 完成这个任务的至少三天后，在 20:00 至 00:00 之间且艾米丽在农舍里时进入农舍
+ ，
+ |details = 早上出门时，艾米丽会出现在农舍外边，然后提出让玩家带给她200个[[纤维]]。这个任务名为“妻子的差事”。完成任务并等待几天后，晚上回家时艾米丽会给你一套新服装，其中包括：[[艾米丽的魔法帽]]、[[艾米丽的魔法靴]]、[[裁缝#上衣|艾米丽的魔法衣]]，以及一条搭配这一套蓝色套装的[[裁缝#下装|精灵裤]]。
+ |dialogues = {{EventByID|3917601}}
+}}
+
+|集体事件|{{hearts|10}}{{#lsth:花束|单身女性}}<nowiki/>
+}}
+
+==婚后==
+{{main article|婚姻}}
+结婚后，艾米丽将搬进农舍。和其他人一样，她将在卧室的右侧增加自己的房间。她还会在农舍后面增添一个水晶小花园，她有时会到那里冥想。
+
+注意：[[合作|多人联机]]下，如果某一玩家未触发过艾米丽的[[#4心事件|4心事件]]，房间的鹦鹉将会对该玩家隐藏。
+
+在雨天的早上，艾米丽可能会送你[[布料]]、[[动物毛]]、[[鸭毛]]、[[精炼石英]]或[[豆类火锅]]。
+{{Squote|早上好……这是我为你准备的礼物。不要担心，我已经用熏香熏过了。}}
+在雨天的晚上，艾米丽可能会送你[[大米布丁]]、[[蓝莓千层酥]]、[[饼干]]或[[巧克力蛋糕]]。
+{{Squote|来一些甜点吗？这是我用特殊原料做的，不含麸质，只用仙人掌糖浆来增加甜味。}}
+如果艾米丽整天都呆在农舍内，早上她可能会送你[[布料]]、[[动物毛]]、[[鸭毛]]、[[精炼石英]]、[[豆类火锅]]、[[咖啡]]或[[万象晶球]]。
+{{Squote|来，拿着。这是给你的。}}
+
+<gallery>
+Emily's Spouse Room.PNG|艾米丽的房间
+Emily's crystal garden.PNG|艾米丽在冥想
+</gallery>
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|配偶|{{Dialogue|配偶}}
+|特殊|{{Dialogue|特殊}}
+}}<!-- 冬季周五与鱼的冬眠相关的对话是翻译错误 -->
+
+==任务==
+*任务[[任务#Fresh Fruit|“新鲜水果”]]: 第二年[[春季]]6日时，艾米丽会来信请玩家带给她一个[[杏子]]。任务奖励是{{Price|600}}以及1心[[友谊|好感度]]。
+*{{Snippets|任务|布告栏}}
+*尽管任务[[任务#Clints Attempt|“克林特的努力”]]并非由艾米丽所发起，但完成此任务却可增加与艾米丽的1心[[友谊|好感度]]。并且完成任务所需的物品不会计入艾米丽每周2次的送礼上限。
+*特别任务[[任务#Rock Rejuvenation|“宝石能量”]]：解锁特别任务板后，玩家有几率接到来自艾米丽的特别任务，要求玩家带给她1个[[红宝石]]、1个[[黄水晶]]、1个[[翡翠]]、1个[[绿宝石]]和1个[[紫水晶]]。任务奖励是{{price|1000}}以及1心[[友谊|好感度]]，玩家还会在任务完成的第二天收到艾米丽随信送来的一台[[缝纫机]]。玩家必须已经解锁了艾米丽家中的[[柳巷2号#缝纫机|缝纫机]]后，才会接到该任务。
+*[[任务#任务类型|“打招呼”]]：当玩家完成任务[[任务#Introductions|“介绍”]]以后，该任务将会较少见地出现在[[皮埃尔的杂货店]]外面的布告栏上。艾米丽会请玩家与镇上所有的居民交談，与[[法师]]、[[科罗布斯]]、[[矮人]]、[[桑迪]]、[[肯特]]和[[雷欧]]的对话不会计入此任务。任务奖励是与所有人100点的[[友谊|好感度]]。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Emily.png
+File:Emily Happy.png
+File:Emily Concerned.png
+File:Emily Neutral.png
+File:Emily Blush.png
+File:Emily Annoyed.png
+File:Emily Surprised.png
+File:Emily Yoba.png
+</gallery>
+
+<gallery mode="packed" class="portraitgallery">
+Emily Winter 00.png
+Emily Winter 01.png
+Emily Winter 02.png
+Emily Winter 03.png
+Emily Winter 04.png
+Emily Winter 05.png
+Emily Winter 06.png
+Emily Winter 07.png
+</gallery>
+
+<gallery mode="packed" class="portraitgallery">
+File:Emily Beach.png
+File:Emily Beach Happy.png
+File:Emily Beach Concerned.png
+File:Emily Beach Neutral.png
+Emily Beach 04.png
+Emily Beach 05.png
+Emily Beach 06.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==设定演变==
+在游戏开发过程中，ConcernedApe 对艾米丽原画形象进行了多次修改，如下图所示。
+[[File:Emily timeline.png|center]]
+
+==你知道吗==
+* 从艾米丽房间里的磁带可以看出她喜欢即兴舞蹈（自由形式舞蹈）。
+* 如果[[沙漠节]]当天星露谷正在下雨，在艾米丽经营她的商铺时与她对话可能会说出希望去拜访住在卡利科沙漠的[[桑迪]]，即使当时她与桑迪离得很近。
+
+==历史==
+{{History|1.0|加入游戏。}}
+{{History|1.1|改为可[[婚姻|结婚]]对象，并改进了好感事件、日程和对话。}}
+{{History|1.3|新增集体十心事件。}}
+{{History|1.4|新增十四心事件。 修正了所有菜谱会在3心时发送的错误。}}
+{{History|1.5|新增海滩肖像。}}
+{{History|1.6|新增冬季肖像。增加了收到特定礼物时的对话。现在鹦鹉蛋是艾米丽的最爱。}}
+
+{{NavboxVillagers}}
+
+{{EN|Emily}}

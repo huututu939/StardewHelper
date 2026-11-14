@@ -1,0 +1,37 @@
+# —— 安卓工程内的补充忽略规则（仓库根目录还有一份更全的）——
+
+# Gradle
+.gradle/
+build/
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+captures/
+.navigation/
+out/
+
+# 本地配置（含 SDK 路径 / 可能的密钥，禁止提交）
+local.properties
+
+# 签名密钥（绝对不能提交）
+*.jks
+*.keystore
+keystore.properties
+
+# Native 构建中间产物
+.cxx/
+
+# 系统/编辑器杂项
+.DS_Store
+Thumbs.db
+
+# 日志
+*.log
+
+# 其他可能含密钥的文件
+google-services.json
+
+# 原始字体（6.7MB，子集重建时从上游下载，不入库）
+# 上游：Fusion Pixel Font（TakWolf，SIL OFL 1.1）https://github.com/TakWolf/fusion-pixel-font
+tools/fonts/*.ttf

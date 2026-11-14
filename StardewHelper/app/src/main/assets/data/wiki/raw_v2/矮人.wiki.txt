@@ -1,0 +1,348 @@
+{{About|居住在[[矿井]]中的矮人|矮人一族|设定#矮人|火山中的矮人|火山地牢#商店}}
+{{Infobox villager
+|portrait  = Dwarf.png
+|birthday  = {{Season|夏季|22}}
+|location  = 矿井
+|address   = 矿井东部
+|marriage  = 否
+|favorites = {{name|Amethyst}}{{name|Aquamarine}}{{name|Emerald}}{{name|Jade}}{{name|Omni Geode}}{{name|Ruby}}{{name|Topaz}}{{name|Lemon Stone}}{{name|Lava Eel}}
+}}
+{{Quote|雨……对我们来说就像神话故事一样。我们矮人一族有的人一辈子都没见过下雨。|矮人}}
+
+'''矮人'''是一个住在[[矿井]]的[[居民]]。在矿井的入口处，有一条路最开始被一块坚固的岩石挡住，岩石后面的空间就是矮人居住的地方。在升级到[[十字镐|钢十字镐]]后，岩石就可以被敲碎；也可使用[[打造#炸弹|任何一种炸弹]]来炸开岩石。 
+
+矮人一开始会说玩家不能理解的矮人语。若要理解矮人语，玩家需要在矿井中集齐4种[[古物|矮人卷轴]]，然后全部捐赠给[[博物馆]]。之后[[冈瑟]]会给你一本[[矮人语教程]]。在未能理解矮人语之前，你不能购买矮人的商品或提升同矮人的[[友谊]]。
+
+==日程表==
+矮人会一直呆在[[矿井]]中，就在入口的东边。他自称晚上有时会出去偷东西吃，但实际上不会移动。
+
+==出售货物==
+{|class="wikitable sortable roundedborder"
+! class="unsortable"|图片
+!名称
+!描述
+!购买价格
+|-
+|[[File:Dwarvish Safety Manual.png|48px|center]]
+|[[矮人安全手册]]
+|{{Description|Dwarvish Safety Manual}}
+|data-sort-value="4000"|{{Price|4000}}
+|-
+|{{Recipe|Big Stone Chest|48px|center}}
+|[[石制大箱子]] 图纸
+|[[石制大箱子]]的制作蓝图
+|data-sort-value="5000"|{{Price|5000}}
+|-
+|[[File:Life Elixir.png|24px|center]]
+|[[生命药水]]
+|恢复全部的生命值。 
+|data-sort-value="2000"|{{price|2000}}
+|-
+|[[File:Oil of Garlic.png|24px|center]]
+|[[蒜油]]
+|喝下它，弱小的魔物就会避开你。
+|data-sort-value="3000"|{{price|3000}}
+|-
+|[[File:Cherry Bomb.png|24px|center]]
+|[[樱桃炸弹]]
+|会发生小规模爆炸。后退！
+|data-sort-value="450"|{{price|450}}
+|-
+|[[File:Bomb.png|24px|center]]
+|[[炸弹]]
+|会发生爆炸。小心！ 
+|data-sort-value="1000"|{{price|1000}}
+|-
+|[[File:Mega Bomb.png|24px|center]]
+|[[超级炸弹]]
+|{{Description|Mega Bomb}}
+|data-sort-value="1600"|{{price|1600}}
+|-
+|[[File:Miner's Treat.png|24px|center]]
+|[[矿工特供]]
+|让你充满能量。 
+|data-sort-value="1000"|{{price|1000}}
+|-
+|[[File:Rarecrow 6.png|24px|center]]
+|[[稻草人|珍奇乌鸦]]
+|{{Description|Rarecrow6}}
+|data-sort-value="2500"|{{price|2500}}
+|-
+|[[File:Stone Cairn.png|24px|center]]
+|[[石堆]]
+|农场的装饰件。
+|data-sort-value="0200"|{{price|200}}
+|-
+|{{Recipe|Weathered Floor|24|center}}
+|[[风化地板]]配方
+|{{Description|Blueprint|[[风化地板]]}}
+|data-sort-value="500"|{{price|500}}
+|}
+
+'''注意'''
+*在第一年，如果玩家的[[采矿]]等级达到6级，那么在[[铁匠铺]]购买[[炸弹]]的原料并制作炸弹会更加便宜。购买4个[[铁矿石]]和1个[[煤炭]]需要花费{{Price|750}}，而直接从[[矮人]]的商店购买[[炸弹]]则需要花费{{Price|1000}}。从[[木匠的商店]]购买[[木材]]并将其放入[[煤炭窑]]中烧制以获得[[煤炭]]可以额外节省{{Price|50}}。同理，通过这种方式，购买[[樱桃炸弹]]的材料也会便宜{{Price|50}}。
+*[[石制大箱子]]需要先获得[[石箱]]和[[大箱子]]的制作图纸后，才会出售。
+*购买一本[[矮人安全手册]]后，当天矮人将不再出售矮人安全手册，只有等到第二天矮人才会重新上架矮人安全手册。
+
+==族际关系==
+矮人是矮人族的一员。矮人族曾经创造了辉煌的文明，但现在只留下了[[古物]]。在[[火山地牢]]第5层中，也有一个矮人经营着商店，TA可能是矿井中这位矮人的族人。
+
+矮人族和[[暗影狂徒|暗影人]]之间曾有一场[[设定#元素战争|持续千年的战争]]，可能导致了矮人族的灭绝。因此，矮人非常讨厌[[科罗布斯]]，有时也怀疑玩家是暗影人的间谍。从矮人的爱心事件中可看出，矮人非常尊敬[[法师]]。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|嘿，我太喜欢这个了。你可以在矿洞里找到好东西。}} 
+{{Squote|戕央违佤右圬妁覃}} 
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Dwarf.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Amethyst.png|center]]
+|[[紫水晶]]
+|{{Description|Amethyst}}
+|[[采矿]]
+|-
+|[[File:Aquamarine.png|center]]
+|[[海蓝宝石]]
+|{{Description|Aquamarine}}
+|[[采矿]]
+|-
+|[[File:Emerald.png|center]]
+|[[绿宝石]]
+|{{Description|Emerald}}
+|[[采矿]]
+|-
+|[[File:Jade.png|center]]
+|[[翡翠]]
+|{{Description|Jade}}
+|[[采矿]]
+|-
+|[[File:Omni Geode.png|center]]
+|[[万象晶球]]
+|{{Description|Omni Geode}}
+|[[采矿]]
+|-
+|[[File:Ruby.png|center]]
+|[[红宝石]]
+|{{Description|Ruby}}
+|[[采矿]]
+|-
+|[[File:Topaz.png|center]]
+|[[黄水晶]]
+|{{Description|Topaz}}
+|[[采矿]]
+|-
+|[[File:Lemon Stone.png|center]]
+|[[柠檬石]]
+|{{Description|Lemon Stone}}
+|[[采矿]]
+|-
+|[[File:Lava Eel.png|center]]
+|[[岩浆鳗鱼]]
+|{{Description|Lava Eel}}
+|[[钓鱼]]
+|}
+
+===喜欢===
+{{Squote|啊，这让我想起了家。}}
+{{Squote|违训戕}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Dwarf.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''</li><li>'''所有[[古物]]'''</li></ul>
+|-
+|[[File:Cave Carrot.png|center]]
+|[[山洞萝卜]]
+|{{Description|山洞萝卜}}
+|[[采矿]]
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|class="no-wrap"|[[采集]] - [[矿井]]
+|}
+
+===一般===
+{{Squote|礼物！谢谢。}}
+{{Squote|祀谦谦}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Dwarf.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]和[[美洲大树莓]]）</li><li>'''所有奶类</li></ul>
+|-
+|[[File:Solar Essence.png|center]]
+|[[太阳精华]]
+|{{Description|Solar Essence}}
+|[[怪物战利品]]
+|-
+|[[File:Void Essence.png|center]]
+|[[虚空精华]]
+|{{Description|Void Essence}}
+|[[怪物战利品]]
+|}
+
+===不喜欢===
+{{Squote|唔……这就是人类喜欢的东西吗？}}
+{{Squote|违皈覃君}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Dwarf.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了'''[[古物]]'''、[[山洞萝卜]]、[[岩浆鳗鱼]]、[[柠檬石]]、[[万象晶球]]、[[太阳精华]]、[[虚空精华]]）</li><li>'''所有蛋'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma_Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===讨厌===
+{{Squote|我才不在乎你是什么物种。这就是一文不值的垃圾。}}
+{{Squote|戕扑丑圬乒佤仄乌科违斋丑皈坂}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Dwarf.png|48px|center]]
+|colspan="3"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|}
+
+==观影==
+{{Theater}} <bstyle>.portrait-dwarf { --portrait-display-size: 20px; }</bstyle><!-- 矮人头像特殊处理，后续移动到全局中 -->
+
+==好感度事件==
+矮人只有一个与[[友谊|好感度]]关联的事件。
+{{Event
+ |hearts  = 0
+ |trigger = 矮人对玩家的[[友谊|好感度]]不少于 50 点、且玩家在[[科罗布斯]]处购买过[[星之果实]]才能触发。满足条件后，进入[[下水道]]。
+ |details = 矮人发现科罗布斯在下水道，并指责暗影人导致他的家人死亡。科罗布斯反驳说，他只是因为矮人想把暗影人从祖先的家园赶走才诉诸暴力。科罗布斯为矮人家族的遭遇道歉，但矮人并不接受。他们开始打架。玩家下到下水道，并站在他们之间。矮人大喊：“让我来教训教训他！他这人太恶心了。”科罗布斯反驳道：“来比划比划啊，小矮子。”突然，[[法师]]出现并阻止了战斗。他提醒他们“元素战争早就结束了”，并告诉他们为了生活在周围的人类，要和平相处。矮人对此表示同意，并承诺远离下水道。科罗布斯再次为过去的事情道歉，并表示自己与矮人没有个人恩怨。法师施展“誓言之印”，敲定协议。
+ |quote = 暗影人，在地面上？太离谱了！
+ |dialogues = {{EventByID|691039}} 
+}}
+
+==对话==
+{{Tabs|align=left
+|title1=日常|content1={{Dialogue|日常}}
+|title2=节日|content2={{Dialogue|节日}}
+|title3=特殊|content3={{Dialogue|特殊}}
+}}
+
+==画廊==
+<gallery>
+File:Dwarfscrnshot.png|矮人和所居住的[[矿井]]的图像
+</gallery>
+
+==你知道吗==
+* 矮人的性别在游戏数据中是“未定（undefined）”（详见 <samp>Content\Data\NPCDispositions.xnb</samp>）。
+* 你可以用[[樱桃炸弹]]摧毁阻止玩家通往矮人住处的大石头，但当你试图用低级[[十字镐]]敲碎岩石时，显示的信息中并没有提到可用樱桃炸弹这一点。
+* 尽管有对话表明矮人对牛奶感兴趣，但任何牛奶或羊奶对矮人都仅仅是一般的礼物。
+* 矮人喜欢看[[电影院]]里面所有的电影，所以这是一个提升友谊的不错之道。
+* 当你到达矿洞底层后，矮人会参加你的[[婚姻|婚礼]]。
+
+==历史==
+{{History|1.3|可购买物品中新增了[[石堆]]。}}
+{{History|1.4|修正了矮人收到礼物无法发出中立对话的问题。矮人现在喜欢[[山洞萝卜]]。}}
+{{History|1.4.4|矮人现在喜欢[[柠檬石]]。}}
+{{History|1.5|现在矮人不再只喜欢矮人类古物，而是喜欢所有[[古物]]。}}
+{{history|1.6|新增收到特定礼物时的反应。新增对话。矮人商店的[[樱桃炸弹]]价格由{{Price|300}}上涨至{{Price|450}}，[[炸弹]]价格由{{Price|600}}上涨至{{Price|1000}}，[[超级炸弹]]价格由{{Price|1000}}上涨至{{Price|1600}}。矮人现在出售[[矮人安全手册]]和[[石制大箱子]]配方。矮人现在最爱[[岩浆鳗鱼]]，对所有[[动物#大的鸡蛋与牛、羊奶|奶类]]态度为普通。矮人的[[#50点友谊|50点友谊]]爱心事件现在在周五不会触发。}}
+
+{{NavboxVillagers}}
+
+[[Category:商店]]
+
+{{EN|Dwarf}}

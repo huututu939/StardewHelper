@@ -1,0 +1,35 @@
+name: 功能建议
+description: 希望增加或改进的功能
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        先说说你想解决什么问题，比直接给方案更有用 —— 也许有更省事的做法。
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: 想解决什么问题
+      placeholder: "每次想查 … 都要先 …，比较麻烦。"
+    validations:
+      required: true
+
+  - type: textarea
+    id: idea
+    attributes:
+      label: 你希望怎么用
+    validations:
+      required: false
+
+  - type: dropdown
+    id: offline
+    attributes:
+      label: 这个功能需要联网吗
+      options:
+        - 不需要（离线可用）
+        - 需要联网
+        - 不确定
+    validations:
+      required: true

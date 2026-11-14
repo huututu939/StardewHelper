@@ -1,0 +1,31 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+
+      - name: 构建 Debug APK
+        run: |
+          cd StardewHelper
+          chmod +x gradlew
+          ./gradlew assembleDebug --no-daemon
+
+      - name: 上传构建产物
+        uses: actions/upload-artifact@v4
+        with:
+          name: app-debug
+          path: StardewHelper/app/build/outputs/apk/debug/*.apk
+          retention-days: 14

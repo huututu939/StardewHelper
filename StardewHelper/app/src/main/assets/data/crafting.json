@@ -1,0 +1,2701 @@
+[
+ {
+  "name": "熔炉",
+  "ingredients": [
+   {
+    "name": "铜矿石",
+    "count": 20
+   },
+   {
+    "name": "石头",
+    "count": 25
+   }
+  ],
+  "source": "初始",
+  "category": "农业"
+ },
+ {
+  "name": "重型熔炉",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 3
+   },
+   {
+    "name": "石头",
+    "count": 50
+   },
+   {
+    "name": "火水晶",
+    "count": 1
+   }
+  ],
+  "source": "锅炉房收集包奖励（1.6）",
+  "category": "农业"
+ },
+ {
+  "name": "煤炭窑",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 20
+   },
+   {
+    "name": "铜锭",
+    "count": 2
+   }
+  ],
+  "source": "采集 2 级",
+  "category": "农业"
+ },
+ {
+  "name": "蛋黄酱机",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 15
+   },
+   {
+    "name": "石头",
+    "count": 15
+   },
+   {
+    "name": "地晶",
+    "count": 1
+   },
+   {
+    "name": "铜锭",
+    "count": 1
+   }
+  ],
+  "source": "耕种 2 级",
+  "category": "农业"
+ },
+ {
+  "name": "蜂房",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 40
+   },
+   {
+    "name": "煤炭",
+    "count": 8
+   },
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "枫糖浆",
+    "count": 1
+   }
+  ],
+  "source": "耕种 3 级",
+  "category": "农业"
+ },
+ {
+  "name": "罐头瓶",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 50
+   },
+   {
+    "name": "石头",
+    "count": 40
+   },
+   {
+    "name": "煤炭",
+    "count": 8
+   }
+  ],
+  "source": "耕种 4 级",
+  "category": "农业"
+ },
+ {
+  "name": "压酪机",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 45
+   },
+   {
+    "name": "石头",
+    "count": 45
+   },
+   {
+    "name": "硬木",
+    "count": 10
+   },
+   {
+    "name": "铜锭",
+    "count": 1
+   }
+  ],
+  "source": "耕种 6 级",
+  "category": "农业"
+ },
+ {
+  "name": "织布机",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 60
+   },
+   {
+    "name": "纤维",
+    "count": 30
+   },
+   {
+    "name": "松焦油",
+    "count": 1
+   }
+  ],
+  "source": "耕种 7 级",
+  "category": "农业"
+ },
+ {
+  "name": "小桶",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 30
+   },
+   {
+    "name": "铜锭",
+    "count": 1
+   },
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "橡树树脂",
+    "count": 1
+   }
+  ],
+  "source": "耕种 8 级",
+  "category": "农业"
+ },
+ {
+  "name": "产油机",
+  "ingredients": [
+   {
+    "name": "史莱姆泥",
+    "count": 50
+   },
+   {
+    "name": "硬木",
+    "count": 20
+   },
+   {
+    "name": "金锭",
+    "count": 1
+   }
+  ],
+  "source": "耕种 8 级",
+  "category": "农业"
+ },
+ {
+  "name": "种子生产器",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 25
+   },
+   {
+    "name": "煤炭",
+    "count": 10
+   },
+   {
+    "name": "金锭",
+    "count": 1
+   }
+  ],
+  "source": "耕种 9 级",
+  "category": "农业"
+ },
+ {
+  "name": "木桶",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 20
+   },
+   {
+    "name": "硬木",
+    "count": 1
+   }
+  ],
+  "source": "第三次房屋升级后",
+  "category": "农业"
+ },
+ {
+  "name": "熏鱼机",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 10
+   },
+   {
+    "name": "海凝胶",
+    "count": 1
+   },
+   {
+    "name": "河凝胶",
+    "count": 1
+   },
+   {
+    "name": "洞穴凝胶",
+    "count": 1
+   }
+  ],
+  "source": "威利鱼店 1 万金（1.6）",
+  "category": "农业"
+ },
+ {
+  "name": "烘干机",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 30
+   },
+   {
+    "name": "粘土",
+    "count": 2
+   },
+   {
+    "name": "火水晶",
+    "count": 1
+   }
+  ],
+  "source": "皮埃尔杂货店 1 万金（1.6）",
+  "category": "农业"
+ },
+ {
+  "name": "洒水器",
+  "ingredients": [
+   {
+    "name": "铜锭",
+    "count": 1
+   },
+   {
+    "name": "铁锭",
+    "count": 1
+   }
+  ],
+  "source": "耕种 2 级",
+  "category": "农业"
+ },
+ {
+  "name": "优质洒水器",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "金锭",
+    "count": 1
+   },
+   {
+    "name": "精炼石英",
+    "count": 1
+   }
+  ],
+  "source": "耕种 6 级",
+  "category": "农业"
+ },
+ {
+  "name": "铱制洒水器",
+  "ingredients": [
+   {
+    "name": "金锭",
+    "count": 1
+   },
+   {
+    "name": "铱锭",
+    "count": 1
+   },
+   {
+    "name": "电池组",
+    "count": 1
+   }
+  ],
+  "source": "耕种 9 级",
+  "category": "农业"
+ },
+ {
+  "name": "稻草人",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 50
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 20
+   }
+  ],
+  "source": "耕种 1 级",
+  "category": "农业"
+ },
+ {
+  "name": "豪华稻草人",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 50
+   },
+   {
+    "name": "铱矿石",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 40
+   }
+  ],
+  "source": "收集 8 个珍奇乌鸦后邮件（1.6）",
+  "category": "农业"
+ },
+ {
+  "name": "树液采集器",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 40
+   },
+   {
+    "name": "铜锭",
+    "count": 2
+   }
+  ],
+  "source": "采集 4 级",
+  "category": "采集"
+ },
+ {
+  "name": "重型树液采集器",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 30
+   },
+   {
+    "name": "放射性锭",
+    "count": 1
+   },
+   {
+    "name": "苔藓",
+    "count": 10
+   }
+  ],
+  "source": "采集精通（1.6）",
+  "category": "采集"
+ },
+ {
+  "name": "蘑菇树桩",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 10
+   },
+   {
+    "name": "苔藓",
+    "count": 10
+   }
+  ],
+  "source": "采集 4 级（1.6）",
+  "category": "采集"
+ },
+ {
+  "name": "初级肥料",
+  "ingredients": [
+   {
+    "name": "树液",
+    "count": 2
+   }
+  ],
+  "source": "耕种 1 级",
+  "category": "农业"
+ },
+ {
+  "name": "高级肥料",
+  "ingredients": [
+   {
+    "name": "树液",
+    "count": 4
+   },
+   {
+    "name": "任意鱼 ×1（×2 个）",
+    "count": 1
+   }
+  ],
+  "source": "耕种 9 级",
+  "category": "农业"
+ },
+ {
+  "name": "顶级肥料",
+  "ingredients": [
+   {
+    "name": "铱锭",
+    "count": 1
+   },
+   {
+    "name": "树液 ×40（×5 个）",
+    "count": 1
+   }
+  ],
+  "source": "齐先生核桃房 20 齐钻",
+  "category": "农业"
+ },
+ {
+  "name": "生长激素",
+  "ingredients": [
+   {
+    "name": "松焦油",
+    "count": 1
+   },
+   {
+    "name": "苔藓 ×5（×5 个）",
+    "count": 1
+   }
+  ],
+  "source": "耕种 3 级（1.6 改配方）",
+  "category": "农业"
+ },
+ {
+  "name": "高级生长激素",
+  "ingredients": [
+   {
+    "name": "橡树树脂",
+    "count": 1
+   },
+   {
+    "name": "骨头碎片 ×5（×5 个）",
+    "count": 1
+   }
+  ],
+  "source": "耕种 8 级（1.6 改配方）",
+  "category": "农业"
+ },
+ {
+  "name": "初级保湿土壤",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 2
+   }
+  ],
+  "source": "耕种 4 级",
+  "category": "农业"
+ },
+ {
+  "name": "高级保湿土壤",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 3
+   },
+   {
+    "name": "粘土 ×1（×2 个）",
+    "count": 1
+   }
+  ],
+  "source": "耕种 7 级",
+  "category": "农业"
+ },
+ {
+  "name": "树肥",
+  "ingredients": [
+   {
+    "name": "纤维",
+    "count": 5
+   },
+   {
+    "name": "石头",
+    "count": 5
+   }
+  ],
+  "source": "采集 7 级",
+  "category": "采集"
+ },
+ {
+  "name": "草籽",
+  "ingredients": [
+   {
+    "name": "纤维",
+    "count": 10
+   }
+  ],
+  "source": "皮埃尔 100 / Joja 125 直接买成品；1,000 是「草籽（配方）」的价，只有皮埃尔卖配方",
+  "category": "农业"
+ },
+ {
+  "name": "纤维种子",
+  "ingredients": [
+   {
+    "name": "混合种子",
+    "count": 1
+   },
+   {
+    "name": "树液",
+    "count": 5
+   },
+   {
+    "name": "粘土 ×1（×4 个）",
+    "count": 1
+   }
+  ],
+  "source": "特别任务「社区清理」（1.6）",
+  "category": "农业"
+ },
+ {
+  "name": "茶苗",
+  "ingredients": [
+   {
+    "name": "野生种子（任意）",
+    "count": 2
+   },
+   {
+    "name": "纤维",
+    "count": 5
+   },
+   {
+    "name": "木材",
+    "count": 5
+   }
+  ],
+  "source": "卡洛琳 2 心事件后邮件",
+  "category": "农业"
+ },
+ {
+  "name": "神秘树种",
+  "ingredients": [
+   {
+    "name": "橡子",
+    "count": 5
+   },
+   {
+    "name": "枫树种子",
+    "count": 5
+   },
+   {
+    "name": "松果",
+    "count": 5
+   },
+   {
+    "name": "桃花心木种子",
+    "count": 5
+   }
+  ],
+  "source": "采集精通（1.6）",
+  "category": "采集"
+ },
+ {
+  "name": "上古种子",
+  "ingredients": [
+   {
+    "name": "古代种子",
+    "count": 1
+   }
+  ],
+  "source": "博物馆捐赠后学会",
+  "category": "农业"
+ },
+ {
+  "name": "野生种子（春）",
+  "ingredients": [
+   {
+    "name": "野山葵+黄水仙+韭葱+蒲公英（×10）",
+    "count": 1
+   }
+  ],
+  "source": "采集 1 级",
+  "category": "采集"
+ },
+ {
+  "name": "野生种子（夏）",
+  "ingredients": [
+   {
+    "name": "香料浆果+葡萄+甜豌豆（×10）",
+    "count": 1
+   }
+  ],
+  "source": "采集 4 级",
+  "category": "采集"
+ },
+ {
+  "name": "野生种子（秋）",
+  "ingredients": [
+   {
+    "name": "普通蘑菇+野李子+榛子+黑莓（×10）",
+    "count": 1
+   }
+  ],
+  "source": "采集 6 级",
+  "category": "采集"
+ },
+ {
+  "name": "野生种子（冬）",
+  "ingredients": [
+   {
+    "name": "冬根+水晶果+雪山药+番红花（×10）",
+    "count": 1
+   }
+  ],
+  "source": "采集 7 级",
+  "category": "采集"
+ },
+ {
+  "name": "花盆",
+  "ingredients": [
+   {
+    "name": "粘土",
+    "count": 1
+   },
+   {
+    "name": "石头",
+    "count": 10
+   },
+   {
+    "name": "精炼石英",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "虫饵盒",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 15
+   },
+   {
+    "name": "金锭",
+    "count": 1
+   },
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 50
+   }
+  ],
+  "source": "钓鱼 4 级",
+  "category": "渔具"
+ },
+ {
+  "name": "高级虫饵盒",
+  "ingredients": [
+   {
+    "name": "虫饵盒",
+    "count": 1
+   },
+   {
+    "name": "苔藓",
+    "count": 30
+   }
+  ],
+  "source": "钓鱼 8 级（1.6）",
+  "category": "渔具"
+ },
+ {
+  "name": "鱼饵制造机",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 3
+   },
+   {
+    "name": "珊瑚",
+    "count": 3
+   },
+   {
+    "name": "海胆",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼 6 级（1.6）",
+  "category": "渔具"
+ },
+ {
+  "name": "篝火",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 10
+   },
+   {
+    "name": "木材",
+    "count": 10
+   },
+   {
+    "name": "纤维",
+    "count": 10
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "避雷针",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "精炼石英",
+    "count": 1
+   },
+   {
+    "name": "蝙蝠翅膀",
+    "count": 5
+   }
+  ],
+  "source": "采集 6 级",
+  "category": "采集"
+ },
+ {
+  "name": "鱼饵",
+  "ingredients": [
+   {
+    "name": "虫肉 ×1（×5 个）",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼 2 级",
+  "category": "渔具"
+ },
+ {
+  "name": "高级鱼饵",
+  "ingredients": [
+   {
+    "name": "鱼饵",
+    "count": 5
+   },
+   {
+    "name": "苔藓 ×2（×5 个）",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼 4 级（1.6）",
+  "category": "渔具"
+ },
+ {
+  "name": "旋式鱼饵",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 2
+   }
+  ],
+  "source": "钓鱼 6 级",
+  "category": "渔具"
+ },
+ {
+  "name": "精装旋式鱼饵",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 2
+   },
+   {
+    "name": "布料",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼 8 级",
+  "category": "渔具"
+ },
+ {
+  "name": "陷阱浮标",
+  "ingredients": [
+   {
+    "name": "铜锭",
+    "count": 1
+   },
+   {
+    "name": "树液",
+    "count": 10
+   }
+  ],
+  "source": "钓鱼 6 级",
+  "category": "渔具"
+ },
+ {
+  "name": "声纳浮漂",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "精炼石英",
+    "count": 2
+   }
+  ],
+  "source": "钓鱼 6 级",
+  "category": "渔具"
+ },
+ {
+  "name": "软木塞浮标",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 10
+   },
+   {
+    "name": "硬木",
+    "count": 5
+   },
+   {
+    "name": "史莱姆泥",
+    "count": 10
+   }
+  ],
+  "source": "钓鱼 7 级",
+  "category": "渔具"
+ },
+ {
+  "name": "寻宝者",
+  "ingredients": [
+   {
+    "name": "金锭",
+    "count": 2
+   }
+  ],
+  "source": "钓鱼 7 级",
+  "category": "渔具"
+ },
+ {
+  "name": "倒刺钩",
+  "ingredients": [
+   {
+    "name": "铜锭",
+    "count": 1
+   },
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "金锭",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼 8 级",
+  "category": "渔具"
+ },
+ {
+  "name": "磁铁",
+  "ingredients": [
+   {
+    "name": "铁锭 ×1（×3 个）",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼 9 级",
+  "category": "渔具"
+ },
+ {
+  "name": "万能鱼饵",
+  "ingredients": [
+   {
+    "name": "纤维",
+    "count": 10
+   },
+   {
+    "name": "虫肉",
+    "count": 5
+   },
+   {
+    "name": "史莱姆泥 ×5（×5 个）",
+    "count": 1
+   }
+  ],
+  "source": "莱纳斯 4 心事件",
+  "category": "渔具"
+ },
+ {
+  "name": "挑战鱼饵",
+  "ingredients": [
+   {
+    "name": "骨头碎片",
+    "count": 5
+   },
+   {
+    "name": "苔藓 ×2（×5 个）",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼精通（1.6）",
+  "category": "渔具"
+ },
+ {
+  "name": "蟹笼",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 40
+   },
+   {
+    "name": "铁锭",
+    "count": 3
+   }
+  ],
+  "source": "钓鱼 3 级",
+  "category": "渔具"
+ },
+ {
+  "name": "樱桃炸弹",
+  "ingredients": [
+   {
+    "name": "铜矿石",
+    "count": 4
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   }
+  ],
+  "source": "采矿 1 级",
+  "category": "采矿"
+ },
+ {
+  "name": "炸弹",
+  "ingredients": [
+   {
+    "name": "铁矿石",
+    "count": 4
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   }
+  ],
+  "source": "采矿 6 级",
+  "category": "采矿"
+ },
+ {
+  "name": "超级炸弹",
+  "ingredients": [
+   {
+    "name": "金矿石",
+    "count": 4
+   },
+   {
+    "name": "太阳精华",
+    "count": 1
+   },
+   {
+    "name": "虚空精华",
+    "count": 1
+   }
+  ],
+  "source": "采矿 8 级",
+  "category": "采矿"
+ },
+ {
+  "name": "铁锭",
+  "ingredients": [
+   {
+    "name": "铁矿石",
+    "count": 5
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "采矿"
+ },
+ {
+  "name": "金锭",
+  "ingredients": [
+   {
+    "name": "金矿石",
+    "count": 5
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "采矿"
+ },
+ {
+  "name": "精炼石英",
+  "ingredients": [
+   {
+    "name": "石英",
+    "count": 1
+   },
+   {
+    "name": "煤炭 ×1（熔炉）",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "采矿"
+ },
+ {
+  "name": "宝石复制机",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 99
+   },
+   {
+    "name": "金锭",
+    "count": 5
+   },
+   {
+    "name": "铱锭",
+    "count": 2
+   },
+   {
+    "name": "电池组",
+    "count": 1
+   }
+  ],
+  "source": "采矿 9 级",
+  "category": "采矿"
+ },
+ {
+  "name": "晶球破开器",
+  "ingredients": [
+   {
+    "name": "金锭",
+    "count": 2
+   },
+   {
+    "name": "石头",
+    "count": 50
+   },
+   {
+    "name": "钻石",
+    "count": 1
+   }
+  ],
+  "source": "克林特邮件（1.6）",
+  "category": "采矿"
+ },
+ {
+  "name": "太阳能板",
+  "ingredients": [
+   {
+    "name": "精炼石英",
+    "count": 10
+   }
+  ],
+  "source": "特别任务「能量之源」（1.5）",
+  "category": "采矿"
+ },
+ {
+  "name": "碎骨机",
+  "ingredients": [
+   {
+    "name": "骨头碎片",
+    "count": 10
+   },
+   {
+    "name": "粘土",
+    "count": 3
+   },
+   {
+    "name": "石头",
+    "count": 20
+   }
+  ],
+  "source": "特别任务奖励",
+  "category": "采矿"
+ },
+ {
+  "name": "楼梯",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 99
+   }
+  ],
+  "source": "采矿 2 级",
+  "category": "采矿"
+ },
+ {
+  "name": "传送图腾（山丘）",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 1
+   },
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "石头",
+    "count": 25
+   }
+  ],
+  "source": "采集 7 级",
+  "category": "采集"
+ },
+ {
+  "name": "传送图腾（农场）",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 20
+   }
+  ],
+  "source": "采集 8 级",
+  "category": "采集"
+ },
+ {
+  "name": "传送图腾（海洋）",
+  "ingredients": [
+   {
+    "name": "蛙卵",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 10
+   }
+  ],
+  "source": "采集 6 级",
+  "category": "采集"
+ },
+ {
+  "name": "传送图腾（沙漠）",
+  "ingredients": [
+   {
+    "name": "铱锭",
+    "count": 4
+   },
+   {
+    "name": "椰子",
+    "count": 4
+   }
+  ],
+  "source": "采集 9 级",
+  "category": "采集"
+ },
+ {
+  "name": "传送图腾（岛屿）",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 5
+   },
+   {
+    "name": "龙牙",
+    "count": 1
+   },
+   {
+    "name": "姜",
+    "count": 1
+   }
+  ],
+  "source": "采集精通（1.5）",
+  "category": "采集"
+ },
+ {
+  "name": "雨水图腾",
+  "ingredients": [
+   {
+    "name": "松露油",
+    "count": 1
+   },
+   {
+    "name": "硬木",
+    "count": 30
+   },
+   {
+    "name": "纤维",
+    "count": 30
+   }
+  ],
+  "source": "采集 9 级",
+  "category": "采集"
+ },
+ {
+  "name": "结实戒指",
+  "ingredients": [
+   {
+    "name": "铜锭",
+    "count": 2
+   },
+   {
+    "name": "虫肉",
+    "count": 25
+   },
+   {
+    "name": "史莱姆泥",
+    "count": 25
+   }
+  ],
+  "source": "战斗 1 级",
+  "category": "战斗"
+ },
+ {
+  "name": "战士戒指",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 10
+   },
+   {
+    "name": "煤炭",
+    "count": 25
+   },
+   {
+    "name": "泪晶",
+    "count": 10
+   }
+  ],
+  "source": "战斗 4 级",
+  "category": "战斗"
+ },
+ {
+  "name": "由巴的戒指",
+  "ingredients": [
+   {
+    "name": "金锭",
+    "count": 5
+   },
+   {
+    "name": "铁锭",
+    "count": 5
+   },
+   {
+    "name": "钻石",
+    "count": 1
+   }
+  ],
+  "source": "战斗 7 级",
+  "category": "战斗"
+ },
+ {
+  "name": "荆棘戒指",
+  "ingredients": [
+   {
+    "name": "骨头碎片",
+    "count": 50
+   },
+   {
+    "name": "石头",
+    "count": 50
+   },
+   {
+    "name": "金锭",
+    "count": 1
+   }
+  ],
+  "source": "战斗 7 级",
+  "category": "战斗"
+ },
+ {
+  "name": "铱环",
+  "ingredients": [
+   {
+    "name": "铱锭",
+    "count": 5
+   },
+   {
+    "name": "太阳精华",
+    "count": 50
+   },
+   {
+    "name": "虚空精华",
+    "count": 50
+   }
+  ],
+  "source": "战斗 9 级",
+  "category": "战斗"
+ },
+ {
+  "name": "辉石戒指",
+  "ingredients": [
+   {
+    "name": "太阳精华",
+    "count": 5
+   },
+   {
+    "name": "铁锭",
+    "count": 5
+   }
+  ],
+  "source": "采矿 4 级",
+  "category": "战斗"
+ },
+ {
+  "name": "宝箱",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 50
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "大箱子",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 120
+   },
+   {
+    "name": "铜锭",
+    "count": 2
+   }
+  ],
+  "source": "初始（1.6）",
+  "category": "杂项"
+ },
+ {
+  "name": "石箱",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 50
+   }
+  ],
+  "source": "初始（1.6）",
+  "category": "杂项"
+ },
+ {
+  "name": "火把",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 1
+   },
+   {
+    "name": "树液",
+    "count": 2
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "长笛块",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 10
+   },
+   {
+    "name": "铜矿石",
+    "count": 2
+   },
+   {
+    "name": "纤维",
+    "count": 20
+   }
+  ],
+  "source": "邮件（罗宾 6 心）",
+  "category": "杂项"
+ },
+ {
+  "name": "鼓块",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 10
+   },
+   {
+    "name": "铜矿石",
+    "count": 2
+   },
+   {
+    "name": "纤维",
+    "count": 20
+   }
+  ],
+  "source": "邮件（罗宾 6 心）",
+  "category": "杂项"
+ },
+ {
+  "name": "南瓜灯",
+  "ingredients": [
+   {
+    "name": "南瓜",
+    "count": 1
+   },
+   {
+    "name": "火把",
+    "count": 1
+   }
+  ],
+  "source": "万灵节（秋 27）",
+  "category": "杂项"
+ },
+ {
+  "name": "木围栏",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 2
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "石围栏",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 2
+   }
+  ],
+  "source": "耕种 2 级",
+  "category": "杂项"
+ },
+ {
+  "name": "铁围栏",
+  "ingredients": [
+   {
+    "name": "铁锭 ×1（×10 个）",
+    "count": 1
+   }
+  ],
+  "source": "耕种 4 级",
+  "category": "杂项"
+ },
+ {
+  "name": "硬木围栏",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 1
+   }
+  ],
+  "source": "耕种 6 级",
+  "category": "杂项"
+ },
+ {
+  "name": "大门",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 10
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "蓝色草籽",
+  "ingredients": [
+   {
+    "name": "纤维",
+    "count": 25
+   },
+   {
+    "name": "苔藓",
+    "count": 10
+   },
+   {
+    "name": "神秘糖浆",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "围栏门",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 10
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "箱子",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 50
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "大石箱",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 250
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "酒窖桶",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 20
+   },
+   {
+    "name": "硬木",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "农业"
+ },
+ {
+  "name": "铁砧",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 50
+   }
+  ],
+  "source": "采矿 2 级",
+  "category": "采矿"
+ },
+ {
+  "name": "小型锻造台",
+  "ingredients": [
+   {
+    "name": "龙牙",
+    "count": 5
+   },
+   {
+    "name": "铁锭",
+    "count": 10
+   },
+   {
+    "name": "金锭",
+    "count": 10
+   },
+   {
+    "name": "铱锭",
+    "count": 5
+   }
+  ],
+  "source": "采矿 2 级",
+  "category": "采矿"
+ },
+ {
+  "name": "木牌",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 25
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "石牌",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 25
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "暗色木牌",
+  "ingredients": [
+   {
+    "name": "蝙蝠翅膀",
+    "count": 5
+   },
+   {
+    "name": "骨头碎片",
+    "count": 5
+   }
+  ],
+  "source": "科罗布斯 好感 3 心",
+  "category": "杂项"
+ },
+ {
+  "name": "文字牌",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 25
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "回收机",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 25
+   },
+   {
+    "name": "石头",
+    "count": 25
+   },
+   {
+    "name": "铁锭",
+    "count": 1
+   }
+  ],
+  "source": "钓鱼 4 级",
+  "category": "农业"
+ },
+ {
+  "name": "蘑菇木桩",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 10
+   },
+   {
+    "name": "苔藓",
+    "count": 10
+   }
+  ],
+  "source": "采集 4 级",
+  "category": "农业"
+ },
+ {
+  "name": "史莱姆孵化器",
+  "ingredients": [
+   {
+    "name": "铱锭",
+    "count": 2
+   },
+   {
+    "name": "史莱姆泥",
+    "count": 100
+   }
+  ],
+  "source": "战斗 8 级",
+  "category": "杂项"
+ },
+ {
+  "name": "史莱姆压蛋器",
+  "ingredients": [
+   {
+    "name": "煤炭",
+    "count": 25
+   },
+   {
+    "name": "火水晶",
+    "count": 1
+   },
+   {
+    "name": "电池组",
+    "count": 1
+   }
+  ],
+  "source": "战斗 6 级",
+  "category": "农业"
+ },
+ {
+  "name": "小型点唱机",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 2
+   },
+   {
+    "name": "电池组",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "梯子",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 99
+   }
+  ],
+  "source": "采矿 2 级",
+  "category": "采矿"
+ },
+ {
+  "name": "树木肥料",
+  "ingredients": [
+   {
+    "name": "纤维",
+    "count": 5
+   },
+   {
+    "name": "石头",
+    "count": 5
+   }
+  ],
+  "source": "s Foraging 7",
+  "category": "农业"
+ },
+ {
+  "name": "顶级生长激素",
+  "ingredients": [
+   {
+    "name": "放射性矿石",
+    "count": 1
+   },
+   {
+    "name": "骨头碎片",
+    "count": 3
+   },
+   {
+    "name": "太阳精华",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "农业"
+ },
+ {
+  "name": "顶级保湿土壤",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 5
+   },
+   {
+    "name": "纤维",
+    "count": 3
+   },
+   {
+    "name": "粘土",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "农业"
+ },
+ {
+  "name": "爆炸弹丸",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "煤炭",
+    "count": 2
+   }
+  ],
+  "source": "一次做 5 个；战斗 8 级",
+  "category": "采矿"
+ },
+ {
+  "name": "铜转铁锭",
+  "ingredients": [
+   {
+    "name": "铜锭",
+    "count": 3
+   }
+  ],
+  "source": "采矿 4 级",
+  "category": "采矿"
+ },
+ {
+  "name": "铁转金锭",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 2
+   }
+  ],
+  "source": "采矿 7 级",
+  "category": "采矿"
+ },
+ {
+  "name": "古代种子",
+  "ingredients": [
+   {
+    "name": "古代种子",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "农业"
+ },
+ {
+  "name": "春季种子",
+  "ingredients": [
+   {
+    "name": "野山葵",
+    "count": 1
+   },
+   {
+    "name": "黄水仙",
+    "count": 1
+   },
+   {
+    "name": "韭葱",
+    "count": 1
+   },
+   {
+    "name": "蒲公英",
+    "count": 1
+   }
+  ],
+  "source": "一次做 10 个；采集 1 级",
+  "category": "农业"
+ },
+ {
+  "name": "夏季种子",
+  "ingredients": [
+   {
+    "name": "香味浆果",
+    "count": 1
+   },
+   {
+    "name": "葡萄",
+    "count": 1
+   },
+   {
+    "name": "甜豌豆",
+    "count": 1
+   }
+  ],
+  "source": "一次做 10 个；采集 4 级",
+  "category": "农业"
+ },
+ {
+  "name": "秋季种子",
+  "ingredients": [
+   {
+    "name": "普通蘑菇",
+    "count": 1
+   },
+   {
+    "name": "野梅",
+    "count": 1
+   },
+   {
+    "name": "榛子",
+    "count": 1
+   },
+   {
+    "name": "黑莓",
+    "count": 1
+   }
+  ],
+  "source": "一次做 10 个；采集 6 级",
+  "category": "农业"
+ },
+ {
+  "name": "冬季种子",
+  "ingredients": [
+   {
+    "name": "冬根",
+    "count": 1
+   },
+   {
+    "name": "水晶果",
+    "count": 1
+   },
+   {
+    "name": "雪山药",
+    "count": 1
+   },
+   {
+    "name": "番红花",
+    "count": 1
+   }
+  ],
+  "source": "一次做 10 个；采集 7 级",
+  "category": "农业"
+ },
+ {
+  "name": "寻宝图腾",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 5
+   },
+   {
+    "name": "神秘糖浆",
+    "count": 1
+   },
+   {
+    "name": "苔藓",
+    "count": 10
+   }
+  ],
+  "source": "初始",
+  "category": "采集"
+ },
+ {
+  "name": "野炊工具",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 15
+   },
+   {
+    "name": "纤维",
+    "count": 10
+   },
+   {
+    "name": "煤炭",
+    "count": 3
+   }
+  ],
+  "source": "采集 3 级",
+  "category": "采集"
+ },
+ {
+  "name": "帐篷工具",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 10
+   },
+   {
+    "name": "纤维",
+    "count": 25
+   },
+   {
+    "name": "布料",
+    "count": 1
+   }
+  ],
+  "source": "采集 8 级",
+  "category": "采集"
+ },
+ {
+  "name": "田间零食",
+  "ingredients": [
+   {
+    "name": "橡子",
+    "count": 1
+   },
+   {
+    "name": "枫树种子",
+    "count": 1
+   },
+   {
+    "name": "松果",
+    "count": 1
+   }
+  ],
+  "source": "采集 1 级",
+  "category": "采集"
+ },
+ {
+  "name": "祝福雕像",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 999
+   },
+   {
+    "name": "纤维",
+    "count": 999
+   },
+   {
+    "name": "树液",
+    "count": 999
+   },
+   {
+    "name": "苔藓",
+    "count": 333
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "矮人国王雕像",
+  "ingredients": [
+   {
+    "name": "铱锭",
+    "count": 20
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "杰克南瓜灯",
+  "ingredients": [
+   {
+    "name": "南瓜",
+    "count": 1
+   },
+   {
+    "name": "火把",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "木地板",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 1
+   }
+  ],
+  "source": "采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "稻草地板",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 1
+   }
+  ],
+  "source": "采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "风化地板",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 1
+   }
+  ],
+  "source": "采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "乡村木板地板",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 1
+   }
+  ],
+  "source": "采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "水晶地板",
+  "ingredients": [
+   {
+    "name": "精炼石英",
+    "count": 1
+   }
+  ],
+  "source": "一次做 5 个；采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "石地板",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 1
+   }
+  ],
+  "source": "采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "石径地板",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 1
+   }
+  ],
+  "source": "采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "砖地板",
+  "ingredients": [
+   {
+    "name": "粘土",
+    "count": 2
+   },
+   {
+    "name": "石头",
+    "count": 5
+   }
+  ],
+  "source": "一次做 5 个；采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "木小径",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "砾石小径",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "鹅卵石小径",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "踏石小径",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 1
+   }
+  ],
+  "source": "采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "水晶小径",
+  "ingredients": [
+   {
+    "name": "精炼石英",
+    "count": 1
+   }
+  ],
+  "source": "一次做 5 个；采矿 0 级",
+  "category": "杂项"
+ },
+ {
+  "name": "野生鱼饵",
+  "ingredients": [
+   {
+    "name": "纤维",
+    "count": 10
+   },
+   {
+    "name": "虫肉",
+    "count": 5
+   },
+   {
+    "name": "史莱姆泥",
+    "count": 5
+   }
+  ],
+  "source": "一次做 5 个；初始",
+  "category": "渔具"
+ },
+ {
+  "name": "蒜油",
+  "ingredients": [
+   {
+    "name": "蒜",
+    "count": 10
+   },
+   {
+    "name": "油",
+    "count": 1
+   }
+  ],
+  "source": "战斗 6 级",
+  "category": "战斗"
+ },
+ {
+  "name": "生命药水",
+  "ingredients": [
+   {
+    "name": "红蘑菇",
+    "count": 1
+   },
+   {
+    "name": "紫蘑菇",
+    "count": 1
+   },
+   {
+    "name": "羊肚菌",
+    "count": 1
+   },
+   {
+    "name": "鸡油菌",
+    "count": 1
+   }
+  ],
+  "source": "战斗 2 级",
+  "category": "战斗"
+ },
+ {
+  "name": "铱戒指",
+  "ingredients": [
+   {
+    "name": "铱锭",
+    "count": 5
+   },
+   {
+    "name": "太阳精华",
+    "count": 50
+   },
+   {
+    "name": "虚空精华",
+    "count": 50
+   }
+  ],
+  "source": "战斗 9 级",
+  "category": "杂项"
+ },
+ {
+  "name": "结婚戒指",
+  "ingredients": [
+   {
+    "name": "铱锭",
+    "count": 5
+   },
+   {
+    "name": "五彩碎片",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "战斗"
+ },
+ {
+  "name": "尤巴戒指",
+  "ingredients": [
+   {
+    "name": "金锭",
+    "count": 5
+   },
+   {
+    "name": "铁锭",
+    "count": 5
+   },
+   {
+    "name": "钻石",
+    "count": 1
+   }
+  ],
+  "source": "战斗 7 级",
+  "category": "战斗"
+ },
+ {
+  "name": "花桶",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 15
+   },
+   {
+    "name": "郁金香球茎",
+    "count": 1
+   },
+   {
+    "name": "蓝爵士种子",
+    "count": 1
+   },
+   {
+    "name": "虞美人种子",
+    "count": 1
+   },
+   {
+    "name": "夏季亮片种子",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "木火盆",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 10
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 5
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "邪恶雕像",
+  "ingredients": [
+   {
+    "name": "煤炭",
+    "count": 5
+   },
+   {
+    "name": "石头",
+    "count": 25
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "石火盆",
+  "ingredients": [
+   {
+    "name": "石头",
+    "count": 10
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 5
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "金火盆",
+  "ingredients": [
+   {
+    "name": "金锭",
+    "count": 1
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   },
+   {
+    "name": "纤维",
+    "count": 5
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "树桩火盆",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 5
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "雕刻火盆",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 10
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "骷髅火盆",
+  "ingredients": [
+   {
+    "name": "骨头碎片",
+    "count": 10
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "木桶火盆",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 50
+   },
+   {
+    "name": "太阳精华",
+    "count": 1
+   },
+   {
+    "name": "煤炭",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "大理石火盆",
+  "ingredients": [
+   {
+    "name": "大理石",
+    "count": 1
+   },
+   {
+    "name": "海蓝宝石",
+    "count": 1
+   },
+   {
+    "name": "石头",
+    "count": 100
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "木质灯柱",
+  "ingredients": [
+   {
+    "name": "木材",
+    "count": 50
+   },
+   {
+    "name": "电池组",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "铁质灯柱",
+  "ingredients": [
+   {
+    "name": "铁锭",
+    "count": 1
+   },
+   {
+    "name": "电池组",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "仙尘",
+  "ingredients": [
+   {
+    "name": "钻石",
+    "count": 1
+   },
+   {
+    "name": "玫瑰仙子",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "战斗"
+ },
+ {
+  "name": "虫肉排",
+  "ingredients": [
+   {
+    "name": "虫肉",
+    "count": 10
+   }
+  ],
+  "source": "战斗 1 级",
+  "category": "战斗"
+ },
+ {
+  "name": "优质浮标",
+  "ingredients": [
+   {
+    "name": "铜锭",
+    "count": 1
+   },
+   {
+    "name": "树液",
+    "count": 20
+   },
+   {
+    "name": "太阳精华",
+    "count": 5
+   }
+  ],
+  "source": "初始",
+  "category": "渔具"
+ },
+ {
+  "name": "怪物香氛",
+  "ingredients": [
+   {
+    "name": "蝙蝠翅膀",
+    "count": 30
+   },
+   {
+    "name": "史莱姆泥",
+    "count": 30
+   }
+  ],
+  "source": "初始",
+  "category": "战斗"
+ },
+ {
+  "name": "迷你方尖碑",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 30
+   },
+   {
+    "name": "太阳精华",
+    "count": 20
+   },
+   {
+    "name": "金锭",
+    "count": 3
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "农场电脑",
+  "ingredients": [
+   {
+    "name": "矮人小工具",
+    "count": 1
+   },
+   {
+    "name": "电池组",
+    "count": 1
+   },
+   {
+    "name": "精炼石英",
+    "count": 10
+   }
+  ],
+  "source": "初始",
+  "category": "农业"
+ },
+ {
+  "name": "鸵鸟孵化器",
+  "ingredients": [
+   {
+    "name": "骨头碎片",
+    "count": 50
+   },
+   {
+    "name": "硬木",
+    "count": 50
+   },
+   {
+    "name": "火山晶石",
+    "count": 20
+   }
+  ],
+  "source": "初始",
+  "category": "杂项"
+ },
+ {
+  "name": "光辉戒指",
+  "ingredients": [
+   {
+    "name": "太阳精华",
+    "count": 5
+   },
+   {
+    "name": "铁锭",
+    "count": 5
+   }
+  ],
+  "source": "采矿 4 级",
+  "category": "战斗"
+ },
+ {
+  "name": "漏斗",
+  "ingredients": [
+   {
+    "name": "硬木",
+    "count": 10
+   },
+   {
+    "name": "铱锭",
+    "count": 1
+   },
+   {
+    "name": "放射性矿锭",
+    "count": 1
+   }
+  ],
+  "source": "初始",
+  "category": "农业"
+ },
+ {
+  "name": "魔法鱼饵",
+  "ingredients": [
+   {
+    "name": "放射性矿石",
+    "count": 1
+   },
+   {
+    "name": "虫肉",
+    "count": 3
+   }
+  ],
+  "source": "一次做 5 个；初始",
+  "category": "渔具"
+ }
+]

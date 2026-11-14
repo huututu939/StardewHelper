@@ -1,0 +1,18 @@
+<onlyinclude>{{{{{1|Infobox special item}}}
+|name      = 头骨钥匙
+|eng       = Skull Key
+|source    = [[矿井]]（120层）
+|ability   = 解锁[[骷髅洞穴]]
+}}</onlyinclude>
+'''头骨钥匙'''是一种[[特殊物品与能力]]，可用于解锁[[骷髅洞穴]]和[[星之果实酒吧]]中的[[祝尼魔赛车]]小游戏。头骨钥匙需通过打开[[矿井]] 120 层的宝箱获得。
+
+解锁后，头骨钥匙会在玩家的特殊物品和能力的选项卡上被点亮。
+
+==历史==
+{{History|1.6|移动到[[特殊物品和能力]]选项卡。}}
+
+{{NavboxSpecialItems}}
+
+[[Category:特殊物品]]
+
+{{EN|Skull Key}}

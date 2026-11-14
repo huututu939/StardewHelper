@@ -1,0 +1,79 @@
+{{For|腌菜|腌菜|罐头瓶利润的详细分析|罐头瓶生产力}}
+<onlyinclude>{{{{{1|Infobox artisan}}}
+|name            = 果酱
+|eng             = Jelly
+|source          = [[工匠物品]]
+|sellprice       = [[水果]]的基础价格 × 2 + 50
+|ingredients     = 任意[[水果]]（1）
+|craftingstation = {{Name|Preserves Jar}}
+|crafttime       = 4000 分钟<br/>（约 2 天 13 小时）
+|tag             = Depends
+}}</onlyinclude>
+'''果酱'''是一种[[工匠物品]]，可以通过将[[水果]]放入[[罐头瓶]]加工获得，加工时间为 2 天 13 小时 20 分钟。
+
+果酱的品质不受原料[[水果]]的品质影响，不论在[[罐头瓶]]内放入什么品质的水果，产出的果酱均为基础品质。一般而言，大部分果酱的价格高于金星原材料水果的价格，存在利润空间。但若在未选择[[耕种#技能|工匠]]职业的情况下使用铱星原材料水果制作果酱，则极有可能亏损。
+
+{{TCPrice|100|mw=罐}}。这种果酱没有水果名字前缀，并且不可食用。它的售价是{{Price|100}}。
+
+果酱的[[可食用性]]取决于原材料<ref name="edibility"/>：
+*如果原材料水果的可食用性为正值，则果酱的可食用性是原材料的 2 倍，即食用后可恢复相当于普通品质原材料水果 2 倍的[[File:Energy.png|20px|class=inline]][[能量值]]与[[File:Health.png|20px|class=inline]][[生命值]]；
+*如果原材料水果不可食用，则果酱的可食用性值为原材料售价的 0.2 倍；
+*如果原材料水果可食用性为负值，则果酱的可食用性值等于原材料的可食用性；
+*没有水果名字前缀的果酱不可食用。
+
+由于在原版游戏中并不存在可食用性为负值的水果，因此也无法获得可食用性为负值的果酱。
+
+==原料==
+所有的水果都可以用于加工果酱，详细列表如下：
+{{Fruits|artisan}}
+{{:上古水果|FruitRow/Artisan}}
+{{:杏子|FruitRow/Artisan}}
+{{:樱桃|FruitRow/Artisan}}
+{{:橙子|FruitRow/Artisan}}
+{{:桃子|FruitRow/Artisan}}
+{{:苹果|FruitRow/Artisan}}
+{{:石榴|FruitRow/Artisan}}
+{{:草莓|FruitRow/Artisan}}
+{{:大黄|FruitRow/Artisan}}
+{{:辣椒|FruitRow/Artisan}}
+{{:蓝莓|FruitRow/Artisan}}
+{{:甜瓜|FruitRow/Artisan}}
+{{:杨桃|FruitRow/Artisan}}
+{{:葡萄|FruitRow/Artisan}}
+{{:蔓越莓|FruitRow/Artisan}}
+{{:霜瓜|FruitRow/Artisan}}
+{{:仙人掌果子|FruitRow/Artisan}}
+{{:椰子|FruitRow/Artisan}}
+{{:美洲大树莓|FruitRow/Artisan}}
+{{:香味浆果|FruitRow/Artisan}}
+{{:黑莓|FruitRow/Artisan}}
+{{:野梅|FruitRow/Artisan}}
+{{:水晶果|FruitRow/Artisan}}
+{{:菠萝|FruitRow/Artisan}}
+{{:芒果|FruitRow/Artisan}}
+{{:香蕉|FruitRow/Artisan}}
+{{:齐瓜|FruitRow/Artisan}}
+{{Fruits|foot}}
+
+==送礼==
+{{GiftsByItem}}
+
+==收集包==
+{{BundleReq|Artisan|1|c|mw=罐}}。
+
+==裁制==
+果酱可通过[[缝纫机]]使用[[布料]]制成 {{name|Shirt092|class=inline|link=裁缝#上衣{{!}}上衣}}。果酱可用于[[染色]]。放置在[[染色#缝纫机|缝纫机]]内时，果酱可用作'''深红色'''染料。
+
+==参考==
+<references>
+    <ref name="edibility">参见游戏代码中的 <samp>ObjectDataDefinition::CreateFlavoredJelly</samp></ref>
+</references>
+
+==历史==
+{{history|1.6|果酱、腌菜、果酒和果汁都会根据配料变色了。}}
+{{History|1.6|可以制作[[霜瓜]]果酱了。}}
+{{history|1.6.2|修复了某些不可食用的原料制成的果酱有毒的问题。}}
+
+<noinclude>{{NavboxArtisanGoods}}</noinclude>[[分类:果酱]]
+
+{{EN|Jellies and Pickles}}

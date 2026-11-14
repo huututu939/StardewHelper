@@ -1,0 +1,223 @@
+{
+ "marriageable_npcs": [
+  {
+   "name": "阿比盖尔",
+   "name_en": "Abigail",
+   "gender": "female",
+   "bachelor_type": "bachelorette"
+  },
+  {
+   "name": "亚历克斯",
+   "name_en": "Alex",
+   "gender": "male",
+   "bachelor_type": "bachelor"
+  },
+  {
+   "name": "艾利欧特",
+   "name_en": "Elliott",
+   "gender": "male",
+   "bachelor_type": "bachelor"
+  },
+  {
+   "name": "艾米丽",
+   "name_en": "Emily",
+   "gender": "female",
+   "bachelor_type": "bachelorette"
+  },
+  {
+   "name": "海莉",
+   "name_en": "Haley",
+   "gender": "female",
+   "bachelor_type": "bachelorette"
+  },
+  {
+   "name": "哈维",
+   "name_en": "Harvey",
+   "gender": "male",
+   "bachelor_type": "bachelor"
+  },
+  {
+   "name": "莉亚",
+   "name_en": "Leah",
+   "gender": "female",
+   "bachelor_type": "bachelorette"
+  },
+  {
+   "name": "玛鲁",
+   "name_en": "Maru",
+   "gender": "female",
+   "bachelor_type": "bachelorette"
+  },
+  {
+   "name": "潘妮",
+   "name_en": "Penny",
+   "gender": "female",
+   "bachelor_type": "bachelorette"
+  },
+  {
+   "name": "山姆",
+   "name_en": "Sam",
+   "gender": "male",
+   "bachelor_type": "bachelor"
+  },
+  {
+   "name": "塞巴斯蒂安",
+   "name_en": "Sebastian",
+   "gender": "male",
+   "bachelor_type": "bachelor"
+  },
+  {
+   "name": "谢恩",
+   "name_en": "Shane",
+   "gender": "male",
+   "bachelor_type": "bachelor"
+  }
+ ],
+ "process": [
+  {
+   "step": 1,
+   "title": "提升好感度",
+   "description": "通过每日对话、每周最多2次礼物（生日×8倍率）将心仪对象提升到8心。",
+   "requirements": [
+    "每日对话+20",
+    "每周2次礼物",
+    "生日送礼×8倍率"
+   ]
+  },
+  {
+   "step": 2,
+   "title": "获得花束 Bouquet",
+   "description": "在Pierre杂货店花费200g购买花束并送给8心对象，进入恋爱状态（心数上限升至10心）。",
+   "requirements": [
+    "达到8心好感",
+    "在Pierre商店购买Bouquet(200g)"
+   ]
+  },
+  {
+   "step": 3,
+   "title": "达到10心",
+   "description": "继续送礼将对象提升到10心。",
+   "requirements": [
+    "送花束后好感上限解锁到10心"
+   ]
+  },
+  {
+   "step": 4,
+   "title": "升级房屋",
+   "description": "向Robin升级农舍至少一次（有厨房），婚姻必需。",
+   "requirements": [
+    "第一次升级农舍(10000g+木材450)"
+   ]
+  },
+  {
+   "step": 5,
+   "title": "获得美人鱼吊坠",
+   "description": "雨天在海滩北侧旧水手处购买（详见mermaid_pendant）。",
+   "requirements": [
+    "雨天",
+    "房屋升级一次",
+    "10心对象"
+   ]
+  },
+  {
+   "step": 6,
+   "title": "求婚",
+   "description": "将美人鱼吊坠送给10心对象求婚。",
+   "requirements": [
+    "赠送美人鱼吊坠"
+   ]
+  },
+  {
+   "step": 7,
+   "title": "婚礼",
+   "description": "三天后举行婚礼，配偶搬入农舍。",
+   "requirements": [
+    "3天后自动举行婚礼"
+   ]
+  }
+ ],
+ "flower_dance": {
+  "date": {
+   "season": "spring",
+   "day": 24
+  },
+  "location": "煤矿森林西南角",
+  "dance_partner_requirements": "与可结婚NPC达到4心好感才可邀请共舞",
+  "description": "春季24日举办的舞蹈节。邀请舞伴共舞可获得+250好感点（1心）。",
+  "max_dance_bonus": 250,
+  "notes": "与舞伴共舞后+250好感(1心)；4心以下无法邀请；同性可互邀"
+ },
+ "mermaid_pendant": {
+  "how_to_get": "雨天在海滩北侧（需修复大桥后）找旧水手 Old Mariner 购买",
+  "price": 5000,
+  "conditions": [
+   "已与某位可结婚NPC达到10心好感(必须先送过花束Bouquet)",
+   "已完成农舍第一次升级(有厨房)",
+   "当天正在下雨(冬季可用雨图腾)",
+   "尚未结婚/无室友",
+   "已修复海滩木桥(300木头)"
+  ],
+  "vendor": "旧水手 Old Mariner",
+  "vendor_location": "海滩北侧过木桥后(需300木头修复桥)",
+  "vendor_hours": "6:00-19:00",
+  "exclusions": "夜市(Night Market)期间不出现；冬季需用雨图腾(Rain Totem)唤雨才出现"
+ },
+ "wedding": {
+  "duration_days": 3,
+  "ceremony": "求婚3天后在农场举行婚礼，全村人参加，配偶搬入配偶房间。",
+  "after": "婚礼后配偶搬入农舍右侧专属房间；后院有专属区域；配偶每天可送礼物(好感减半)"
+ },
+ "after_marriage": {
+  "spouse_room": "每位配偶在农舍右侧有专属房间，后院有专属区域。",
+  "daily_gifts": "配偶每天早上可能在厨房准备早餐或在门口给玩家礼物。",
+  "anniversary": "每年结婚纪念日（婚礼日期），若与配偶对话可获得好感奖励。",
+  "children": {
+   "can_have": true,
+   "max_children": 2,
+   "adoption_for_same_sex": true,
+   "conditions": [
+    "婚后至少7天",
+    "房屋第二次升级(有儿童房)",
+    "配偶好感度保持在10心以上",
+    "配偶未在工作/外出时过夜触发",
+    "每天有概率弹出是否要孩子询问，选择同意后14天后孩子出生"
+   ],
+   "notes": "同性婚姻通过收养获得孩子；异性婚姻自然生产；孩子成长共4阶段(婴儿→爬行→走路→儿童)"
+  }
+ },
+ "divorce": {
+  "cost": 50000,
+  "where": "Lewis的市长庄园(Manor)内书桌办理",
+  "effects": "离婚后配偶搬回原住处，好感归零为0心；子女被送到孤儿院外貌黑化",
+  "remarriage": "若想与他人再婚或复婚，可在巫师塔花费30000g抹去前配偶记忆（孩子永久消失）。",
+  "waiting_period": "提交申请后到周末前可取消；周日周一自动生效",
+  "remarriage_cost": 30000,
+  "remarriage_where": "巫师塔内黑暗记忆神龛(Dark Shrine of Memory)",
+  "remarriage_effect": "抹去前配偶记忆后可与他人结婚或复婚；孩子永久消失"
+ },
+ "krobus_roommate": {
+  "description": "Krobus可作为室友(Roommate)搬入农舍，属于非婚姻同居关系。不可有子女，但其他互动类似配偶。13心时赠送星之果实(Stardrop)。",
+  "conditions": [
+   "与Krobus达到10心好感",
+   "已完成下水道解锁(博物馆捐赠60件获锈蚀钥匙)",
+   "农舍第一次升级(有厨房)",
+   "玩家未婚/无室友"
+  ],
+  "pendant": "虚空幽灵 pendant Void Ghost Pendant：在下水道Krobus商店花200g购买后送给Krobus邀请同居。",
+  "pendant_item": "虚空幽灵吊坠 Void Ghost Pendant",
+  "pendant_how_to_get": [
+   "途径1：与Krobus达到10心后，击杀怪物有概率掉落",
+   "途径2：与Krobus达到10心后，可在Krobus商店花200g购买"
+  ],
+  "move_in_days": 3,
+  "eviction": "通过市长庄园的书籍免费驱逐Krobus(无需50000g离婚费)；驱逐后Krobus沉默并拒绝礼物",
+  "special_notes": [
+   "拥抱代替亲吻",
+   "无婚礼仪式",
+   "Krobus不会因你给可结婚NPC送礼而嫉妒",
+   "不可有/收养子女，但会帮忙照顾前段婚姻的孩子",
+   "Krobus不做家务，雨天会站在前廊",
+   "13心赠送星之果实"
+  ]
+ }
+}

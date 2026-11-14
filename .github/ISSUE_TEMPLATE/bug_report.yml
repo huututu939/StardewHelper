@@ -1,0 +1,70 @@
+name: 问题反馈
+description: 界面异常、数据错误、崩溃、连接失败等
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        感谢反馈。信息填得越全，修得越快 —— 尤其是「复现步骤」和「App 版本」。
+        ⚠ 请勿贴出存档文件本身，里面有你的玩家名与农场名。
+
+  - type: input
+    id: app-version
+    attributes:
+      label: App 版本
+      description: 设置 → ℹ 关于 里的版本号
+      placeholder: "2.152.1"
+    validations:
+      required: true
+
+  - type: input
+    id: device
+    attributes:
+      label: 机型与系统版本
+      placeholder: "魅族 20 / Android 15"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: 问题出在哪一块
+      options:
+        - 今日页
+        - 计算页
+        - 图鉴
+        - 村民
+        - 进度
+        - 设置 / 更新
+        - 存档导入 / 局域网接收
+        - Mod 扩展
+        - 其它
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: |
+        1. 打开 …
+        2. 点 …
+        3. 出现 …
+    validations:
+      required: true
+
+  - type: textarea
+    id: result
+    attributes:
+      label: 期望结果 / 实际结果
+    validations:
+      required: true
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: 截图或补充
+      description: 截图可以直接拖进来。
+    validations:
+      required: false

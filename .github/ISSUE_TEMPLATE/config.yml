@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 下载最新版 APK
+    url: https://github.com/huututu939/xingluguzhushou/releases/latest
+    about: 安装包、电脑端脚本与 Mod 扩展包都在发布仓库的 Release。
+  - name: 先看看使用指引
+    url: https://github.com/huututu939/StardewHelper#功能
+    about: 功能在哪儿、怎么导入存档，README 里都写了。

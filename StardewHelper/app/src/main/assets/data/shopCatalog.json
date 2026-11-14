@@ -1,0 +1,3003 @@
+{
+ "皮埃尔的杂货店": [
+  {
+   "name": "初级保湿土壤",
+   "price": 100,
+   "avail": "全年",
+   "note": "第 1 年春 15 起出售",
+   "codex": true
+  },
+  {
+   "name": "初级肥料",
+   "price": 100,
+   "avail": "全年",
+   "note": "第 1 年春 15 起出售",
+   "codex": true
+  },
+  {
+   "name": "地板",
+   "price": 200,
+   "avail": "全年"
+  },
+  {
+   "name": "墙纸",
+   "price": 200,
+   "avail": "全年"
+  },
+  {
+   "name": "夏季亮片种子",
+   "price": 50,
+   "avail": "全年",
+   "codex": true,
+   "note": "春季展销会价 75"
+  },
+  {
+   "name": "大米",
+   "price": 200,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "小麦粉",
+   "price": 100,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "杏子树苗",
+   "price": 2000,
+   "avail": "全年"
+  },
+  {
+   "name": "桃子树苗",
+   "price": 6000,
+   "avail": "全年"
+  },
+  {
+   "name": "樱桃树苗",
+   "price": 3400,
+   "avail": "全年"
+  },
+  {
+   "name": "橙子树苗",
+   "price": 4000,
+   "avail": "全年"
+  },
+  {
+   "name": "油",
+   "price": 200,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "洋蓟种子",
+   "price": 30,
+   "avail": "全年",
+   "codex": true,
+   "note": "第 2 年起出售；春季展销会价 45"
+  },
+  {
+   "name": "烘干机",
+   "price": 10000,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "生长激素",
+   "price": 100,
+   "avail": "全年",
+   "note": "第 1 年春 15 起出售",
+   "codex": true
+  },
+  {
+   "name": "石榴树苗",
+   "price": 6000,
+   "avail": "全年"
+  },
+  {
+   "name": "糖",
+   "price": 100,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "红叶卷心菜种子",
+   "price": 100,
+   "avail": "全年",
+   "codex": true,
+   "note": "第 2 年起出售；春季展销会价 150"
+  },
+  {
+   "name": "苹果树苗",
+   "price": 4000,
+   "avail": "全年"
+  },
+  {
+   "name": "郁金香球茎",
+   "price": 20,
+   "avail": "全年",
+   "codex": true,
+   "note": "春季展销会价 30"
+  },
+  {
+   "name": "醋",
+   "price": 200,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "高级保湿土壤",
+   "price": 150,
+   "avail": "全年",
+   "note": "第 2 年起出售",
+   "codex": true
+  },
+  {
+   "name": "高级生长激素",
+   "price": 150,
+   "avail": "全年",
+   "note": "第 2 年起出售",
+   "codex": true
+  },
+  {
+   "name": "高级肥料",
+   "price": 150,
+   "avail": "全年",
+   "note": "第 2 年起出售",
+   "codex": true
+  },
+  {
+   "name": "向日葵种子",
+   "price": 200,
+   "avail": "夏",
+   "codex": true,
+   "note": "春季展销会价 300"
+  },
+  {
+   "name": "啤酒花种子",
+   "price": 60,
+   "avail": "夏",
+   "codex": true,
+   "note": "春季展销会价 90"
+  },
+  {
+   "name": "啤酒花秧苗",
+   "price": 60,
+   "avail": "夏"
+  },
+  {
+   "name": "甜瓜种子",
+   "price": 80,
+   "avail": "夏",
+   "codex": true,
+   "note": "春季展销会价 120"
+  },
+  {
+   "name": "番茄种子",
+   "price": 50,
+   "avail": "夏"
+  },
+  {
+   "name": "罂粟种子",
+   "price": 100,
+   "avail": "夏"
+  },
+  {
+   "name": "萝卜种子",
+   "price": 40,
+   "avail": "夏",
+   "codex": true,
+   "note": "春季展销会价 60"
+  },
+  {
+   "name": "蓝莓种子",
+   "price": 80,
+   "avail": "夏",
+   "codex": true,
+   "note": "春季展销会价 120"
+  },
+  {
+   "name": "虞美人种子",
+   "price": 100,
+   "avail": "夏",
+   "codex": true,
+   "note": "春季展销会价 150"
+  },
+  {
+   "name": "西红柿种子",
+   "price": 50,
+   "avail": "夏",
+   "codex": true,
+   "note": "春季展销会价 75"
+  },
+  {
+   "name": "辣椒种子",
+   "price": 40,
+   "avail": "夏",
+   "codex": true,
+   "note": "春季展销会价 60"
+  },
+  {
+   "name": "小麦种子",
+   "price": 10,
+   "avail": "夏、秋",
+   "codex": true,
+   "note": "春季展销会价 15"
+  },
+  {
+   "name": "玉米种子",
+   "price": 150,
+   "avail": "夏、秋",
+   "codex": true,
+   "note": "春季展销会价 225"
+  },
+  {
+   "name": "土豆种子",
+   "price": 50,
+   "avail": "春",
+   "codex": true,
+   "note": "春季展销会价 75"
+  },
+  {
+   "name": "大蒜种子",
+   "price": 40,
+   "avail": "春",
+   "codex": true,
+   "note": "第 2 年起出售；春季展销会价 60"
+  },
+  {
+   "name": "甘蓝种子",
+   "price": 70,
+   "avail": "春",
+   "codex": true,
+   "note": "春季展销会价 105"
+  },
+  {
+   "name": "花椰菜种子",
+   "price": 80,
+   "avail": "春",
+   "codex": true,
+   "note": "春季展销会价 120"
+  },
+  {
+   "name": "蓝爵士种子",
+   "price": 30,
+   "avail": "春",
+   "codex": true,
+   "note": "春季展销会价 45"
+  },
+  {
+   "name": "金星防风草种子",
+   "price": 20,
+   "avail": "春"
+  },
+  {
+   "name": "防风草种子",
+   "price": 20,
+   "avail": "春",
+   "codex": true,
+   "note": "春季展销会价 30"
+  },
+  {
+   "name": "青豆种子",
+   "price": 60,
+   "avail": "春",
+   "codex": true,
+   "note": "春季展销会价 90"
+  },
+  {
+   "name": "南瓜种子",
+   "price": 100,
+   "avail": "秋",
+   "codex": true,
+   "note": "春季展销会价 150"
+  },
+  {
+   "name": "小白菜种子",
+   "price": 50,
+   "avail": "秋",
+   "codex": true,
+   "note": "春季展销会价 75"
+  },
+  {
+   "name": "山药种子",
+   "price": 60,
+   "avail": "秋",
+   "codex": true,
+   "note": "春季展销会价 90"
+  },
+  {
+   "name": "玫瑰仙子种子",
+   "price": 200,
+   "avail": "秋",
+   "codex": true,
+   "note": "春季展销会价 300"
+  },
+  {
+   "name": "苋菜种子",
+   "price": 70,
+   "avail": "秋",
+   "codex": true,
+   "note": "春季展销会价 105"
+  },
+  {
+   "name": "茄子种子",
+   "price": 20,
+   "avail": "秋",
+   "codex": true,
+   "note": "春季展销会价 30"
+  },
+  {
+   "name": "葡萄种子",
+   "price": 60,
+   "avail": "秋",
+   "codex": true,
+   "note": "春季展销会价 90"
+  },
+  {
+   "name": "葡萄秧苗",
+   "price": 60,
+   "avail": "秋"
+  },
+  {
+   "name": "蔓越莓种子",
+   "price": 240,
+   "avail": "秋",
+   "codex": true,
+   "note": "春季展销会价 360"
+  }
+ ],
+ "Joja超市": [
+  {
+   "name": "Joja可乐",
+   "price": 75,
+   "avail": "全年"
+  },
+  {
+   "name": "地板",
+   "price": 250,
+   "avail": "全年"
+  },
+  {
+   "name": "墙纸",
+   "price": 250,
+   "avail": "全年"
+  },
+  {
+   "name": "夏季亮片种子",
+   "price": 62,
+   "avail": "全年",
+   "codex": true,
+   "note": "会员价 50"
+  },
+  {
+   "name": "大米",
+   "price": 250,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "小麦粉",
+   "price": 125,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "糖",
+   "price": 125,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "郁金香球茎",
+   "price": 25,
+   "avail": "全年",
+   "codex": true,
+   "note": "会员价 20"
+  },
+  {
+   "name": "向日葵种子",
+   "price": 125,
+   "avail": "夏",
+   "codex": true,
+   "note": "会员价 100g（比皮埃尔低）"
+  },
+  {
+   "name": "啤酒花种子",
+   "price": 75,
+   "avail": "夏",
+   "codex": true,
+   "note": "会员价 60"
+  },
+  {
+   "name": "啤酒花秧苗",
+   "price": 75,
+   "avail": "夏"
+  },
+  {
+   "name": "甜瓜种子",
+   "price": 100,
+   "avail": "夏",
+   "codex": true,
+   "note": "会员价 80"
+  },
+  {
+   "name": "番茄种子",
+   "price": 62,
+   "avail": "夏"
+  },
+  {
+   "name": "罂粟种子",
+   "price": 125,
+   "avail": "夏"
+  },
+  {
+   "name": "萝卜种子",
+   "price": 50,
+   "avail": "夏",
+   "codex": true,
+   "note": "会员价 40"
+  },
+  {
+   "name": "虞美人种子",
+   "price": 125,
+   "avail": "夏",
+   "codex": true,
+   "note": "会员价 100"
+  },
+  {
+   "name": "西红柿种子",
+   "price": 62,
+   "avail": "夏",
+   "codex": true,
+   "note": "会员价 50"
+  },
+  {
+   "name": "辣椒种子",
+   "price": 50,
+   "avail": "夏",
+   "codex": true,
+   "note": "会员价 40"
+  },
+  {
+   "name": "小麦种子",
+   "price": 12,
+   "avail": "夏、秋",
+   "codex": true,
+   "note": "会员价 10"
+  },
+  {
+   "name": "玉米种子",
+   "price": 187,
+   "avail": "夏、秋",
+   "codex": true,
+   "note": "会员价 150"
+  },
+  {
+   "name": "土豆种子",
+   "price": 62,
+   "avail": "春",
+   "codex": true,
+   "note": "会员价 50"
+  },
+  {
+   "name": "甘蓝种子",
+   "price": 87,
+   "avail": "春",
+   "codex": true,
+   "note": "会员价 70"
+  },
+  {
+   "name": "花椰菜种子",
+   "price": 100,
+   "avail": "春",
+   "codex": true,
+   "note": "会员价 80"
+  },
+  {
+   "name": "蓝爵士种子",
+   "price": 37,
+   "avail": "春",
+   "codex": true,
+   "note": "会员价 30"
+  },
+  {
+   "name": "金星防风草种子",
+   "price": 25,
+   "avail": "春"
+  },
+  {
+   "name": "防风草种子",
+   "price": 25,
+   "avail": "春",
+   "codex": true,
+   "note": "会员价 20"
+  },
+  {
+   "name": "青豆种子",
+   "price": 75,
+   "avail": "春",
+   "codex": true,
+   "note": "会员价 60"
+  },
+  {
+   "name": "南瓜种子",
+   "price": 125,
+   "avail": "秋",
+   "codex": true,
+   "note": "会员价 100"
+  },
+  {
+   "name": "小白菜种子",
+   "price": 62,
+   "avail": "秋",
+   "codex": true,
+   "note": "会员价 50"
+  },
+  {
+   "name": "山药种子",
+   "price": 75,
+   "avail": "秋",
+   "codex": true,
+   "note": "会员价 60"
+  },
+  {
+   "name": "玫瑰仙子种子",
+   "price": 250,
+   "avail": "秋",
+   "codex": true,
+   "note": "会员价 200"
+  },
+  {
+   "name": "苋菜种子",
+   "price": 87,
+   "avail": "秋",
+   "codex": true,
+   "note": "会员价 70"
+  },
+  {
+   "name": "茄子种子",
+   "price": 25,
+   "avail": "秋",
+   "codex": true,
+   "note": "会员价 20"
+  },
+  {
+   "name": "葡萄种子",
+   "price": 75,
+   "avail": "秋",
+   "codex": true,
+   "note": "会员价 60"
+  },
+  {
+   "name": "葡萄秧苗",
+   "price": 75,
+   "avail": "秋"
+  },
+  {
+   "name": "蔓越莓种子",
+   "price": 300,
+   "avail": "秋",
+   "codex": true,
+   "note": "会员价 240"
+  }
+ ],
+ "铁匠铺": [
+  {
+   "name": "煤炭",
+   "price": 150,
+   "avail": "全年",
+   "price2": 250,
+   "codex": true
+  },
+  {
+   "name": "铁矿石",
+   "price": 150,
+   "avail": "全年",
+   "price2": 250,
+   "codex": true
+  },
+  {
+   "name": "黄金矿石",
+   "price": 400,
+   "avail": "全年",
+   "price2": 750
+  }
+ ],
+ "星之果实酒吧": [
+  {
+   "name": "三倍浓缩咖啡",
+   "price": 5000,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "咖啡",
+   "price": 300,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "啤酒",
+   "price": 400,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "墨西哥薄饼",
+   "price": 100,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "寿司卷",
+   "price": 300,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "意大利面",
+   "price": 240,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "披萨",
+   "price": 600,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "沙拉",
+   "price": 220,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "煎蛋卷",
+   "price": 100,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "薄煎饼",
+   "price": 100,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "薯饼",
+   "price": 50,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "面包",
+   "price": 120,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "饼干",
+   "price": 300,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "乳酪花椰菜",
+   "price": 600,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "冰淇淋",
+   "price": 240,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "南瓜汤",
+   "price": 600,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "塞料面包",
+   "price": 330,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "大米布丁",
+   "price": 520,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "大黄派",
+   "price": 800,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "奇怪的小面包",
+   "price": 450,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "完美早餐",
+   "price": 700,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "巧克力蛋糕",
+   "price": 400,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "巨无霸餐",
+   "price": 440,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "帕尔玛奶酪茄子",
+   "price": 400,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "幸运午餐",
+   "price": 500,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "惊喜鲤鱼",
+   "price": 300,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "椰汁汤",
+   "price": 500,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "炒蘑菇",
+   "price": 400,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "炒鳗鱼",
+   "price": 240,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "炸鱿鱼",
+   "price": 300,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "烤鱼",
+   "price": 200,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "煎鸡蛋",
+   "price": 70,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "爆炒青椒",
+   "price": 400,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "琉璃山药",
+   "price": 400,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "生鱼片",
+   "price": 150,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "秋日恩赐",
+   "price": 700,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "粉红蛋糕",
+   "price": 960,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "红之盛宴",
+   "price": 800,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "红莓酱",
+   "price": 240,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "蓝莓千层酥",
+   "price": 300,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "蔬菜杂烩",
+   "price": 240,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "豆类火锅",
+   "price": 200,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "辣鳗鱼",
+   "price": 350,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "防风草汤",
+   "price": 240,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "香酥鲈鱼",
+   "price": 300,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "鱼肉卷",
+   "price": 1000,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "鲑鱼晚餐",
+   "price": 600,
+   "avail": "轮换",
+   "codex": true
+  },
+  {
+   "name": "鳟鱼汤",
+   "price": 200,
+   "avail": "轮换",
+   "codex": true
+  }
+ ],
+ "冰淇淋摊": [
+  {
+   "name": "冰淇淋",
+   "price": 250,
+   "avail": "全年",
+   "codex": true
+  }
+ ],
+ "木匠的商店": [
+  {
+   "name": "大箱子",
+   "price": 5000,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "木材",
+   "price": 10,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "石头",
+   "price": 20,
+   "avail": "全年",
+   "codex": true
+  }
+ ],
+ "玛妮的牧场": [
+  {
+   "name": "挤奶桶",
+   "price": 1000,
+   "avail": "全年"
+  },
+  {
+   "name": "金蛋",
+   "price": 100000,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "兔子",
+   "price": 8000,
+   "avail": "牲畜",
+   "codex": true
+  },
+  {
+   "name": "山羊",
+   "price": 4000,
+   "avail": "牲畜",
+   "codex": true
+  },
+  {
+   "name": "牛",
+   "price": 1500,
+   "avail": "牲畜",
+   "codex": true
+  },
+  {
+   "name": "猪",
+   "price": 16000,
+   "avail": "牲畜",
+   "codex": true
+  },
+  {
+   "name": "绵羊",
+   "price": 8000,
+   "avail": "牲畜",
+   "codex": true
+  },
+  {
+   "name": "鸡",
+   "price": 800,
+   "avail": "牲畜"
+  },
+  {
+   "name": "鸭",
+   "price": 1200,
+   "avail": "牲畜",
+   "codex": true
+  }
+ ],
+ "旅行货车": [
+  {
+   "name": "Joja可乐",
+   "price": 25,
+   "avail": "每周随机"
+  },
+  {
+   "name": "三倍浓缩咖啡",
+   "price": 1350,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "乳酪花椰菜",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "仙人掌果",
+   "price": 75,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "农夫午餐",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "冬季种子",
+   "price": 100,
+   "avail": "每周随机"
+  },
+  {
+   "name": "冬根",
+   "price": 210,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "冬青树",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "冰淇淋",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "初级保湿土壤",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "初级肥料",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "午夜鲤鱼",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "南瓜",
+   "price": 960,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "南瓜汤",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "南瓜派",
+   "price": 1155,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "南瓜种子",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "卷心菜沙拉",
+   "price": 1035,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "向日葵",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "向日葵种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "啤酒",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "啤酒花",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "啤酒花秧苗",
+   "price": 30,
+   "avail": "每周随机"
+  },
+  {
+   "name": "四季豆",
+   "price": 40,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "土豆",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "土豆种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "块茎拼盘",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "塞料面包",
+   "price": 495,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "墨西哥薄饼",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "夏季亮片种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "夏季亮片",
+   "price": 270,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "夏季种子",
+   "price": 165,
+   "avail": "每周随机"
+  },
+  {
+   "name": "大嘴鲈鱼",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大头鱼",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大比目鱼",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大海参",
+   "price": 750,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大眼鱼",
+   "price": 315,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大米布丁",
+   "price": 780,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大葱",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大蒜",
+   "price": 60,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大蒜种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大黄",
+   "price": 660,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大黄派",
+   "price": 1200,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "大黄种子",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "太阳鱼",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "奇怪的小面包",
+   "price": 675,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "奶酪",
+   "price": 690,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "完美早餐",
+   "price": 1050,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "寿司卷",
+   "price": 220,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "小嘴鲈鱼",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "小白菜",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "小白菜种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "小麦",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "小麦种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "小龙虾",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "山洞胡萝卜",
+   "price": 25,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "山羊奶酪",
+   "price": 1200,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "山药",
+   "price": 480,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "山药种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "巧克力蛋糕",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "巨无霸餐",
+   "price": 660,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "布料",
+   "price": 1410,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "帕尔玛奶酪茄子",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "幸运午餐",
+   "price": 750,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "彩虹贝壳",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "惊喜鲤鱼",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "意大利面",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "意式烤面包",
+   "price": 630,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "意式蕨菜炖饭",
+   "price": 1050,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "披萨",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "救生汉堡",
+   "price": 540,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "春季种子",
+   "price": 105,
+   "avail": "每周随机"
+  },
+  {
+   "name": "普通蘑菇",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "洋蓟",
+   "price": 480,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "木跃鱼",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "杏子",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "杏子树苗",
+   "price": 1500,
+   "avail": "每周随机"
+  },
+  {
+   "name": "杨桃",
+   "price": 2250,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "杨桃种子",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "松果",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "松露油",
+   "price": 3195,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "果汁",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "果酒",
+   "price": 1200,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "果酱",
+   "price": 480,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "枫树种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "枫糖棒",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "树液",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "桃子",
+   "price": 420,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "桃子树苗",
+   "price": 4500,
+   "avail": "每周随机"
+  },
+  {
+   "name": "椰子",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "椰汁汤",
+   "price": 750,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "榛子",
+   "price": 270,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "樱桃",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "樱桃树苗",
+   "price": 2550,
+   "avail": "每周随机"
+  },
+  {
+   "name": "橙子",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "橙子树苗",
+   "price": 3000,
+   "avail": "每周随机"
+  },
+  {
+   "name": "橡子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "比目鱼",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "水晶果",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "水果沙拉",
+   "price": 1350,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "水煮洋蓟",
+   "price": 630,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "沙丁鱼",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "沙拉",
+   "price": 330,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "沙鱼",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "河豚",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "河鲈",
+   "price": 165,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "法式田螺",
+   "price": 375,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "洋蓟种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "海之菜肴",
+   "price": 660,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "海参",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "海泡布丁",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "海胆",
+   "price": 480,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "海藻汤",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "海鲜杂烩汤",
+   "price": 405,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "淡啤酒",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "清汤",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "炒蘑菇",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "炒鳗鱼",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "炸鱿鱼",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "烤榛子",
+   "price": 810,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "烤鱼",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "煎蛋卷",
+   "price": 375,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "煎鸡蛋",
+   "price": 105,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "爆炒青椒",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "牡蛎",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "狗鱼",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "玉米",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "玉米种子",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "玉黍螺",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "玫瑰仙子",
+   "price": 870,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "玫瑰仙子种子",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "珊瑚",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "琉璃山药",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "甘蓝",
+   "price": 110,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "甘蓝种子",
+   "price": 105,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "甜瓜",
+   "price": 750,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "甜瓜种子",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "甜菜",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "甜菜种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "甜豌豆",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "生长激素",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "生鱼片",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "番红花",
+   "price": 180,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "番茄",
+   "price": 60,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "番茄种子",
+   "price": 25,
+   "avail": "每周随机"
+  },
+  {
+   "name": "石榴",
+   "price": 420,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "石榴树苗",
+   "price": 4500,
+   "avail": "每周随机"
+  },
+  {
+   "name": "矿工特供",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "秋季种子",
+   "price": 135,
+   "avail": "每周随机"
+  },
+  {
+   "name": "秋日恩赐",
+   "price": 1050,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "章鱼",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "粉红蛋糕",
+   "price": 1440,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "紫蘑菇",
+   "price": 750,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "红之盛宴",
+   "price": 1200,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "红叶卷心菜",
+   "price": 780,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "红叶卷心菜种子",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "红莓酱",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "红蘑菇",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "红鲷鱼",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "红鲻鱼",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "罂粟",
+   "price": 140,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "罂粟种子",
+   "price": 50,
+   "avail": "每周随机"
+  },
+  {
+   "name": "虞美人籽松糕",
+   "price": 750,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "罐头瓶",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "罗非鱼",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "羊肚菌",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "美洲大树莓",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "花椰菜",
+   "price": 525,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "花椰菜种子",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "苋菜",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "苋菜种子",
+   "price": 105,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "苹果",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "苹果树苗",
+   "price": 3000,
+   "avail": "每周随机"
+  },
+  {
+   "name": "茄子",
+   "price": 180,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "茄子种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "茶苗",
+   "price": 750,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "草莓",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "萝卜",
+   "price": 270,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "萝卜沙拉",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "萝卜种子",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "葡萄",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "葡萄干布丁",
+   "price": 780,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "葡萄秧苗",
+   "price": 30,
+   "avail": "每周随机"
+  },
+  {
+   "name": "蒲公英",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蓝爵士",
+   "price": 50,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蓝莓",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蓝莓千层酥",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蓝莓种子",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蔓越莓",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蔓越莓种子",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蔓越莓糖果",
+   "price": 525,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蔬菜什锦盖饭",
+   "price": 1005,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蔬菜杂烩",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蕨菜",
+   "price": 270,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "薄煎饼",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "薯饼",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "虎纹鳟鱼",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "虹鳟",
+   "price": 65,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "虾",
+   "price": 180,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "虾鸡尾酒",
+   "price": 480,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蚌",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蛇齿单线鱼",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蛋黄酱",
+   "price": 570,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蛤",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蜂蜜",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蜂蜜酒",
+   "price": 200,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蜗牛",
+   "price": 195,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蝎鲤鱼",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "螃蟹",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "蟹黄糕",
+   "price": 825,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "西鲱",
+   "price": 180,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "豆类火锅",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "辣椒",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "辣鳗鱼",
+   "price": 175,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "郁金香",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "郁金香球茎",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "野山葵",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "野李子",
+   "price": 80,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "金星防风草",
+   "price": 35,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "金星防风草种子",
+   "price": 10,
+   "avail": "每周随机"
+  },
+  {
+   "name": "金枪鱼",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "防风草汤",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "雪山药",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "青花鱼",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "面包",
+   "price": 180,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "韭葱",
+   "price": 180,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "饼干",
+   "price": 420,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "香味浆果",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "香酥鲈鱼",
+   "price": 450,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "高级保湿土壤",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "高级生长激素",
+   "price": 120,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "高级肥料",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鬼鱼",
+   "price": 135,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鱼肉卷",
+   "price": 1500,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鱼肉砂锅",
+   "price": 175,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鱿鱼",
+   "price": 240,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鲑鱼",
+   "price": 225,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鲑鱼晚餐",
+   "price": 900,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鲟鱼",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鲢鱼",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鲤鱼",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鲱鱼",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鲶鱼",
+   "price": 600,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鲷鱼",
+   "price": 135,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鳀鱼",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鳗鱼",
+   "price": 255,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鳟鱼汤",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鸟蛤",
+   "price": 150,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鸡油菌",
+   "price": 480,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鸭蛋黄酱",
+   "price": 1125,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "鹦鹉螺",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "麻哈脂鲤",
+   "price": 300,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "黄水仙",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "黑莓",
+   "price": 100,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "黑莓脆皮饼",
+   "price": 780,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "龙虾",
+   "price": 360,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "龙虾浓汤",
+   "price": 615,
+   "avail": "每周随机",
+   "codex": true
+  },
+  {
+   "name": "咖啡豆",
+   "price": 2500,
+   "avail": "特殊",
+   "codex": true
+  }
+ ],
+ "冒险家公会": [
+  {
+   "name": "冻土靴",
+   "price": 750,
+   "avail": "全年",
+   "note": "需公会点数 150"
+  },
+  {
+   "name": "吸血戒指",
+   "price": 15000,
+   "avail": "全年",
+   "note": "需公会点数 750"
+  },
+  {
+   "name": "圣殿骑士之刃",
+   "price": 4000,
+   "avail": "全年",
+   "note": "需公会点数 250",
+   "codex": true
+  },
+  {
+   "name": "大剑",
+   "price": 2000,
+   "avail": "全年",
+   "note": "需公会点数 250",
+   "codex": true
+  },
+  {
+   "name": "大师弹弓",
+   "price": 1000,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "太空之靴",
+   "price": 5000,
+   "avail": "全年",
+   "note": "需公会点数 400"
+  },
+  {
+   "name": "工作靴",
+   "price": 700,
+   "avail": "全年",
+   "note": "需公会点数 100"
+  },
+  {
+   "name": "弯刀",
+   "price": 1500,
+   "avail": "全年",
+   "note": "需公会点数 150",
+   "codex": true
+  },
+  {
+   "name": "弹弓",
+   "price": 500,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "战靴",
+   "price": 1250,
+   "avail": "全年",
+   "note": "需公会点数 150"
+  },
+  {
+   "name": "昆虫头",
+   "price": 10000,
+   "avail": "全年",
+   "note": "需公会点数 200",
+   "codex": true
+  },
+  {
+   "name": "木刃",
+   "price": 250,
+   "avail": "全年",
+   "note": "需公会点数 50",
+   "codex": true
+  },
+  {
+   "name": "木槌",
+   "price": 2000,
+   "avail": "全年",
+   "note": "需公会点数 150",
+   "codex": true
+  },
+  {
+   "name": "水晶匕首",
+   "price": 4500,
+   "avail": "全年",
+   "note": "需公会点数 200",
+   "codex": true
+  },
+  {
+   "name": "海盗剑",
+   "price": 850,
+   "avail": "全年",
+   "note": "需公会点数 100",
+   "codex": true
+  },
+  {
+   "name": "海蓝宝石戒指",
+   "price": 2500,
+   "avail": "全年",
+   "note": "需公会点数 200"
+  },
+  {
+   "name": "熔岩武士刀",
+   "price": 25000,
+   "avail": "全年",
+   "note": "需公会点数 500",
+   "codex": true
+  },
+  {
+   "name": "生锈的剑",
+   "price": 250,
+   "avail": "全年",
+   "note": "需公会点数 50",
+   "codex": true
+  },
+  {
+   "name": "皮靴",
+   "price": 500,
+   "avail": "全年",
+   "note": "需公会点数 100"
+  },
+  {
+   "name": "精灵之刃",
+   "price": 750,
+   "avail": "全年",
+   "note": "需公会点数 100",
+   "codex": true
+  },
+  {
+   "name": "紫水晶戒指",
+   "price": 1000,
+   "avail": "全年",
+   "note": "需公会点数 100"
+  },
+  {
+   "name": "红宝石戒指",
+   "price": 5000,
+   "avail": "全年",
+   "note": "需公会点数 300"
+  },
+  {
+   "name": "绿宝石戒指",
+   "price": 5000,
+   "avail": "全年",
+   "note": "需公会点数 300"
+  },
+  {
+   "name": "翡翠戒指",
+   "price": 2500,
+   "avail": "全年",
+   "note": "需公会点数 200"
+  },
+  {
+   "name": "股骨",
+   "price": 350,
+   "avail": "全年",
+   "note": "需公会点数 100",
+   "codex": true
+  },
+  {
+   "name": "蹈火者靴",
+   "price": 2000,
+   "avail": "全年",
+   "note": "需公会点数 300"
+  },
+  {
+   "name": "运动鞋",
+   "price": 500,
+   "avail": "全年",
+   "note": "需公会点数 50"
+  },
+  {
+   "name": "钢弯刀",
+   "price": 9000,
+   "avail": "全年",
+   "note": "需公会点数 400",
+   "codex": true
+  },
+  {
+   "name": "钢铁短剑",
+   "price": 750,
+   "avail": "全年",
+   "note": "需公会点数 50",
+   "codex": true
+  },
+  {
+   "name": "铁匕首",
+   "price": 500,
+   "avail": "全年",
+   "note": "需公会点数 50",
+   "codex": true
+  },
+  {
+   "name": "银军刀",
+   "price": 750,
+   "avail": "全年",
+   "note": "需公会点数 100",
+   "codex": true
+  },
+  {
+   "name": "银河剑",
+   "price": 50000,
+   "avail": "全年",
+   "note": "需公会点数 650",
+   "codex": true
+  },
+  {
+   "name": "银河匕首",
+   "price": 35000,
+   "avail": "全年",
+   "note": "需公会点数 400",
+   "codex": true
+  },
+  {
+   "name": "银河锤",
+   "price": 75000,
+   "avail": "全年",
+   "note": "需公会点数 600",
+   "codex": true
+  },
+  {
+   "name": "骨剑",
+   "price": 6000,
+   "avail": "全年",
+   "note": "需公会点数 250",
+   "codex": true
+  },
+  {
+   "name": "黄水晶戒指",
+   "price": 1000,
+   "avail": "全年",
+   "note": "需公会点数 100"
+  },
+  {
+   "name": "黑暗之靴",
+   "price": 2500,
+   "avail": "全年",
+   "note": "需公会点数 300"
+  },
+  {
+   "name": "黑曜石之刃",
+   "price": 9000,
+   "avail": "全年",
+   "note": "需公会点数 300",
+   "codex": true
+  }
+ ],
+ "鱼店": [
+  {
+   "name": "倒刺钩",
+   "price": 1000,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "声纳浮漂",
+   "price": 500,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "寻宝者",
+   "price": 750,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "旋式鱼饵",
+   "price": 500,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "熏鱼机",
+   "price": 10000,
+   "avail": "全年",
+   "qual": "配方",
+   "codex": true
+  },
+  {
+   "name": "玻璃纤维鱼竿",
+   "price": 1800,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "竹鱼竿",
+   "price": 500,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "精装旋式鱼饵",
+   "price": 1000,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "蟹笼",
+   "price": 1500,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "软木塞浮标",
+   "price": 750,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "铅制浮标",
+   "price": 200,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "铱金鱼竿",
+   "price": 7500,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "陷阱浮标",
+   "price": 500,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "高级铱金鱼竿",
+   "price": 25000,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "高级鱼饵",
+   "price": 100,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "鱼饵",
+   "price": 5,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "鳟鱼汤",
+   "price": 250,
+   "avail": "全年",
+   "codex": true
+  }
+ ],
+ "绿洲": [
+  {
+   "name": "大黄种子",
+   "price": 100,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "杨桃种子",
+   "price": 400,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "甜菜种子",
+   "price": 20,
+   "avail": "全年",
+   "codex": true
+  },
+  {
+   "name": "万能晶洞",
+   "price": 500,
+   "avail": "仅周三",
+   "codex": true,
+   "note": "3 个一捆 500g"
+  },
+  {
+   "name": "仙人掌果",
+   "price": 150,
+   "avail": "仅周二",
+   "codex": true
+  },
+  {
+   "name": "冰淇淋",
+   "price": 240,
+   "avail": "仅周日",
+   "codex": true
+  },
+  {
+   "name": "椰子",
+   "price": 200,
+   "avail": "仅周一",
+   "codex": true
+  },
+  {
+   "name": "蜂蜜",
+   "price": 200,
+   "avail": "仅周五",
+   "codex": true
+  },
+  {
+   "name": "高级保湿土壤",
+   "price": 200,
+   "avail": "仅周六",
+   "codex": true
+  },
+  {
+   "name": "高级生长激素",
+   "price": 80,
+   "avail": "仅周四",
+   "codex": true
+  }
+ ],
+ "沙漠商人": [
+  {
+   "name": "三倍浓缩咖啡",
+   "price": 1,
+   "avail": "全年",
+   "unit": "钻石",
+   "codex": true
+  },
+  {
+   "name": "炸弹",
+   "price": 5,
+   "avail": "全年",
+   "unit": "石英",
+   "codex": true
+  },
+  {
+   "name": "辣鳗鱼",
+   "price": 1,
+   "avail": "全年",
+   "unit": "红宝石",
+   "codex": true
+  },
+  {
+   "name": "冬季种子",
+   "price": 2,
+   "avail": "轮换",
+   "unit": "春季种子"
+  },
+  {
+   "name": "夏季种子",
+   "price": 2,
+   "avail": "轮换",
+   "unit": "秋季种子"
+  },
+  {
+   "name": "奶酪",
+   "price": 1,
+   "avail": "轮换",
+   "unit": "绿宝石",
+   "codex": true
+  },
+  {
+   "name": "布料",
+   "price": 3,
+   "avail": "轮换",
+   "unit": "海蓝宝石",
+   "codex": true
+  },
+  {
+   "name": "春季种子",
+   "price": 2,
+   "avail": "轮换",
+   "unit": "夏季种子"
+  },
+  {
+   "name": "秋季种子",
+   "price": 2,
+   "avail": "轮换",
+   "unit": "冬季种子"
+  },
+  {
+   "name": "魔法糖冰棍",
+   "price": 3,
+   "avail": "轮换",
+   "unit": "五彩碎片",
+   "codex": true
+  }
+ ]
+}

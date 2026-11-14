@@ -1,0 +1,427 @@
+{{Infobox villager
+|portrait  = Gus.png
+|birthday  = {{Season|Summer|8}}
+|location  = 鹈鹕镇
+|address   = [[星之果实酒吧]]
+|friends   = {{NPC|Pam}}
+|marriage  = 否
+|clinic    = {{Season|Fall|4}}
+|favorites = {{name|Diamond}}{{name|Escargot}}{{name|Fish Taco}}{{name|Orange}}{{name|Tropical Curry}}
+}}{{Quote|[[潘姆]]和[[克林特]]几乎每晚都来酒吧。假如他们不来我就要关门了！所以可千万别把他们赶跑了！|格斯}}
+
+'''格斯'''是[[鹈鹕镇]]中的一位[[居民]]，他住在[[星之果实酒吧]]中，同时也是酒吧的老板。
+
+==日程表==
+在姜岛的[[姜岛#海滩度假村|海滩度假村]]解锁后，格斯可能会前往姜岛。他会在酒吧里留下一个钱箱，所以玩家仍然能够进行购买。下午6点离开姜岛后，格斯会在酒吧工作到00:0030分，然后去睡觉。在[[节日]]或[[哈维的诊所|诊所]]检查日，格斯不会前往姜岛。
+
+以下是格斯的日程安排，优先度从高到低排序。如果当天下雨，雨天的时间表会比下方的优先级更高。
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季15日（巴士站已修复）
+|-
+|style="width:15%"|10:50
+|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+|11:10
+|站在[[威利]]的钓鱼挑战的钓鱼池旁。
+|-
+|00:50
+|乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"|11:10
+|乘坐巴士前往[[沙漠]]。
+|-
+|11:30
+|到达他的[[沙漠节#村民商铺|商店摊位]]。
+|-
+|00:00
+|离开摊位并乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"|06:10
+|站在[[星之果实酒吧]]的吧台前。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|秋季4日
+|-
+|style="width:15%"|08:00
+|在他的房间里，坐在沙发上。
+|-
+|10:30
+|前往[[哈维的诊所|诊所]]候诊室，看着一张海报。
+|-
+|13:30
+|移到诊所的左边检查室。
+|-
+|16:00
+|离开诊所，去打理酒吧。
+|-
+|00:00
+|去他的卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|雨天
+|-
+|style="width:15%"|08:00
+|在他的房间里，坐在沙发上。
+|-
+|12:00
+|在吧台后面擦拭杯子。
+|-
+|16:30
+|停止擦拭杯子，打理吧台。
+|-
+|00:00
+|回到自己的卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期一
+|-
+|style="width:15%"|08:30
+|离开家去[[皮埃尔的杂货店]]。
+|-
+|11:00
+|回到酒馆照看吧台。
+|-
+|00:00
+|回到自己的卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期二（社区中心已修复）
+|-
+|style="width:15%"|08:00
+|在他的房间里，坐在沙发上。
+|-
+|08:30
+|去[[社区中心]]的茶水间。
+|-
+|12:30
+|回到酒馆看管酒吧。
+|-
+|00:00
+|回到自己的卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期天（已触发[[亚历克斯]]14心事件）
+|-
+|style="width:15%"|08:00
+|在他的房间里，坐在沙发上。
+|-
+|11:40
+|去酒馆的后厅。
+|-
+|15:00
+|去打理酒吧。
+|-
+|00:00
+|去他的卧室睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|日常时间表
+|-
+|style="width:15%"|08:00
+|在他的房间里，坐在沙发上。
+|-
+|12:00
+|在吧台后面擦拭杯子。
+|-
+|16:30
+|停止擦拭杯子，打理吧台。
+|-
+|00:00
+|回到自己的卧室睡觉。
+|}
+
+==人物关系==
+格斯雇佣了[[艾米丽]]在星之果实酒吧做兼职。 [[潘姆]]是酒吧的常客之一，可以经常看见她与格斯聊天。
+
+==送礼==
+{{GiftHeader}}
+
+'''注：'''当格斯站在在[[星之果实酒吧]]的柜台里面时，需要走到柜台后面才能给他礼物。
+
+===最爱===
+{{Squote|你把这个送给我？我开心得不知道说什么了。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Gus Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Diamond.png|center]]
+|[[钻石]]
+|{{Description|Diamond}}
+|[[采矿]]
+|
+|-
+|[[File:Escargot.png|center]]
+|[[法式田螺]]
+|{{Description|Escargot}}
+|[[烹饪]]
+|{{name|Snail|1}}{{name|Garlic|1}}
+|-
+|[[File:Fish Taco.png|center]]
+|[[鱼肉卷]]
+|{{Description|Fish Taco}}
+|[[烹饪]]
+|{{name|Tuna|1}}{{name|Tortilla|1}}{{name|Red Cabbage|1}}{{name|Mayonnaise|1}}
+|-
+|[[File:Orange.png|center]]
+|[[橙子]]
+|{{Description|Orange}}
+|[[果树]]
+|
+|-
+|[[File:Tropical Curry.png|center]]
+|[[热带咖喱]]
+|{{Description|Tropical Curry}}
+|[[烹饪]]
+|{{name|Coconut|1}}{{name|Pineapple|1}}{{name|Hot Pepper|1}}
+|}
+
+===喜欢===
+{{Squote|噢，天哪！你真的送给我？}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Gus Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[卷心菜沙拉]]）</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Truffle.png|center]]
+|[[松露]]
+|{{Description|Truffle}}
+|[[猪]]
+|}
+
+===一般===
+{{Squote|噢，这个不错。谢谢。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Gus.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[松露]]）</li><li>'''所有蛋'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树的水果]]和[[美洲大树莓]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===不喜欢===
+{{Squote|不，不，不……}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Gus Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''</li></ul>
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|}
+
+===讨厌===
+{{Squote|这完全是垃圾。你冒犯到我了。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Gus Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li></ul>
+|-
+|[[File:Coleslaw.png|center]]
+|[[卷心菜沙拉]]
+|{{Description|Coleslaw}}
+|[[烹饪]]
+|{{name|Red Cabbage|1}}{{name|Vinegar|1}}{{name|Mayonnaise|1}}
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[采矿]]
+|
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物
+|{{MailByType|礼物}}
+|三心
+|{{MailByType|食谱|3|Salmon Dinner}}
+|四心
+|<nowiki />
+{{Event
+|hearts = 4
+|trigger = 格斯在[[星之果实酒吧]]内时，进入酒吧。<p>注：[[潘姆]]的[[友谊|好感度]]至少为 2 心才能触发此事件。</p>
+|quote = 正在查看上个月的营收……情况不是很好。
+|details = 格斯表示酒吧的财务出现了困难，因为潘姆老是赊账，但是他又害怕挑明会影响感情。潘姆这时进来要酒，格斯会慌张并照做。此时玩家可以从以下选项中选择一项回应，回应的内容会影响潘姆的好感度。
+* {{choice|你现在就得把赊的账给结了！|-50|潘姆}}
+* {{choice|酒吧在经济上有些困难|15|潘姆}}
+潘姆虽然不高兴，但还是付清了账单。玩家的回应不会影响格斯的好感度。
+|dialogues = {{EventByID|96}}
+}}
+|五心
+|<nowiki />
+{{Event
+|hearts = 5
+|quote = 我还记得你刚来这里的时候……大家都对将来的事情有些忐忑。
+|trigger = 早上 6 点到早上 11 点半期间离开农舍，雨天除外。
+|details = 格斯带着一锅酱汁出现。他把烹饪和玩家来到星露谷作了一个类比——加入一种新的配料可能会毁掉酱汁，也可能会创造出一些新的美味。他已经把玩家当成了好朋友，并给玩家赠送了打扫[[星之果实酒吧|酒吧]]时找到的[[迷你点唱机|点唱机]]以及制作点唱机的配方。
+|dialogues = {{EventByID|980558}}
+}}
+|七心
+|{{MailByType|食谱|7|Cranberry Sauce}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|特殊|{{Dialogue|特殊}}
+}}
+
+==任务==
+*[[任务#Fish Stew|"烩鱼汤"]]：格斯会在第1年[[冬季]]26日给你写信说，需要一条[[青花鱼]]。奖励是{{Price|400}}和增加1心[[友谊|好感度]]。
+*[[任务#Wanted Lobster|"征集：龙虾"]]：格斯会在第2年[[秋季]]6日给你写信说，需要一只[[龙虾]]。奖励是{{Price|500}}和增加1心[[友谊|好感度]]。（信中提到的任务奖励是{{Price|800}}，但其实完成后他只会给你{{Price|500}}）
+*[[任务#Exotic Spirits|"异域饮品"]]：格斯会在第2年[[冬季]]的19日给你写信说，需要一个[[椰子]]。奖励是{{Price|600}}和增加1心[[友谊|好感度]]。
+*格斯可能随机在皮埃尔杂货店外的[[任务#求助任务|布告栏]]发布求助任务，请求一件物品。奖励是物品基础价值3倍的[[金币]]和150点[[友谊|好感度]]。
+*在[[任务#The Pirates Wife|“海盗的妻子”]]任务中，需要把[[任务#Gourmet Tomato Salt|美食家番茄盐]]交给格斯。
+*特别任务[[任务#Gus' Famous Omelet|"格斯的著名煎蛋卷"]]：在[[镇长的庄园]]前的[[任务#鹈鹕镇的特别任务|特别任务板]]上，格斯可能随机要求玩家收集24个蛋并将其送到[[星之果实酒吧]]的冰箱。奖励是{{price|3000}}和一个[[迷你冰箱]]。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+Gus.png
+Gus Happy.png
+Gus Concerned.png
+Gus Neutral.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+Gus Winter 00.png 
+Gus Winter 01.png 
+Gus Winter 02.png 
+Gus Winter 03.png 
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==历史==
+{{History|1.4|修正了所有配方会在3颗友情心时发送的错误。增加了5心事件。}}
+{{History|1.6|新增冬季肖像。新增收到特定礼物时的对话。格斯现在喜欢松露。}}
+
+{{NavboxVillagers}}
+
+{{EN|Gus}}

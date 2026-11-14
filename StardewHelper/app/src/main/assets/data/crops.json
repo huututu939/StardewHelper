@@ -1,0 +1,767 @@
+[
+ {
+  "name": "防风草",
+  "nameEn": "Parsnip",
+  "seedPrice": 20,
+  "sellPrice": 35,
+  "growth": 4,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "皮埃尔 20｜Joja 25｜旅行货车随机",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "青豆",
+  "nameEn": "Green Bean",
+  "seedPrice": 60,
+  "sellPrice": 40,
+  "growth": 10,
+  "regrow": 3,
+  "seasons": [
+   "春"
+  ],
+  "channels": "皮埃尔 60｜Joja 75｜旅行货车随机",
+  "note": "需搭架",
+  "giant": false,
+  "trellis": true
+ },
+ {
+  "name": "大蒜",
+  "nameEn": "Garlic",
+  "seedPrice": 40,
+  "sellPrice": 60,
+  "growth": 4,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "只有皮埃尔 40，且要第 2 年起才卖｜旅行货车随机；Joja 不卖",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "土豆",
+  "nameEn": "Potato",
+  "seedPrice": 50,
+  "sellPrice": 80,
+  "growth": 6,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "皮埃尔 50｜Joja 62｜旅行货车随机",
+  "note": "收获有几率一次多出一个土豆",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "郁金香",
+  "nameEn": "Tulip",
+  "seedPrice": 20,
+  "sellPrice": 30,
+  "growth": 6,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "皮埃尔 20（商品名：郁金香球茎）；Joja 不卖",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "蓝爵士",
+  "nameEn": "Blue Jazz",
+  "seedPrice": 30,
+  "sellPrice": 50,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "皮埃尔 30｜Joja 37｜旅行货车随机",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "甘蓝",
+  "nameEn": "Kale",
+  "seedPrice": 70,
+  "sellPrice": 110,
+  "growth": 6,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "皮埃尔 70｜Joja 87｜旅行货车随机",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "花椰菜",
+  "nameEn": "Cauliflower",
+  "seedPrice": 80,
+  "sellPrice": 175,
+  "growth": 12,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "皮埃尔 80｜Joja 100｜旅行货车随机",
+  "note": "可巨型",
+  "giant": true,
+  "trellis": false
+ },
+ {
+  "name": "大黄",
+  "nameEn": "Rhubarb",
+  "seedPrice": 100,
+  "sellPrice": 220,
+  "growth": 13,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "只有绿洲（沙漠）卖 100｜旅行货车 150~1,000；皮埃尔和 Joja 都不卖",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "草莓",
+  "nameEn": "Strawberry",
+  "seedPrice": 100,
+  "sellPrice": 120,
+  "growth": 8,
+  "regrow": 4,
+  "seasons": [
+   "春"
+  ],
+  "channels": "平时商店不出售：复活节（春 13）皮埃尔摊位 100；沙漠节卡利科三花蛋商人 5 / 6 个三花蛋、玛鲁 10 个三花蛋（限 20）",
+  "note": "复活节（春13）才买到种子；本条 1.4 是用果苗种，1.6 起种子仅节日出售",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "咖啡豆",
+  "nameEn": "Coffee Bean",
+  "seedPrice": 2500,
+  "sellPrice": 15,
+  "growth": 10,
+  "regrow": 2,
+  "seasons": [
+   "春",
+   "夏"
+  ],
+  "channels": "旅行货车 2,500（秋、冬上架概率 25%）；姜岛探索也能捡到",
+  "note": "一个豆子收 4 个，磨豆机→咖啡",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "胡萝卜",
+  "nameEn": "Carrot",
+  "seedPrice": null,
+  "sellPrice": 35,
+  "growth": 3,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "不能用金币购买，见下方「不可购买的种子」",
+  "note": "1.6 新增 · 种子不可买（挖掘点/宝箱/浣熊任务）",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "杨桃",
+  "nameEn": "Starfruit",
+  "seedPrice": 400,
+  "sellPrice": 750,
+  "growth": 13,
+  "regrow": null,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "只有绿洲（沙漠）卖 400｜旅行货车随机；皮埃尔和 Joja 都不卖",
+  "note": "杨桃酒极值钱（小桶 2,250／工匠 3,150）",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "甜瓜",
+  "nameEn": "Melon",
+  "seedPrice": 80,
+  "sellPrice": 250,
+  "growth": 12,
+  "regrow": null,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "皮埃尔 80｜Joja 100｜旅行货车随机",
+  "note": "可巨型",
+  "giant": true,
+  "trellis": false
+ },
+ {
+  "name": "西红柿",
+  "nameEn": "Tomato",
+  "seedPrice": 50,
+  "sellPrice": 60,
+  "growth": 11,
+  "regrow": 4,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "皮埃尔 50｜Joja 62",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "蓝莓",
+  "nameEn": "Blueberry",
+  "seedPrice": 80,
+  "sellPrice": 50,
+  "growth": 13,
+  "regrow": 4,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "皮埃尔 80｜旅行货车 120~1,000；Joja 不卖",
+  "note": "每丛多粒，果酱/果汁增值",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "辣椒",
+  "nameEn": "Hot Pepper",
+  "seedPrice": 40,
+  "sellPrice": 40,
+  "growth": 5,
+  "regrow": 3,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "皮埃尔 40｜Joja 50｜旅行货车随机",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "玉米",
+  "nameEn": "Corn",
+  "seedPrice": 150,
+  "sellPrice": 50,
+  "growth": 14,
+  "regrow": 4,
+  "seasons": [
+   "夏",
+   "秋"
+  ],
+  "channels": "皮埃尔 150｜Joja 187｜旅行货车随机",
+  "note": "跨夏秋两季，油/腌菜加工",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "啤酒花",
+  "nameEn": "Hops",
+  "seedPrice": 60,
+  "sellPrice": 25,
+  "growth": 11,
+  "regrow": 1,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "皮埃尔 60｜Joja 75｜旅行货车随机",
+  "note": "需搭架 · 啤酒桶→淡啤酒(很赚)",
+  "giant": false,
+  "trellis": true
+ },
+ {
+  "name": "向日葵",
+  "nameEn": "Sunflower",
+  "seedPrice": 200,
+  "sellPrice": 80,
+  "growth": 8,
+  "regrow": null,
+  "seasons": [
+   "夏",
+   "秋"
+  ],
+  "channels": "皮埃尔 200｜Joja 125（Joja 反而便宜）｜旅行货车随机",
+  "note": "收获时额外掉落种子",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "萝卜",
+  "nameEn": "Radish",
+  "seedPrice": 40,
+  "sellPrice": 90,
+  "growth": 6,
+  "regrow": null,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "皮埃尔 40｜Joja 50｜旅行货车随机",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "虞美人",
+  "nameEn": "Poppy",
+  "seedPrice": 100,
+  "sellPrice": 140,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "皮埃尔 100｜Joja 125｜旅行货车随机",
+  "note": "蜂房产罂粟蜜很值钱",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "夏季亮片",
+  "nameEn": "Summer Spangle",
+  "seedPrice": 50,
+  "sellPrice": 90,
+  "growth": 8,
+  "regrow": null,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "皮埃尔 50｜Joja 62｜旅行货车随机",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "小麦",
+  "nameEn": "Wheat",
+  "seedPrice": 10,
+  "sellPrice": 25,
+  "growth": 4,
+  "regrow": null,
+  "seasons": [
+   "夏",
+   "秋"
+  ],
+  "channels": "皮埃尔 10｜Joja 12｜旅行货车随机",
+  "note": "啤酒桶→啤酒，磨坊→小麦粉",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "芋头",
+  "nameEn": "Taro Root",
+  "seedPrice": null,
+  "sellPrice": 100,
+  "growth": 10,
+  "regrow": null,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "姜岛商人只以物换物：2 个骨头碎片换 1 个芋头块茎（不收金币）；把芋头放进种子生产器也能出",
+  "note": "种在水边（水田）7 天。姜岛商人骨头碎片×2 换块茎",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "金皮西葫芦（夏南瓜）",
+  "nameEn": "Summer Squash",
+  "seedPrice": null,
+  "sellPrice": 45,
+  "growth": 6,
+  "regrow": 3,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "种子渠道未核：中文 wiki 暂无「金皮西葫芦」页",
+  "note": "1.6 新增 · 种子不可买（挖掘点/宝箱/浣熊/奖品机）",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "茄子",
+  "nameEn": "Eggplant",
+  "seedPrice": 20,
+  "sellPrice": 60,
+  "growth": 5,
+  "regrow": 5,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "皮埃尔 20｜Joja 25｜旅行货车随机",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "红叶卷心菜",
+  "nameEn": "Red Cabbage",
+  "seedPrice": 100,
+  "sellPrice": 260,
+  "growth": 9,
+  "regrow": null,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "只有皮埃尔 100，且要第 2 年起才卖｜旅行货车随机；Joja 不卖",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "山药",
+  "nameEn": "Yam",
+  "seedPrice": 60,
+  "sellPrice": 160,
+  "growth": 10,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "皮埃尔 60｜Joja 75",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "南瓜",
+  "nameEn": "Pumpkin",
+  "seedPrice": 100,
+  "sellPrice": 320,
+  "growth": 13,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "皮埃尔 100｜Joja 125｜旅行货车随机",
+  "note": "可巨型 · 万圣节相关",
+  "giant": true,
+  "trellis": false
+ },
+ {
+  "name": "蔓越莓",
+  "nameEn": "Cranberries",
+  "seedPrice": 240,
+  "sellPrice": 75,
+  "growth": 7,
+  "regrow": 5,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "皮埃尔 240｜Joja 300｜旅行货车随机",
+  "note": "每丛 2 个，长期收益王",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "苋菜",
+  "nameEn": "Amaranth",
+  "seedPrice": 70,
+  "sellPrice": 150,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "皮埃尔 70｜Joja 87｜旅行货车随机",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "洋蓟",
+  "nameEn": "Artichoke",
+  "seedPrice": 30,
+  "sellPrice": 160,
+  "growth": 8,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "只有皮埃尔 30，且要第 2 年起才卖｜旅行货车 100~1,000；Joja 不卖",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "葡萄",
+  "nameEn": "Grape",
+  "seedPrice": 60,
+  "sellPrice": 80,
+  "growth": 10,
+  "regrow": 3,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "皮埃尔 60｜Joja 75｜旅行货车随机",
+  "note": "需搭架",
+  "giant": false,
+  "trellis": true
+ },
+ {
+  "name": "西蓝花",
+  "nameEn": "Broccoli",
+  "seedPrice": null,
+  "sellPrice": 70,
+  "growth": 8,
+  "regrow": 4,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "不能用金币购买，见下方「不可购买的种子」",
+  "note": "1.6 新增 · 种子不可购买，成熟后每 4 天可再收",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "甜菜",
+  "nameEn": "Beet",
+  "seedPrice": 20,
+  "sellPrice": 100,
+  "growth": 6,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "只有绿洲（沙漠）卖 20｜旅行货车 100~1,000",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "小白菜",
+  "nameEn": "Bok Choy",
+  "seedPrice": 50,
+  "sellPrice": 80,
+  "growth": 4,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "皮埃尔 50｜Joja 62｜旅行货车 100~1,000",
+  "note": "",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "玫瑰仙子",
+  "nameEn": "Fairy Rose",
+  "seedPrice": 200,
+  "sellPrice": 290,
+  "growth": 12,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "皮埃尔 200｜Joja 250｜旅行货车 300~1,000",
+  "note": "种在蜂房水平 5 格、竖直 5 格范围内会产玫瑰仙子蜂蜜（680，工匠 952）",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "霜瓜",
+  "nameEn": "Powdermelon",
+  "seedPrice": null,
+  "sellPrice": 60,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "冬"
+  ],
+  "channels": "冬季野外可捡到种子（1.6 新增）｜皮埃尔冬季不卖",
+  "note": "1.6 新增 · 唯一冬季大田作物，可巨型 · 每季可收 4 次",
+  "giant": true,
+  "trellis": false
+ },
+ {
+  "name": "远古水果",
+  "nameEn": "Ancient Fruit",
+  "seedPrice": null,
+  "sellPrice": 550,
+  "growth": 28,
+  "regrow": 7,
+  "seasons": [
+   "春",
+   "夏",
+   "秋"
+  ],
+  "channels": "远古种子（古物种子挖出，或齐先生/姜岛神秘种子/沙漠骨头坑）",
+  "note": "1.6 新增 · 须用远古种子种，不能直接购买。数据按游戏常识手测校准",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "大米",
+  "nameEn": "Unmilled Rice",
+  "seedPrice": 40,
+  "sellPrice": 30,
+  "growth": 8,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "皮埃尔 40（春季）；旅行货车随机；不可用金币买大米作种（1.6 起稻苗是独立种子）",
+  "note": "种在水边（水田）少 2 天（6 天）。收获的是未碾米，放进石磨可磨成大米",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "菠萝",
+  "nameEn": "Pineapple",
+  "seedPrice": null,
+  "sellPrice": 300,
+  "growth": 14,
+  "regrow": 7,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "姜岛杂货店：1 熔岩菇 兑 1 菠萝种子",
+  "note": "1.6 新增 · 仅姜岛产，种子需兑换。数据按游戏常识手测校准",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "仙人掌果子",
+  "nameEn": "Cactus Fruit",
+  "seedPrice": 150,
+  "sellPrice": 75,
+  "growth": 12,
+  "regrow": 3,
+  "seasons": [
+   "春",
+   "夏",
+   "秋",
+   "冬"
+  ],
+  "channels": "只有绿洲（沙漠）卖 150；皮埃尔和 Joja 都不卖",
+  "note": "只能种在温室、室内花盆或姜岛农场（室外禁止）· 成熟后每 3 天可再收",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "宝石甜莓",
+  "nameEn": "Sweet Gem Berry",
+  "seedPrice": 1000,
+  "sellPrice": 3000,
+  "growth": 24,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "旅行货车 1,000（春、夏上架，每店限 1 颗）；皮埃尔和 Joja 都不卖",
+  "note": "稀有种 · 不是水果也不是蔬菜（官方分类 -17），不能酿酒/装罐/脱水，也不吃农耕人加成",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "野山葵",
+  "nameEn": "Wild Horseradish",
+  "seedPrice": null,
+  "sellPrice": 50,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "春"
+  ],
+  "channels": "不能用金币购买；采集 1 级：野山葵+黄水仙+韭葱+蒲公英 各 1 → 10 颗春季种子｜绿洲（沙漠）商人周六：2 颗夏季种子 换 1 颗春季种子",
+  "note": "春季种子收获物（本身也是春季采集物）",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "香味浆果",
+  "nameEn": "Spice Berry",
+  "seedPrice": null,
+  "sellPrice": 80,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "夏"
+  ],
+  "channels": "不能用金币购买；采集 4 级：香味浆果+葡萄+甜豌豆 各 1 → 10 颗夏季种子｜绿洲（沙漠）商人周六：2 颗秋季种子 换 1 颗夏季种子",
+  "note": "夏季种子收获物（本身也是夏季采集物）",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "普通蘑菇",
+  "nameEn": "Common Mushroom",
+  "seedPrice": null,
+  "sellPrice": 40,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "秋"
+  ],
+  "channels": "不能用金币购买；采集 6 级：普通蘑菇+野梅+榛子+黑莓 各 1 → 10 颗秋季种子｜绿洲（沙漠）商人周六：2 颗冬季种子 换 1 颗秋季种子",
+  "note": "秋季种子收获物（本身也是常见采集物）",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "冬根",
+  "nameEn": "Winter Root",
+  "seedPrice": null,
+  "sellPrice": 70,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "冬"
+  ],
+  "channels": "不能用金币购买；采集 7 级：冬根+水晶果+雪山莓+番红花 各 1 → 10 颗冬季种子｜绿洲（沙漠）商人周六：2 颗春季种子 换 1 颗冬季种子",
+  "note": "冬季种子收获物（本身也是冬季采集物）",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "纤维",
+  "nameEn": "Fiber",
+  "seedPrice": null,
+  "sellPrice": 1,
+  "growth": 7,
+  "regrow": null,
+  "seasons": [
+   "春",
+   "夏",
+   "秋",
+   "冬"
+  ],
+  "channels": "不能用金币购买；家里合成：混合种子 1 + 树液 5 + 粘土 1 → 4 颗纤维种子；皮埃尔和 Joja 都不卖",
+  "note": "可种植的纤维作物（不是普通纤维物品）· 镰刀收割，一次 4~7 个 · 稻草人/织布机/树肥等配方通用材料",
+  "giant": false,
+  "trellis": false
+ },
+ {
+  "name": "齐瓜",
+  "nameEn": "Qi Fruit",
+  "seedPrice": null,
+  "sellPrice": 1,
+  "growth": 4,
+  "regrow": null,
+  "seasons": [
+   "春",
+   "夏",
+   "秋",
+   "冬"
+  ],
+  "channels": "齐豆（种子）只能在齐先生「齐的作物」特殊任务期间获得：文物挖掘点 25%（一次 2~5 颗）、钓鱼 15%；任务结束就拿不到；皮埃尔和 Joja 都不卖",
+  "note": "齐先生「齐的作物」特殊任务限定作物 · 可巨型",
+  "giant": true,
+  "trellis": false
+ }
+]

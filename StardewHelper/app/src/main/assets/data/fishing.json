@@ -1,0 +1,991 @@
+[
+ {
+  "name": "河豚",
+  "seasons": [
+   "夏"
+  ],
+  "weather": "晴天",
+  "time": "12:00–16:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 200,
+  "difficulty": 80,
+  "note": "食用有中毒风险"
+ },
+ {
+  "name": "鳀鱼",
+  "seasons": [
+   "春",
+   "秋"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "海洋",
+  "type": "普通",
+  "price": 30,
+  "difficulty": 30,
+  "note": ""
+ },
+ {
+  "name": "金枪鱼",
+  "seasons": [
+   "夏",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 100,
+  "difficulty": 70,
+  "note": ""
+ },
+ {
+  "name": "沙丁鱼",
+  "seasons": [
+   "春",
+   "秋",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 40,
+  "difficulty": 30,
+  "note": ""
+ },
+ {
+  "name": "鲷鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "18:00–次日2:00",
+  "location": "河流",
+  "type": "普通",
+  "price": 45,
+  "difficulty": 35,
+  "note": ""
+ },
+ {
+  "name": "大嘴鲈鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "湖泊",
+  "type": "普通",
+  "price": 100,
+  "difficulty": 50,
+  "note": ""
+ },
+ {
+  "name": "小嘴鲈鱼",
+  "seasons": [
+   "春",
+   "秋"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "河流 / 森林池塘",
+  "type": "普通",
+  "price": 50,
+  "difficulty": 28,
+  "note": ""
+ },
+ {
+  "name": "虹鳟鱼",
+  "seasons": [
+   "夏"
+  ],
+  "weather": "晴天",
+  "time": "6:00–19:00",
+  "location": "河流 / 湖泊",
+  "type": "普通",
+  "price": 65,
+  "difficulty": 45,
+  "note": ""
+ },
+ {
+  "name": "鲑鱼",
+  "seasons": [
+   "秋"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "河流 / 瀑布",
+  "type": "普通",
+  "price": 75,
+  "difficulty": 50,
+  "note": ""
+ },
+ {
+  "name": "大眼鱼",
+  "seasons": [
+   "秋",
+   "冬"
+  ],
+  "weather": "雨天",
+  "time": "12:00–次日2:00",
+  "location": "河流 / 湖泊 / 森林池塘",
+  "type": "普通",
+  "price": 105,
+  "difficulty": 45,
+  "note": "雨天出没，冬季需雨水图腾"
+ },
+ {
+  "name": "河鲈",
+  "seasons": [
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "河流 / 湖泊 / 森林池塘",
+  "type": "普通",
+  "price": 55,
+  "difficulty": 35,
+  "note": ""
+ },
+ {
+  "name": "鲤鱼",
+  "seasons": [
+   "春",
+   "夏",
+   "秋"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "湖泊 / 河流 / 秘密森林 / 下水道",
+  "type": "普通",
+  "price": 30,
+  "difficulty": 15,
+  "note": "秘密森林、下水道、突变虫穴全年可钓"
+ },
+ {
+  "name": "鲶鱼",
+  "seasons": [
+   "春",
+   "秋"
+  ],
+  "weather": "雨天",
+  "time": "6:00–0:00",
+  "location": "河流 / 森林池塘 / 女巫沼泽",
+  "type": "普通",
+  "price": 200,
+  "difficulty": 75,
+  "note": "冬可用雨水图腾"
+ },
+ {
+  "name": "狗鱼",
+  "seasons": [
+   "夏",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "河流 / 森林池塘",
+  "type": "普通",
+  "price": 100,
+  "difficulty": 60,
+  "note": ""
+ },
+ {
+  "name": "太阳鱼",
+  "seasons": [
+   "春",
+   "夏"
+  ],
+  "weather": "晴天、风天",
+  "time": "6:00–19:00",
+  "location": "河流",
+  "type": "普通",
+  "price": 30,
+  "difficulty": 30,
+  "note": ""
+ },
+ {
+  "name": "红鲻鱼",
+  "seasons": [
+   "夏",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 75,
+  "difficulty": 55,
+  "note": ""
+ },
+ {
+  "name": "鲱鱼",
+  "seasons": [
+   "春",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "海洋",
+  "type": "普通",
+  "price": 30,
+  "difficulty": 25,
+  "note": ""
+ },
+ {
+  "name": "鳗鱼",
+  "seasons": [
+   "春",
+   "秋"
+  ],
+  "weather": "雨天",
+  "time": "16:00–次日2:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 85,
+  "difficulty": 70,
+  "note": ""
+ },
+ {
+  "name": "章鱼",
+  "seasons": [
+   "夏"
+  ],
+  "weather": "任意",
+  "time": "6:00–13:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 150,
+  "difficulty": 95,
+  "note": ""
+ },
+ {
+  "name": "红鲷鱼",
+  "seasons": [
+   "夏",
+   "秋"
+  ],
+  "weather": "雨天",
+  "time": "6:00–19:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 50,
+  "difficulty": 40,
+  "note": "冬季可用雨水图腾钓到"
+ },
+ {
+  "name": "鱿鱼",
+  "seasons": [
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "18:00–次日2:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 80,
+  "difficulty": 75,
+  "note": ""
+ },
+ {
+  "name": "海参",
+  "seasons": [
+   "秋",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 75,
+  "difficulty": 40,
+  "note": "幸运午餐材料"
+ },
+ {
+  "name": "大海参",
+  "seasons": [
+   "夏",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "18:00–次日2:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 250,
+  "difficulty": 80,
+  "note": ""
+ },
+ {
+  "name": "鬼鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "矿井 20/60 层（幽灵掉落）",
+  "type": "普通",
+  "price": 45,
+  "difficulty": 50,
+  "note": ""
+ },
+ {
+  "name": "石鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "矿井 20 层",
+  "type": "普通",
+  "price": 300,
+  "difficulty": 65,
+  "note": ""
+ },
+ {
+  "name": "冰柱鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "矿井 60 层",
+  "type": "普通",
+  "price": 500,
+  "difficulty": 85,
+  "note": ""
+ },
+ {
+  "name": "岩浆鳗鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "矿井 100 层 / 火山口",
+  "type": "普通",
+  "price": 700,
+  "difficulty": 90,
+  "note": ""
+ },
+ {
+  "name": "沙鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "6:00–20:00",
+  "location": "沙漠",
+  "type": "普通",
+  "price": 75,
+  "difficulty": 65,
+  "note": ""
+ },
+ {
+  "name": "蝎鲤鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "6:00–20:00",
+  "location": "沙漠",
+  "type": "普通",
+  "price": 150,
+  "difficulty": 90,
+  "note": ""
+ },
+ {
+  "name": "比目鱼",
+  "seasons": [
+   "春",
+   "夏"
+  ],
+  "weather": "任意",
+  "time": "6:00–20:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 100,
+  "difficulty": 50,
+  "note": ""
+ },
+ {
+  "name": "午夜鲤鱼",
+  "seasons": [
+   "秋",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "22:00–次日2:00",
+  "location": "湖泊 / 森林池塘（姜岛也可）",
+  "type": "普通",
+  "price": 150,
+  "difficulty": 55,
+  "note": ""
+ },
+ {
+  "name": "鲟鱼",
+  "seasons": [
+   "夏",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "湖泊",
+  "type": "普通",
+  "price": 200,
+  "difficulty": 78,
+  "note": "鱼子酱原料"
+ },
+ {
+  "name": "虎纹鳟鱼",
+  "seasons": [
+   "秋",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "河流",
+  "type": "普通",
+  "price": 150,
+  "difficulty": 60,
+  "note": ""
+ },
+ {
+  "name": "大头鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "湖泊",
+  "type": "普通",
+  "price": 75,
+  "difficulty": 46,
+  "note": ""
+ },
+ {
+  "name": "罗非鱼",
+  "seasons": [
+   "夏",
+   "秋"
+  ],
+  "weather": "任意",
+  "time": "6:00–14:00",
+  "location": "海洋（姜岛河流也可）",
+  "type": "普通",
+  "price": 75,
+  "difficulty": 50,
+  "note": ""
+ },
+ {
+  "name": "鲢鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "河流（森林）/ 湖泊",
+  "type": "普通",
+  "price": 50,
+  "difficulty": 35,
+  "note": ""
+ },
+ {
+  "name": "麻哈脂鲤",
+  "seasons": [
+   "夏"
+  ],
+  "weather": "任意",
+  "time": "6:00–19:00",
+  "location": "河流（森林）",
+  "type": "普通",
+  "price": 100,
+  "difficulty": 78,
+  "note": ""
+ },
+ {
+  "name": "青花鱼",
+  "seasons": [
+   "秋",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "6:00–11:00 / 18:00–次日2:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 75,
+  "difficulty": 60,
+  "note": ""
+ },
+ {
+  "name": "西鲱",
+  "seasons": [
+   "春",
+   "夏",
+   "秋"
+  ],
+  "weather": "雨天",
+  "time": "9:00–次日2:00",
+  "location": "河流",
+  "type": "普通",
+  "price": 60,
+  "difficulty": 45,
+  "note": ""
+ },
+ {
+  "name": "蛇齿单线鱼",
+  "seasons": [
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "河流 / 湖泊",
+  "type": "普通",
+  "price": 120,
+  "difficulty": 85,
+  "note": ""
+ },
+ {
+  "name": "大比目鱼",
+  "seasons": [
+   "春",
+   "夏",
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "6:00–11:00 / 19:00–次日2:00",
+  "location": "海洋",
+  "type": "普通",
+  "price": 80,
+  "difficulty": 50,
+  "note": ""
+ },
+ {
+  "name": "木跃鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "秘密森林 / 森林农场池塘",
+  "type": "普通",
+  "price": 75,
+  "difficulty": 50,
+  "note": ""
+ },
+ {
+  "name": "虚空鲑鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "女巫沼泽",
+  "type": "普通",
+  "price": 150,
+  "difficulty": 80,
+  "note": ""
+ },
+ {
+  "name": "史莱姆鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "突变虫穴",
+  "type": "普通",
+  "price": 100,
+  "difficulty": 55,
+  "note": ""
+ },
+ {
+  "name": "黄貂鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "海盗湾（姜岛）",
+  "type": "普通",
+  "price": 180,
+  "difficulty": 80,
+  "note": ""
+ },
+ {
+  "name": "狮子鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "姜岛海洋",
+  "type": "普通",
+  "price": 100,
+  "difficulty": 50,
+  "note": ""
+ },
+ {
+  "name": "蓝铁饼鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "姜岛池塘和河流",
+  "type": "普通",
+  "price": 120,
+  "difficulty": 60,
+  "note": ""
+ },
+ {
+  "name": "虾虎鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "煤矿森林瀑布",
+  "type": "普通",
+  "price": 150,
+  "difficulty": 55,
+  "note": "1.6 新增"
+ },
+ {
+  "name": "午夜鱿鱼",
+  "seasons": [
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "17:00–次日2:00",
+  "location": "夜市（深海潜艇）",
+  "type": "普通",
+  "price": 100,
+  "difficulty": 55,
+  "note": ""
+ },
+ {
+  "name": "幽灵鱼",
+  "seasons": [
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "17:00–次日2:00",
+  "location": "夜市（深海潜艇）",
+  "type": "普通",
+  "price": 220,
+  "difficulty": 60,
+  "note": ""
+ },
+ {
+  "name": "水滴鱼",
+  "seasons": [
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "17:00–次日2:00",
+  "location": "夜市（深海潜艇）",
+  "type": "普通",
+  "price": 500,
+  "difficulty": 75,
+  "note": ""
+ },
+ {
+  "name": "海凝胶",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "海洋（钓鱼时概率获得）",
+  "type": "普通",
+  "price": 200,
+  "difficulty": 0,
+  "note": "1.6 新增 · 加钓鱼+1"
+ },
+ {
+  "name": "河凝胶",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "淡水（钓鱼时概率获得）",
+  "type": "普通",
+  "price": 125,
+  "difficulty": 0,
+  "note": "1.6 新增 · 加体力上限+30"
+ },
+ {
+  "name": "洞穴凝胶",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "矿井 20/60/100 层",
+  "type": "普通",
+  "price": 180,
+  "difficulty": 0,
+  "note": "1.6 新增 · 加运气+1"
+ },
+ {
+  "name": "龙虾",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（海洋）",
+  "type": "蟹笼",
+  "price": 120,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "螃蟹",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（海洋）",
+  "type": "蟹笼",
+  "price": 100,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "蛤",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（海洋）",
+  "type": "蟹笼",
+  "price": 50,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "鸟蛤",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（海洋）",
+  "type": "蟹笼",
+  "price": 50,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "蚌",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（海洋）",
+  "type": "蟹笼",
+  "price": 30,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "牡蛎",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（海洋）",
+  "type": "蟹笼",
+  "price": 40,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "虾",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（海洋）",
+  "type": "蟹笼",
+  "price": 60,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "蜗牛",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（淡水）",
+  "type": "蟹笼",
+  "price": 65,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "玉黍螺",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（淡水）",
+  "type": "蟹笼",
+  "price": 20,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "小龙虾",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "蟹笼（淡水）",
+  "type": "蟹笼",
+  "price": 75,
+  "difficulty": 0,
+  "note": ""
+ },
+ {
+  "name": "传说之鱼",
+  "seasons": [
+   "春"
+  ],
+  "weather": "雨天",
+  "time": "全天",
+  "location": "深山湖泊离岸≥4（需钓鱼 10 级）",
+  "type": "传说",
+  "price": 5000,
+  "difficulty": 110,
+  "note": "传说鱼 · 需钓鱼 10 级"
+ },
+ {
+  "name": "绯红鱼",
+  "seasons": [
+   "夏"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "沙滩最东侧（码头或海岸，需 5 级）",
+  "type": "传说",
+  "price": 1500,
+  "difficulty": 95,
+  "note": "传说鱼 · 需钓鱼 5 级"
+ },
+ {
+  "name": "变种鲤鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "下水道",
+  "type": "传说",
+  "price": 1000,
+  "difficulty": 80,
+  "note": "传说鱼"
+ },
+ {
+  "name": "冰川鱼",
+  "seasons": [
+   "冬"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "森林箭形小岛最南（需 6 级）",
+  "type": "传说",
+  "price": 1000,
+  "difficulty": 100,
+  "note": "传说鱼 · 需钓鱼 6 级"
+ },
+ {
+  "name": "鮟鱇鱼",
+  "seasons": [
+   "秋"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "城镇河流最北（Joja 超市北木桥，需 3 级）",
+  "type": "传说",
+  "price": 900,
+  "difficulty": 85,
+  "note": "传说鱼 · 需钓鱼 3 级"
+ },
+ {
+  "name": "传说之鱼二代",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "深山湖泊深水区（含木桩，需 10 级）",
+  "type": "二代传说",
+  "price": 5000,
+  "difficulty": 110,
+  "note": "齐先生「大家庭」任务期间限定 · 同代 Fish II（1.5）"
+ },
+ {
+  "name": "雌鮟鱇鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "城镇河流最北（Joja 木桥，需 3 级）",
+  "type": "二代传说",
+  "price": 900,
+  "difficulty": 85,
+  "note": "齐先生「大家庭」任务期间限定 · 同代 Fish II（1.5）"
+ },
+ {
+  "name": "绯红鱼之子",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "沙滩最东侧（需 5 级）",
+  "type": "二代传说",
+  "price": 1500,
+  "difficulty": 95,
+  "note": "齐先生「大家庭」任务期间限定 · 同代 Fish II（1.5）"
+ },
+ {
+  "name": "小冰川鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "森林箭形小岛最南（需 6 级）",
+  "type": "二代传说",
+  "price": 1000,
+  "difficulty": 100,
+  "note": "齐先生「大家庭」任务期间限定 · 同代 Fish II（1.5）"
+ },
+ {
+  "name": "放射性鲤鱼",
+  "seasons": [
+   "全年"
+  ],
+  "weather": "任意",
+  "time": "全天",
+  "location": "下水道",
+  "type": "二代传说",
+  "price": 1000,
+  "difficulty": 80,
+  "note": "齐先生「大家庭」任务期间限定 · 同代 Fish II（1.5）"
+ }
+]

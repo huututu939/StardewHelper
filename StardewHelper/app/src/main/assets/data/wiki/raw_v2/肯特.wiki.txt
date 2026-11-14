@@ -1,0 +1,442 @@
+{{Infobox villager
+|portrait    = Kent.png
+|birthday    = {{Season|春季|4}}
+|location    = 鹈鹕镇
+|address     = [[柳巷1号]]
+|family      = {{NPC|Jodi|妻子}}{{NPC|Vincent|儿子}}{{NPC|Sam|儿子}}
+|marriage    = 否
+|favorites   = {{name|Fiddlehead Risotto}}{{name|Roasted Hazelnuts}}
+}}
+
+{{Quote|我不知道我还能不能适应家里的生活。镇子里的平静祥和像是一种掩饰。可能只有我觉得这样吧。|肯特}}
+
+'''肯特'''是一位住在[[鹈鹕镇]]的[[居民]]。第一年他在军队服役，第二年春天才会回到鹈鹕镇[[柳巷1号]]居住。在第一年检查[[乔迪]]的床头柜和[[文森特]]、[[山姆]]的对话会提示肯特的出现。
+
+==日程表==
+姜岛[[姜岛#海滩度假村|海滩度假村]]修复后，肯特偶尔会去度个假，下午6点离开小岛后，肯特将立即回家睡觉。肯特不会在节日当天去度假。
+
+下面显示的是肯特的日程表，从上到下按优先顺序排列。例如下雨时优先采用雨天日程表。
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季17日（巴士站已修复）
+|-
+|style="width:15%"|09:00
+|离开家参加 [[沙漠节]]并站在其中一个村民[[沙漠节#村民商铺|商店摊位]]前。
+|-
+|00:00
+|回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"|11:10
+|乘坐巴士前往[[沙漠]]。
+|-
+|11:30
+|到达他的[[沙漠节#村民商铺|商店摊位]]。
+|-
+|00:00
+|离开摊位并乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|雨天
+|-
+|style="width:15%"|08:30
+|在家，站在客厅里。
+|-
+|14:00
+|离开家，站在家北面的树下。
+|-
+|17:00
+|回家，站在入口。
+|-
+|19:00
+|前往厨房。
+|-
+|21:00
+|离开家，站在家门口的树下。
+|-
+|23:00
+|回家睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期五、星期六
+|-
+|style="width:15%"|07:00
+|离开家，站在[[下水道]]和去[[海滩]]的桥之间的树下。
+|-
+|10:30
+|回家，站在客厅里。
+|-
+|14:00
+|离开家，站在家北面的树下。
+|-
+|17:00
+|前往[[星之果实酒吧]]。
+|-
+|23:50
+|离开酒吧，回家睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期天（已触发[[亚历克斯]]14心事件）
+|-
+|style="width:15%"|08:00
+|在家，站在厨房里。
+|-
+|08:30
+|离开家，前往[[皮埃尔的杂货店]]里的祭坛房间。
+|-
+|11:10
+|前往[[星之果实酒吧]]的里室。
+|-
+|15:00
+|回家，站在入口。
+|-
+|19:00
+|前往厨房。
+|-
+|21:00
+|离开家，站在家门口的树下。
+|-
+|23:00
+|回家睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|星期天
+|-
+|style="width:15%"|08:00
+|在家，站在厨房里。
+|-
+|10:10
+|离开家，前往[[皮埃尔的杂货店]]里的祭坛房间。
+|-
+|14:00
+|离开祭坛房间，前往皮埃尔的柜台。
+|-
+|16:00
+|离开皮埃尔的杂货店，回家站在入口。
+|-
+|19:00
+|前往厨房。
+|-
+|21:00
+|离开家，站在家门口的树下。
+|-
+|23:00
+|回家睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|日常时间表
+|-
+|style="width:15%"|07:00
+|离开家，站在[[下水道]]和去[[海滩]]的桥之间的树下。
+|-
+|10:30
+|回家，站在客厅里。
+|-
+|14:00
+|离开家，站在家北面的树下。
+|-
+|17:00
+|回家，站在入口。
+|-
+|19:00
+|前往厨房。
+|-
+|21:00
+|离开家，站在家门口的树下。
+|-
+|23:00
+|回家睡觉。
+|-
+|}
+
+==人际关系==
+肯特的妻子是[[乔迪]]，他们有两个儿子，[[山姆]]和[[文森特]]。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|噢……！我小时候妈妈经常给我这个。这让我回想起那段美好的时光。谢谢。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Kent Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Fiddlehead Risotto.png|center]]
+|[[意式蕨菜炖饭]]
+|{{Description|Fiddlehead Risotto}}
+|[[烹饪]]
+|{{name|Oil|1}}{{name|Fiddlehead Fern|1}}{{name|Garlic|1}}
+|-
+|[[File:Roasted Hazelnuts.png|center]]
+|[[烤榛子]]
+|{{Description|Roasted Hazelnuts}}
+|[[烹饪]]
+|{{name|Hazelnut|3}}
+|}
+
+===喜欢===
+{{Squote|嘿，这真是个不错的礼物。谢谢你啊。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Kent Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[海藻汤]]、[[椰林飘香]]、[[生鱼片]]、[[墨西哥薄饼]]）</li><li>'''所有蛋'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|黄水仙}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dwarvish Safety Manual.png|center]]
+|[[矮人安全手册]]
+|{{Description|Dwarvish Safety Manual}}
+|[[书]]
+|}
+<nowiki>*</nowiki>''[[恐龙蛋]]在送礼时被认为是[[古物]]而不是蛋类''
+
+===一般===
+{{Squote|你人真好。家里人会喜欢的。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Kent.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[矮人安全手册]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|鸡油菌}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|普通蘑菇}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|蒲公英}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+| [[榛子]]
+| 真是巨大的一颗榛子！
+| [[采集#秋季|采集]] - [[秋季]]
+|-
+|[[File:Leek.png|center]]
+| [[韭葱]]
+| 跟洋葱一样美味。
+| [[采集#春季|采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|羊肚菌}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|紫蘑菇}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|野山葵}} 
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|冬根}}
+|[[采集]] - [[冬季]]
+|}
+
+===不喜欢===
+{{Squote|啊……啊……这是个……这到底是什么？嗯……唔……}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Kent Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''</li></ul>
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|石英}} 
+|[[采矿]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|雪山药}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Piña Colada.png|center]]
+|[[椰林飘香]]
+|{{Description|椰林飘香}}
+|每周日在[[姜岛#海滩度假村|海滩度假村]]购买
+|}
+
+===讨厌===
+{{Squote|这个……在戈特洛集中营他们给过我这个。我一直试图忘了这件事。*发抖*}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Kent Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Algae Soup.png|center]]
+|[[海藻汤]]
+|{{Description|海藻汤}}
+|[[烹饪]]
+|{{name|Green Algae|4}}
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|冬青树}}
+|[[采集]] - [[冬季]]
+|
+|-
+|[[File:Sashimi.png|center]]
+|[[生鱼片]]
+|{{Description|生鱼片}}
+|[[烹饪]]
+|[[File:Fish.png|24px|link=]] 任意[[鱼]]（1）
+|-
+|[[File:Tortilla.png|center]]
+|[[墨西哥薄饼]]
+|{{Description|墨西哥薄饼}}
+|[[烹饪]]
+|{{name|Corn|1}}
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|初见
+|<nowiki/>
+{{Event
+ |hearts  = 0
+ |quote = 我只是来自我介绍一下……回头见。
+ |trigger = 第二年开始，6:00 到 18:00 间进入[[农场]]时，肯特会造访，作自我介绍。
+ |details = 
+ |dialogues = {{EventByID|63}}
+}}
+|礼物
+|{{MailByType|礼物}}
+|三心
+|<nowiki/>
+{{Snippets|元素|小标题|战后创伤}}
+{{Event
+ |hearts = 3
+ |trigger = 肯特和[[乔迪]]都在家时，进入肯特的家。
+ |details = 玩家走进厨房，此时乔迪说：“嗨！我正在做爆米花。”接着，肯特叫起来并跑进厨房喊道，“那个声音……你本该知道那个声音会让我回想起战争！”乔迪停止做爆米花 ，肯特开始为他朋友的去世而感到难过。乔迪说：“但是……在你离开之前，爆米花一直都是你最喜欢吃的。”肯特回应道，“……现在不一样了。”接着，乔迪小声地询问玩家能不能对肯特说点什么。下面有三个选项：
+* {{choice|这事怪乔迪……她本该知道的！|-25}} 肯特生气了并说，“你闭嘴！不要试图挑拨我和我老婆的关系了。”接着对乔迪道歉。
+* {{choice|我知道你内心很痛苦……但这也不能怨你老婆啊。|50}} 肯特会说玩家完全正确，之后会向乔迪抱歉。
+* {{choice|(撒谎) 这事怪我……是我要说要吃爆米花的。|-50}} 肯特生气了并说，“别撒谎！我最讨厌的就是谎话了！”接着对乔迪道歉。
+ |dialogues={{EventByID|100}}
+}}
+
+{{Snippets|元素|小标题|邮寄食谱}}
+{{MailByType|食谱|3|Crispy Bass}}
+|七心
+|{{MailByType|食谱|7|Super Meal}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|特殊|{{Dialogue|特殊}}
+}}
+
+==你知道吗==
+* 经过战争的肯特患有[[wikipedia:zh:创伤后压力综合征|PTSD（创伤后压力综合征）]]。这从他在三心事件中对爆米花声音的反应和他在花舞节中对开阔场地表现的不适可以看出。肯特也可以在对话中向玩家解释，他的疲劳是由于睡眠困难，一种创伤后应激障碍的症状。
+* 虽然肯特肖像上的徽章是颠倒的，但在美国陆军中，两个徽章表明肯特是一名[[wikipedia:United States Army enlisted rank insignia|下士]]。
+* 在一个可以在周五被触发的对话中，[[山姆]]透露在他们以前住在祖祖城时，肯特是个清洁工。
+* 在一个可以在夏季周一被触发的对话中，[[山姆]]说在他小时候肯特会带他去沙漠玩。
+* 尽管肯特喜欢鸡蛋，但在复活节时他会说他不喜欢鸡蛋。
+
+==任务==
+*[[任务#士兵的星星|士兵的星星]]：肯特将在第二年夏15日寄信来要一只[[杨桃]]。  奖励 {{Price|500}} 和 1心 [[友谊|好感度]].
+*肯特可能会随机在[[皮埃尔的杂货店]]外面的布告栏上发布[[任务#求助任务|求助任务]]，请求玩家带给他某个随机物品。奖励为3倍普通品质需求物品的价格以及150点[[友谊|好感度]]。
+*在[[任务#The_Pirates_Wife|“海盗的妻子”]]任务中，玩家需要将[[任务#War_Memento|战争纪念物]]交给肯特。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Kent.png
+File:Kent Happy.png
+File:Kent Concerned.png
+File:Kent Annoyed.png
+File:Kent Surprised.png
+File:Kent Thinking.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Kent Winter 00.png
+File:Kent Winter 01.png
+File:Kent Winter 02.png
+File:Kent Winter 03.png
+File:Kent Winter 04.png
+File:Kent Winter 05.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==历史==
+{{History|1.4|修正了在3心事件中菜谱发送错误。}}
+{{History|1.5|增加两个新头像。}}
+{{History|1.6|新增冬季肖像。新增收到特定礼物时的对话。}}
+
+{{NavboxVillagers}}
+
+{{EN|Kent}}

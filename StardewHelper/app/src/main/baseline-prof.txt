@@ -1,0 +1,34 @@
+#
+# Baseline Profile —— 启动热路径的静态规则（v2.49.0）
+#
+# ## 为什么先有这份「手写规则」而不是只靠设备采集
+# 采集生成的规则更全（Compose / DataStore / kotlinx 全都覆盖），但要连设备跑
+# Macrobenchmark，且规则与 R8 混淆名的对应关系由工具链保证、换版本易失效。
+# 这份手写规则是**保底**：即使采集没跑过，APK 里的 baseline.prof 里也有类名，
+# verify 第 42 节的断言才不会被「空壳文件」打脸。
+#
+# ## 规则语法（ART Profile）
+#   L<类名>;                    类级规则：该类的方法都进 AOT 编译
+#   H[S|P]L<类>;-><方法>(<参数>)V 方法级规则；S=静态 P=实例，后缀 V=非虚方法
+#   类名用 `/` 分隔、结尾带 `;`；Kotlin 顶层函数会编成 `XxxKt` 类。
+#
+# ## ⚠ 类名必须是**混淆前**的名字
+# 本项目 release 开了 isMinifyEnabled=true，但 R8 会自动把 profile 里的原始名
+# 重映射到混淆后的名字，所以这里写源码里的原名即可，不必手抄 mapping.txt。
+# 写错类名的后果是 R8 报「rule 匹配不到」，构建直接失败——这是好事，比静默失效强。
+#
+
+# ── 启动必经：Activity ──────────────────────────────────────────────
+Lcom/stardew/assistant/MainActivity;
+HSPLcom/stardew/assistant/MainActivity;-><init>()V
+HSPLcom/stardew/assistant/MainActivity;->onCreate(Landroid/os/Bundle;)V
+
+# ── 启动必经：数据层（冷启动第一屏就要读 DataStore + 解析 JSON）────────
+Lcom/stardew/assistant/data/GameData;
+Lcom/stardew/assistant/data/PrefsRepo;
+
+# ── 启动必经：主题与像素字体（首帧渲染前就要量好 TextStyle）────────────
+Lcom/stardew/assistant/ui/PixelThemeKt;
+
+# ── 启动必经：底层工具（图标解码、点击反馈等高频小函数）──────────────
+Lcom/stardew/assistant/ui/PixelWidgetsKt;

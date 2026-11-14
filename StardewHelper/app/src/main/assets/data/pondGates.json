@@ -1,0 +1,2113 @@
+{
+ "gates": [
+  {
+   "fish": "鲟鱼",
+   "population": 2,
+   "materials": [
+    "钻石"
+   ],
+   "counts": {
+    "钻石": 1
+   },
+   "raw": "2 条：钻石×1",
+   "bucket": ""
+  },
+  {
+   "fish": "鲟鱼",
+   "population": 4,
+   "materials": [
+    "枫糖浆",
+    "腌菜",
+    "果酱"
+   ],
+   "counts": {
+    "枫糖浆": 2,
+    "腌菜": 1,
+    "果酱": 1
+   },
+   "raw": "4 条：枫糖浆×2 或 腌菜×1 或 果酱×1",
+   "bucket": ""
+  },
+  {
+   "fish": "鲟鱼",
+   "population": 6,
+   "materials": [
+    "万象晶球"
+   ],
+   "counts": {
+    "万象晶球": 3
+   },
+   "raw": "6 条：万象晶球×3",
+   "bucket": ""
+  },
+  {
+   "fish": "鲟鱼",
+   "population": 8,
+   "materials": [
+    "鹦鹉螺"
+   ],
+   "counts": {
+    "鹦鹉螺": 1
+   },
+   "raw": "8 条：鹦鹉螺×1",
+   "bucket": ""
+  },
+  {
+   "fish": "岩浆鳗鱼",
+   "population": 2,
+   "materials": [
+    "火水晶"
+   ],
+   "counts": {
+    "火水晶": 3
+   },
+   "raw": "2 条：火水晶×3",
+   "bucket": ""
+  },
+  {
+   "fish": "岩浆鳗鱼",
+   "population": 4,
+   "materials": [
+    "矮人卷轴 III",
+    "玄武岩",
+    "钻石"
+   ],
+   "counts": {
+    "矮人卷轴 III": 1,
+    "玄武岩": 1,
+    "钻石": 2
+   },
+   "raw": "4 条：矮人卷轴 III×1 或 玄武岩×1 或 钻石×2",
+   "bucket": ""
+  },
+  {
+   "fish": "岩浆鳗鱼",
+   "population": 6,
+   "materials": [
+    "超级炸弹"
+   ],
+   "counts": {
+    "超级炸弹": 2
+   },
+   "raw": "6 条：超级炸弹×2",
+   "bucket": ""
+  },
+  {
+   "fish": "岩浆鳗鱼",
+   "population": 8,
+   "materials": [
+    "铱锭"
+   ],
+   "counts": {
+    "铱锭": 1
+   },
+   "raw": "8 条：铱锭×1",
+   "bucket": ""
+  },
+  {
+   "fish": "大海参",
+   "population": 4,
+   "materials": [
+    "精炼石英",
+    "蜂蜜",
+    "珊瑚",
+    "牡蛎"
+   ],
+   "counts": {
+    "精炼石英": 3,
+    "蜂蜜": 1,
+    "珊瑚": 3,
+    "牡蛎": 1
+   },
+   "raw": "4 条：精炼石英×3 或 蜂蜜×1 或 珊瑚×3 或 牡蛎×1",
+   "bucket": ""
+  },
+  {
+   "fish": "大海参",
+   "population": 6,
+   "materials": [
+    "紫蘑菇",
+    "绿宝石",
+    "万象晶球",
+    "干海星"
+   ],
+   "counts": {
+    "紫蘑菇": 2,
+    "绿宝石": 2,
+    "万象晶球": 2,
+    "干海星": 1
+   },
+   "raw": "6 条：紫蘑菇×2 或 绿宝石×2 或 万象晶球×2 或 干海星×1",
+   "bucket": ""
+  },
+  {
+   "fish": "大海参",
+   "population": 8,
+   "materials": [
+    "腌菜",
+    "金锭",
+    "果酱",
+    "铱矿石",
+    "钻石"
+   ],
+   "counts": {
+    "腌菜": 1,
+    "金锭": 3,
+    "果酱": 1,
+    "铱矿石": 1,
+    "钻石": 1
+   },
+   "raw": "8 条：腌菜×1 或 金锭×3 或 果酱×1 或 铱矿石×1 或 钻石×1",
+   "bucket": ""
+  },
+  {
+   "fish": "章鱼",
+   "population": 4,
+   "materials": [
+    "精炼石英",
+    "蜂蜜",
+    "珊瑚",
+    "牡蛎"
+   ],
+   "counts": {
+    "精炼石英": 3,
+    "蜂蜜": 1,
+    "珊瑚": 3,
+    "牡蛎": 1
+   },
+   "raw": "4 条：精炼石英×3 或 蜂蜜×1 或 珊瑚×3 或 牡蛎×1",
+   "bucket": ""
+  },
+  {
+   "fish": "章鱼",
+   "population": 6,
+   "materials": [
+    "紫蘑菇",
+    "绿宝石",
+    "万象晶球",
+    "干海星"
+   ],
+   "counts": {
+    "紫蘑菇": 2,
+    "绿宝石": 2,
+    "万象晶球": 2,
+    "干海星": 1
+   },
+   "raw": "6 条：紫蘑菇×2 或 绿宝石×2 或 万象晶球×2 或 干海星×1",
+   "bucket": ""
+  },
+  {
+   "fish": "章鱼",
+   "population": 8,
+   "materials": [
+    "绿茶"
+   ],
+   "counts": {
+    "绿茶": 1
+   },
+   "raw": "8 条：绿茶×1",
+   "bucket": ""
+  },
+  {
+   "fish": "水滴鱼",
+   "population": 2,
+   "materials": [
+    "珊瑚",
+    "海胆",
+    "泪晶"
+   ],
+   "counts": {
+    "珊瑚": 3,
+    "海胆": 2,
+    "泪晶": 2
+   },
+   "raw": "2 条：珊瑚×3 或 海胆×2 或 泪晶×2",
+   "bucket": ""
+  },
+  {
+   "fish": "水滴鱼",
+   "population": 4,
+   "materials": [
+    "蛋黄酱",
+    "咖啡豆",
+    "披萨"
+   ],
+   "counts": {
+    "蛋黄酱": 1,
+    "咖啡豆": 5,
+    "披萨": 1
+   },
+   "raw": "4 条：蛋黄酱×1 或 咖啡豆×5 或 披萨×1",
+   "bucket": ""
+  },
+  {
+   "fish": "水滴鱼",
+   "population": 6,
+   "materials": [
+    "果酒",
+    "绿茶",
+    "饼干"
+   ],
+   "counts": {
+    "果酒": 1,
+    "绿茶": 1,
+    "饼干": 1
+   },
+   "raw": "6 条：果酒×1 或 绿茶×1 或 饼干×1",
+   "bucket": ""
+  },
+  {
+   "fish": "水滴鱼",
+   "population": 8,
+   "materials": [
+    "大米布丁",
+    "彩虹贝壳"
+   ],
+   "counts": {
+    "大米布丁": 1,
+    "彩虹贝壳": 1
+   },
+   "raw": "8 条：大米布丁×1 或 彩虹贝壳×1",
+   "bucket": ""
+  },
+  {
+   "fish": "虚空鲑鱼",
+   "population": 2,
+   "materials": [
+    "虚空精华"
+   ],
+   "counts": {
+    "虚空精华": 5
+   },
+   "raw": "2 条：虚空精华×5",
+   "bucket": ""
+  },
+  {
+   "fish": "虚空鲑鱼",
+   "population": 4,
+   "materials": [
+    "蝙蝠翅膀"
+   ],
+   "counts": {
+    "蝙蝠翅膀": 10
+   },
+   "raw": "4 条：蝙蝠翅膀×10",
+   "bucket": ""
+  },
+  {
+   "fish": "虚空鲑鱼",
+   "population": 6,
+   "materials": [
+    "虚空蛋",
+    "钻石"
+   ],
+   "counts": {
+    "虚空蛋": 1,
+    "钻石": 1
+   },
+   "raw": "6 条：虚空蛋×1 或 钻石×1",
+   "bucket": ""
+  },
+  {
+   "fish": "虚空鲑鱼",
+   "population": 8,
+   "materials": [
+    "铱矿石"
+   ],
+   "counts": {
+    "铱矿石": 1
+   },
+   "raw": "8 条：铱矿石×1",
+   "bucket": ""
+  },
+  {
+   "fish": "鬼鱼",
+   "population": 2,
+   "materials": [
+    "石英"
+   ],
+   "counts": {
+    "石英": 5
+   },
+   "raw": "2 条：石英×5",
+   "bucket": ""
+  },
+  {
+   "fish": "鬼鱼",
+   "population": 4,
+   "materials": [
+    "山洞萝卜"
+   ],
+   "counts": {
+    "山洞萝卜": 5
+   },
+   "raw": "4 条：山洞萝卜×5",
+   "bucket": ""
+  },
+  {
+   "fish": "鬼鱼",
+   "population": 6,
+   "materials": [
+    "白藻"
+   ],
+   "counts": {
+    "白藻": 5
+   },
+   "raw": "6 条：白藻×5",
+   "bucket": ""
+  },
+  {
+   "fish": "鬼鱼",
+   "population": 8,
+   "materials": [
+    "矮人卷轴 I",
+    "矮人卷轴 II",
+    "精炼石英"
+   ],
+   "counts": {
+    "矮人卷轴 I": 1,
+    "矮人卷轴 II": 1,
+    "精炼石英": 2
+   },
+   "raw": "8 条：矮人卷轴 I×1 或 矮人卷轴 II×1 或 精炼石英×2",
+   "bucket": ""
+  },
+  {
+   "fish": "虹鳟鱼",
+   "population": 4,
+   "materials": [
+    "精炼石英",
+    "蜂蜜",
+    "珊瑚",
+    "牡蛎"
+   ],
+   "counts": {
+    "精炼石英": 3,
+    "蜂蜜": 1,
+    "珊瑚": 3,
+    "牡蛎": 1
+   },
+   "raw": "4 条：精炼石英×3 或 蜂蜜×1 或 珊瑚×3 或 牡蛎×1",
+   "bucket": ""
+  },
+  {
+   "fish": "虹鳟鱼",
+   "population": 6,
+   "materials": [
+    "紫蘑菇",
+    "绿宝石",
+    "万象晶球",
+    "干海星"
+   ],
+   "counts": {
+    "紫蘑菇": 2,
+    "绿宝石": 2,
+    "万象晶球": 2,
+    "干海星": 1
+   },
+   "raw": "6 条：紫蘑菇×2 或 绿宝石×2 或 万象晶球×2 或 干海星×1",
+   "bucket": ""
+  },
+  {
+   "fish": "虹鳟鱼",
+   "population": 8,
+   "materials": [
+    "腌菜",
+    "金锭",
+    "果酱",
+    "铱矿石",
+    "钻石"
+   ],
+   "counts": {
+    "腌菜": 1,
+    "金锭": 3,
+    "果酱": 1,
+    "铱矿石": 1,
+    "钻石": 1
+   },
+   "raw": "8 条：腌菜×1 或 金锭×3 或 果酱×1 或 铱矿石×1 或 钻石×1",
+   "bucket": ""
+  },
+  {
+   "fish": "木跃鱼",
+   "population": 2,
+   "materials": [
+    "硬木"
+   ],
+   "counts": {
+    "硬木": 10
+   },
+   "raw": "2 条：硬木×10",
+   "bucket": ""
+  },
+  {
+   "fish": "木跃鱼",
+   "population": 4,
+   "materials": [
+    "普通蘑菇",
+    "红蘑菇"
+   ],
+   "counts": {
+    "普通蘑菇": 2,
+    "红蘑菇": 2
+   },
+   "raw": "4 条：普通蘑菇×2 或 红蘑菇×2",
+   "bucket": ""
+  },
+  {
+   "fish": "木跃鱼",
+   "population": 6,
+   "materials": [
+    "橡树树脂",
+    "松焦油"
+   ],
+   "counts": {
+    "橡树树脂": 1,
+    "松焦油": 1
+   },
+   "raw": "6 条：橡树树脂×1 或 松焦油×1",
+   "bucket": ""
+  },
+  {
+   "fish": "木跃鱼",
+   "population": 8,
+   "materials": [
+    "翡翠",
+    "茶叶"
+   ],
+   "counts": {
+    "翡翠": 2,
+    "茶叶": 1
+   },
+   "raw": "8 条：翡翠×2 或 茶叶×1",
+   "bucket": ""
+  },
+  {
+   "fish": "冰柱鱼",
+   "population": 2,
+   "materials": [
+    "铁矿石"
+   ],
+   "counts": {
+    "铁矿石": 10
+   },
+   "raw": "2 条：铁矿石×10",
+   "bucket": ""
+  },
+  {
+   "fish": "冰柱鱼",
+   "population": 4,
+   "materials": [
+    "泪晶"
+   ],
+   "counts": {
+    "泪晶": 5
+   },
+   "raw": "4 条：泪晶×5",
+   "bucket": ""
+  },
+  {
+   "fish": "冰柱鱼",
+   "population": 6,
+   "materials": [
+    "煤炭",
+    "冰封晶球",
+    "水晶果"
+   ],
+   "counts": {
+    "煤炭": 10,
+    "冰封晶球": 5,
+    "水晶果": 1
+   },
+   "raw": "6 条：煤炭×10 或 冰封晶球×5 或 水晶果×1",
+   "bucket": ""
+  },
+  {
+   "fish": "冰柱鱼",
+   "population": 8,
+   "materials": [
+    "铁锭",
+    "精炼石英"
+   ],
+   "counts": {
+    "铁锭": 4,
+    "精炼石英": 10
+   },
+   "raw": "8 条：铁锭×4 或 精炼石英×10",
+   "bucket": ""
+  },
+  {
+   "fish": "午夜鲤鱼",
+   "population": 4,
+   "materials": [
+    "煤炭"
+   ],
+   "counts": {
+    "煤炭": 10
+   },
+   "raw": "4 条：煤炭×10",
+   "bucket": ""
+  },
+  {
+   "fish": "午夜鲤鱼",
+   "population": 6,
+   "materials": [
+    "RiverJelly"
+   ],
+   "counts": {
+    "RiverJelly": 1
+   },
+   "raw": "6 条：RiverJelly×1",
+   "bucket": ""
+  },
+  {
+   "fish": "史莱姆鱼",
+   "population": 2,
+   "materials": [
+    "史莱姆泥"
+   ],
+   "counts": {
+    "史莱姆泥": 20
+   },
+   "raw": "2 条：史莱姆泥×20",
+   "bucket": ""
+  },
+  {
+   "fish": "史莱姆鱼",
+   "population": 4,
+   "materials": [
+    "虫肉"
+   ],
+   "counts": {
+    "虫肉": 10
+   },
+   "raw": "4 条：虫肉×10",
+   "bucket": ""
+  },
+  {
+   "fish": "史莱姆鱼",
+   "population": 6,
+   "materials": [
+    "万能鱼饵",
+    "海藻汤"
+   ],
+   "counts": {
+    "万能鱼饵": 5,
+    "海藻汤": 1
+   },
+   "raw": "6 条：万能鱼饵×5 或 海藻汤×1",
+   "bucket": ""
+  },
+  {
+   "fish": "史莱姆鱼",
+   "population": 8,
+   "materials": [
+    "石化史莱姆"
+   ],
+   "counts": {
+    "石化史莱姆": 1
+   },
+   "raw": "8 条：石化史莱姆×1",
+   "bucket": ""
+  },
+  {
+   "fish": "石鱼",
+   "population": 2,
+   "materials": [
+    "铜矿石"
+   ],
+   "counts": {
+    "铜矿石": 10
+   },
+   "raw": "2 条：铜矿石×10",
+   "bucket": ""
+  },
+  {
+   "fish": "石鱼",
+   "population": 4,
+   "materials": [
+    "地晶"
+   ],
+   "counts": {
+    "地晶": 5
+   },
+   "raw": "4 条：地晶×5",
+   "bucket": ""
+  },
+  {
+   "fish": "石鱼",
+   "population": 6,
+   "materials": [
+    "煤炭",
+    "晶球"
+   ],
+   "counts": {
+    "煤炭": 10,
+    "晶球": 5
+   },
+   "raw": "6 条：煤炭×10 或 晶球×5",
+   "bucket": ""
+  },
+  {
+   "fish": "石鱼",
+   "population": 8,
+   "materials": [
+    "铜锭",
+    "精炼石英"
+   ],
+   "counts": {
+    "铜锭": 4,
+    "精炼石英": 5
+   },
+   "raw": "8 条：铜锭×4 或 精炼石英×5",
+   "bucket": ""
+  },
+  {
+   "fish": "沙鱼",
+   "population": 4,
+   "materials": [
+    "椰子",
+    "仙人掌果子"
+   ],
+   "counts": {
+    "椰子": 3,
+    "仙人掌果子": 3
+   },
+   "raw": "4 条：椰子×3 或 仙人掌果子×3",
+   "bucket": ""
+  },
+  {
+   "fish": "沙鱼",
+   "population": 6,
+   "materials": [
+    "黄金遗物"
+   ],
+   "counts": {
+    "黄金遗物": 1
+   },
+   "raw": "6 条：黄金遗物×1（沙漠鱼共用桶）",
+   "bucket": ""
+  },
+  {
+   "fish": "蝎鲤鱼",
+   "population": 4,
+   "materials": [
+    "椰子",
+    "仙人掌果子"
+   ],
+   "counts": {
+    "椰子": 3,
+    "仙人掌果子": 3
+   },
+   "raw": "4 条：椰子×3 或 仙人掌果子×3",
+   "bucket": ""
+  },
+  {
+   "fish": "蝎鲤鱼",
+   "population": 6,
+   "materials": [
+    "黄金遗物"
+   ],
+   "counts": {
+    "黄金遗物": 1
+   },
+   "raw": "6 条：黄金遗物×1（沙漠鱼共用桶）",
+   "bucket": ""
+  },
+  {
+   "fish": "螃蟹",
+   "population": 4,
+   "materials": [
+    "粘土"
+   ],
+   "counts": {
+    "粘土": 5
+   },
+   "raw": "4 条：粘土×5",
+   "bucket": ""
+  },
+  {
+   "fish": "螃蟹",
+   "population": 6,
+   "materials": [
+    "石英",
+    "虫肉"
+   ],
+   "counts": {
+    "石英": 5,
+    "虫肉": 10
+   },
+   "raw": "6 条：石英×5 或 虫肉×10",
+   "bucket": ""
+  },
+  {
+   "fish": "螃蟹",
+   "population": 8,
+   "materials": [
+    "太阳精华",
+    "万能鱼饵",
+    "海胆"
+   ],
+   "counts": {
+    "太阳精华": 5,
+    "万能鱼饵": 1,
+    "海胆": 1
+   },
+   "raw": "8 条：太阳精华×5 或 万能鱼饵×1 或 海胆×1（海洋蟹笼鱼共用桶）",
+   "bucket": ""
+  },
+  {
+   "fish": "木跃鱼",
+   "population": 4,
+   "materials": [
+    "鲤鱼",
+    "鲷鱼",
+    "鲢鱼"
+   ],
+   "counts": {
+    "鲤鱼": 2,
+    "鲷鱼": 2,
+    "鲢鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "沙鱼",
+   "population": 4,
+   "materials": [
+    "鲤鱼",
+    "鲷鱼",
+    "鲢鱼"
+   ],
+   "counts": {
+    "鲤鱼": 2,
+    "鲷鱼": 2,
+    "鲢鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "鬼鱼",
+   "population": 4,
+   "materials": [
+    "鲤鱼",
+    "鲷鱼",
+    "鲢鱼"
+   ],
+   "counts": {
+    "鲤鱼": 2,
+    "鲷鱼": 2,
+    "鲢鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "木跃鱼",
+   "population": 6,
+   "materials": [
+    "大嘴鲈鱼",
+    "大头鱼"
+   ],
+   "counts": {
+    "大嘴鲈鱼": 2,
+    "大头鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "沙鱼",
+   "population": 6,
+   "materials": [
+    "大嘴鲈鱼",
+    "大头鱼"
+   ],
+   "counts": {
+    "大嘴鲈鱼": 2,
+    "大头鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "鬼鱼",
+   "population": 6,
+   "materials": [
+    "大嘴鲈鱼",
+    "大头鱼"
+   ],
+   "counts": {
+    "大嘴鲈鱼": 2,
+    "大头鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "木跃鱼",
+   "population": 8,
+   "materials": [
+    "木跃鱼",
+    "沙鱼",
+    "鬼鱼"
+   ],
+   "counts": {
+    "木跃鱼": 2,
+    "沙鱼": 2,
+    "鬼鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "沙鱼",
+   "population": 8,
+   "materials": [
+    "木跃鱼",
+    "沙鱼",
+    "鬼鱼"
+   ],
+   "counts": {
+    "木跃鱼": 2,
+    "沙鱼": 2,
+    "鬼鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "鬼鱼",
+   "population": 8,
+   "materials": [
+    "木跃鱼",
+    "沙鱼",
+    "鬼鱼"
+   ],
+   "counts": {
+    "木跃鱼": 2,
+    "沙鱼": 2,
+    "鬼鱼": 2
+   },
+   "raw": "木跃鱼、沙鱼、鬼鱼（CarnivorousFish）：4 条：鲤鱼×2 或 鲷鱼×2 或 鲢鱼×2；6 条：大嘴鲈鱼×2 或 大头鱼×2；8 条：木跃鱼×2 或 沙鱼×2 或 鬼鱼×2",
+   "bucket": "CarnivorousFish"
+  },
+  {
+   "fish": "黄貂鱼",
+   "population": 4,
+   "materials": [
+    "火山晶石"
+   ],
+   "counts": {
+    "火山晶石": 7
+   },
+   "raw": "4 条：火山晶石×7",
+   "bucket": ""
+  },
+  {
+   "fish": "黄貂鱼",
+   "population": 6,
+   "materials": [
+    "龙牙"
+   ],
+   "counts": {
+    "龙牙": 1
+   },
+   "raw": "6 条：龙牙×1",
+   "bucket": ""
+  },
+  {
+   "fish": "鱿鱼",
+   "population": 4,
+   "materials": [
+    "珊瑚",
+    "海胆"
+   ],
+   "counts": {
+    "珊瑚": 3,
+    "海胆": 1
+   },
+   "raw": "4 条：珊瑚×3 或 海胆×1",
+   "bucket": ""
+  },
+  {
+   "fish": "鱿鱼",
+   "population": 6,
+   "materials": [
+    "沙丁鱼"
+   ],
+   "counts": {
+    "沙丁鱼": 2
+   },
+   "raw": "6 条：沙丁鱼×2",
+   "bucket": ""
+  },
+  {
+   "fish": "午夜鱿鱼",
+   "population": 4,
+   "materials": [
+    "珊瑚",
+    "海胆"
+   ],
+   "counts": {
+    "珊瑚": 3,
+    "海胆": 2
+   },
+   "raw": "4 条：珊瑚×3 或 海胆×2",
+   "bucket": ""
+  },
+  {
+   "fish": "午夜鱿鱼",
+   "population": 6,
+   "materials": [
+    "沙丁鱼"
+   ],
+   "counts": {
+    "沙丁鱼": 2
+   },
+   "raw": "6 条：沙丁鱼×2",
+   "bucket": ""
+  },
+  {
+   "fish": "午夜鱿鱼",
+   "population": 9,
+   "materials": [
+    "海洋石"
+   ],
+   "counts": {
+    "海洋石": 1
+   },
+   "raw": "9 条：海洋石×1",
+   "bucket": ""
+  },
+  {
+   "fish": "鲤鱼",
+   "population": 4,
+   "materials": [
+    "绿藻"
+   ],
+   "counts": {
+    "绿藻": 2
+   },
+   "raw": "4 条：绿藻×2",
+   "bucket": ""
+  },
+  {
+   "fish": "鲤鱼",
+   "population": 6,
+   "materials": [
+    "山洞萝卜"
+   ],
+   "counts": {
+    "山洞萝卜": 2
+   },
+   "raw": "6 条：山洞萝卜×2",
+   "bucket": ""
+  },
+  {
+   "fish": "比目鱼",
+   "population": 4,
+   "materials": [
+    "珊瑚"
+   ],
+   "counts": {
+    "珊瑚": 3
+   },
+   "raw": "4 条：珊瑚×3",
+   "bucket": ""
+  },
+  {
+   "fish": "比目鱼",
+   "population": 6,
+   "materials": [
+    "SeaJelly"
+   ],
+   "counts": {
+    "SeaJelly": 1
+   },
+   "raw": "6 条：SeaJelly×1",
+   "bucket": ""
+  },
+  {
+   "fish": "鲱鱼",
+   "population": 4,
+   "materials": [
+    "浮木"
+   ],
+   "counts": {
+    "浮木": 3
+   },
+   "raw": "4 条：浮木×3",
+   "bucket": ""
+  },
+  {
+   "fish": "鲱鱼",
+   "population": 6,
+   "materials": [
+    "珊瑚"
+   ],
+   "counts": {
+    "珊瑚": 1
+   },
+   "raw": "6 条：珊瑚×1",
+   "bucket": ""
+  },
+  {
+   "fish": "太阳鱼",
+   "population": 4,
+   "materials": [
+    "晶球",
+    "橡子"
+   ],
+   "counts": {
+    "晶球": 2,
+    "橡子": 2
+   },
+   "raw": "4 条：晶球×2 或 橡子×2",
+   "bucket": ""
+  },
+  {
+   "fish": "太阳鱼",
+   "population": 6,
+   "materials": [
+    "紫水晶",
+    "混合种子"
+   ],
+   "counts": {
+    "紫水晶": 1,
+    "混合种子": 3
+   },
+   "raw": "6 条：紫水晶×1 或 混合种子×3",
+   "bucket": ""
+  },
+  {
+   "fish": "狮子鱼",
+   "population": 4,
+   "materials": [
+    "姜",
+    "菠萝"
+   ],
+   "counts": {
+    "姜": 3,
+    "菠萝": 1
+   },
+   "raw": "4 条：姜×3 或 菠萝×1",
+   "bucket": ""
+  },
+  {
+   "fish": "狮子鱼",
+   "population": 6,
+   "materials": [
+    "芒果"
+   ],
+   "counts": {
+    "芒果": 1
+   },
+   "raw": "6 条：芒果×1",
+   "bucket": ""
+  },
+  {
+   "fish": "蓝铁饼鱼",
+   "population": 4,
+   "materials": [
+    "芋头"
+   ],
+   "counts": {
+    "芋头": 3
+   },
+   "raw": "4 条：芋头×3",
+   "bucket": ""
+  },
+  {
+   "fish": "蓝铁饼鱼",
+   "population": 6,
+   "materials": [
+    "芋头"
+   ],
+   "counts": {
+    "芋头": 10
+   },
+   "raw": "6 条：芋头×10",
+   "bucket": ""
+  }
+ ],
+ "byMaterial": {
+  "RiverJelly": [
+   {
+    "fish": "午夜鲤鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "SeaJelly": [
+   {
+    "fish": "比目鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "万能鱼饵": [
+   {
+    "fish": "史莱姆鱼",
+    "population": 6,
+    "count": 5
+   },
+   {
+    "fish": "螃蟹",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "万象晶球": [
+   {
+    "fish": "鲟鱼",
+    "population": 6,
+    "count": 3
+   },
+   {
+    "fish": "大海参",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "章鱼",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 6,
+    "count": 2
+   }
+  ],
+  "仙人掌果子": [
+   {
+    "fish": "沙鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "蝎鲤鱼",
+    "population": 4,
+    "count": 3
+   }
+  ],
+  "冰封晶球": [
+   {
+    "fish": "冰柱鱼",
+    "population": 6,
+    "count": 5
+   }
+  ],
+  "史莱姆泥": [
+   {
+    "fish": "史莱姆鱼",
+    "population": 2,
+    "count": 20
+   }
+  ],
+  "咖啡豆": [
+   {
+    "fish": "水滴鱼",
+    "population": 4,
+    "count": 5
+   }
+  ],
+  "地晶": [
+   {
+    "fish": "石鱼",
+    "population": 4,
+    "count": 5
+   }
+  ],
+  "大嘴鲈鱼": [
+   {
+    "fish": "木跃鱼",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "沙鱼",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 6,
+    "count": 2
+   }
+  ],
+  "大头鱼": [
+   {
+    "fish": "木跃鱼",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "沙鱼",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 6,
+    "count": 2
+   }
+  ],
+  "大米布丁": [
+   {
+    "fish": "水滴鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "太阳精华": [
+   {
+    "fish": "螃蟹",
+    "population": 8,
+    "count": 5
+   }
+  ],
+  "姜": [
+   {
+    "fish": "狮子鱼",
+    "population": 4,
+    "count": 3
+   }
+  ],
+  "山洞萝卜": [
+   {
+    "fish": "鬼鱼",
+    "population": 4,
+    "count": 5
+   },
+   {
+    "fish": "鲤鱼",
+    "population": 6,
+    "count": 2
+   }
+  ],
+  "干海星": [
+   {
+    "fish": "大海参",
+    "population": 6,
+    "count": 1
+   },
+   {
+    "fish": "章鱼",
+    "population": 6,
+    "count": 1
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "彩虹贝壳": [
+   {
+    "fish": "水滴鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "披萨": [
+   {
+    "fish": "水滴鱼",
+    "population": 4,
+    "count": 1
+   }
+  ],
+  "普通蘑菇": [
+   {
+    "fish": "木跃鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "晶球": [
+   {
+    "fish": "石鱼",
+    "population": 6,
+    "count": 5
+   },
+   {
+    "fish": "太阳鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "木跃鱼": [
+   {
+    "fish": "木跃鱼",
+    "population": 8,
+    "count": 2
+   },
+   {
+    "fish": "沙鱼",
+    "population": 8,
+    "count": 2
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 8,
+    "count": 2
+   }
+  ],
+  "松焦油": [
+   {
+    "fish": "木跃鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "果酒": [
+   {
+    "fish": "水滴鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "果酱": [
+   {
+    "fish": "鲟鱼",
+    "population": 4,
+    "count": 1
+   },
+   {
+    "fish": "大海参",
+    "population": 8,
+    "count": 1
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "枫糖浆": [
+   {
+    "fish": "鲟鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "椰子": [
+   {
+    "fish": "沙鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "蝎鲤鱼",
+    "population": 4,
+    "count": 3
+   }
+  ],
+  "橡子": [
+   {
+    "fish": "太阳鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "橡树树脂": [
+   {
+    "fish": "木跃鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "水晶果": [
+   {
+    "fish": "冰柱鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "沙丁鱼": [
+   {
+    "fish": "鱿鱼",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "午夜鱿鱼",
+    "population": 6,
+    "count": 2
+   }
+  ],
+  "沙鱼": [
+   {
+    "fish": "木跃鱼",
+    "population": 8,
+    "count": 2
+   },
+   {
+    "fish": "沙鱼",
+    "population": 8,
+    "count": 2
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 8,
+    "count": 2
+   }
+  ],
+  "泪晶": [
+   {
+    "fish": "水滴鱼",
+    "population": 2,
+    "count": 2
+   },
+   {
+    "fish": "冰柱鱼",
+    "population": 4,
+    "count": 5
+   }
+  ],
+  "浮木": [
+   {
+    "fish": "鲱鱼",
+    "population": 4,
+    "count": 3
+   }
+  ],
+  "海洋石": [
+   {
+    "fish": "午夜鱿鱼",
+    "population": 9,
+    "count": 1
+   }
+  ],
+  "海胆": [
+   {
+    "fish": "水滴鱼",
+    "population": 2,
+    "count": 2
+   },
+   {
+    "fish": "螃蟹",
+    "population": 8,
+    "count": 1
+   },
+   {
+    "fish": "鱿鱼",
+    "population": 4,
+    "count": 1
+   },
+   {
+    "fish": "午夜鱿鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "海藻汤": [
+   {
+    "fish": "史莱姆鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "混合种子": [
+   {
+    "fish": "太阳鱼",
+    "population": 6,
+    "count": 3
+   }
+  ],
+  "火山晶石": [
+   {
+    "fish": "黄貂鱼",
+    "population": 4,
+    "count": 7
+   }
+  ],
+  "火水晶": [
+   {
+    "fish": "岩浆鳗鱼",
+    "population": 2,
+    "count": 3
+   }
+  ],
+  "煤炭": [
+   {
+    "fish": "冰柱鱼",
+    "population": 6,
+    "count": 10
+   },
+   {
+    "fish": "午夜鲤鱼",
+    "population": 4,
+    "count": 10
+   },
+   {
+    "fish": "石鱼",
+    "population": 6,
+    "count": 10
+   }
+  ],
+  "牡蛎": [
+   {
+    "fish": "大海参",
+    "population": 4,
+    "count": 1
+   },
+   {
+    "fish": "章鱼",
+    "population": 4,
+    "count": 1
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 4,
+    "count": 1
+   }
+  ],
+  "玄武岩": [
+   {
+    "fish": "岩浆鳗鱼",
+    "population": 4,
+    "count": 1
+   }
+  ],
+  "珊瑚": [
+   {
+    "fish": "大海参",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "章鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "水滴鱼",
+    "population": 2,
+    "count": 3
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "鱿鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "午夜鱿鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "比目鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "鲱鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "白藻": [
+   {
+    "fish": "鬼鱼",
+    "population": 6,
+    "count": 5
+   }
+  ],
+  "矮人卷轴 I": [
+   {
+    "fish": "鬼鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "矮人卷轴 II": [
+   {
+    "fish": "鬼鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "矮人卷轴 III": [
+   {
+    "fish": "岩浆鳗鱼",
+    "population": 4,
+    "count": 1
+   }
+  ],
+  "石化史莱姆": [
+   {
+    "fish": "史莱姆鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "石英": [
+   {
+    "fish": "鬼鱼",
+    "population": 2,
+    "count": 5
+   },
+   {
+    "fish": "螃蟹",
+    "population": 6,
+    "count": 5
+   }
+  ],
+  "硬木": [
+   {
+    "fish": "木跃鱼",
+    "population": 2,
+    "count": 10
+   }
+  ],
+  "粘土": [
+   {
+    "fish": "螃蟹",
+    "population": 4,
+    "count": 5
+   }
+  ],
+  "精炼石英": [
+   {
+    "fish": "大海参",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "章鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 8,
+    "count": 2
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "冰柱鱼",
+    "population": 8,
+    "count": 10
+   },
+   {
+    "fish": "石鱼",
+    "population": 8,
+    "count": 5
+   }
+  ],
+  "紫水晶": [
+   {
+    "fish": "太阳鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "紫蘑菇": [
+   {
+    "fish": "大海参",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "章鱼",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 6,
+    "count": 2
+   }
+  ],
+  "红蘑菇": [
+   {
+    "fish": "木跃鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "绿宝石": [
+   {
+    "fish": "大海参",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "章鱼",
+    "population": 6,
+    "count": 2
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 6,
+    "count": 2
+   }
+  ],
+  "绿茶": [
+   {
+    "fish": "章鱼",
+    "population": 8,
+    "count": 1
+   },
+   {
+    "fish": "水滴鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "绿藻": [
+   {
+    "fish": "鲤鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "翡翠": [
+   {
+    "fish": "木跃鱼",
+    "population": 8,
+    "count": 2
+   }
+  ],
+  "腌菜": [
+   {
+    "fish": "鲟鱼",
+    "population": 4,
+    "count": 1
+   },
+   {
+    "fish": "大海参",
+    "population": 8,
+    "count": 1
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "芋头": [
+   {
+    "fish": "蓝铁饼鱼",
+    "population": 4,
+    "count": 3
+   },
+   {
+    "fish": "蓝铁饼鱼",
+    "population": 6,
+    "count": 10
+   }
+  ],
+  "芒果": [
+   {
+    "fish": "狮子鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "茶叶": [
+   {
+    "fish": "木跃鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "菠萝": [
+   {
+    "fish": "狮子鱼",
+    "population": 4,
+    "count": 1
+   }
+  ],
+  "虚空精华": [
+   {
+    "fish": "虚空鲑鱼",
+    "population": 2,
+    "count": 5
+   }
+  ],
+  "虚空蛋": [
+   {
+    "fish": "虚空鲑鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "虫肉": [
+   {
+    "fish": "史莱姆鱼",
+    "population": 4,
+    "count": 10
+   },
+   {
+    "fish": "螃蟹",
+    "population": 6,
+    "count": 10
+   }
+  ],
+  "蛋黄酱": [
+   {
+    "fish": "水滴鱼",
+    "population": 4,
+    "count": 1
+   }
+  ],
+  "蜂蜜": [
+   {
+    "fish": "大海参",
+    "population": 4,
+    "count": 1
+   },
+   {
+    "fish": "章鱼",
+    "population": 4,
+    "count": 1
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 4,
+    "count": 1
+   }
+  ],
+  "蝙蝠翅膀": [
+   {
+    "fish": "虚空鲑鱼",
+    "population": 4,
+    "count": 10
+   }
+  ],
+  "超级炸弹": [
+   {
+    "fish": "岩浆鳗鱼",
+    "population": 6,
+    "count": 2
+   }
+  ],
+  "金锭": [
+   {
+    "fish": "大海参",
+    "population": 8,
+    "count": 3
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 8,
+    "count": 3
+   }
+  ],
+  "钻石": [
+   {
+    "fish": "鲟鱼",
+    "population": 2,
+    "count": 1
+   },
+   {
+    "fish": "岩浆鳗鱼",
+    "population": 4,
+    "count": 2
+   },
+   {
+    "fish": "大海参",
+    "population": 8,
+    "count": 1
+   },
+   {
+    "fish": "虚空鲑鱼",
+    "population": 6,
+    "count": 1
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "铁矿石": [
+   {
+    "fish": "冰柱鱼",
+    "population": 2,
+    "count": 10
+   }
+  ],
+  "铁锭": [
+   {
+    "fish": "冰柱鱼",
+    "population": 8,
+    "count": 4
+   }
+  ],
+  "铜矿石": [
+   {
+    "fish": "石鱼",
+    "population": 2,
+    "count": 10
+   }
+  ],
+  "铜锭": [
+   {
+    "fish": "石鱼",
+    "population": 8,
+    "count": 4
+   }
+  ],
+  "铱矿石": [
+   {
+    "fish": "大海参",
+    "population": 8,
+    "count": 1
+   },
+   {
+    "fish": "虚空鲑鱼",
+    "population": 8,
+    "count": 1
+   },
+   {
+    "fish": "虹鳟鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "铱锭": [
+   {
+    "fish": "岩浆鳗鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "饼干": [
+   {
+    "fish": "水滴鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "鬼鱼": [
+   {
+    "fish": "木跃鱼",
+    "population": 8,
+    "count": 2
+   },
+   {
+    "fish": "沙鱼",
+    "population": 8,
+    "count": 2
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 8,
+    "count": 2
+   }
+  ],
+  "鲢鱼": [
+   {
+    "fish": "木跃鱼",
+    "population": 4,
+    "count": 2
+   },
+   {
+    "fish": "沙鱼",
+    "population": 4,
+    "count": 2
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "鲤鱼": [
+   {
+    "fish": "木跃鱼",
+    "population": 4,
+    "count": 2
+   },
+   {
+    "fish": "沙鱼",
+    "population": 4,
+    "count": 2
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "鲷鱼": [
+   {
+    "fish": "木跃鱼",
+    "population": 4,
+    "count": 2
+   },
+   {
+    "fish": "沙鱼",
+    "population": 4,
+    "count": 2
+   },
+   {
+    "fish": "鬼鱼",
+    "population": 4,
+    "count": 2
+   }
+  ],
+  "鹦鹉螺": [
+   {
+    "fish": "鲟鱼",
+    "population": 8,
+    "count": 1
+   }
+  ],
+  "黄金遗物": [
+   {
+    "fish": "沙鱼",
+    "population": 6,
+    "count": 1
+   },
+   {
+    "fish": "蝎鲤鱼",
+    "population": 6,
+    "count": 1
+   }
+  ],
+  "龙牙": [
+   {
+    "fish": "黄貂鱼",
+    "population": 6,
+    "count": 1
+   }
+  ]
+ },
+ "unparsed": [
+  {
+   "fish": "绯红鱼",
+   "raw": "不可放入鱼塘（传说鱼游戏内不允许，官方 FishPondData 无条目）",
+   "reason": "不是门文本（说明行）：不可放入鱼塘（传说鱼游戏内不允许，官方 FishPondData 无条目）"
+  }
+ ],
+ "noTask": [
+  {
+   "fish": "虎纹鳟鱼",
+   "note": ""
+  },
+  {
+   "fish": "珊瑚",
+   "note": "1.6 起可放入鱼塘（海滩采集）"
+  },
+  {
+   "fish": "海胆",
+   "note": "1.6 起可放入鱼塘（海滩采集）"
+  }
+ ]
+}

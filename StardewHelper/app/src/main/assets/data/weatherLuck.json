@@ -1,0 +1,238 @@
+{
+ "weather": {
+  "seasons": {
+   "春": {
+    "possible_weather": [
+     "晴天",
+     "雨天"
+    ],
+    "probabilities": {
+     "晴天": 0.55,
+     "雨天": 0.25,
+     "大风": 0.2
+    },
+    "notes": "春季多风带花粉感。第一年春1/2/4/5必晴、春3必雨（春6起随机）。注意：绿雨(Green Rain)仅在夏季发生，春季不会出现。"
+   },
+   "夏": {
+    "possible_weather": [
+     "晴天",
+     "雨天",
+     "雷雨",
+     "绿雨"
+    ],
+    "probabilities": {
+     "晴天": 0.45,
+     "雨天": 0.1,
+     "雷雨": 0.3,
+     "绿雨": 0.05
+    },
+    "notes": "夏季雷暴(暴风雨)常见，夏13和夏26每年固定暴风雨。绿雨(Green Rain)1.6新增，每年夏季随机一次，仅可能在5/6/7/14/15/16/18/23日触发。"
+   },
+   "秋": {
+    "possible_weather": [
+     "晴天",
+     "雨天"
+    ],
+    "probabilities": {
+     "晴天": 0.55,
+     "雨天": 0.25,
+     "大风": 0.2
+    },
+    "notes": "秋季大风落叶，可能下雨。"
+   },
+   "冬": {
+    "possible_weather": [
+     "晴天",
+     "下雪"
+    ],
+    "probabilities": {
+     "晴天": 0.37,
+     "下雪": 0.63
+    },
+    "notes": "冬季不下雨（除非使用雨图腾），雪相当于冬天下雨。不用雨图腾永远不会下雨。冬季作物(冬种子/粉西瓜Powdermelon)雪天仍需浇水。冬季没有大风天气。"
+   }
+  },
+  "weather_effects": {
+   "雨天": {
+    "effect": "下雨时无需浇水作物；部分鱼类只在雨天出现；村民对话和行程变化",
+    "fish_bonus": "下雨天出现的鱼：鲶鱼(Catfish)、河豚(Pufferfish)、红鲻鱼(Red Mullet)等",
+    "notes": "雨图腾(Rain Totem)可强制次日下雨（节日/季节交替日除外）"
+   },
+   "雷雨": {
+    "effect": "暴风雨，伴随雷电闪电；可放置避雷针(Lightning Rod)收集电池组",
+    "note": "暴风雨天算雨天，雨天鱼可钓；老水手(Old Mariner)在暴风雨日出现在沙滩东侧卖美人鱼吊坠",
+    "lightning": "每10分钟可能闪电一次；闪电可能摧毁农场作物/树木；避雷针有概率拦截闪电转化为电池组"
+   },
+   "下雪": {
+    "effect": "下雪，相当于冬天下雨；冬季作物仍需浇水",
+    "notes": "雪天不浇水冬季作物会枯萎"
+   },
+   "大风": {
+    "effect": "大风，春季花粉/秋季落叶飞舞，无实际玩法影响",
+    "notes": "风天在游戏判定中算晴天，可触发晴天爱心事件"
+   },
+   "绿雨": {
+    "effect": "1.6新增，绿色酸雨视觉效果；绿雨树/杂草大量生成；苔藓收集",
+    "notes": "绿雨天所有TV频道变成绿色雪花屏；电子设备失效；第一年村民大多闭门不出，不能送礼；树木加速生长"
+   }
+  },
+  "probabilities_note": "上表概率为近似权重（游戏天气由RNG权重决定，精确权重见Modding:Weather data）。爱心事件只区分晴/雨两种状态：晴天事件在晴天、大风天、下雪天都可触发；暴风雨和绿雨天算作雨天，晴天爱心事件不会触发。",
+  "tv_forecast": "电视\"天气预报(Weather Report)\"频道每天播报次日天气。节日当天必为晴天。1.5后解锁姜岛会额外播报Fern Islands天气。注意：第一年春2/4、夏13/26的TV预报可能不准（游戏bug）。"
+ },
+ "luck": {
+  "daily_luck_mechanism": "每日幸运值由游戏在每天开始时随机决定，范围-0.1到+0.1，共201个可能值。持护身符(Special Charm)永久+0.025。幸运值在每天开始时固定，重当日存档不改变，但读前一天存档可改变。",
+  "tv_fortune": {
+   "频道": "占卜命运 (Fortune Teller / Welwick's Oracle)",
+   "levels": [
+    {
+     "level_text": "非常开心",
+     "level_en": "Very Happy",
+     "luck_range": "+0.10",
+     "tv_message": "The spirits are very happy today! They will do their best to shower everyone with good fortune.",
+     "effect": "幸运值极高(+0.1，有护身符为+0.125)"
+    },
+    {
+     "level_text": "开心",
+     "level_en": "Happy",
+     "luck_range": ">+0.07 且 <+0.1",
+     "tv_message": "The spirits are very happy today! (near-max row)",
+     "effect": "幸运值高"
+    },
+    {
+     "level_text": "有点开心",
+     "level_en": "Somewhat Happy",
+     "luck_range": ">+0.02 且 ≤+0.07",
+     "tv_message": "The spirits are in good humor today. I think you'll have a little extra luck.",
+     "effect": "幸运值偏高"
+    },
+    {
+     "level_text": "普通",
+     "level_en": "Neutral",
+     "luck_range": "-0.02~+0.02(非0)",
+     "tv_message": "The spirits feel neutral today. The day is in your hands.",
+     "effect": "幸运值接近普通"
+    },
+    {
+     "level_text": "完全普通",
+     "level_en": "Absolutely Neutral",
+     "luck_range": "0",
+     "tv_message": "This is rare. The spirits feel absolutely neutral today.",
+     "effect": "幸运值为0（持护身符时因浮点误差不可能出现）"
+    },
+    {
+     "level_text": "有点不开心",
+     "level_en": "Somewhat Unhappy",
+     "luck_range": "≥-0.07 且 <-0.02",
+     "tv_message": "The spirits are somewhat annoyed today / somewhat mildly perturbed. Luck will not be on your side.",
+     "effect": "幸运值偏低"
+    },
+    {
+     "level_text": "不开心",
+     "level_en": "Unhappy",
+     "luck_range": ">-0.1 且 <-0.07",
+     "tv_message": "The spirits are very displeased today! (near-min row)",
+     "effect": "幸运值低"
+    },
+    {
+     "level_text": "非常不开心",
+     "level_en": "Very Unhappy",
+     "luck_range": "-0.10",
+     "tv_message": "The spirits are very displeased today! They will do their best to make your life difficult.",
+     "effect": "幸运值极低(-0.1，有护身符为-0.075)"
+    }
+   ]
+  },
+  "luck_effects": {
+   "钓鱼宝箱": "影响钓鱼宝箱出现概率及金色宝箱概率",
+   "晶球内容": "影响晶球和煤炭从岩石掉落概率（注意：晶球内部开出的矿物/文物种类不受幸运影响，取决于存档和敲洞顺序）",
+   "作物产量": "影响作物收获双倍产量概率（非品质，是数量翻倍）",
+   "梯子掉落": "影响矿井中敲石头出梯子的概率",
+   "怪物掉落": "影响怪物掉落稀有物品(桃花心木种子/Galaxy Soul/Qi宝石)和饰品(Trinket)概率",
+   "采矿": "影响宝石节点/神秘石出现概率、矿井箱子生成、骷髅洞穴宝藏房间概率",
+   "淘金": "影响扫矿(panning)获得矿石数量和第二个物品概率",
+   "垃圾桶": "影响翻垃圾桶获得非垃圾物品概率",
+   "赌场老虎机": "影响赌场老虎机结果",
+   "展览会转盘": "影响星露谷展览会转盘结果(幸运越高越易停在押注颜色)"
+  },
+  "luck_boost_items": [
+   {
+    "name": "幸运午餐",
+    "name_en": "Lucky Lunch",
+    "effect": "幸运+3",
+    "duration": "11m 11s",
+    "source": "烹饪配方(仙人掌果子Cactus Fruit+海参Sea Cucumber+薄饼Tortilla)，11春第2年电视教学"
+   },
+   {
+    "name": "南瓜汤",
+    "name_en": "Pumpkin Soup",
+    "effect": "幸运+2",
+    "duration": "7m 41s",
+    "source": "烹饪配方(南瓜Pumpkin+牛奶Milk)，28春第2年电视教学"
+   },
+   {
+    "name": "虾鸡尾酒",
+    "name_en": "Shrimp Cocktail",
+    "effect": "幸运+1",
+    "duration": "10m 2s",
+    "source": "烹饪配方(虾Shrimp)，电视教学"
+   },
+   {
+    "name": "魔法糖冰棍",
+    "name_en": "Magic Rock Candy",
+    "effect": "幸运+5(另速度+2/攻击+5)",
+    "duration": "8m 24s",
+    "source": "沙漠节Gil奖励(55+蛋评)/骷髅洞穴宝箱"
+   },
+   {
+    "name": "香蕉布丁",
+    "name_en": "Banana Pudding",
+    "effect": "幸运+1",
+    "duration": "5m 1s",
+    "source": "烹饪(姜岛商人配方)"
+   },
+   {
+    "name": "洞穴凝胶",
+    "name_en": "Cave Jelly",
+    "effect": "幸运+1",
+    "duration": "7m",
+    "source": "钓鱼宝箱/果冻类"
+   },
+   {
+    "name": "幸运戒指",
+    "name_en": "Lucky Ring",
+    "effect": "幸运+1(装备)",
+    "duration": "永久(佩戴)",
+    "source": "骷髅洞穴特殊掉落/扫矿稀有"
+   },
+   {
+    "name": "护身符",
+    "name_en": "Special Charm",
+    "effect": "每日幸运永久+0.025",
+    "duration": "永久",
+    "source": "秘密笔记#20解谜后获得"
+   },
+   {
+    "name": "沙漠节主厨料理",
+    "name_en": "Desert Festival Chef Dishes",
+    "effect": "幸运+1~+3(各不同)",
+    "duration": "7m",
+    "source": "沙漠节厨师处，可与食物/饮料buff叠加"
+   },
+   {
+    "name": "祝福雕像",
+    "name_en": "Statue Of Blessings",
+    "effect": "随机buff含幸运",
+    "duration": "依buff",
+    "source": "1.6新增雕像"
+   },
+   {
+    "name": "椰林飘香",
+    "name_en": "Piña Colada",
+    "effect": "幸运(饮料buff)",
+    "duration": "依配方",
+    "source": "沙漠/姜岛"
+   }
+  ],
+  "source_url": "https://stardewvalleywiki.com/Luck"
+ }
+}

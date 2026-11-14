@@ -1,0 +1,606 @@
+{{Infobox villager
+|portrait  = Maru.png
+|birthday  = {{Season|Summer|10}}
+|location  = 深山
+|address   = [[木匠的商店|山路24号]]
+|family    = {{NPC|Demetrius|父亲}}{{NPC|Robin|母亲}}{{NPC|Sebastian|同母异父的哥哥}}
+|marriage  = 是
+|favorites = {{name|Battery Pack}}{{name|Cauliflower}}{{name|Cheese Cauliflower}}{{name|Diamond}}{{name|Dwarf Gadget}}{{name|Gold Bar}}{{name|Iridium Bar}}{{name|Miner's Treat}}{{name|Pepper Poppers}}{{name|Radioactive Bar}}{{name|Rhubarb Pie}}{{name|Strawberry}}
+}}
+{{Quote|总有一天我会变成世界一流的发明家。能做我的朋友你很幸运！……开玩笑的啦。|玛鲁}}
+
+'''玛鲁'''是鹈鹕镇的一位[[居民]]。{{Snippets|摘要|可结婚}}
+
+玛鲁住在[[木匠的商店|山路24号]],位于[[鹈鹕镇]]北边的[[深山]]中。
+
+==日程==
+{{Snippets|日程|表格}}
+
+玛鲁每周的星期二和星期四会去[[哈维的诊所]]工作。
+
+{{Snippets|日程|度假村}}
+
+{{ScheduleHeader|Spring}}
+|-
+|
+'''春季16日（巴士站已修复）'''
+{{Daily|09:20|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。|09:50|在赛跑终点线附近观看比赛。|00:20|乘坐巴士返回星露谷。}}
+
+'''沙漠节（作为商店摊主）'''
+{{Daily|11:10|乘坐巴士前往[[沙漠]]。|11:30|到达她的[[沙漠节#村民商铺|商店摊位]]。|00:00|离开摊位并乘坐巴士返回星露谷。}}
+
+'''雨天'''
+{{Daily|09:00|位于卧室。|12:50|站在[[木匠的商店]]房内的入口处。|14:40|位于实验室。|16:40|位于卧室。|23:00|上床睡觉。}}
+
+'''星期一、星期天'''
+{{Daily|09:00|位于卧室。|10:20|位于实验室。|13:30|前往[[星之果实酒吧]]南边的长椅。|15:20|坐在酒吧门前的长椅上。|18:30|回家。|20:30|位于卧室。|23:00|上床睡觉。}}
+
+'''星期二、星期四'''
+{{Daily|08:00|离开家，前往[[哈维的诊所]]。|09:20|在诊所作为护士工作。|16:45|离开诊所，回家。|18:30|位于[[木匠的商店]]的厨房。|22:20|位于卧室。|00:00|上床睡觉。}}
+
+'''日常时间表'''
+{{Daily|09:00|位于卧室。|10:20|位于实验室。|14:00|前往[[社区中心]]东边的长椅。|15:00|坐在长椅上。|18:00|回家。|19:00|位于卧室。|22:00|上床睡觉。}}
+|}
+{{ScheduleHeader|Summer}}
+|-
+|
+'''绿雨（第一年）'''
+{{Daily|全天|位于[[塞巴斯蒂安]]的房间。}}
+
+'''雨天'''
+{{Daily|09:00|位于卧室。|12:30|站在[[木匠的商店]]房内的入口处。|14:30|前往家里的实验室。|16:30|位于卧室。|23:00|上床睡觉。}}
+
+'''星期一'''
+{{Daily|09:00|位于卧室。|10:20|位于实验室。|13:30|前往[[星之果实酒吧]]南边的长椅。|15:20|坐在酒吧门前的长椅上。|18:30|回家。|20:10|到家。}}
+
+'''星期二、星期四'''
+{{Daily|07:50|离开家，前往[[哈维的诊所]]。|09:40|在诊所作为护士工作。|16:45|离开诊所，回家。|18:40|位于[[木匠的商店]]的厨房。|22:00|返回卧室。|00:00|上床睡觉。}}
+
+'''星期天'''
+{{Daily|09:00|位于卧室。|10:20|位于实验室。|12:30|返回卧室，和[[潘妮]]待在一起。|23:00|上床睡觉。}}
+
+'''日常时间表'''
+{{Daily|09:00|位于卧室。|10:20|位于实验室。|14:00|离开家，前往东边的湖。|14:40|站在湖边。|19:00|回家。|19:40|位于房子外面，使用望远镜观测。|00:00|回屋睡觉。}}
+|}
+{{ScheduleHeader|Fall}}
+|-
+|
+'''雨天'''
+{{Daily|09:00|位于卧室。|12:30|站在[[木匠的商店]]房内的入口处。|14:30|前往家里的实验室。|16:30|返回卧室。|23:00|上床睡觉。}}
+
+'''星期一、星期天'''
+{{Daily|09:00|位于卧室。|10:20|位于实验室。|13:30|前往[[星之果实酒吧]]南边的长椅。|15:20|坐在酒吧门前的长椅上。|18:30|回家。|20:10|到家。}}
+
+'''星期二、星期四'''
+{{Daily|07:50|离开家，前往[[哈维的诊所]]。|09:40|在诊所作为护士工作。|16:45|离开诊所，回家。|18:40|位于[[木匠的商店]]的厨房。|22:00|返回卧室。|00:00|上床睡觉。}}
+
+'''日常时间表'''
+{{Daily|09:00|位于卧室。|10:20|位于实验室。|14:00|前往[[社区中心]]东边的长椅。|15:00|坐在长椅上。|18:00|回家。|19:10|位于她的卧室。|22:00|上床睡觉。}}
+|}
+{{ScheduleHeader|Winter}}
+|-
+|
+'''冬季16日'''
+{{Daily|09:00|离开她的房间。|09:20|位于家中的实验室。|11:00|前往她的房间。|15:40|离开家，参加[[夜市]]。|23:30|离开夜市，回家。}}
+
+'''星期一、星期天'''
+{{Daily|10:00|离开卧室。|10:20|位于实验室。|13:30|前往[[星之果实酒吧]]南边的长椅。|15:30|坐在酒吧门前的长椅上。|18:30|回家。|20:00|到家。}}
+
+'''星期二、星期四'''
+{{Daily|07:50|离开家，前往[[哈维的诊所]]。|09:40|在诊所作为护士工作。|16:45|离开诊所，回家。|18:40|位于[[木匠的商店]]的厨房。|22:00|返回卧室。}}
+
+'''[[社区中心]]已修复'''
+{{Daily|09:00|位于卧室。|10:20|前往家中的实验室。|14:40|离开家，前往[[社区中心]]工艺室。|18:00|回家。|18:40|位于家中的厨房。|22:00|返回卧室。|00:00|上床睡觉。}}
+
+'''日常时间表'''
+{{Daily|09:00|位于卧室。|10:20|前往家中的实验室。|14:40|离开家，前往[[社区中心]]东边的长椅。|18:00|回家。|18:40|位于家中的厨房。|22:00|返回卧室。|00:00|上床睡觉。}}
+|}
+{{ScheduleHeader|Marriage}}
+|-
+|
+'''绿雨（第一年）'''
+{{Daily|06:10|离开农场，前往[[塞巴斯蒂安]]的房间。}}
+
+'''春季16日（巴士站已修复）'''
+{{Daily|09:20|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。|09:50|在赛跑终点线附近观看比赛。|00:10|乘坐巴士返回星露谷。}}
+
+'''星期一'''
+{{Daily|06:00|位于农场。|08:00|前往[[木匠的商店]]。|10:00|位于[[木匠的商店]]。|14:00|前往[[社区中心]]。|15:00|坐在社区中心右边的长椅上。|18:00|返回农场。|19:30|到达。}}
+
+'''星期二、星期四'''
+{{Daily|07:30|离开农场，前往[[哈维的诊所]]。|09:00|站在诊所柜台的后面。|14:00|离开柜台，站在诊所等候区看文件。|16:40|离开诊所，返回农场。}}
+|}
+
+==人际关系==
+玛鲁和她的父亲[[德米特里厄斯]]、母亲[[罗宾]]以及同母异父的哥哥[[塞巴斯蒂安]]住在一起。她和塞巴斯蒂安关系有点紧张，她希望和哥哥之间能更亲密一些。
+
+玛鲁在[[哈维]]的诊所工作，他们两人都有点担心诊所的生意不太好。{{Snippets|人际关系|花舞节|哈维}}
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|那个是……？哇哦，{{玩家}}!太棒了！}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!class="unsortable" style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Maru Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Battery Pack.png|center]]
+|[[电池组]]
+|{{Description|电池组}}
+|[[避雷针]]
+|
+|-
+|[[File:Cauliflower.png|center]]
+|[[花椰菜]]
+|{{Description|花椰菜}}
+|[[农作物#花椰菜|种植]] - [[春季]]
+|
+|-
+|[[File:Cheese Cauliflower.png|center]]
+|[[乳酪花椰菜]]
+|{{Description|乳酪花椰菜}}
+|[[烹饪]]
+|{{name|Cauliflower|1}}{{name|Cheese|1}}
+|-
+|[[File:Diamond.png|center]]
+|[[钻石]]
+|{{Description|钻石}}
+|[[采矿]] - [[矿井]] 
+|
+|-
+|[[File:Dwarf Gadget.png|center]]
+|[[矮人小工具]]
+|{{Description|矮人小工具}}
+|[[岩浆晶球]]、[[万象晶球]]、[[古物宝藏]]
+|
+|-
+|[[File:Gold Bar.png|center]]
+|[[金锭]]
+|{{Description|金锭}}
+|[[熔炉]]
+|
+|-
+|[[File:Iridium Bar.png|center]]
+|[[铱锭]]
+|{{Description|铱锭}}
+|[[熔炉]]
+|
+|-
+|[[File:Miner's Treat.png|center]]
+|[[矿工特供]]
+|{{Description|矿工特供}}
+|[[烹饪]]
+|{{name|Cave Carrot|2}}{{name|Sugar|1}}{{name|Milk|1}}
+|-
+|[[File:Pepper Poppers.png|center]]
+|[[爆炒青椒]]
+|{{Description|爆炒青椒}}
+|[[烹饪]]
+|{{name|Hot Pepper|1}}{{name|Cheese|1}}
+|-
+|[[File:Radioactive Bar.png|center]]
+|[[放射性矿锭]]
+|{{Description|放射性矿锭}}
+|[[熔炉]]
+|
+|-
+|[[File:Rhubarb Pie.png|center]]
+|[[大黄派]]
+|{{Description|大黄派}}
+|[[烹饪]]
+|{{name|Rhubarb|1}}{{name|Wheat Flour|1}}{{name|Sugar|1}}
+|-
+|[[File:Strawberry.png|center]]
+|[[草莓]]
+|{{Description|草莓}}
+|[[农作物#草莓|种植]] - [[春季]]
+|
+|}
+
+===喜欢===
+{{Squote|真是份大礼！非常感谢！}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Maru Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[蜂蜜]]、[[枫糖浆]]、[[腌菜]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Copper Bar.png|center]]
+|[[铜锭]]
+|一块纯铜锭。
+|[[熔炉]]
+|-
+|[[File:Iron Bar.png|center]]
+|[[铁锭]]
+|一块纯铁锭。
+|[[熔炉]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Oak Resin.png|center]]
+|[[橡树树脂]]
+|一种来自橡木树液的黏稠芳香物质。 
+|[[树液采集器]]
+|-
+|[[File:Pine Tar.png|center]]
+|[[松焦油]]
+|一种来自松树汁的带刺鼻气味的物质。
+|[[树液采集器]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|一种常见于洞穴和矿井里的纯净晶体。 
+|[[采集]] - [[矿井]]
+|-
+|[[File:Radioactive Ore.png|center]]
+|[[放射性矿石]]
+|{{Description|Radioactive Ore}}
+|[[采矿]]
+|}
+
+===一般===
+{{Squote|麻烦你了。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!class="unsortable" style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Maru.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了 [[松露]]）</li><li>'''所有蛋'''（除了[[虚空蛋]]）</li><li>'''所有[[水果]]'''（除了[[黑莓]]、[[水晶果]]、[[果树|果树的水果]]、[[美洲大树莓]]、[[草莓]]）</li><li>'''所有牛奶'''</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===不喜欢===
+{{Squote|噢！这是给我的？我要把它放在哪儿呢……}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Maru Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[电池组]]、[[矮人小工具]]、[[铜锭]]、[[金锭]]、[[铱锭]]、[[铁锭]]、[[橡树树脂]]、[[松焦油]]）</li></ul>
+|-
+|[[File:Blackberry.png|center]]
+|[[黑莓]]
+|{{Description|Blackberry}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Crystal Fruit.png|center]]
+|[[水晶果]]
+|{{Description|Crystal Fruit}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Maple Syrup.png|center]]
+|[[枫糖浆]]
+|{{Description|Maple Syrup}}
+|[[树液采集器]]
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|}
+
+===讨厌===
+{{Squote|呸！你觉得我会喜欢这个？}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Maru Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''（除了[[放射性矿锭]]、[[放射性矿石]]）</li></ul>
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Honey.png|center]]
+|[[蜂蜜]]
+|{{Description|Honey}}
+|[[蜂房]]
+|-
+|[[File:Pickles.png|center]]
+|[[腌菜]]
+|{{Description|Pickles}}
+|[[工匠物品]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Truffle.png|center]]
+|[[松露]]
+|{{Description|Truffle}}
+|[[猪]]
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|二心
+|<nowiki />
+{{Event
+ |hearts  = 2
+ |trigger = 当玛鲁在家时进入[[木匠的商店]]。
+ |details = 你会发现玛鲁和[[德米特里厄斯]]在他们的实验室里测试泥土样本。玛鲁让你照看烧杯，她去拿更多样本。当她离开时，[[德米特里厄斯]]告诉你玛鲁是一个好孩子，是他的宝贝女儿，他不想让任何事情阻挡玛鲁光明的未来。 当玛鲁回来时，[[德米特里厄斯]]说你们只是在谈论泥土样本。
+
+* {{choice|（什么也不说）|10|[[德米特里厄斯]]}} [[德米特里厄斯]]和玛鲁继续工作。
+* {{choice|其实，你爸刚刚可神秘了。|-100|[[德米特里厄斯]]}} 玛鲁问[[德米特里厄斯]]到底说了什么。[[德米特里厄斯]]说实话并为他的行为道歉。
+ |quote = 
+ |dialogues = {{EventByID|6}}
+}}
+
+|四心
+|<nowiki />
+{{Event
+ |hearts  = 4
+ |trigger = 当玛鲁在[[哈维的诊所]]时进入诊所。
+ |details = 玛鲁被你吓了一跳，不小心摔破了她拿着的玻璃烧杯。由于担心[[哈维]]的反应，她问你她该怎么办。
+
+* {{choice|把它从地板上舀出来。他不会知道区别。|-50}} 玛鲁说[[哈维]]当然能说出不同之处。当哈维来调查噪音时，玛鲁告诉他这是一次意外并道歉。
+* {{choice|告诉哈维这是我的错。|-20}} 当[[哈维]]来调查噪音时，她告诉哈维这是你的错。
+* {{choice|告诉哈维这是一次意外。|50}} 当[[哈维]]进来调查噪音时，她告诉他这是一次意外并道歉。
+
+如果玛鲁谴责你，[[哈维]]会对她没有对自己的行为负责而感到失望，并说这个错误很可能会害得他们又亏损一个月。玛鲁感到慌乱和不安。
+
+如果玛鲁说这是一次意外并且道歉，[[哈维]]感谢她说实话，并告诉她不要担心，玛鲁感谢他的耐心。[[哈维]]说她在诊所是一个很大的帮助，他不知道没有她该怎么办。然后[[哈维]]转向你，问你是否还好，因为你看起来脸色有点苍白; 你转过身去，表现出汗水。
+ |quote = 
+ |dialogues = {{EventByID|7}}
+}}
+
+|六心
+|<nowiki />
+{{Event
+ |hearts  = 6
+ |trigger = 晴天 21:00 至 23:40之间进入[[深山]]。
+ |details = 你看到玛鲁透过望远镜观看星空。她很惊讶看到你这么晚还在外面，并说她想给你看点东西。你用望远镜看，她问你看到了什么。
+* {{choice|一个美丽的星球。|30}} 玛鲁回应， "很神奇，不是吗？"
+* {{choice|一个漆黑的深渊。|-30}} 玛鲁回应，"我想你可以看到它......但它仍然是盛大的，不是吗？"
+
+玛鲁说，当人们能登上这颗星星时，你我都早已不在。随后她会尝试向你展示一个双子星系（播放过场动画）。
+ |quote = 
+ |dialogues = {{EventByID|8}}
+}}
+
+|八心
+|<nowiki />
+{{Event
+ |hearts  = 8
+ |trigger = 当玛鲁在家时进入[[木匠的商店]]。
+ |details = 玛鲁说她一直在做一个新项目，一个很大的项目。她给你看了一台机器，说它只是其中一个部件。她让你把手放在上面演示，但打开开关后你触电了。玛鲁吓坏了，问你还好吧。她使用烧伤膏并道歉。
+
+* {{choice|没关系，根本不疼的。|30}}
+* {{choice|抱歉就对了。简直疼死人了！|-50}}
+
+她说气氛一下就毁了，然后叹了口气。
+ |quote = 
+ |dialogues = {{EventByID|9}}
+}}
+
+|十心
+|<nowiki />
+{{Event
+ |hearts  = 10
+ |trigger = 在 09:00 至 16:00之间进入[[木匠的商店]]。
+ |details = 
+（在早期的版本中，这个事件会导致游戏崩溃。目前已经修复了。）
+玛鲁说她的大项目终于完成了。她带你进入她的私人工作室，向你展示她为帮助父母而建造的机器人。她称之为“玛丽尔达（MarILDA）”，全称为“玛鲁互动型实验室器材阿尔法实验性（Maru's Interactive Laboratory Device Alpha，此处怀疑有翻译错误）”。她告诉你她已经为此工作了好几个月了，并且在等你来一起激活它。她激活玛丽尔达，它说：“你好，玛鲁。没有必要回应……我已经预测过你会说什么。”
+
+[[德米特里厄斯]]进来看你们两个人在做什么，他看到玛丽尔达并变得害怕。玛鲁告诉他不要害怕，玛丽尔达是她最新的发明。玛丽尔达迎接他，但德米特里厄斯很不高兴。玛鲁说她制造玛丽尔达，就是为了当她不再和父母住在一起的时候，让玛丽尔达来帮助他们。但玛丽尔达表示自己不愿成为玛鲁的仆人。它决定去宇宙中搜索其它人工合成的生命体。
+
+玛鲁吓了一跳并要求它等待，但德米特里厄斯同意让玛丽尔达获得自由，并表示自己已经接受了玛鲁准备离开自己开始新生活的事实。他认为玛丽尔达很先进，把它关在这里有点大材小用了。他也对和你的之前的误会表示了歉意，并为玛鲁在你的影响下变得活跃而有创意向你表示了感谢，随后离开了房间。
+
+玛鲁在外面送走玛丽尔达，玛丽尔达感谢玛鲁创造了她并随后冲向太空。玛鲁看着她走了，问你的想法。
+
+* {{choice|我认为你的发明很厉害。|50}}玛鲁回答：“谢谢你。这对我来说很重要，{{玩家}}。我知道你对这些小玩意儿不太在行……但我很感激你能对我所做的事感兴趣。真希望我能通过什么方式报答你。”
+* {{choice|我很失望……你不该让那机器人成为你的奴隶的。|-50}} 玛鲁回应道：“什么？在她很明白地说过，不想做他人奴隶之后吗？真是冷漠……”
+** {{choice|玛丽尔达就是一台设计用来模仿人类的机器。|50}} 玛鲁回答：“你说得有道理，我的确编写了她的程序，想让她表现得更像人类……但她的脑神经反应网如此复杂，无法判定她的自我意识是不是通过自身形成的。况且，难道只有人类的思维才配拥有自我意识吗？虽然机器人的大脑构造与我们截然不同，那也不代表我们就应该这样不尊重、不认可他们啊。”她谢谢你的到来并离开。
+** {{choice|我刚才是在开玩笑。玛丽尔达应该享有自由的权力。|50}} 玛鲁回答：“原来是这样。你这笑话还真是蹩脚。” 她谢谢你的到来并离开。
+** {{choice|我会让她去农场里工作。|-50}} 玛鲁回答：“这话说得太无情了！你今天到底怎么回事，{{玩家}}？这次对话就当没发生过好了……你今天真是太不对劲了。” 她谢谢你的到来并离开。
+* {{choice|看来你爸对我们在一起是没意见咯？|0}} 玛鲁回答：“呵……他似乎的确说过这种话呢？……呃……”
+* {{choice|（盯着玛鲁，什么也不说）|0}} 玛鲁回答：“……{{玩家}}……”
+ |quote = 
+ |dialogues = {{EventByID|10}}<!-- 部分对话未被 event-label 包裹 -->
+}}
+
+|十四心
+|<nowiki />
+{{Event
+ |hearts  = 14
+ |trigger = '''第一部分：'''在 06:10 至 17:00 之间且玛鲁在[[农舍]]时进入农舍。该阶段剧情不会在星期日或冬季触发。<br />'''第二部分：'''至少一天后在晴天的 22:00 至 01:00 之间进入[[深山]]。
+ |details = 第一部分：玛鲁邀请玩家在次日晚上去山里看彗星（有雨则顺延）。
+
+第二部分：你和玛鲁站在望远镜附近，玛鲁回忆着上次你们一起看星星的情景。天文活动开始；播放通过望远镜观看彗星的场景。玛鲁说看到彗星后要许愿的习惯，问玩家会许什么愿。你可以回答：
+* {{choice|"生一个新的宝宝"|0}}
+* {{choice|"我们能一同变老"|0}}
+* {{choice|"挣更多的钱"|0}}
+
+注意：此事件结束后当天'''立即结束'''，第二天玩家会从家中醒来。
+ |quote = 
+ |dialogues = {{Snippets|元素|小标题|第一部分}}
+{{EventByID|3917666}}
+{{Snippets|元素|小标题|第二部分}}
+{{EventByID|5183338}}
+}}
+
+|集体事件|{{hearts|10}}{{#lsth:花束|单身女性}}<nowiki/>
+}}
+
+==对话和提问==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Dialogue|关系}}
+|配偶|{{Dialogue|配偶}}
+|特殊|{{Dialogue|特殊}}
+|提问|{{Dialogue|提问}}
+|备注|<nowiki />
+'''复活节（偶数年、婚后）'''
+{{Squote|我才刚赶上潘妮。你的进度如何？}}
+此处翻译有误，原文“I'm just catching up with Penny”，应为：“我在和潘妮聊天”。
+}}
+
+==婚后==
+{{main article|婚姻}}
+结婚后，玛鲁将搬进农舍。和其他人一样，她将在卧室的右侧增加自己的房间。她还会在农舍后面增添一个区域，她有时会到那里研究她的小工具。每周二周四她会到[[哈维的诊所]]工作。
+
+在雨天的早上，玛鲁可能会送你[[传送图腾：农场]]、[[高级肥料]]、[[精炼石英]]、[[大门]]或[[炸弹]]。
+{{Squote|嘿！我昨天有点失眠，所以我在我的工作间捣鼓了一会儿。看，这是我为你准备的。我希望你能用得上。}}
+在雨天的晚上，玛鲁可能给你做以下点心之一：[[大米布丁]]、[[蓝莓千层酥]]、[[饼干]]或[[巧克力蛋糕]]。
+{{Squote|我做了一些点心！但是在上床前记得刷牙。}}
+如果玛鲁整天都呆在农舍内，早上她可能会送你[[樱桃炸弹]]、[[炸弹]]、[[炒蘑菇]]、[[蟹黄糕]]。
+{{Squote|我在废料堆里找到了这个。你觉得能把它派上用场吗？}}
+
+<gallery>
+Maru Spouse Room.png|玛鲁的房间
+Maru-gadget.jpg|玛鲁正在研究她的工具
+</gallery>
+
+==任务==
+{{Snippets|任务|布告栏}}
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Maru.png
+File:Maru Happy.png
+File:Maru Concerned.png
+File:Maru Neutral.png
+File:Maru Annoyed.png
+File:Maru Surprised.png
+File:Maru Blush.png
+File:Maru Explain.png
+</gallery>
+
+<gallery mode="packed" class="portraitgallery">
+File:Maru Nurse Regular.png
+File:Maru Nurse Happy.png
+File:Maru Nurse Concerned.png
+File:Maru Nurse Neutral.png
+File:Maru Nurse Surprised.png
+</gallery>
+
+<gallery mode="packed" class="portraitgallery">
+File:Maru Winter 00.png
+File:Maru Winter 01.png
+File:Maru Winter 02.png
+File:Maru Winter 03.png
+File:Maru Winter 04.png
+File:Maru Winter 05.png
+File:Maru Winter 06.png
+File:Maru Winter 09.png
+</gallery>
+
+<gallery mode="packed" class="portraitgallery">
+File:Maru Beach.png
+File:Maru Beach Happy.png
+File:Maru Beach Concerned.png
+File:Maru Beach Surprised.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==早期设定==
+{{Snippets|设定|早期设定}}
+[[File:Maru Timeline.png|center]]
+
+==你知道吗==
+*玛鲁在[[哈维的诊所]]工作时，在社交界面和对话窗口的显示的肖像中，她的服装会变成护士服。
+*在[[冬季]]或[[天气#绿雨|绿雨]]天气，可以无视[[友谊|好感度]]条件，通过[[木匠的商店]]的侧门进入玛鲁的卧室<ref name="lockedDoorWarp" />。
+
+==参考==
+<references>
+<ref name="lockedDoorWarp">参见游戏代码中的 <samp>GameLocation::lockedDoorWarp</samp> 部分。</ref>
+</references>
+
+==历史==
+{{History|1.0|加入游戏。}}
+{{History|1.1|[[婚姻|婚后]]在农舍后面加入工作室。}}
+{{History|1.3|增加集体十心事件。护士帽上十字的颜色移除。}}
+{{History|1.4|增加十四心事件。修正了节日期间下班后仍穿护士服的漏洞。修正了触发爱心事件后在诊所不穿护士服的漏洞。}}
+{{History|1.5|新增海滩肖像。}}
+{{History|1.6|新增收到特定礼物时的对话。新增冬季肖像。现在[[矮人小工具]]是玛鲁的最爱。}}
+
+{{NavboxVillagers}}
+
+{{EN|Maru}}

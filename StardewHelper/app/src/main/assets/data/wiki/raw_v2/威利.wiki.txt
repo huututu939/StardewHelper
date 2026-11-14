@@ -1,0 +1,608 @@
+{{Infobox villager
+|portrait  = Willy.png
+|birthday  = {{Season|Summer|24}}
+|location  = 沙滩
+|address   = [[鱼店]]
+|friends   = {{NPC|Elliott}}
+|marriage  = 否
+|clinic    = {{Season|Spring|9}}
+|favorites = {{Name|Catfish}}{{Name|Diamond}}{{Name|Gold Bar}}{{Name|Iridium Bar}}{{Name|Mead}}{{Name|Octopus}}{{Name|Pumpkin}}{{Name|Sea Cucumber}}{{Name|Sturgeon}}{{Name|The Art O' Crabbing}}{{Name|Jewels Of The Sea}}
+}}
+{{Quote|真正的钓者必须懂得尊重水……这一点可不要忘了。|威利}}
+
+'''威利'''是居住在[[鹈鹕镇]]的一名[[居民]]。他从小就在各个岛屿之间航行，现在定居在鹈鹕镇南边[[沙滩]]的[[鱼店]]中。如果星期六不下雨，他会关店去钓鱼。除此以外，他每天都会在[[鱼店]]中出售各种[[鱼饵]]和[[渔具]]。
+
+==日程表==
+大多数时候，威利都会在早上6:10左右起床，随后在[[沙滩]]上钓几个小时的鱼。接着在早上9点到17:00之间，他都会在[[鱼店]]里营业。鱼店打烊后，他通常会继续在[[沙滩]]再钓会儿鱼，直到22:00。冬季时，他会在鱼店打烊后去[[星之果实酒吧]]而不是[[沙滩]]。
+
+如果星期六不下雨，威利会把鱼店关了然后出门钓鱼，只有下雨时[[鱼店]]才会继续营业。
+
+威利不会前往姜岛的[[姜岛#海滩度假村|海滩度假村]]。
+
+下面显示的是威利的行程表，从上到下优先级逐次下降，比如下雨时行程安排的优先级就会比它下面的高。如果是一个下雨的星期五，那么威利会按照下雨时的行程表行动。
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|春季9日
+|-
+|style="width:15%"|06:10
+|起床，在[[鱼店]]外钓鱼。
+|-
+|08:50
+|从[[沙滩]]回到[[鱼店]]里。
+|-
+|09:00
+|开始在[[鱼店]]的柜台前工作，此时玩家可以在他那里购买物品。
+|-
+|10:10
+|离开[[鱼店]]，前往[[哈维的诊所]]的候诊室。
+|-
+|13:30
+|前往诊所的检查室体检。
+|-
+|17:00
+|离开[[哈维的诊所]]，前往[[星之果实酒吧]]。
+|-
+|23:20
+|回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|春季15日、16日和17日（巴士站已修复）
+|-
+|style="width:15%"|09:00
+|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+|09:10
+|站在他的[[沙漠节#威利的钓鱼任务|钓鱼挑战板]]前。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|夏季20日和21日
+|-
+|style="width:15%"|06:10
+|起床，在[[鱼店]]外钓鱼。
+|-
+|08:50
+|从[[沙滩]]回到[[鱼店]]里。
+|-
+|10:00
+|离开[[沙滩]]前往[[煤矿森林]]，在[[莉亚的农舍]]西南方的河边钓鱼参与[[鳟鱼大赛]]。
+|-
+|23:20
+|离开[[煤矿森林]]，回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|冬季12日和13日
+|-
+|style="width:15%"|06:10
+|起床，在[[鱼店]]外钓鱼。
+|-
+|08:50
+|从[[沙滩]]回到[[鱼店]]里。
+|-
+|12:00
+|前往[[沙滩]]，在[[鱼店]]外钓鱼参与[[鱿鱼节]]。
+|-
+|23:20
+|离开[[沙滩]]，回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|冬季15日、16日和17日
+|-
+|style="width:15%"|16:30
+|前往[[星之果实酒吧]]。
+|-
+|00:20
+|回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"|全天
+|位于[[星之果实酒吧]]。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|雨天
+|-
+|style="width:15%"|06:10
+|起床，在[[鱼店]]外钓鱼。
+|-
+|08:50
+|从[[沙滩]]回到[[鱼店]]里。
+|-
+|09:00
+|开始在[[鱼店]]的柜台前工作，此时玩家可以在他那里购买物品。
+|-
+|17:00
+|离开[[鱼店]]，前往[[星之果实酒吧]]。
+|-
+|23:20
+|离开酒吧，回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期五
+|-
+|style="width:15%"|06:10
+|起床，在[[鱼店]]外钓鱼。
+|-
+|08:50
+|从[[沙滩]]回到[[鱼店]]里。
+|-
+|09:00
+|开始在[[鱼店]]的柜台前工作，此时玩家可以在他那里购买物品。
+|-
+|17:00
+|离开[[鱼店]]，前往[[星之果实酒吧]]。
+|-
+|23:20
+|离开酒吧，回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期六
+|-
+|style="width:15%"|06:10
+|起床，沿着小镇去[[莉亚的农舍]]外的河边钓鱼。
+|-
+|14:00
+|离开[[煤矿森林|河边]]朝[[鹈鹕镇]]走，去河边垂钓。
+|-
+|19:00
+|前往[[星之果实酒吧]]。
+|-
+|23:00
+|离开酒吧，回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|冬季
+|-
+|style="width:15%"|06:10
+|起床，在[[鱼店]]外钓鱼。
+|-
+|08:50
+|从[[沙滩]]回到[[鱼店]]里。
+|-
+|09:00
+|开始在[[鱼店]]的柜台前工作，此时玩家可以在他那里购买物品。
+|-
+|17:00
+|离开[[鱼店]]，前往[[星之果实酒吧]]。
+|-
+|23:20
+|离开酒吧，回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|日常时间表
+|-
+|style="width:15%"|06:10
+|起床，在[[鱼店]]外钓鱼。
+|-
+|08:50
+|从[[沙滩]]回到[[鱼店]]里。
+|-
+|09:00
+|开始在[[鱼店]]的柜台前工作，此时玩家可以在他那里购买物品。
+|-
+|17:00
+|离开[[鱼店]]，出门去[[沙滩]]钓鱼。
+|-
+|22:00
+|回家睡觉。
+|}
+
+==人际关系==
+当威利不在[[鱼店]]营业台前的时候，他几乎都在店外钓鱼。晚上你可以经常在[[星之果实酒吧]]里看到他，特别是冬季。他和[[艾利欧特]]是邻居，他们也是唯二居住在[[沙滩]]的[[居民]]。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|真是太棒了！如果我的老爹还活着。看到这个他会抓狂的。}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Willy Happy.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Catfish.png|center]]
+|[[鲶鱼]]
+|{{Description|Catfish}}
+|[[鱼|钓鱼]]
+|-
+|[[File:Diamond.png|center]]
+|[[钻石]]
+|{{Description|Diamond}}
+|[[采矿]]
+|-
+|[[File:Gold Bar.png|center]]
+|[[金锭]]
+|{{Description|Gold Bar}}
+|[[熔炉]]
+|-
+|[[File:Iridium Bar.png|center]]
+|[[铱锭]]
+|{{Description|Iridium Bar}}
+|[[熔炉]]
+|-
+|[[File:Mead.png|center]]
+|style="white-space: nowrap;"|[[蜜蜂酒]]
+|{{Description|Mead}}
+|[[小桶]]
+|-
+|[[File:Octopus.png|center]]
+|[[章鱼]]
+|{{Description|Octopus}}
+|[[钓鱼]]
+|-
+|[[File:Pumpkin.png|center]]
+|[[南瓜]]
+|{{Description|Pumpkin}}
+|[[农作物|耕种]]
+|-
+|[[File:Sea Cucumber.png|center]]
+|[[海参]]
+|{{Description|Sea Cucumber}}
+|[[钓鱼]]
+|-
+|[[File:Sturgeon.png|center]]
+|[[鲟鱼]]
+|{{Description|Sturgeon}}
+|[[钓鱼]]
+|-
+|[[File:The Art O' Crabbing.png]]
+|[[捕蟹秘籍]]
+|{{description|The Art O' Crabbing}}
+|[[书摊老板]]、[[鱿鱼节]]
+|-
+|[[File:Jewels Of The Sea.png]]
+|[[海之宝石]]
+|{{description|Jewels Of The Sea}}
+|[[钓鱼#宝箱|钓鱼宝箱]]
+|}
+
+===喜欢===
+{{Squote|这看起来很不错。非常感谢！}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable" |图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Willy Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[生命药水]]和他不喜欢的鱼类菜肴：[[海之菜肴]]、[[生鱼寿司]]、[[生鱼片]]，他喜欢的鱼类菜肴如下表格所示）</li></ul>
+|-
+|[[File:Bait And Bobber.png|center]]
+|[[鱼饵和浮漂]]
+|{{Description|Bait And Bobber}}
+|[[鱼|钓鱼]]
+|
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|style="white-space: nowrap;"|[[采集]] - [[矿井]]
+|
+|-
+|[[File:Lingcod.png|center]]
+|style="white-space: nowrap;"|[[蛇齿单线鱼]]
+|{{Description|Lingcod}}
+|[[钓鱼]]
+|
+|-
+|[[File:Tiger Trout.png|center]]
+|[[虎纹鳟鱼]]
+|{{Description|Tiger Trout}}
+|[[钓鱼]]
+|
+|-
+|[[File:Baked Fish.png|center]]
+|[[烤鱼]]
+|{{Description|Baked Fish}}
+|[[烹饪]]
+|{{Name|Sunfish|1}}{{Name|Bream|1}}{{Name|Wheat Flour|1}}
+|-
+|[[File:Carp Surprise.png|center]]
+|[[惊喜鲤鱼]]
+|{{Description|Carp Surprise}}
+|[[烹饪]]
+|{{Name|Carp|4}}
+|-
+|[[File:Escargot.png|center]]
+|[[法式田螺]]
+|{{Description|Escargot}}
+|[[烹饪]]
+|{{Name|Snail|1}}{{Name|Garlic|1}}
+|-
+|[[File:Chowder.png|center]]
+|[[海鲜杂烩汤]]
+|{{Description|Chowder}}
+|[[烹饪]]
+|{{Name|Clam|1}}{{Name|Milk|1}}
+|-
+|[[File:Crab Cakes.png|center]]
+|[[蟹黄糕]]
+|{{Description|Crab Cakes}}
+|[[烹饪]]
+|{{Name|Crab|1}}{{Name|Wheat Flour|1}}{{Name|Egg|1}}{{Name|Oil|1}}
+|-
+|[[File:Crispy Bass.png|center]]
+|[[香酥鲈鱼]]
+|{{Description|Crispy Bass}}
+|[[烹饪]]
+|{{Name|Largemouth Bass|1}}{{Name|Wheat Flour|1}}{{Name|Oil|1}}
+|-
+|[[File:Fish Stew.png|center]]
+|[[烩鱼汤]]
+|{{Description|Fish Stew}}
+|[[烹饪]]
+|{{Name|Crayfish|1}}{{Name|Mussel|1}}{{Name|Periwinkle|1}}{{Name|Tomato|1}}
+|-
+|[[File:Fish Taco.png|center]]
+|[[鱼肉卷]]
+|{{Description|Fish Taco}}
+|[[烹饪]]
+|{{Name|Tuna|1}}{{Name|Tortilla|1}}{{Name|Red Cabbage|1}}{{Name|Mayonnaise|1}}
+|-
+|[[File:Fried Calamari.png|center]]
+|[[炸鱿鱼]]
+|{{Description|Fried Calamari}}
+|[[烹饪]]
+|{{Name|Squid|1}}{{Name|Wheat Flour|1}}{{Name|Oil|1}}
+|-
+|[[File:Fried Eel.png|center]]
+|[[炒鳗鱼]]
+|{{Description|Fried Eel}}
+|[[烹饪]]
+|{{Name|Eel|1}}{{Name|Oil|1}}
+|-
+|[[File:Lobster Bisque.png|center]]
+|[[龙虾浓汤]]
+|{{Description|Lobster Bisque}}
+|[[烹饪]]
+|{{Name|Lobster|1}}{{Name|Milk|1}}
+|-
+|[[File:Salmon Dinner.png|center]]
+|[[鲑鱼晚餐]]
+|{{Description|Salmon Dinner}}
+|[[烹饪]]
+|{{Name|Salmon|1}}{{Name|Amaranth|1}}{{Name|Kale|1}}
+|-
+|[[File:Seafoam Pudding.png|center]]
+|[[海泡布丁]]
+|{{Description|Seafoam Pudding}}
+|[[烹饪]]
+|{{Name|Flounder|1}}{{Name|Midnight Carp|1}}{{Name|Squid Ink|1}}
+|-
+|[[File:Trout Soup.png|center]]
+|[[鳟鱼汤]]
+|{{Description|Trout Soup}}
+|[[烹饪]]
+|{{Name|Rainbow Trout|1}}{{Name|Green Algae|1}}
+|}
+
+===一般===
+{{Squote|一个礼物！谢谢你啊。}} 
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" | 图片
+!名称
+!描述
+!来源
+|-
+| [[File:Willy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了[[鱼饵和浮漂]]、[[海之宝石]]、[[捕蟹秘籍]]）</li><li>'''所有蛋'''（除了[[虚空蛋]]）</li><li>'''所有[[鱼]]'''（除了[[鲤鱼]]、[[鲶鱼]]、[[蛇齿单线鱼]]、[[章鱼]]、[[海参]]、[[蜗牛]]、[[鲟鱼]]、[[虎纹鳟鱼]]）</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]和[[美洲大树莓]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Dish O' The Sea.png|center]]
+|[[海之菜肴]]
+|{{Description|Dish O' The Sea}}
+|[[烹饪]]
+|-
+|[[File:Maki Roll.png|center]]
+|[[生鱼寿司]]
+|{{Description|Maki Roll}}
+|[[烹饪]]
+|-
+|[[File:Sashimi.png|center]]
+|[[生鱼片]]
+|{{Description|Sashimi}}
+|[[烹饪]]
+|-
+|}
+<nowiki>*</nowiki>''注意[[恐龙蛋]]在送礼时被视为[[古物]]而不是蛋类。''
+
+===不喜欢===
+{{Squote|嗯……你喜欢这种东西？哈}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable" | 图片
+!名称
+!描述
+!来源
+|-
+| [[File:Willy Concerned.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[鱼]]、[[金锭]]、[[铱锭]]）</li><li>'''所有[[烹饪|菜肴]]'''（除了[[烤鱼]]、[[面包]]、[[惊喜鲤鱼]]、[[海鲜杂烩汤]]、[[蟹黄糕]]、[[香酥鲈鱼]]、[[烩鱼汤]]、[[鱼肉卷]]、[[炸鱿鱼]]、[[炒鳗鱼]]、[[煎鸡蛋]]、[[龙虾浓汤]]、[[鲑鱼晚餐]]、[[奇怪的小面包]]、[[鳟鱼汤]]、[[海之菜肴]]、[[海泡布丁]]、[[生鱼寿司]]、[[生鱼片]]、[[法式田螺]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Life Elixir.png|center]]
+|[[生命药水]]
+|{{Description|Life Elixir}}
+|[[打造]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Salmonberry.png|center]]
+|style="white-space: nowrap;"|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|style="white-space: nowrap;"|[[采集]] - [[春季]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|}
+
+===讨厌===
+{{Squote|……*吸气*……我想我可以把它扔到鱼饵桶里。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" | 图片
+!名称
+!描述
+!来源
+|-
+| [[File:Willy Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''（除了[[海泡布丁]]）</li></ul>
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{Tabs
+|title1=三心|content1={{MailByType|食谱|3|Chowder}}
+|title2=五心|content2={{MailByType|食谱|5|Escargot}}
+|title3=六心|content3=<nowiki/>
+{{Event
+ |hearts = 6
+ |quote = 
+ |trigger = 在上午6:00到下午5:10之间进入[[沙滩]]。
+ |details = 威利在[[鱼店]]外看到你时如释重负，说他需要你的帮助，并让你进去看看具体情况。进入鱼店之后，你会看到许多[[螃蟹]]在地板上到处乱跑。但你还没来得及帮忙，[[格斯]]便进入了鱼店。他提出要买下所有的螃蟹，但因为得花些额外的工夫抓住这些螃蟹，价格要打点折扣。威利同意后，众人一起抓住了这些螃蟹。随后，威利向他的“甜心美人们”道别。而格斯却悄悄告诉你接下来几天他会在[[星之果实酒吧|酒吧]]里做点特别的蟹肉饼。
+
+事件发生后的当天，[[刘易斯]]会说自己一整天一直都闻到新鲜螃蟹的味道。
+
+此外，自事件发生后的当天起，格斯将在[[星之果实酒吧]]以{{price|550}}的单价无限量出售[[蟹黄糕]]（{{Name|Speed|+1|class=inline}}{{Name|Defense|+1|class=inline}}），一共持续三天。
+ |dialogues = {{EventByID|711130}}
+}}
+|title4=七心|content4={{MailByType|食谱|7|Fish Stew}}
+|title5=九心|content5={{MailByType|食谱|9|Lobster Bisque}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|特殊|{{Dialogue|特殊}}
+}}
+
+==任务==
+*任务[[任务#To The Beach|“前往沙滩”]]：威利会在[[春季]] 2 日写信给你并邀请你到镇子南方的沙滩。奖励是一根[[竹鱼竿]]。
+*任务[[任务#Catch a Squid|“捕条鱿鱼”]]：威利会在[[冬季]] 2 日写信给你，要求你捕捉一条[[鱿鱼]]并带给他。奖励是{{price|800}}和 250 点[[友谊|好感度]]。
+*特别任务[[任务#Catch a Lingcod|“捕捞蛇齿单线鱼”]]：威利会在第二年[[冬季]] 13 日写信给你，要求你捕捉一条[[蛇齿单线鱼]]并带给他。奖励是{{Price|550}}和 250 点[[友谊|好感度]]。
+*任务[[任务#Juicy Bugs Wanted|“需要多汁的虫子！”]]：第一年[[秋季]] 2 日解锁特别任务板后，你有几率接到来自威利的特别任务，要求你收集 100 块[[虫肉]]。完成任务后会奖励{{Price|3000}}和[[优质浮标]]的制作配方，并且会触发一段过场动画。
+*威利可能会随机在[[皮埃尔的杂货店]]外面的布告栏上发布[[任务#求助任务|钓鱼任务]]，请求玩家抓住特定数量特定种类的鱼（鱼的种类因季节不同而不同，但都是当季出现的鱼类）。任务奖励金币为3倍普通品质需求鱼类的价格以及150点[[友谊|好感度]]。
+*威利可能会随机在[[皮埃尔的杂货店]]外面的布告栏上发布[[任务#求助任务|求助任务]]，请求玩家给他带去特定的某一件物品，任务奖励金币为 3 倍普通品质需求物品的价格以及 150 点[[友谊|好感度]]。
+*重建[[社区中心]]或完成[[Joja社区发展申请书]]后，威利会请求玩家修复停在[[鱼店]]里屋的旧船，需要 200 根[[硬木]]，5 个[[电池组]]，5 块[[铱锭]]。修好船之后，玩家可以花费{{Price|1000}}购买船票前往[[姜岛]]。
+*在任务[[任务#The_Pirates_Wife|“海盗的妻子”]]中，需要把[[任务#Wriggling Worm|蠕动蚯蚓]]交给威利。
+*[[沙漠节]]期间的每天，威利都有一个特殊的钓鱼任务：
+**春季 15 日：钓到 3 条[[沙鱼]]，奖励{{Price|25|Calico}}。
+**春季 16 日：钓到 1 条[[蝎鲤鱼]]，奖励{{Price|50|Calico}}。
+**春季 17 日：钓到并返还他的[[黄金浮漂]]，奖励{{Price|30|Calico}}。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Willy.png
+File:Willy Happy.png
+File:Willy Concerned.png
+File:Willy Smoking.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Willy Winter 00.png
+File:Willy Winter 01.png
+File:Willy Winter 02.png
+File:Willy Winter 03.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==你知道吗==
+* 在游戏发布之前，威利一度被命名为“迪克（Dick）”。
+* 当鱼塘里装满十只螃蟹后，可以从威利那里得到一个珍珠。
+* 尽管[[法式田螺]]的配方是威利赠与的，他本人并不喜欢这道菜（1.6版本改为“喜欢”）。
+* 可以将[[海之菜肴]]用于[[裁缝]]来缝制威利同款的[[裁缝|大海T恤]]。
+
+==历史==
+{{History|1.3|新增[[#6心事件|6心事件]]。}}
+{{History|1.4|修复了达到3心好感度后威利会寄送所有食谱的问题。调整海之菜肴、生鱼寿司和生鱼片为威利一般喜欢的礼物。修正了跳过初见威利的剧情动画后不会正确将他计入[[任务#Introductions|“介绍”]]任务的问题。}}
+{{history|1.6|新增收到特定礼物时的对话。现在《[[捕蟹秘籍]]》和[[金锭]]是威利的最爱。新增冬季肖像。现在威利会在[[沙漠节]]提供三种钓鱼任务。威利现在喜欢法式田螺。}}
+
+{{NavboxVillagers}}
+
+[[Category:NPC]]
+
+{{EN|Willy}}

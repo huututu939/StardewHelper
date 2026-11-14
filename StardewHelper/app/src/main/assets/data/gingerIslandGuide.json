@@ -1,0 +1,759 @@
+{
+ "island_overview": {
+  "how_to_unlock": "完成社区中心全部收集包后，Willy的鱼店后屋解锁船坞。修复船只后可乘船前往姜岛。",
+  "boat_repair": {
+   "hardwood": 200,
+   "iridium_bar": 5,
+   "battery_pack": 5
+  },
+  "travel_cost": 1000,
+  "travel_cost_note": "1000g为往返船票费用。从姜岛返回星露谷免费。Willy店铺关门时只能通过传送图腾/方尖碑前往。",
+  "regions": [
+   "主岛南部(码头)",
+   "东部(丛林/Leo小屋)",
+   "北部(火山/考古场)",
+   "西部(农场/海滩)",
+   "东南(海盗湾/美人鱼)",
+   "火山地牢",
+   "宝石鸟祭坛",
+   "齐先生核桃房"
+  ]
+ },
+ "golden_walnuts": {
+  "total": 130,
+  "description": "金核桃是姜岛鹦鹉的货币，用于解锁区域和服务。100个金核桃解锁齐先生核桃房（实际需找到101个，第一个不计入）。116个用于全部升级，剩余14个可兑换28个齐宝石。",
+  "sources": [
+   {
+    "method": "开第一个金椰子",
+    "amount": 1,
+    "location": "任意姜岛地点找到金椰子，带去铁匠Clint打开，第一个必出金核桃"
+   },
+   {
+    "method": "钓鱼",
+    "amount": 5,
+    "location": "姜岛任意水域钓鱼，每次抛竿15%概率出金核桃，最多5个"
+   },
+   {
+    "method": "丛林灌木探索",
+    "amount": 1,
+    "location": "东部丛林通往Leo小屋的路上灌木中"
+   },
+   {
+    "method": "香蕉祭坛",
+    "amount": 3,
+    "location": "东部Leo小屋楼梯旁祭坛放香蕉，大猩猩出现给3个"
+   },
+   {
+    "method": "砍Leo小屋内的树",
+    "amount": 1,
+    "location": "东部Leo小屋内用斧头砍树"
+   },
+   {
+    "method": "宝石鸟祭坛旁",
+    "amount": 1,
+    "location": "东部宝石鸟祭坛南侧"
+   },
+   {
+    "method": "完成宝石鸟谜题",
+    "amount": 5,
+    "location": "东部宝石鸟祭坛，4个雨天收集对应宝石放入4个基座"
+   },
+   {
+    "method": "姜岛农场收获",
+    "amount": 5,
+    "location": "西部农场每次收获非重茬作物5%概率出金核桃，最多5个"
+   },
+   {
+    "method": "美食青蛙任务",
+    "amount": 15,
+    "location": "西部农场东北洞穴，依次种植并展示甜瓜/小麦/大蒜，每种5个"
+   },
+   {
+    "method": "日记碎片#6挖掘",
+    "amount": 1,
+    "location": "西南海滩弯曲棕榈树角落挖掘"
+   },
+   {
+    "method": "开采贻贝节点",
+    "amount": 5,
+    "location": "东南海滩贻贝岩石开采，10%概率出金核桃，最多5个"
+   },
+   {
+    "method": "沉船探索",
+    "amount": 1,
+    "location": "西部海滩沉船内植物上"
+   },
+   {
+    "method": "打地鼠",
+    "amount": 1,
+    "location": "西部海滩Birdie小屋东南，用水壶/斧头/镐击打绿色地鼠"
+   },
+   {
+    "method": "蓝色海星三角挖掘",
+    "amount": 1,
+    "location": "西部农场南海滩蓝色海星图案中心挖掘"
+   },
+   {
+    "method": "海星菱形挖掘",
+    "amount": 1,
+    "location": "西部潮汐池附近海星菱形中心挖掘"
+   },
+   {
+    "method": "潮汐池X标记挖掘",
+    "amount": 1,
+    "location": "西部潮汐池沙地X标记中心挖掘"
+   },
+   {
+    "method": "潮汐池凹陷菱形挖掘",
+    "amount": 1,
+    "location": "西部潮汐池左下海边凹陷菱形中心挖掘"
+   },
+   {
+    "method": "池塘旁椰子树后",
+    "amount": 1,
+    "location": "西部农场西边池塘旁椰子树后"
+   },
+   {
+    "method": "海盗的妻子任务",
+    "amount": 5,
+    "location": "西部Birdie小屋任务线奖励"
+   },
+   {
+    "method": "日记碎片#4挖掘",
+    "amount": 1,
+    "location": "西部Birdie小屋北边沙地里挖掘（获得优质鱼钩+1金核桃）"
+   },
+   {
+    "method": "西海岸上行灌木",
+    "amount": 1,
+    "location": "西部沿西海岸走向齐先生房间，悬崖右下灌木"
+   },
+   {
+    "method": "齐先生房间后海中",
+    "amount": 1,
+    "location": "西部走过齐先生房间穿过海水找到灌木"
+   },
+   {
+    "method": "老虎史莱姆 Grove击杀",
+    "amount": 1,
+    "location": "西部老虎史莱姆树林击杀史莱姆掉落"
+   },
+   {
+    "method": "桃花心木树后",
+    "amount": 1,
+    "location": "西部老虎史莱姆树林桃花心木树后"
+   },
+   {
+    "method": "草圈挖掘",
+    "amount": 1,
+    "location": "西部老虎史莱姆树林草丛圆圈中心挖掘"
+   },
+   {
+    "method": "鹦鹉快车站西桥",
+    "amount": 1,
+    "location": "西部农场鹦鹉快车站向西过桥，南墙旁灌木"
+   },
+   {
+    "method": "西蒙说谜题",
+    "amount": 3,
+    "location": "西部老虎史莱姆树林北侧洞穴，完成5轮西蒙说游戏"
+   },
+   {
+    "method": "老虎树林东崖边",
+    "amount": 1,
+    "location": "西部从老虎树林向东沿悬崖走到尽头灌木"
+   },
+   {
+    "method": "鹦鹉快车站东菱形",
+    "amount": 1,
+    "location": "西部鹦鹉快车站东边菱形鹅卵石中心挖掘"
+   },
+   {
+    "method": "鹦鹉快车站东隐藏路",
+    "amount": 1,
+    "location": "西部鹦鹉快车站东边隐藏路径尽头灌木"
+   },
+   {
+    "method": "鹦鹉快车站南崖边",
+    "amount": 1,
+    "location": "西部鹦鹉快车站向南沿悬崖向东弯，俯瞰农舍处灌木"
+   },
+   {
+    "method": "北入口石阶石圈",
+    "amount": 1,
+    "location": "北部入口石阶上，向西石圈中心挖掘"
+   },
+   {
+    "method": "北入口西侧隐藏路",
+    "amount": 1,
+    "location": "北部入口石阶上向西隐藏通道到树林灌木"
+   },
+   {
+    "method": "北入口花圈",
+    "amount": 1,
+    "location": "北部入口石阶上东北方向花草圈中心挖掘"
+   },
+   {
+    "method": "北入口东石圈",
+    "amount": 1,
+    "location": "北部花圈继续向东，石圈中心挖掘"
+   },
+   {
+    "method": "田野办公室东南沙地",
+    "amount": 1,
+    "location": "北部岛田野办公室东南特殊沙地纹理处挖掘"
+   },
+   {
+    "method": "考古场北台阶石圈",
+    "amount": 1,
+    "location": "北部考古场北台阶上石圈中心挖掘"
+   },
+   {
+    "method": "考古场过桥后植物",
+    "amount": 1,
+    "location": "北部考古场北台阶过桥后西边金核桃植物"
+   },
+   {
+    "method": "考古场东隐藏通道",
+    "amount": 2,
+    "location": "北部考古场北台阶向东隐藏通道过桥后2个金核桃植物"
+   },
+   {
+    "method": "大型动物化石收集",
+    "amount": 6,
+    "location": "北部岛田野办公室完成大型动物化石捐赠"
+   },
+   {
+    "method": "蛇化石收集",
+    "amount": 3,
+    "location": "北部岛田野办公室完成蛇化石捐赠"
+   },
+   {
+    "method": "捐赠木乃伊蛙",
+    "amount": 1,
+    "location": "北部岛田野办公室"
+   },
+   {
+    "method": "捐赠木乃伊蝙蝠",
+    "amount": 1,
+    "location": "北部岛田野办公室"
+   },
+   {
+    "method": "紫花调查",
+    "amount": 1,
+    "location": "北部岛田野办公室完成紫花调查（答案22）"
+   },
+   {
+    "method": "紫海星调查",
+    "amount": 1,
+    "location": "北部岛田野办公室完成紫海星调查（答案18）"
+   },
+   {
+    "method": "火山入口东南树旁",
+    "amount": 1,
+    "location": "北部火山地牢入口东南树旁金核桃植物"
+   },
+   {
+    "method": "火山入口东沙圈",
+    "amount": 1,
+    "location": "北部火山入口东边灌木和石弧环绕沙地挖掘"
+   },
+   {
+    "method": "火山弯树弹弓",
+    "amount": 1,
+    "location": "北部火山东北弯曲树上的金核桃用弹弓打下"
+   },
+   {
+    "method": "日记碎片#10挖掘",
+    "amount": 1,
+    "location": "北部火山入口西南弯曲棕榈树圈内挖掘"
+   },
+   {
+    "method": "西北极石圈",
+    "amount": 1,
+    "location": "地图最西北端Leo常站位置石圈中心挖掘"
+   },
+   {
+    "method": "西北隐藏通道",
+    "amount": 1,
+    "location": "地图最西北火山以西沿墙西走再北转隐藏通道灌木"
+   },
+   {
+    "method": "火山岩浆河西行出口",
+    "amount": 2,
+    "location": "火山入口岩浆河用水壶做长路向西延伸到南岸出口，2个灌木"
+   },
+   {
+    "method": "火山地牢内",
+    "amount": 17,
+    "location": "火山地牢内：敲石头最多5个+杀怪最多5个+开金属箱最多5个+普通宝箱1个+稀有宝箱1个"
+   },
+   {
+    "method": "到达锻造台",
+    "amount": 2,
+    "location": "火山地牢第10层锻造台入口和出口各1个"
+   },
+   {
+    "method": "南岛上层悬崖灌木",
+    "amount": 1,
+    "location": "南岛去北岛楼梯处转身向东走隐藏路到上层悬崖灌木"
+   },
+   {
+    "method": "东南海星潮汐池首次钓鱼",
+    "amount": 1,
+    "location": "东南海星形潮汐池第一次钓鱼"
+   },
+   {
+    "method": "东南黄海星菱形",
+    "amount": 1,
+    "location": "东南黄色海星菱形中心挖掘"
+   },
+   {
+    "method": "美人鱼长笛谜题",
+    "amount": 5,
+    "location": "东南雨天美人鱼石像前放5个长笛块，按石头数量调音（大石=5，小石=1），从左到右跑过"
+   },
+   {
+    "method": "海盗湾飞镖游戏",
+    "amount": 3,
+    "location": "东南海盗湾偶数日晚8点后海盗来访，玩飞镖赢3次"
+   },
+   {
+    "method": "海盗湾沙堆挖掘",
+    "amount": 1,
+    "location": "东南海盗湾水桶东边沙地挖掘"
+   }
+  ],
+  "spending": [
+   {
+    "service": "解锁北部",
+    "service_en": "Ginger Island North",
+    "cost": 1,
+    "location": "Leo小屋",
+    "description": "移除通往北部的乌龟"
+   },
+   {
+    "service": "解锁西部",
+    "service_en": "Ginger Island West",
+    "cost": 10,
+    "location": "南部码头",
+    "description": "唤醒沉睡乌龟，解锁西部区域"
+   },
+   {
+    "service": "姜岛农舍",
+    "service_en": "Island Farmhouse",
+    "cost": 20,
+    "location": "西部农场",
+    "description": "修复破旧农舍，可在岛上睡觉"
+   },
+   {
+    "service": "农舍邮箱",
+    "service_en": "Farmhouse Mailbox",
+    "cost": 5,
+    "location": "西部农舍",
+    "description": "在岛上收取邮件"
+   },
+   {
+    "service": "农场方尖碑",
+    "service_en": "Farm Obelisk",
+    "cost": 20,
+    "location": "西部农舍",
+    "description": "永久传送回农场，建造后赠送1个姜岛传送图腾"
+   },
+   {
+    "service": "考古场桥",
+    "service_en": "Island Dig Site",
+    "cost": 10,
+    "location": "北部",
+    "description": "修复通往考古场的断桥"
+   },
+   {
+    "service": "岛屿商人",
+    "service_en": "Island Trader",
+    "cost": 10,
+    "location": "北部",
+    "description": "解锁蓝鸟商人商店，以物易物"
+   },
+   {
+    "service": "火山永久桥",
+    "service_en": "Volcano Bridge",
+    "cost": 5,
+    "location": "火山入口",
+    "description": "永久桥无需水壶即可进入火山"
+   },
+   {
+    "service": "火山出口捷径",
+    "service_en": "Volcano Exit Shortcut",
+    "cost": 5,
+    "location": "火山第5层",
+    "description": "从火山第5层快速回到北部"
+   },
+   {
+    "service": "海滩度假村",
+    "service_en": "Island Resort",
+    "cost": 20,
+    "location": "南部",
+    "description": "开放度假村，镇民会来度假；同时解锁东南区域和海盗湾"
+   },
+   {
+    "service": "鹦鹉快车",
+    "service_en": "Parrot Express",
+    "cost": 10,
+    "location": "西部农场北",
+    "description": "岛屿快速交通系统（火山/农场/考古场/丛林/码头5个站点）"
+   },
+   {
+    "service": "兑换齐宝石",
+    "service_en": "Qi Gem",
+    "cost": 1,
+    "location": "齐先生核桃房",
+    "description": "每个金核桃兑换2个齐宝石（全部升级后才开放）"
+   }
+  ],
+  "total_spent": 116,
+  "extra_trade": "剩余14个金核桃可兑换28个齐宝石",
+  "golden_joja_parrot": "1.6新增：金色Joja鹦鹉位于火山西边，可花10000g/个查找所有未发现的金核桃，过夜后到账。",
+  "bug_note": "若游戏显示129/130但实际已找全，可在聊天窗口输入 /recountnuts 重置计数。"
+ },
+ "parrot_services": [
+  {
+   "name": "解锁北部",
+   "cost": 1,
+   "location": "Leo小屋",
+   "effect": "移除挡路乌龟，开放火山方向"
+  },
+  {
+   "name": "解锁西部",
+   "cost": 10,
+   "location": "南部码头旁",
+   "effect": "唤醒乌龟，开放农场/海滩方向"
+  },
+  {
+   "name": "修复农舍",
+   "cost": 20,
+   "location": "西部农场",
+   "effect": "4房间带厨房农舍，含热带床和出货箱"
+  },
+  {
+   "name": "农舍邮箱",
+   "cost": 5,
+   "location": "西部农舍",
+   "effect": "在岛上收发邮件"
+  },
+  {
+   "name": "农场方尖碑",
+   "cost": 20,
+   "location": "西部农舍",
+   "effect": "永久传送回农场，赠送姜岛传送图腾x1"
+  },
+  {
+   "name": "考古场桥",
+   "cost": 10,
+   "location": "北部岛田野办公室西",
+   "effect": "修复断桥通往考古场"
+  },
+  {
+   "name": "岛屿商人",
+   "cost": 10,
+   "location": "北部",
+   "effect": "蓝鸟商人以物易物商店"
+  },
+  {
+   "name": "火山永久桥",
+   "cost": 5,
+   "location": "火山入口岩浆河",
+   "effect": "永久桥无需水壶"
+  },
+  {
+   "name": "火山出口捷径",
+   "cost": 5,
+   "location": "火山第5层",
+   "effect": "从第5层直接出到北部"
+  },
+  {
+   "name": "海滩度假村",
+   "cost": 20,
+   "location": "南部码头东",
+   "effect": "重建度假村，镇民穿泳衣来访；解锁东南/海盗湾；Gus经营酒吧卖椰林飘香600g/啤酒500g/淡啤酒1000g/蜂蜜酒800g/蔓越莓糖400g/芒果酒5000g/热带咖喱配方2000g"
+  },
+  {
+   "name": "鹦鹉快车",
+   "cost": 10,
+   "location": "西部农场北楼梯后",
+   "effect": "5站点快速传送：火山/农场/考古场/丛林/码头"
+  }
+ ],
+ "island_farm": {
+  "unlock_cost": 20,
+  "features": [
+   "可种植所有季节作物（不受季节限制）",
+   "没有乌鸦，无需稻草人",
+   "可建农舍（4房间带厨房）",
+   "可放洒水器",
+   "可种果树",
+   "1.6可在岛上农场播放迷你点唱机"
+  ],
+  "cave": "农舍修复后东北出现美食青蛙洞穴",
+  "plantable_tiles": 879
+ },
+ "volcano_dungeon": {
+  "floors": 10,
+  "random_floors": "第1-8层随机生成（类似骷髅洞穴），第5层有矮人商店，第9层必有宝箱，第10层是锻造台(Forge/火山口)",
+  "unlock": "需用水壶在岩浆上铺路进入（钢壶以上一次铺5格）；到达第10层锻造台后解锁出口门，之后鹦鹉花5核桃修永久桥",
+  "features": [
+   "岩浆地形",
+   "无梯子/竖井，必须逐层找门下楼",
+   "夜间离开后水路消失",
+   "凌晨2点晕倒在火山地牢将在农舍醒来并扣2500g"
+  ],
+  "monsters": [
+   {
+    "name": "矮人哨兵",
+    "name_en": "Dwarvish Sentry",
+    "hp": 300,
+    "damage": 18,
+    "note": "破箱时概率出现，死亡掉宝石"
+   },
+   {
+    "name": "假岩浆帽",
+    "name_en": "False Magma Cap",
+    "hp": 290,
+    "damage": 15,
+    "note": "伪装岩石蟹，必掉Magma Cap"
+   },
+   {
+    "name": "热头",
+    "name_en": "Hot Head",
+    "hp": 215,
+    "damage": 18,
+    "note": "残血/死亡变炸弹爆炸，掉太阳精华"
+   },
+   {
+    "name": "熔岩潜伏者",
+    "name_en": "Lava Lurk",
+    "hp": 220,
+    "damage": 15,
+    "note": "发射4枚穿墙火球，掉骨头碎片/龙牙"
+   },
+   {
+    "name": "岩浆精灵",
+    "name_en": "Magma Sprite",
+    "hp": 220,
+    "damage": 15,
+    "note": "掉火晶石(Cinder Shard)"
+   },
+   {
+    "name": "岩浆火花",
+    "name_en": "Magma Sparker",
+    "hp": 310,
+    "damage": 15,
+    "note": "施加灼烧debuff，掉火晶石"
+   },
+   {
+    "name": "岩浆掘地虫",
+    "name_en": "Magma Duggy",
+    "hp": 380,
+    "damage": 16,
+    "note": "掉芋块/火晶石/巨型炸弹"
+   },
+   {
+    "name": "老虎史莱姆",
+    "name_en": "Tiger Slime",
+    "hp": 415,
+    "damage": 23,
+    "note": "掉虎帽/姜/芋块/菠萝种子/芒果树苗/老虎史莱姆蛋"
+   }
+  ],
+  "floor_5_shop": {
+   "name": "矮人商店",
+   "requires": "需先完成4卷矮人卷轴获得矮人翻译指南(Dwarvish Translation Guide)才能交易",
+   "stock": [
+    {
+     "item": "余烬小丑鞋",
+     "item_en": "Cinderclown Shoes",
+     "price": "火晶石x100",
+     "available": "每天"
+    },
+    {
+     "item": "钻石猎人之书",
+     "item_en": "The Diamond Hunter",
+     "price": "钻石x10",
+     "available": "每天（1.6新增）"
+    },
+    {
+     "item": "樱桃炸弹",
+     "item_en": "Cherry Bomb",
+     "price": 450,
+     "available": "每天"
+    },
+    {
+     "item": "炸弹",
+     "item_en": "Bomb",
+     "price": 1000,
+     "available": "每天"
+    },
+    {
+     "item": "巨型炸弹",
+     "item_en": "Mega Bomb",
+     "price": 1600,
+     "available": "每天"
+    },
+    {
+     "item": "根茎拼盘",
+     "item_en": "Roots Platter",
+     "price": 1200,
+     "available": "50%概率"
+    },
+    {
+     "item": "超级大餐",
+     "item_en": "Super Meal",
+     "price": 1200,
+     "available": "50%概率"
+    },
+    {
+     "item": "粉色蝴蝶结",
+     "item_en": "Pink Bow",
+     "price": 10000,
+     "available": "每天"
+    },
+    {
+     "item": "传送图腾：岛屿配方",
+     "item_en": "Warp Totem: Island Recipe",
+     "price": 10000,
+     "available": "每天（购后消失）"
+    },
+    {
+     "item": "姜汁汽水配方",
+     "item_en": "Ginger Ale Recipe",
+     "price": 1000,
+     "available": "每天（购后消失）"
+    }
+   ]
+  },
+  "floor_10_forge": {
+   "name": "锻造台(Forge)",
+   "features": [
+    "用火晶石+宝石为武器/工具附魔和升级",
+    "首次到访宝箱必出1个彩虹碎片(不重生)",
+    "可在岩浆中钓鱼获熔岩鳗鱼/垃圾/画作'Physics 101'",
+    "西南角出口直通入口大门按钮，踩下后永久开门"
+   ],
+   "secrets": [
+    "完美度达成后与火山口红猴子互动获秘密帽子",
+    "把古代人偶(Ancient Doll)扔进岩浆获得秘密物品（1.6新增）"
+   ]
+  },
+  "treasure": {
+   "common_chest_first": "第一个普通宝箱必出1金核桃",
+   "rare_chest_first": "第一个稀有宝箱必出1金核桃",
+   "common_loot": "火晶石x3/金椰子/芋块x8/菠萝种子x5/防护戒指/吸血戒指/矮人剑/矮人锤/矮人匕首",
+   "rare_loot": "火晶石x10/美人鱼靴/龙鳞靴/金椰子x3/凤凰戒指/热咖啡戒指/豪华海盗帽/鸵鸟蛋/龙牙弯刀/龙牙棒/龙牙短刀"
+  },
+  "metal_crates": "每破箱8%概率出金核桃（最多5个）；其他掉落包括矿石/煤/宝石/传送图腾/齐豆等",
+  "hidden_exit": "入口岩浆河向左走有隐藏水路到考古场北河边，得2个金核桃",
+  "walnuts_inside": "火山地牢内共17个金核桃：敲石头5+杀怪5+破箱5+普通宝箱1+稀有宝箱1；另到达锻造台入口和出口各1个=19个"
+ },
+ "gem_birds": {
+  "description": "宝石鸟机制：雨天每天随机在北/南/东/西一个区域出现一只宝石鸟，靠近后飞走掉落对应宝石。5种宝石：紫水晶/海蓝宝石/绿宝石/红宝石/黄水晶。",
+  "locations": {
+   "north": "岛田野办公室帐篷南边",
+   "east": "通往Leo小屋丛林小路中间",
+   "south": "码头海滩西南",
+   "west": "农场过河Birdie小屋东边池塘"
+  },
+  "puzzle": "将4种宝石放入祭坛对应方向的4个基座（北=火山像，南=波浪像，东=棕榈树像，西=心形像）。不一定要鸟掉的宝石，任何同类型宝石均可。",
+  "reward": "完成谜题获得5个金核桃",
+  "rain_note": "岛上天气独立于星露谷，可用雨图腾强制明天下雨"
+ },
+ "pirate_cove": {
+  "unlock": "建海滩度假村后解锁东南区域，海星池东边隐藏入口进入",
+  "features": "可钓刺魟(Stingray)——游戏内唯一钓点；偶数日晚8点后非雨天海盗来访；可玩飞镖赢金核桃（前3次每次1个）；戴海盗帽/眼罩/豪华海盗帽/鹦鹉蛋饰品可在酒吧每天免费喝蜂蜜酒；冬季南部水池可见月光水母节类似水母",
+  "special_loot": "水桶东边沙地挖掘可得1个金核桃"
+ },
+ "mr_qi_walnut_room": {
+  "unlock_cost": 100,
+  "actual_required": 101,
+  "features": "完美度追踪器(Perfection Tracker)；特殊任务板（齐先生Qi Challenge任务，奖励齐宝石Qi Gems）；自动售货机用齐宝石兑换物品（武器/戒指/配方/家具/服装）；位于西部海滩西北",
+  "qi_challenges_examples": [
+   "关卡进阶(Skull Caver)：骷髅洞穴达到100层",
+   "深层危险：矿井困难模式",
+   "瀑布石板(Highway 9)：收集齐豆",
+   "远距离挖掘：考古场",
+   "深度挖掘：火山地牢",
+   "齐先生的美食：烹饪指定菜肴",
+   "社交：与多人交好"
+  ],
+  "shop_items_examples": [
+   "银河匕首/银河锤",
+   "珊瑚饼干配方",
+   "南瓜酱配方",
+   "复古吉他",
+   "攻击戒指",
+   "武器升级"
+  ]
+ },
+ "hidden_secrets": [
+  {
+   "name": "美人鱼谜题",
+   "location": "东南海滩大岩石上",
+   "how_to_trigger": "雨天美人鱼出现，在5组石头下放长笛块调音（大石=5击，小石=1击），从左到右跑过",
+   "reward": "5个金核桃"
+  },
+  {
+   "name": "美食青蛙",
+   "location": "西部农场东北洞穴",
+   "how_to_trigger": "农舍修复后出现，依次种植甜瓜/小麦/大蒜，成熟后不收获直接与青蛙对话展示",
+   "reward": "每种作物5个金核桃，共15个"
+  },
+  {
+   "name": "绿色打地鼠",
+   "location": "西部Birdie小屋南海滩",
+   "how_to_trigger": "用水壶敲地鼠，或用可放置物品堵住3个洞后用斧头/镐打",
+   "reward": "1个金核桃"
+  },
+  {
+   "name": "彩色水晶谜题(西蒙说)",
+   "location": "西部老虎树林东北洞穴",
+   "how_to_trigger": "点狮子开始西蒙说游戏，5轮",
+   "reward": "3个金核桃"
+  },
+  {
+   "name": "香蕉祭坛",
+   "location": "东部Leo小屋楼梯旁",
+   "how_to_trigger": "在祭坛上放一根香蕉",
+   "reward": "大猩猩出现给3个金核桃"
+  },
+  {
+   "name": "金椰子",
+   "location": "姜岛任意地点",
+   "how_to_trigger": "找到金椰子带回星露谷铁匠铺打开",
+   "reward": "第一个必出金核桃"
+  },
+  {
+   "name": "金色Joja鹦鹉",
+   "location": "火山西边",
+   "how_to_trigger": "1.6新增，付费10000g/个查找剩余金核桃",
+   "reward": "所有未发现金核桃"
+  },
+  {
+   "name": "Fizz的完美豁免",
+   "location": "考古场蘑菇洞",
+   "how_to_trigger": "救出Snail教授后在蘑菇洞找Fizz购买",
+   "reward": "可购买完美度豁免权"
+  },
+  {
+   "name": "帐篷包x3",
+   "location": "东部丛林",
+   "how_to_trigger": "1.6新增，丛林中一个包裹",
+   "reward": "3个帐篷包(Tent Kits)"
+  }
+ ],
+ "island_trader": {
+  "unlock": "修复农舍后给鹦鹉10金核桃解锁",
+  "currency": "不使用金币，以物易物",
+  "exclusive_items": [
+   "家具",
+   "Galaxy Soul(银河之魂)有获取限制"
+  ]
+ }
+}

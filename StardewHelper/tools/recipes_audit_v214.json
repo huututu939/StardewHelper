@@ -1,0 +1,877 @@
+{
+ "en_count": 81,
+ "zh_count": 0,
+ "app_count": 59,
+ "matched": [],
+ "renamed": [],
+ "missing": [],
+ "extra": [
+  {
+   "name": "煎蛋卷",
+   "ing": [
+    {
+     "name": "蛋",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "煎鸡蛋",
+   "ing": [
+    {
+     "name": "蛋",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "薯饼",
+   "ing": [
+    {
+     "name": "土豆",
+     "count": 1
+    },
+    {
+     "name": "油",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "薄煎饼",
+   "ing": [
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "蛋",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "炸薯条",
+   "ing": [
+    {
+     "name": "土豆",
+     "count": 1
+    },
+    {
+     "name": "油",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "意大利面",
+   "ing": [
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "番茄",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "披萨",
+   "ing": [
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "番茄",
+     "count": 1
+    },
+    {
+     "name": "奶酪",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "面包",
+   "ing": [
+    {
+     "name": "小麦粉",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "沙拉",
+   "ing": [
+    {
+     "name": "韭葱",
+     "count": 1
+    },
+    {
+     "name": "蒲公英",
+     "count": 1
+    },
+    {
+     "name": "香醋",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "鲤鱼惊喜",
+   "ing": [
+    {
+     "name": "鲤鱼",
+     "count": 1
+    },
+    {
+     "name": "大蒜",
+     "count": 1
+    },
+    {
+     "name": "香醋",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "豆类火锅",
+   "ing": [
+    {
+     "name": "四季豆",
+     "count": 2
+    }
+   ]
+  },
+  {
+   "name": "泰式酸辣汤",
+   "ing": [
+    {
+     "name": "椰子",
+     "count": 1
+    },
+    {
+     "name": "虾",
+     "count": 1
+    },
+    {
+     "name": "蘑菇",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "寿司卷",
+   "ing": [
+    {
+     "name": "任意鱼",
+     "count": 1
+    },
+    {
+     "name": "海草",
+     "count": 1
+    },
+    {
+     "name": "大米",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "玉米饼",
+   "ing": [
+    {
+     "name": "玉米",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "红盘菜",
+   "ing": [
+    {
+     "name": "红甘蓝",
+     "count": 1
+    },
+    {
+     "name": "辣椒",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "冰淇淋",
+   "ing": [
+    {
+     "name": "牛奶",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "矿工零食",
+   "ing": [
+    {
+     "name": "胡萝卜",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "超能餐",
+   "ing": [
+    {
+     "name": "白菜",
+     "count": 1
+    },
+    {
+     "name": "蔓越莓",
+     "count": 1
+    },
+    {
+     "name": "意大利面",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "幸运午餐",
+   "ing": [
+    {
+     "name": "海参",
+     "count": 1
+    },
+    {
+     "name": "玉米饼",
+     "count": 1
+    },
+    {
+     "name": "蓝爵士",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "鱼肉卷",
+   "ing": [
+    {
+     "name": "金枪鱼",
+     "count": 1
+    },
+    {
+     "name": "玉米饼",
+     "count": 1
+    },
+    {
+     "name": "红甘蓝",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "虾鸡尾酒",
+   "ing": [
+    {
+     "name": "虾",
+     "count": 1
+    },
+    {
+     "name": "番茄",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "蛤蜊浓汤",
+   "ing": [
+    {
+     "name": "蛤",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "鱼肉砂锅",
+   "ing": [
+    {
+     "name": "鱼",
+     "count": 1
+    },
+    {
+     "name": "香醋",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "龙虾浓汤",
+   "ing": [
+    {
+     "name": "龙虾",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "蟹黄糕",
+   "ing": [
+    {
+     "name": "蟹",
+     "count": 1
+    },
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "蛋",
+     "count": 1
+    },
+    {
+     "name": "油",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "烤鱼",
+   "ing": [
+    {
+     "name": "任意鱼",
+     "count": 1
+    },
+    {
+     "name": "海草",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "鲑鱼晚餐",
+   "ing": [
+    {
+     "name": "鲑鱼",
+     "count": 1
+    },
+    {
+     "name": "苋菜",
+     "count": 1
+    },
+    {
+     "name": "羽衣甘蓝",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "生鱼片",
+   "ing": [
+    {
+     "name": "任意鱼",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "炒蘑菇",
+   "ing": [
+    {
+     "name": "普通蘑菇",
+     "count": 1
+    },
+    {
+     "name": "松露",
+     "count": 1
+    },
+    {
+     "name": "油",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "烤榛子",
+   "ing": [
+    {
+     "name": "榛子",
+     "count": 3
+    }
+   ]
+  },
+  {
+   "name": "炸鱿鱼",
+   "ing": [
+    {
+     "name": "鱿鱼",
+     "count": 1
+    },
+    {
+     "name": "小麦粉",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "茄子帕玛森",
+   "ing": [
+    {
+     "name": "茄子",
+     "count": 1
+    },
+    {
+     "name": "番茄",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "米布丁",
+   "ing": [
+    {
+     "name": "大米",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "秋日恩赐",
+   "ing": [
+    {
+     "name": "山药",
+     "count": 1
+    },
+    {
+     "name": "南瓜",
+     "count": 1
+    },
+    {
+     "name": "蔓越莓",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "南瓜汤",
+   "ing": [
+    {
+     "name": "南瓜",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "蔬菜杂烩",
+   "ing": [
+    {
+     "name": "番茄",
+     "count": 1
+    },
+    {
+     "name": "甜菜",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "奶酪花椰菜",
+   "ing": [
+    {
+     "name": "花椰菜",
+     "count": 1
+    },
+    {
+     "name": "奶酪",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "黑莓脆饼",
+   "ing": [
+    {
+     "name": "黑莓",
+     "count": 2
+    },
+    {
+     "name": "糖",
+     "count": 1
+    },
+    {
+     "name": "小麦粉",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "蔓越莓酱",
+   "ing": [
+    {
+     "name": "蔓越莓",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "琉璃山药",
+   "ing": [
+    {
+     "name": "山药",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "南瓜派",
+   "ing": [
+    {
+     "name": "南瓜",
+     "count": 1
+    },
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "农家午餐",
+   "ing": [
+    {
+     "name": "煎蛋卷",
+     "count": 1
+    },
+    {
+     "name": "防风草",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "粉红蛋糕",
+   "ing": [
+    {
+     "name": "甜瓜",
+     "count": 1
+    },
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    },
+    {
+     "name": "蛋",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "饼干",
+   "ing": [
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    },
+    {
+     "name": "蛋",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "蝴蝶结面",
+   "ing": [
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "奶酪",
+     "count": 1
+    },
+    {
+     "name": "大蒜",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "防风草汤",
+   "ing": [
+    {
+     "name": "防风草",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    },
+    {
+     "name": "香醋",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "完美早餐",
+   "ing": [
+    {
+     "name": "煎鸡蛋",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    },
+    {
+     "name": "薯饼",
+     "count": 1
+    },
+    {
+     "name": "薄煎饼",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "大黄派",
+   "ing": [
+    {
+     "name": "大黄",
+     "count": 1
+    },
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "蕨菜烩饭",
+   "ing": [
+    {
+     "name": "蕨菜",
+     "count": 1
+    },
+    {
+     "name": "大米",
+     "count": 1
+    },
+    {
+     "name": "油",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "香辣鳗鱼",
+   "ing": [
+    {
+     "name": "鳗鱼",
+     "count": 1
+    },
+    {
+     "name": "辣椒",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "热带咖喱",
+   "ing": [
+    {
+     "name": "椰子",
+     "count": 1
+    },
+    {
+     "name": "菠萝",
+     "count": 1
+    },
+    {
+     "name": "辣椒",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "姜汁汽水",
+   "ing": [
+    {
+     "name": "姜",
+     "count": 3
+    },
+    {
+     "name": "糖",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "香蕉布丁",
+   "ing": [
+    {
+     "name": "香蕉",
+     "count": 1
+    },
+    {
+     "name": "牛奶",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "芒果糯米饭",
+   "ing": [
+    {
+     "name": "芒果",
+     "count": 1
+    },
+    {
+     "name": "椰子",
+     "count": 1
+    },
+    {
+     "name": "大米",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "芋泥",
+   "ing": [
+    {
+     "name": "芋头",
+     "count": 4
+    }
+   ]
+  },
+  {
+   "name": "苔藓汤",
+   "ing": [
+    {
+     "name": "苔藓",
+     "count": 20
+    }
+   ]
+  },
+  {
+   "name": "鱿鱼墨汁饺子",
+   "ing": [
+    {
+     "name": "鱿鱼墨汁",
+     "count": 1
+    },
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "番茄",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "海泡布丁",
+   "ing": [
+    {
+     "name": "比目鱼",
+     "count": 1
+    },
+    {
+     "name": "午夜鲤鱼",
+     "count": 1
+    },
+    {
+     "name": "鱿鱼墨汁",
+     "count": 1
+    }
+   ]
+  },
+  {
+   "name": "巧克力蛋糕",
+   "ing": [
+    {
+     "name": "小麦粉",
+     "count": 1
+    },
+    {
+     "name": "糖",
+     "count": 1
+    },
+    {
+     "name": "蛋",
+     "count": 1
+    }
+   ]
+  }
+ ]
+}

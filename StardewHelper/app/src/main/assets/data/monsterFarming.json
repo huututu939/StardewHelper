@@ -1,0 +1,2443 @@
+{
+ "_note": "XP 为「每只怪」的经验，不是每分钟；击杀耗时无权威数据故不估算速率",
+ "xp_by_area": [
+  {
+   "area": "史前层",
+   "monster_count": 1,
+   "total_xp": 22,
+   "avg_xp": 22.0,
+   "max_xp": 22,
+   "monsters": [
+    {
+     "name": "铱蝠",
+     "xp": 22,
+     "type": "蝙蝠"
+    }
+   ]
+  },
+  {
+   "area": "虎史莱姆林(姜岛)",
+   "monster_count": 1,
+   "total_xp": 20,
+   "avg_xp": 20.0,
+   "max_xp": 20,
+   "monsters": [
+    {
+     "name": "老虎史莱姆",
+     "xp": 20,
+     "type": "史莱姆"
+    }
+   ]
+  },
+  {
+   "area": "困难骷髅矿井",
+   "monster_count": 3,
+   "total_xp": 46,
+   "avg_xp": 15.3,
+   "max_xp": 25,
+   "monsters": [
+    {
+     "name": "皇家飞蛇",
+     "xp": 25,
+     "type": "飞蛇",
+     "conditions": "Qi挑战期间"
+    },
+    {
+     "name": "木乃伊(危险)",
+     "xp": 20,
+     "type": "不死",
+     "floors_text": "骷髅洞(入侵任务期间)",
+     "conditions": "Mr.Qi特别订单期间"
+    },
+    {
+     "name": "甲虫(危险)",
+     "xp": 1,
+     "type": "昆虫",
+     "floors_text": "骷髅洞(入侵任务期间)",
+     "conditions": "Mr.Qi特别订单期间"
+    }
+   ]
+  },
+  {
+   "area": "骷髅洞穴",
+   "monster_count": 10,
+   "total_xp": 151,
+   "avg_xp": 15.1,
+   "max_xp": 22,
+   "monsters": [
+    {
+     "name": "铱蝠",
+     "xp": 22,
+     "type": "蝙蝠",
+     "floors_text": "51+",
+     "floors": [
+      51,
+      null
+     ]
+    },
+    {
+     "name": "巨型紫色史莱姆",
+     "xp": 21,
+     "type": "史莱姆",
+     "floors_text": "全部"
+    },
+    {
+     "name": "石碳幽灵",
+     "xp": 20,
+     "type": "幽灵",
+     "floors_text": "全部"
+    },
+    {
+     "name": "飞蛇",
+     "xp": 20,
+     "type": "飞蛇",
+     "floors_text": "全部"
+    },
+    {
+     "name": "木乃伊",
+     "xp": 20,
+     "type": "其他",
+     "floors_text": "木乃伊房间"
+    },
+    {
+     "name": "熔岩蝙蝠",
+     "xp": 15,
+     "type": "蝙蝠",
+     "floors_text": "20,40"
+    },
+    {
+     "name": "铱蟹",
+     "xp": 15,
+     "type": "螃蟹",
+     "floors_text": "全部"
+    },
+    {
+     "name": "紫色史莱姆",
+     "xp": 10,
+     "type": "史莱姆",
+     "floors_text": "全部",
+     "conditions": "约1%几率"
+    },
+    {
+     "name": "霸王喷火龙",
+     "xp": 7,
+     "type": "其他",
+     "floors_text": "史前层"
+    },
+    {
+     "name": "甲虫",
+     "xp": 1,
+     "type": "昆虫",
+     "floors_text": "全部"
+    }
+   ]
+  },
+  {
+   "area": "火山地牢",
+   "monster_count": 8,
+   "total_xp": 106,
+   "avg_xp": 13.2,
+   "max_xp": 20,
+   "monsters": [
+    {
+     "name": "老虎史莱姆",
+     "xp": 20,
+     "type": "史莱姆"
+    },
+    {
+     "name": "熔岩大头",
+     "xp": 16,
+     "type": "火山"
+    },
+    {
+     "name": "熔岩潜伏怪",
+     "xp": 15,
+     "type": "火山"
+    },
+    {
+     "name": "矮人哨兵",
+     "xp": 15,
+     "type": "火山"
+    },
+    {
+     "name": "熔岩掘地虫",
+     "xp": 10,
+     "type": "挖掘怪"
+    },
+    {
+     "name": "熔岩精灵",
+     "xp": 10,
+     "type": "火山"
+    },
+    {
+     "name": "熔岩火球",
+     "xp": 10,
+     "type": "火山"
+    },
+    {
+     "name": "假熔岩菇",
+     "xp": 10,
+     "type": "火山"
+    }
+   ]
+  },
+  {
+   "area": "危险矿井/困难骷髅矿井",
+   "monster_count": 2,
+   "total_xp": 25,
+   "avg_xp": 12.5,
+   "max_xp": 15,
+   "monsters": [
+    {
+     "name": "鱿鱼娃(危险)",
+     "xp": 15,
+     "type": "其他",
+     "floors_text": "矿井91-119层；骷髅洞入侵期间",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "紫色史莱姆(危险)",
+     "xp": 10,
+     "type": "史莱姆",
+     "floors_text": "危险矿井全层；骷髅洞入侵/暴食任务",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "area": "农场",
+   "monster_count": 11,
+   "total_xp": 115,
+   "avg_xp": 10.5,
+   "max_xp": 22,
+   "monsters": [
+    {
+     "name": "铱蝠",
+     "xp": 22,
+     "type": "蝙蝠",
+     "conditions": "战斗等级10夜间"
+    },
+    {
+     "name": "飞蛇",
+     "xp": 20,
+     "type": "飞蛇",
+     "conditions": "战斗等级10夜间"
+    },
+    {
+     "name": "熔岩蝙蝠",
+     "xp": 15,
+     "type": "蝙蝠",
+     "conditions": "战斗等级8+夜间"
+    },
+    {
+     "name": "暗影狂徒",
+     "xp": 15,
+     "type": "其他",
+     "conditions": "战斗等级8+夜间"
+    },
+    {
+     "name": "红色史莱姆",
+     "xp": 10,
+     "type": "史莱姆",
+     "conditions": "战斗等级8-9夜间"
+    },
+    {
+     "name": "紫色史莱姆",
+     "xp": 10,
+     "type": "史莱姆",
+     "conditions": "战斗等级10夜间"
+    },
+    {
+     "name": "冰冻蝙蝠",
+     "xp": 7,
+     "type": "蝙蝠",
+     "conditions": "战斗等级5+夜间"
+    },
+    {
+     "name": "蓝色史莱姆",
+     "xp": 6,
+     "type": "史莱姆",
+     "conditions": "战斗等级4-7夜间"
+    },
+    {
+     "name": "松露蟹",
+     "xp": 4,
+     "type": "螃蟹",
+     "conditions": "猪挖松露时0.2%几率变身"
+    },
+    {
+     "name": "绿色史莱姆",
+     "xp": 3,
+     "type": "史莱姆",
+     "conditions": "战斗等级0-3夜间"
+    },
+    {
+     "name": "蝙蝠",
+     "xp": 3,
+     "type": "蝙蝠",
+     "conditions": "夜间怪物开启"
+    }
+   ]
+  },
+  {
+   "area": "采石场矿井",
+   "monster_count": 3,
+   "total_xp": 30,
+   "avg_xp": 10.0,
+   "max_xp": 10,
+   "monsters": [
+    {
+     "name": "铜史莱姆",
+     "xp": 10,
+     "type": "史莱姆"
+    },
+    {
+     "name": "铁史莱姆",
+     "xp": 10,
+     "type": "史莱姆"
+    },
+    {
+     "name": "幽灵头骨",
+     "xp": 10,
+     "type": "骷髅"
+    }
+   ]
+  },
+  {
+   "area": "荒野农场",
+   "monster_count": 2,
+   "total_xp": 20,
+   "avg_xp": 10.0,
+   "max_xp": 15,
+   "monsters": [
+    {
+     "name": "铱石魔",
+     "xp": 15,
+     "type": "其他",
+     "conditions": "战斗等级9+夜间"
+    },
+    {
+     "name": "荒野石魔",
+     "xp": 5,
+     "type": "其他",
+     "conditions": "夜间怪物开启，随战斗等级增强"
+    }
+   ]
+  },
+  {
+   "area": "矿井随机层",
+   "monster_count": 1,
+   "total_xp": 10,
+   "avg_xp": 10.0,
+   "max_xp": 10,
+   "monsters": [
+    {
+     "name": "铁史莱姆",
+     "xp": 10,
+     "type": "史莱姆"
+    }
+   ]
+  },
+  {
+   "area": "矿井/骷髅洞穴/采石场矿井",
+   "monster_count": 1,
+   "total_xp": 10,
+   "avg_xp": 10.0,
+   "max_xp": 10,
+   "monsters": [
+    {
+     "name": "五彩史莱姆",
+     "xp": 10,
+     "type": "史莱姆",
+     "floors_text": "任意",
+     "conditions": "巫师特殊订单『彩虹果冻』进行中"
+    }
+   ]
+  },
+  {
+   "area": "矿井地牢层",
+   "monster_count": 1,
+   "total_xp": 10,
+   "avg_xp": 10.0,
+   "max_xp": 10,
+   "monsters": [
+    {
+     "name": "幽灵头骨",
+     "xp": 10,
+     "type": "骷髅"
+    }
+   ]
+  },
+  {
+   "area": "危险矿井",
+   "monster_count": 23,
+   "total_xp": 228,
+   "avg_xp": 9.9,
+   "max_xp": 25,
+   "monsters": [
+    {
+     "name": "腐臭幽灵",
+     "xp": 25,
+     "type": "幽灵",
+     "floors_text": "41-69",
+     "floors": [
+      41,
+      69
+     ],
+     "conditions": "Qi挑战期间"
+    },
+    {
+     "name": "石碳幽灵",
+     "xp": 20,
+     "type": "幽灵",
+     "floors_text": "31-39",
+     "floors": [
+      31,
+      39
+     ]
+    },
+    {
+     "name": "暗影狙击手",
+     "xp": 15,
+     "type": "其他",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ],
+     "conditions": "Qi挑战期间"
+    },
+    {
+     "name": "蓝鱿鱼",
+     "xp": 15,
+     "type": "其他",
+     "floors_text": "1-29",
+     "floors": [
+      1,
+      29
+     ],
+     "conditions": "Qi挑战期间"
+    },
+    {
+     "name": "暗影狂徒(危险)",
+     "xp": 15,
+     "type": "暗影",
+     "floors_text": "矿井81-119层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "暗影萨满(危险)",
+     "xp": 15,
+     "type": "暗影",
+     "floors_text": "矿井81-119层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "幽灵头骨(危险)",
+     "xp": 15,
+     "type": "骷髅",
+     "floors_text": "矿井71-79层及普通危险层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "熔岩蟹(危险)",
+     "xp": 12,
+     "type": "蟹类",
+     "floors_text": "矿井81-119层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "竹节虫",
+     "xp": 10,
+     "type": "昆虫",
+     "floors_text": "41-79",
+     "floors": [
+      41,
+      79
+     ],
+     "conditions": "Qi挑战期间"
+    },
+    {
+     "name": "蜘蛛",
+     "xp": 10,
+     "type": "昆虫",
+     "floors_text": "41-69",
+     "floors": [
+      41,
+      69
+     ],
+     "conditions": "Qi挑战期间"
+    },
+    {
+     "name": "骷髅法师",
+     "xp": 10,
+     "type": "骷髅",
+     "floors_text": "71-79",
+     "floors": [
+      71,
+      79
+     ],
+     "conditions": "Qi挑战期间"
+    },
+    {
+     "name": "苍蝇(危险)",
+     "xp": 10,
+     "type": "昆虫",
+     "floors_text": "矿井41-69层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "掘地虫(危险)",
+     "xp": 10,
+     "type": "其他",
+     "floors_text": "矿井1-29层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "红色史莱姆(危险)",
+     "xp": 10,
+     "type": "史莱姆",
+     "floors_text": "危险矿井全层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "冰冻蝙蝠(危险)",
+     "xp": 7,
+     "type": "蝙蝠",
+     "floors_text": "矿井41-79层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "金属大头(危险)",
+     "xp": 6,
+     "type": "其他",
+     "floors_text": "矿井81-119层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "蓝色史莱姆(危险)",
+     "xp": 6,
+     "type": "史莱姆",
+     "floors_text": "危险矿井全层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "石魔(危险)",
+     "xp": 5,
+     "type": "傀儡",
+     "floors_text": "矿井31-39层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "岩石蟹(危险)",
+     "xp": 4,
+     "type": "蟹类",
+     "floors_text": "矿井1-29层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "绿色史莱姆(危险)",
+     "xp": 3,
+     "type": "史莱姆",
+     "floors_text": "危险矿井全层(墨镜造型)",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "蛆(危险)",
+     "xp": 2,
+     "type": "昆虫",
+     "floors_text": "矿井41-69层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "灰尘精灵(危险)",
+     "xp": 2,
+     "type": "其他",
+     "floors_text": "矿井41-69层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    },
+    {
+     "name": "臭虫(危险)",
+     "xp": 1,
+     "type": "昆虫",
+     "floors_text": "矿井1-39层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "area": "矿井",
+   "monster_count": 23,
+   "total_xp": 204,
+   "avg_xp": 8.9,
+   "max_xp": 21,
+   "monsters": [
+    {
+     "name": "巨型红色史莱姆",
+     "xp": 21,
+     "type": "史莱姆",
+     "floors_text": "80-120",
+     "floors": [
+      80,
+      120
+     ],
+     "conditions": "史莱姆层"
+    },
+    {
+     "name": "熔岩蝙蝠",
+     "xp": 15,
+     "type": "蝙蝠",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    },
+    {
+     "name": "幽灵",
+     "xp": 15,
+     "type": "幽灵",
+     "floors_text": "51-79",
+     "floors": [
+      51,
+      79
+     ]
+    },
+    {
+     "name": "暗影狂徒",
+     "xp": 15,
+     "type": "其他",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    },
+    {
+     "name": "暗影萨满",
+     "xp": 15,
+     "type": "其他",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    },
+    {
+     "name": "鱿鱼娃",
+     "xp": 15,
+     "type": "其他",
+     "floors_text": "91-119",
+     "floors": [
+      91,
+      119
+     ]
+    },
+    {
+     "name": "巨型蓝色史莱姆",
+     "xp": 14,
+     "type": "史莱姆",
+     "floors_text": "40-80",
+     "floors": [
+      40,
+      80
+     ],
+     "conditions": "史莱姆层"
+    },
+    {
+     "name": "红色史莱姆",
+     "xp": 10,
+     "type": "史莱姆",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    },
+    {
+     "name": "苍蝇",
+     "xp": 10,
+     "type": "昆虫",
+     "floors_text": "11-29",
+     "floors": [
+      11,
+      29
+     ]
+    },
+    {
+     "name": "熔岩蟹",
+     "xp": 10,
+     "type": "螃蟹",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    },
+    {
+     "name": "掘地虫",
+     "xp": 10,
+     "type": "挖掘怪",
+     "floors_text": "2-29",
+     "floors": [
+      2,
+      29
+     ]
+    },
+    {
+     "name": "骷髅",
+     "xp": 8,
+     "type": "骷髅",
+     "floors_text": "71-79",
+     "floors": [
+      71,
+      79
+     ]
+    },
+    {
+     "name": "巨型绿色史莱姆",
+     "xp": 7,
+     "type": "史莱姆",
+     "floors_text": "1-40",
+     "floors": [
+      1,
+      40
+     ],
+     "conditions": "史莱姆层"
+    },
+    {
+     "name": "冰冻蝙蝠",
+     "xp": 7,
+     "type": "蝙蝠",
+     "floors_text": "41-79",
+     "floors": [
+      41,
+      79
+     ]
+    },
+    {
+     "name": "蓝色史莱姆",
+     "xp": 6,
+     "type": "史莱姆",
+     "floors_text": "41-79",
+     "floors": [
+      41,
+      79
+     ]
+    },
+    {
+     "name": "金属大头",
+     "xp": 6,
+     "type": "其他",
+     "floors_text": "80-119",
+     "floors": [
+      80,
+      119
+     ]
+    },
+    {
+     "name": "石魔",
+     "xp": 5,
+     "type": "其他",
+     "floors_text": "31-39",
+     "floors": [
+      31,
+      39
+     ]
+    },
+    {
+     "name": "岩石蟹",
+     "xp": 4,
+     "type": "螃蟹",
+     "floors_text": "1-29",
+     "floors": [
+      1,
+      29
+     ]
+    },
+    {
+     "name": "绿色史莱姆",
+     "xp": 3,
+     "type": "史莱姆",
+     "floors_text": "1-29",
+     "floors": [
+      1,
+      29
+     ]
+    },
+    {
+     "name": "蝙蝠",
+     "xp": 3,
+     "type": "蝙蝠",
+     "floors_text": "31-39",
+     "floors": [
+      31,
+      39
+     ]
+    },
+    {
+     "name": "蛆",
+     "xp": 2,
+     "type": "昆虫",
+     "floors_text": "15-29",
+     "floors": [
+      15,
+      29
+     ]
+    },
+    {
+     "name": "灰尘精灵",
+     "xp": 2,
+     "type": "其他",
+     "floors_text": "41-79",
+     "floors": [
+      41,
+      79
+     ]
+    },
+    {
+     "name": "臭虫",
+     "xp": 1,
+     "type": "昆虫",
+     "floors_text": "1-39",
+     "floors": [
+      1,
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "area": "危险矿井/采石场矿井",
+   "monster_count": 1,
+   "total_xp": 8,
+   "avg_xp": 8.0,
+   "max_xp": 8,
+   "monsters": [
+    {
+     "name": "骷髅(危险)",
+     "xp": 8,
+     "type": "骷髅",
+     "floors_text": "矿井71-79层；采石场矿井常驻",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "area": "突变虫穴",
+   "monster_count": 2,
+   "total_xp": 10,
+   "avg_xp": 5.0,
+   "max_xp": 5,
+   "monsters": [
+    {
+     "name": "突变蛆",
+     "xp": 5,
+     "type": "昆虫"
+    },
+    {
+     "name": "突变苍蝇",
+     "xp": 5,
+     "type": "昆虫"
+    }
+   ]
+  },
+  {
+   "area": "秘密森林",
+   "monster_count": 2,
+   "total_xp": 9,
+   "avg_xp": 4.5,
+   "max_xp": 6,
+   "monsters": [
+    {
+     "name": "蓝色史莱姆",
+     "xp": 6,
+     "type": "史莱姆"
+    },
+    {
+     "name": "绿色史莱姆",
+     "xp": 3,
+     "type": "史莱姆",
+     "conditions": "每天固定刷一只"
+    }
+   ]
+  },
+  {
+   "area": "危险矿井(Danger in the Deep/挑战祭坛)",
+   "monster_count": 1,
+   "total_xp": 3,
+   "avg_xp": 3.0,
+   "max_xp": 3,
+   "monsters": [
+    {
+     "name": "蝙蝠(危险)",
+     "xp": 3,
+     "type": "蝙蝠",
+     "floors_text": "矿井31-39层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  }
+ ],
+ "guild_goals": [
+  {
+   "monster": "史莱姆(任意颜色，不含大史莱姆与史莱姆屋)",
+   "kill_goal": 1000,
+   "reward": "史莱姆护身符(Slime Charmer Ring)",
+   "reward_cn_desc": "免疫史莱姆接触伤害",
+   "repurchase_price_g": 25000
+  },
+  {
+   "monster": "蝙蝠(任意类型：普通/霜/熔岩/铱蝠及危险版)",
+   "kill_goal": 200,
+   "reward": "吸血鬼戒指(Vampire Ring)",
+   "reward_cn_desc": "击杀怪物时回复少量生命",
+   "repurchase_price_g": 15000
+  },
+  {
+   "monster": "洞穴昆虫(虫/洞穴蝇/蛆/变异虫/装甲虫及危险版)",
+   "kill_goal": 80,
+   "reward": "虫剑(Insect Head)",
+   "reward_cn_desc": "双手剑，对昆虫有加成",
+   "repurchase_price_g": 10000
+  },
+  {
+   "monster": "骷髅(普通/危险版/骷髅法师)",
+   "kill_goal": 50,
+   "reward": "骷髅面具(Skeleton Mask)",
+   "reward_cn_desc": "面具，红色眼睛神秘发光",
+   "repurchase_price_g": 20000
+  },
+  {
+   "monster": "岩石蟹(岩石/熔岩/铱蟹及危险版)",
+   "kill_goal": 60,
+   "reward": "蟹甲戒指(Crabshell Ring)",
+   "reward_cn_desc": "提高防御，顶部为附魔蟹壳",
+   "repurchase_price_g": 15000
+  },
+  {
+   "monster": "挖掘怪(普通/危险版/岩浆挖掘怪)",
+   "kill_goal": 30,
+   "reward": "安全帽(Hard Hat)",
+   "reward_cn_desc": "保护头部",
+   "repurchase_price_g": 20000
+  },
+  {
+   "monster": "灰尘精灵(普通/危险版)",
+   "kill_goal": 500,
+   "reward": "窃贼戒指(Burglar's Ring)",
+   "reward_cn_desc": "提高怪物掉落物概率",
+   "repurchase_price_g": 20000
+  },
+  {
+   "monster": "虚空精神(暗影野蛮人/萨满/狙击手及危险版)",
+   "kill_goal": 150,
+   "reward": "狂暴戒指(Savage Ring)",
+   "reward_cn_desc": "击杀怪物后短暂提升移动速度",
+   "repurchase_price_g": 25000
+  },
+  {
+   "monster": "木乃伊(普通/危险版)",
+   "kill_goal": 100,
+   "reward": "秘法帽(Arcane Hat)",
+   "reward_cn_desc": "巫师式牛仔帽",
+   "repurchase_price_g": 20000
+  },
+  {
+   "monster": "胡椒Rex",
+   "kill_goal": 50,
+   "reward": "骑士头盔(Knight's Helmet)",
+   "reward_cn_desc": "与真品无异的头盔",
+   "repurchase_price_g": 20000
+  },
+  {
+   "monster": "飞蛇(普通/皇家飞蛇)",
+   "kill_goal": 250,
+   "reward": "凝固汽油戒指(Napalm Ring)",
+   "reward_cn_desc": "击杀敌人时使其爆炸",
+   "repurchase_price_g": 30000
+  },
+  {
+   "monster": "熔岩精灵(熔岩精灵/熔岩火球)",
+   "kill_goal": 150,
+   "reward": "马龙的电话号码(Marlon's Phone Number)",
+   "reward_cn_desc": "可在家用电话启用物品找回服务",
+   "repurchase_price_g": null
+  }
+ ],
+ "notes": [
+  {
+   "topic": "农场夜间刷怪",
+   "text": "农场夜晚按战斗等级刷怪：0-3 级绿史莱姆；4-7 级蓝史莱姆/霜蝙蝠；8-9 级红史莱姆/熔岩蝙蝠/暗影野蛮人；10 级铱蝙蝠/紫史莱姆/飞蛇/铱傀儡。⚠ 农场夜间怪只给 1/3 战斗经验（比下矿差很多）。"
+  },
+  {
+   "topic": "装甲虫经验陷阱",
+   "text": "普通装甲虫 Wiki 家族页继承 Bug 的 HP=1（模板陷阱），实际数值无意义；危险版装甲虫为 HP250 / 伤害 20-27 / 防御 0 / 速度 2 / XP 1。"
+  },
+  {
+   "topic": "没有 Boss 怪",
+   "text": "原版没有 Boss 级怪物（史莱姆王/蝙蝠王并不存在）。最大体型是大史莱姆，已按绿/蓝/红/紫 4 色收录。"
+  }
+ ],
+ "monsters": [
+  {
+   "name": "皇家飞蛇",
+   "type": "飞蛇",
+   "hp": 200,
+   "damage": 30,
+   "defense": 0,
+   "speed": 3,
+   "xp": 25,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "困难骷髅矿井",
+     "conditions": "Qi挑战期间"
+    }
+   ]
+  },
+  {
+   "name": "腐臭幽灵",
+   "type": "幽灵",
+   "hp": 500,
+   "damage": 25,
+   "defense": 3,
+   "speed": 4,
+   "xp": 25,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "41-69",
+     "floors": [
+      41,
+      69
+     ],
+     "conditions": "Qi挑战期间"
+    }
+   ]
+  },
+  {
+   "name": "铱蝠",
+   "type": "蝙蝠",
+   "hp": 300,
+   "damage": 30,
+   "defense": 1,
+   "speed": 3,
+   "xp": 22,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "51+",
+     "floors": [
+      51,
+      null
+     ]
+    },
+    {
+     "area": "史前层"
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级10夜间"
+    }
+   ]
+  },
+  {
+   "name": "巨型紫色史莱姆",
+   "type": "史莱姆",
+   "hp": 240,
+   "damage": 15,
+   "defense": 0,
+   "speed": 2,
+   "xp": 21,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "全部"
+    }
+   ]
+  },
+  {
+   "name": "巨型红色史莱姆",
+   "type": "史莱姆",
+   "hp": 180,
+   "damage": 10,
+   "defense": 0,
+   "speed": 2,
+   "xp": 21,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "80-120",
+     "floors": [
+      80,
+      120
+     ],
+     "conditions": "史莱姆层"
+    }
+   ]
+  },
+  {
+   "name": "木乃伊",
+   "type": "其他",
+   "hp": 260,
+   "damage": 30,
+   "defense": 0,
+   "speed": 2,
+   "xp": 20,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "木乃伊房间"
+    }
+   ]
+  },
+  {
+   "name": "木乃伊(危险)",
+   "type": "不死",
+   "hp": 445,
+   "damage": 38,
+   "defense": 0,
+   "speed": 2,
+   "xp": 20,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "困难骷髅矿井",
+     "floors_text": "骷髅洞(入侵任务期间)",
+     "conditions": "Mr.Qi特别订单期间"
+    }
+   ]
+  },
+  {
+   "name": "石碳幽灵",
+   "type": "幽灵",
+   "hp": 190,
+   "damage": 25,
+   "defense": 3,
+   "speed": 4,
+   "xp": 20,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "全部"
+    },
+    {
+     "area": "危险矿井",
+     "floors_text": "31-39",
+     "floors": [
+      31,
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "name": "老虎史莱姆",
+   "type": "史莱姆",
+   "hp": 415,
+   "damage": 23,
+   "defense": 0,
+   "speed": 2,
+   "xp": 20,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "虎史莱姆林(姜岛)"
+    },
+    {
+     "area": "火山地牢"
+    }
+   ]
+  },
+  {
+   "name": "飞蛇",
+   "type": "飞蛇",
+   "hp": 150,
+   "damage": 23,
+   "defense": 0,
+   "speed": 2,
+   "xp": 20,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "全部"
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级10夜间"
+    }
+   ]
+  },
+  {
+   "name": "熔岩大头",
+   "type": "火山",
+   "hp": 215,
+   "damage": 18,
+   "defense": 8,
+   "speed": 2,
+   "xp": 16,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "火山地牢"
+    }
+   ]
+  },
+  {
+   "name": "幽灵",
+   "type": "幽灵",
+   "hp": 96,
+   "damage": 10,
+   "defense": 3,
+   "speed": 4,
+   "xp": 15,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "51-79",
+     "floors": [
+      51,
+      79
+     ]
+    }
+   ]
+  },
+  {
+   "name": "幽灵头骨(危险)",
+   "type": "骷髅",
+   "hp": 310,
+   "damage": 19,
+   "defense": 2,
+   "speed": 3,
+   "xp": 15,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井71-79层及普通危险层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "暗影狂徒",
+   "type": "其他",
+   "hp": 160,
+   "damage": 18,
+   "defense": 2,
+   "speed": 3,
+   "xp": 15,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级8+夜间"
+    }
+   ]
+  },
+  {
+   "name": "暗影狂徒(危险)",
+   "type": "暗影",
+   "hp": 370,
+   "damage": 22,
+   "defense": 6,
+   "speed": 3,
+   "xp": 15,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井81-119层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "暗影狙击手",
+   "type": "其他",
+   "hp": 100,
+   "damage": 20,
+   "defense": 2,
+   "speed": 3,
+   "xp": 15,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ],
+     "conditions": "Qi挑战期间"
+    }
+   ]
+  },
+  {
+   "name": "暗影萨满",
+   "type": "其他",
+   "hp": 80,
+   "damage": 17,
+   "defense": 2,
+   "speed": 3,
+   "xp": 15,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    }
+   ]
+  },
+  {
+   "name": "暗影萨满(危险)",
+   "type": "暗影",
+   "hp": 310,
+   "damage": 21,
+   "defense": 6,
+   "speed": 3,
+   "xp": 15,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井81-119层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "熔岩潜伏怪",
+   "type": "火山",
+   "hp": 220,
+   "damage": 15,
+   "defense": 0,
+   "speed": 2,
+   "xp": 12,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "火山地牢"
+    }
+   ]
+  },
+  {
+   "name": "熔岩蝙蝠",
+   "type": "蝙蝠",
+   "hp": 80,
+   "damage": 15,
+   "defense": 1,
+   "speed": 3,
+   "xp": 15,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    },
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "20,40"
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级8+夜间"
+    }
+   ]
+  },
+  {
+   "name": "矮人哨兵",
+   "type": "火山",
+   "hp": 300,
+   "damage": 25,
+   "defense": 5,
+   "speed": 3,
+   "xp": 15,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "火山地牢"
+    }
+   ]
+  },
+  {
+   "name": "蓝鱿鱼",
+   "type": "其他",
+   "hp": 120,
+   "damage": 15,
+   "defense": 3,
+   "speed": 3,
+   "xp": 15,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "1-29",
+     "floors": [
+      1,
+      29
+     ],
+     "conditions": "Qi挑战期间"
+    }
+   ]
+  },
+  {
+   "name": "铱石魔",
+   "type": "其他",
+   "hp": 430,
+   "damage": 15,
+   "defense": 1,
+   "speed": 6,
+   "xp": 15,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "荒野农场",
+     "conditions": "战斗等级9+夜间"
+    }
+   ]
+  },
+  {
+   "name": "铱蟹",
+   "type": "螃蟹",
+   "hp": 150,
+   "damage": 15,
+   "defense": 8,
+   "speed": 2,
+   "xp": 15,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "全部"
+    }
+   ]
+  },
+  {
+   "name": "鱿鱼娃",
+   "type": "其他",
+   "hp": 1,
+   "damage": 18,
+   "defense": 2,
+   "speed": 3,
+   "xp": 15,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "91-119",
+     "floors": [
+      91,
+      119
+     ]
+    }
+   ]
+  },
+  {
+   "name": "鱿鱼娃(危险)",
+   "type": "其他",
+   "hp": 250,
+   "damage": 22,
+   "defense": 6,
+   "speed": 3,
+   "xp": 15,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井/困难骷髅矿井",
+     "floors_text": "矿井91-119层；骷髅洞入侵期间",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "巨型蓝色史莱姆",
+   "type": "史莱姆",
+   "hp": 120,
+   "damage": 5,
+   "defense": 0,
+   "speed": 2,
+   "xp": 14,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "40-80",
+     "floors": [
+      40,
+      80
+     ],
+     "conditions": "史莱姆层"
+    }
+   ]
+  },
+  {
+   "name": "熔岩蟹(危险)",
+   "type": "蟹类",
+   "hp": 340,
+   "damage": 19,
+   "defense": 8,
+   "speed": 3,
+   "xp": 12,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井81-119层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "五彩史莱姆",
+   "type": "史莱姆",
+   "hp": 1000,
+   "damage": 35,
+   "defense": 0,
+   "speed": 2,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井/骷髅洞穴/采石场矿井",
+     "floors_text": "任意",
+     "conditions": "巫师特殊订单『彩虹果冻』进行中"
+    }
+   ]
+  },
+  {
+   "name": "假熔岩菇",
+   "type": "火山",
+   "hp": 290,
+   "damage": 15,
+   "defense": 5,
+   "speed": 2,
+   "xp": 14,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "火山地牢"
+    }
+   ]
+  },
+  {
+   "name": "幽灵头骨",
+   "type": "骷髅",
+   "hp": 80,
+   "damage": 15,
+   "defense": 0,
+   "speed": 3,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "采石场矿井"
+    },
+    {
+     "area": "矿井地牢层"
+    }
+   ]
+  },
+  {
+   "name": "掘地虫",
+   "type": "挖掘怪",
+   "hp": 40,
+   "damage": 6,
+   "defense": 0,
+   "speed": 2,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "2-29",
+     "floors": [
+      2,
+      29
+     ]
+    }
+   ]
+  },
+  {
+   "name": "掘地虫(危险)",
+   "type": "其他",
+   "hp": 280,
+   "damage": 8,
+   "defense": 0,
+   "speed": 2,
+   "xp": 10,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井1-29层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "熔岩掘地虫",
+   "type": "挖掘怪",
+   "hp": 380,
+   "damage": 12,
+   "defense": 0,
+   "speed": 2,
+   "xp": 18,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "火山地牢"
+    }
+   ]
+  },
+  {
+   "name": "熔岩火球",
+   "type": "火山",
+   "hp": 310,
+   "damage": 15,
+   "defense": 3,
+   "speed": 3,
+   "xp": 17,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "火山地牢"
+    }
+   ]
+  },
+  {
+   "name": "熔岩精灵",
+   "type": "火山",
+   "hp": 220,
+   "damage": 12,
+   "defense": 2,
+   "speed": 2,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "火山地牢"
+    }
+   ]
+  },
+  {
+   "name": "熔岩蟹",
+   "type": "螃蟹",
+   "hp": 60,
+   "damage": 8,
+   "defense": 3,
+   "speed": 2,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    }
+   ]
+  },
+  {
+   "name": "竹节虫",
+   "type": "昆虫",
+   "hp": 50,
+   "damage": 10,
+   "defense": 2,
+   "speed": 2,
+   "xp": 10,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "41-79",
+     "floors": [
+      41,
+      79
+     ],
+     "conditions": "Qi挑战期间"
+    }
+   ]
+  },
+  {
+   "name": "紫色史莱姆",
+   "type": "史莱姆",
+   "hp": 410,
+   "damage": 16,
+   "defense": 0,
+   "speed": 2,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "全部",
+     "conditions": "约1%几率"
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级10夜间"
+    }
+   ]
+  },
+  {
+   "name": "紫色史莱姆(危险)",
+   "type": "史莱姆",
+   "hp": 820,
+   "damage": 32,
+   "defense": 0,
+   "speed": 2,
+   "xp": 10,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井/困难骷髅矿井",
+     "floors_text": "危险矿井全层；骷髅洞入侵/暴食任务",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "红色史莱姆",
+   "type": "史莱姆",
+   "hp": 205,
+   "damage": 16,
+   "defense": 0,
+   "speed": 2,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "81-119",
+     "floors": [
+      81,
+      119
+     ]
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级8-9夜间"
+    }
+   ]
+  },
+  {
+   "name": "红色史莱姆(危险)",
+   "type": "史莱姆",
+   "hp": 410,
+   "damage": 32,
+   "defense": 0,
+   "speed": 2,
+   "xp": 10,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "危险矿井全层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "苍蝇",
+   "type": "昆虫",
+   "hp": 22,
+   "damage": 6,
+   "defense": 1,
+   "speed": 2,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "11-29",
+     "floors": [
+      11,
+      29
+     ]
+    }
+   ]
+  },
+  {
+   "name": "苍蝇(危险)",
+   "type": "昆虫",
+   "hp": 266,
+   "damage": 13,
+   "defense": 2,
+   "speed": 2,
+   "xp": 10,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井41-69层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "蜘蛛",
+   "type": "昆虫",
+   "hp": 60,
+   "damage": 12,
+   "defense": 2,
+   "speed": 3,
+   "xp": 10,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "41-69",
+     "floors": [
+      41,
+      69
+     ],
+     "conditions": "Qi挑战期间"
+    }
+   ]
+  },
+  {
+   "name": "铁史莱姆",
+   "type": "史莱姆",
+   "hp": 205,
+   "damage": 16,
+   "defense": 0,
+   "speed": 1,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "采石场矿井"
+    },
+    {
+     "area": "矿井随机层"
+    }
+   ]
+  },
+  {
+   "name": "铜史莱姆",
+   "type": "史莱姆",
+   "hp": 102,
+   "damage": 16,
+   "defense": 0,
+   "speed": 4,
+   "xp": 10,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "采石场矿井"
+    }
+   ]
+  },
+  {
+   "name": "骷髅法师",
+   "type": "骷髅",
+   "hp": 80,
+   "damage": 12,
+   "defense": 1,
+   "speed": 2,
+   "xp": 10,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "71-79",
+     "floors": [
+      71,
+      79
+     ],
+     "conditions": "Qi挑战期间"
+    }
+   ]
+  },
+  {
+   "name": "骷髅",
+   "type": "骷髅",
+   "hp": 140,
+   "damage": 10,
+   "defense": 1,
+   "speed": 2,
+   "xp": 8,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "71-79",
+     "floors": [
+      71,
+      79
+     ]
+    }
+   ]
+  },
+  {
+   "name": "骷髅(危险)",
+   "type": "骷髅",
+   "hp": 655,
+   "damage": 16,
+   "defense": 2,
+   "speed": 2,
+   "xp": 8,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井/采石场矿井",
+     "floors_text": "矿井71-79层；采石场矿井常驻",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "冰冻蝙蝠",
+   "type": "蝙蝠",
+   "hp": 36,
+   "damage": 7,
+   "defense": 1,
+   "speed": 3,
+   "xp": 7,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "41-79",
+     "floors": [
+      41,
+      79
+     ]
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级5+夜间"
+    }
+   ]
+  },
+  {
+   "name": "冰冻蝙蝠(危险)",
+   "type": "蝙蝠",
+   "hp": 277,
+   "damage": 14,
+   "defense": 1,
+   "speed": 3,
+   "xp": 7,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井41-79层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "巨型绿色史莱姆",
+   "type": "史莱姆",
+   "hp": 60,
+   "damage": 6,
+   "defense": 0,
+   "speed": 2,
+   "xp": 7,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "1-40",
+     "floors": [
+      1,
+      40
+     ],
+     "conditions": "史莱姆层"
+    }
+   ]
+  },
+  {
+   "name": "霸王喷火龙",
+   "type": "其他",
+   "hp": 300,
+   "damage": 15,
+   "defense": 5,
+   "speed": 2,
+   "xp": 7,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "史前层"
+    }
+   ]
+  },
+  {
+   "name": "蓝色史莱姆",
+   "type": "史莱姆",
+   "hp": 106,
+   "damage": 7,
+   "defense": 0,
+   "speed": 2,
+   "xp": 6,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "41-79",
+     "floors": [
+      41,
+      79
+     ]
+    },
+    {
+     "area": "秘密森林"
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级4-7夜间"
+    }
+   ]
+  },
+  {
+   "name": "蓝色史莱姆(危险)",
+   "type": "史莱姆",
+   "hp": 212,
+   "damage": 14,
+   "defense": 0,
+   "speed": 2,
+   "xp": 6,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "危险矿井全层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "金属大头",
+   "type": "其他",
+   "hp": 40,
+   "damage": 15,
+   "defense": 8,
+   "speed": 2,
+   "xp": 6,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "80-119",
+     "floors": [
+      80,
+      119
+     ]
+    }
+   ]
+  },
+  {
+   "name": "金属大头(危险)",
+   "type": "其他",
+   "hp": 280,
+   "damage": 19,
+   "defense": 24,
+   "speed": 2,
+   "xp": 6,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井81-119层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "石魔",
+   "type": "其他",
+   "hp": 45,
+   "damage": 5,
+   "defense": 5,
+   "speed": 2,
+   "xp": 5,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "31-39",
+     "floors": [
+      31,
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "name": "石魔(危险)",
+   "type": "傀儡",
+   "hp": 283,
+   "damage": 13,
+   "defense": 28,
+   "speed": 2,
+   "xp": 5,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井31-39层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "突变苍蝇",
+   "type": "昆虫",
+   "hp": 40,
+   "damage": 10,
+   "defense": 1,
+   "speed": 2,
+   "xp": 5,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "突变虫穴"
+    }
+   ]
+  },
+  {
+   "name": "突变蛆",
+   "type": "昆虫",
+   "hp": 40,
+   "damage": 8,
+   "defense": 0,
+   "speed": 1,
+   "xp": 5,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "突变虫穴"
+    }
+   ]
+  },
+  {
+   "name": "荒野石魔",
+   "type": "其他",
+   "hp": 80,
+   "damage": 10,
+   "defense": 5,
+   "speed": 2,
+   "xp": 5,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "荒野农场",
+     "conditions": "夜间怪物开启，随战斗等级增强"
+    }
+   ]
+  },
+  {
+   "name": "岩石蟹",
+   "type": "螃蟹",
+   "hp": 30,
+   "damage": 5,
+   "defense": 1,
+   "speed": 2,
+   "xp": 4,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "1-29",
+     "floors": [
+      1,
+      29
+     ]
+    }
+   ]
+  },
+  {
+   "name": "岩石蟹(危险)",
+   "type": "蟹类",
+   "hp": 272,
+   "damage": 13,
+   "defense": 2,
+   "speed": 2,
+   "xp": 4,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井1-29层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "松露蟹",
+   "type": "螃蟹",
+   "hp": 30,
+   "damage": 5,
+   "defense": 1,
+   "speed": 2,
+   "xp": 4,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "农场",
+     "conditions": "猪挖松露时0.2%几率变身"
+    }
+   ]
+  },
+  {
+   "name": "绿色史莱姆",
+   "type": "史莱姆",
+   "hp": 24,
+   "damage": 5,
+   "defense": 1,
+   "speed": 2,
+   "xp": 3,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "1-29",
+     "floors": [
+      1,
+      29
+     ]
+    },
+    {
+     "area": "秘密森林",
+     "conditions": "每天固定刷一只"
+    },
+    {
+     "area": "农场",
+     "conditions": "战斗等级0-3夜间"
+    }
+   ]
+  },
+  {
+   "name": "绿色史莱姆(危险)",
+   "type": "史莱姆",
+   "hp": 48,
+   "damage": 10,
+   "defense": 1,
+   "speed": 2,
+   "xp": 3,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "危险矿井全层(墨镜造型)",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "蝙蝠",
+   "type": "蝙蝠",
+   "hp": 24,
+   "damage": 6,
+   "defense": 1,
+   "speed": 3,
+   "xp": 3,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "31-39",
+     "floors": [
+      31,
+      39
+     ]
+    },
+    {
+     "area": "农场",
+     "conditions": "夜间怪物开启"
+    }
+   ]
+  },
+  {
+   "name": "蝙蝠(危险)",
+   "type": "蝙蝠",
+   "hp": 268,
+   "damage": 13,
+   "defense": 1,
+   "speed": 3,
+   "xp": 3,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井(Danger in the Deep/挑战祭坛)",
+     "floors_text": "矿井31-39层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "灰尘精灵",
+   "type": "其他",
+   "hp": 40,
+   "damage": 6,
+   "defense": 2,
+   "speed": 3,
+   "xp": 2,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "41-79",
+     "floors": [
+      41,
+      79
+     ]
+    }
+   ]
+  },
+  {
+   "name": "灰尘精灵(危险)",
+   "type": "其他",
+   "hp": 280,
+   "damage": 13,
+   "defense": 6,
+   "speed": 3,
+   "xp": 2,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井41-69层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "蛆",
+   "type": "昆虫",
+   "hp": 20,
+   "damage": 4,
+   "defense": 0,
+   "speed": 1,
+   "xp": 2,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "15-29",
+     "floors": [
+      15,
+      29
+     ]
+    }
+   ]
+  },
+  {
+   "name": "蛆(危险)",
+   "type": "昆虫",
+   "hp": 265,
+   "damage": 12,
+   "defense": 0,
+   "speed": 1,
+   "xp": 2,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井41-69层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  },
+  {
+   "name": "甲虫",
+   "type": "昆虫",
+   "hp": 1,
+   "damage": 8,
+   "defense": 0,
+   "speed": 2,
+   "xp": 1,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "骷髅洞穴",
+     "floors_text": "全部"
+    }
+   ]
+  },
+  {
+   "name": "甲虫(危险)",
+   "type": "昆虫",
+   "hp": 250,
+   "damage": 20,
+   "defense": 0,
+   "speed": 2,
+   "xp": 1,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "困难骷髅矿井",
+     "floors_text": "骷髅洞(入侵任务期间)",
+     "conditions": "Mr.Qi特别订单期间"
+    }
+   ]
+  },
+  {
+   "name": "臭虫",
+   "type": "昆虫",
+   "hp": 1,
+   "damage": 8,
+   "defense": 0,
+   "speed": 2,
+   "xp": 1,
+   "variant": "normal",
+   "locations": [
+    {
+     "area": "矿井",
+     "floors_text": "1-39",
+     "floors": [
+      1,
+      39
+     ]
+    }
+   ]
+  },
+  {
+   "name": "臭虫(危险)",
+   "type": "昆虫",
+   "hp": 250,
+   "damage": 15,
+   "defense": 0,
+   "speed": 2,
+   "xp": 1,
+   "variant": "dangerous",
+   "locations": [
+    {
+     "area": "危险矿井",
+     "floors_text": "矿井1-39层",
+     "conditions": "完成冒险家公会危险任务(Danger in the Deep)/激活挑战祭坛后出现"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{{Infobox villager
+|portrait  = Wizard.png
+|birthday  = {{Season|冬季|17}}
+|location  = 煤矿森林
+|address   = [[法师塔]]
+|friends   = {{NPC|Linus}}
+|marriage  = 否
+|favorites = {{name|Book of Mysteries}}{{name|Purple Mushroom}}{{name|Solar Essence}}{{name|Super Cucumber}}{{name|Void Essence}}
+}}
+{{Quote|法师在煤矿森林的塔楼上研究灵界，他精通许多元素语言。|[https://steamcommunity.com/market/listings/753/413150-Wizard%20%28Foil%29 Steam集换式卡牌描述]}}
+'''法师'''的原名为'''M·拉斯莫迪斯'''。他是居住在[[煤矿森林]]西部[[法师塔]]的[[居民]]。
+
+==日程表==
+法师不会离开[[法师塔]]（除了节日)，随时可以在塔的开放时间（6:00至23:00）内找到他。在玩家解锁[[女巫小屋]]后，可以通过女巫小屋内的传送阵传送到法师塔，可以发现法师在23:00后仍呆在塔中。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|啊，这里面充满了强大的奥术能量。这会给我的研究带来巨大的帮助。非常感谢！}} 
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Wizard Surprised.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Book of Mysteries.png|center]]
+|[[谜之书]]
+|{{Description|Book of Mysteries}}
+|[[谜之盒]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|{{Description|Purple Mushroom}}
+|[[采集]] - [[矿井]]
+|-
+|[[File:Solar_Essence.png|center]]
+|[[太阳精华]]
+|{{Description|Solar Essence}}
+|[[怪物战利品]]
+|-
+|[[File:Super Cucumber.png|center]]
+|[[大海参]]
+|{{Description|Super Cucumber}}
+|[[钓鱼]]
+|-
+|[[File:Void_Essence.png|center]]
+|[[虚空精华]]
+|{{Description|Void Essence}}
+|[[怪物战利品]]
+|}
+
+===喜欢===
+{{Squote|非常感谢。这东西有一些很有趣的属性。}}
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Wizard Surprised.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''</li><li>'''所有[[矿物#晶球矿物|晶球矿物]]'''</li><li>'''所有[[饰品]]'''</li></ul>
+|-
+|[[File:Iridium Bar.png|center]]
+|[[铱锭]]
+|{{Description|Iridium Bar}}
+|[[熔炉]]
+|-
+|[[File:Quartz.png|center]]
+|[[石英]]
+|{{Description|Quartz}}
+|[[矿井]]
+|}
+
+===一般===
+{{Squote|谢谢。我想这会很有用的。}} 
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Wizard.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''（除了《[[谜之书]]》）</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]、[[美洲大树莓]]和[[齐瓜]]）</li></ul>
+|}
+
+===不喜欢===
+{{Squote|这个？……我想我可以把它投入火里然后看看会发生什么。}}
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Wizard.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了'''[[矿物#晶球矿物|晶球矿物]]'''、[[铱锭]]、[[大海参]]、[[太阳精华]]、[[虚空精华]]、'''[[饰品]]'''）</li><li>'''所有蛋*'''</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|{{Description|Chanterelle}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|{{Description|Common Mushroom}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|{{Description|Daffodil}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|{{Description|Dandelion}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|{{Description|Hazelnut}}
+|[[采集]] - [[秋季]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|{{Description|Holly}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|{{Description|Leek}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|{{Description|Morel}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|{{Description|Salmonberry}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Slime.png|center]]
+|[[史莱姆泥]]
+|{{Description|Slime}}
+|[[史莱姆]] - [[科罗布斯]] - [[史莱姆球]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|{{Description|Snow Yam}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|{{Description|Wild Horseradish}}
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|{{Description|Winter Root}}
+|[[采集]] - [[冬季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Magma_Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|}
+<nowiki>*</nowiki>''请注意，[[恐龙蛋]]被认为是[[古物]]，而不是可以用于礼物赠予的[[蛋]]。''
+
+===讨厌===
+{{Squote|呃……这些东西很普通。请你以后不要再用它们打扰我。}}
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Wizard.png|48px|center]]
+| colspan="3" | <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''（除了[[史莱姆泥]]）</li></ul>
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物
+|{{MailByType|礼物}}
+|四心
+|<nowiki />
+{{Hearts|4}}
+
+[[法师塔]]的地下室正式对玩家开放。在地下室中，与[[幻觉神龛]]互动，可以花费{{price|500}}重新设定人物形象。
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|人际|{{Snippets|元素|小标题|和[[科罗布斯]]成为室友}}
+{{Squote|和科罗布斯这类生物一起生活是一种考验，不过肯定对双方都很有价值。
+这种不寻常的友谊最终结果会如何，我承认我很感兴趣。<!-- roommates_Krobus -->}} <!-- 法师的 married 和 divorced 目前处理存在一些问题 -->
+|特殊|{{Dialogue|特殊}}
+|备注|<nowiki />
+* 部分节日法师会站在玩家无法前往的位置，此时无法与法师交互，但是数据文件中实际上存在正常对话内容。
+* [[夏威夷宴会]]（奇数年）中，法师提到“鱼群们（The Merpeople）对你们的节日很感兴趣”，此处的鱼群们实际上指的是[[鱼人]]。
+}}
+
+==任务==
+*[[任务#Meet the Wizard|“会见法师”]]：调查[[社区中心]]的[[收集包#工艺室|工艺室]]第一个金色卷轴之后的早上，你会收到一封来自法师的信说他有信息要告诉你。进入[[法师塔]]后，法师将给予你一瓶药剂允许你看懂[[祝尼魔]]的语言 
+
+*[[任务#A Dark Reagent|“黑暗试剂”]]：法师想让你下[[矿井]]找一个[[虚空精华]]。他要用来准备一种黑暗魔法。任务完成后的奖励是{{price|1000}}和1心[[友谊|好感度]]。
+
+*[[任务#Staff of Power|“力量法杖”]]：法师会在第二年冬季的第五天写信给你，要求你提供一个[[铱锭]]。奖励是{{price|5000}}和1心[[友谊|好感度]]。
+
+*[[任务#Dark Talisman|“暗黑护身符”]]：在完成[[社区中心]]全部的[[收集包]]或者[[Joja仓库]]后，在[[铁路]]触发一个新剧情，法师会要求你寻找一个[[黑暗护身符]]。前往[[下水道]]与[[科罗布斯]]进行谈话，他会拆除封锁在[[突变虫穴]]入口的力场。玩家需要在[[突变虫穴]]的一个宝箱内找到[[黑暗护身符]]，然后把护身符放在堵住[[铁路]]区域（北侧）的洞口的古物上。洞内有一个传送符文，可以通往[[巫婆沼泽]]，这会解锁[[任务#Goblin Problem|"哥布林问题"]]任务。
+
+*[[任务#Goblin Problem|“哥布林问题”]]：一旦进入[[巫婆沼泽]]，巫婆的[[仆从]]会挡住玩家前往[[女巫小屋]]的去路。玩家需要送给他一个[[虚空蛋黄酱]]才能让他放行，即可完成该任务。然后进入女巫小屋找到[[魔法墨水]]并将它交给法师。玩家此时可以使用[[女巫小屋]]内的[[女巫小屋#神龛|黑暗神像]]，并解锁可用于[[农场]]的四种[[法师塔#建筑|魔法建筑]]。
+
+*法师可能会要求你杀死一定数量的[[怪物]]，或者在[[皮埃尔的杂货店]]外边的[[任务#求助任务|布告栏]]上随机发布要求为他带来特定数量物品的任务。杀死怪物的奖励因怪物的数量/类型而异，但都是一定数量的黄金。运送物品任务的奖励是物品基本价值的3倍和 150 [[友谊]]点。
+
+*[[任务#The_Pirates_Wife|“海盗的妻子”]]：将[[任务#Arctic_Shard|极寒碎片]]交给法师。
+
+*[[任务# A Curious Substance|“奇特物质”]]: 在[[秋季]]的第一天或之后，法师可能会在[[任务#鹈鹕镇的特别任务|特别任务板]]上随机要求你给予他一个[[灵外质]]。[[灵外质]]可以通过在[[矿井]]中杀死[[幽灵]]获得。任务完成后的奖励是{{price|2500}}和[[迷你图腾尖塔]]的合成配方。
+
+*[[任务# Prismatic Jelly|“五彩胶冻”]]：在[[秋季]]的第一天或之后，法师可能会在[[任务#鹈鹕镇的特别任务|特别任务板]]上随机要求你给予他一个[[五彩胶冻]]。[[五彩胶冻]]可以通过消灭[[史莱姆|五彩的史莱姆]]获得。任务完成后的奖励是{{price|5000}}和[[怪兽香水]]的合成配方。
+
+==你知道吗==
+*因为在游戏开始时法师塔的门锁着，法师并不计入“认识所有人”的[[任务]]中。
+*对法师的介绍会在社区中心的[[祝尼魔]]事件后自然出现，是解锁[[社区中心]]收集任务的一个部分。在见到他的时候，你必须观看整个片段。否则，游戏不会判定你和法师认识（尽管收集任务已解锁）。除非你再去找他一次，否则与他的交谈和友谊任务都不能进行。
+**如果没有解锁社区中心，[[法师塔]]也会在购买Joja会员后解锁。此后，如果要认识法师，玩家必须在任何时候（包括节日期间）与他交谈。
+*虽然在大部分节日中不出现，法师还是对每个节日有独特的对话，其中一些还包括事件的背景故事。
+*法师提到他已经结婚多年，直到他“犯了一个错误”，把他的妻子赶走了。这个错误是什么没有具体说明，但它足以使她因愤怒和嫉妒而变成绿色，大概可以解释她是如何成为一名女巫的。
+*法师怀疑一个村民是他的女儿，要求你不要告诉任何人。与[[卡洛琳]]、[[皮埃尔]]和[[阿比盖尔]]的对话暗示了阿比盖尔可能是法师的女儿；还有一些证据表明法师的女儿也可能是[[艾米丽]]：如艾米丽的头发颜色以及她对超自然的爱好，另外，从玩家与[[海莉]]的对话中可以得知她怀疑艾米丽和自己的血缘关系。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Wizard.png
+File:Wizard Surprised.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==历史==
+{{History|1.3|增加了专门用于法师来信的独特蓝色信纸。}}
+{{History|1.5|添加了任务"奇特物质"和"五彩胶冻"。}}
+
+{{NavboxVillagers}}
+
+{{EN|Wizard}}

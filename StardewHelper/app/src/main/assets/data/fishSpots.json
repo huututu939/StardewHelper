@@ -1,0 +1,1419 @@
+{
+ "spots": [
+  {
+   "name": "小镇河(镇中心段)",
+   "area": "river",
+   "region": "小镇(Pelican Town)"
+  },
+  {
+   "name": "小镇河(北部段/农场下方/森林瀑布)",
+   "area": "river",
+   "region": "小镇"
+  },
+  {
+   "name": "森林河(煤矿森林)",
+   "area": "river",
+   "region": "煤矿森林(Cindersap Forest)"
+  },
+  {
+   "name": "森林湖(秘密森林下方湖)",
+   "area": "lake",
+   "region": "煤矿森林"
+  },
+  {
+   "name": "山顶湖(山区湖)",
+   "area": "lake",
+   "region": "山区(The Mountain)"
+  },
+  {
+   "name": "秘密森林池塘",
+   "area": "secret",
+   "region": "秘密森林"
+  },
+  {
+   "name": "海滩(西海滩)",
+   "area": "ocean",
+   "region": "海滩(The Beach)"
+  },
+  {
+   "name": "海滩(东海滩/断桥后)",
+   "area": "ocean",
+   "region": "海滩"
+  },
+  {
+   "name": "深海(夜市潜艇)",
+   "area": "special",
+   "region": "夜市(Winter 15-17)"
+  },
+  {
+   "name": "下水道",
+   "area": "secret",
+   "region": "下水道"
+  },
+  {
+   "name": "变异虫巢",
+   "area": "secret",
+   "region": "下水道虫巢"
+  },
+  {
+   "name": "沙漠绿洲湖",
+   "area": "lake",
+   "region": "沙漠(Calico Desert)"
+  },
+  {
+   "name": "矿井湖(20层)",
+   "area": "special",
+   "region": "矿井"
+  },
+  {
+   "name": "矿井湖(60层)",
+   "area": "special",
+   "region": "矿井"
+  },
+  {
+   "name": "矿井湖(100层)",
+   "area": "special",
+   "region": "矿井"
+  },
+  {
+   "name": "女巫沼泽",
+   "area": "secret",
+   "region": "女巫沼泽"
+  },
+  {
+   "name": "姜岛海洋",
+   "area": "ocean",
+   "region": "姜岛(Ginger Island)"
+  },
+  {
+   "name": "姜岛河流",
+   "area": "river",
+   "region": "姜岛"
+  },
+  {
+   "name": "火山口湖",
+   "area": "special",
+   "region": "姜岛火山"
+  },
+  {
+   "name": "海盗湾",
+   "area": "ocean",
+   "region": "姜岛"
+  }
+ ],
+ "byFish": {
+  "太阳鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)"
+   ],
+   "xp": 13,
+   "prices": {
+    "normal": 30,
+    "silver": 37,
+    "gold": 45,
+    "iridium": 60
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "鲶鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "秘密森林池塘",
+    "女巫沼泽"
+   ],
+   "xp": 28,
+   "prices": {
+    "normal": 200,
+    "silver": 250,
+    "gold": 300,
+    "iridium": 400
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2400
+    }
+   ]
+  },
+  "西鲱": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)"
+   ],
+   "xp": 18,
+   "prices": {
+    "normal": 60,
+    "silver": 75,
+    "gold": 90,
+    "iridium": 120
+   },
+   "timeRanges": [
+    {
+     "start": 900,
+     "end": 2600
+    }
+   ]
+  },
+  "鲑鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)"
+   ],
+   "xp": 19,
+   "prices": {
+    "normal": 75,
+    "silver": 93,
+    "gold": 112,
+    "iridium": 150
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "大眼鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "森林湖(秘密森林下方湖)",
+    "山顶湖(山区湖)"
+   ],
+   "xp": 18,
+   "prices": {
+    "normal": 105,
+    "silver": 131,
+    "gold": 157,
+    "iridium": 210
+   },
+   "timeRanges": [
+    {
+     "start": 1200,
+     "end": 2600
+    }
+   ]
+  },
+  "河鲈": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "森林湖(秘密森林下方湖)",
+    "山顶湖(山区湖)"
+   ],
+   "xp": 14,
+   "prices": {
+    "normal": 55,
+    "silver": 68,
+    "gold": 82,
+    "iridium": 110
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "狗鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "森林湖(秘密森林下方湖)"
+   ],
+   "xp": 23,
+   "prices": {
+    "normal": 100,
+    "silver": 125,
+    "gold": 150,
+    "iridium": 200
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "虹鳟鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "山顶湖(山区湖)"
+   ],
+   "xp": 18,
+   "prices": {
+    "normal": 65,
+    "silver": 81,
+    "gold": 97,
+    "iridium": 130
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "蛇齿单线鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "山顶湖(山区湖)"
+   ],
+   "xp": 31,
+   "prices": {
+    "normal": 120,
+    "silver": 150,
+    "gold": 180,
+    "iridium": 240
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "虎纹鳟鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)"
+   ],
+   "xp": 23,
+   "prices": {
+    "normal": 150,
+    "silver": 187,
+    "gold": 225,
+    "iridium": 300
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "小嘴鲈鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "森林湖(秘密森林下方湖)"
+   ],
+   "xp": 12,
+   "prices": {
+    "normal": 50,
+    "silver": 62,
+    "gold": 75,
+    "iridium": 100
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "鲷鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)"
+   ],
+   "xp": 14,
+   "prices": {
+    "normal": 45,
+    "silver": 56,
+    "gold": 67,
+    "iridium": 90
+   },
+   "timeRanges": [
+    {
+     "start": 1800,
+     "end": 2600
+    }
+   ]
+  },
+  "鲢鱼": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "山顶湖(山区湖)"
+   ],
+   "xp": 14,
+   "prices": {
+    "normal": 50,
+    "silver": 62,
+    "gold": 75,
+    "iridium": 100
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "鮟鱇鱼": {
+   "spots": [
+    "小镇河(镇中心段)"
+   ],
+   "xp": 155,
+   "prices": {
+    "normal": 900,
+    "silver": 1125,
+    "gold": 1350,
+    "iridium": 1800
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "鱼王"
+  },
+  "雌鮟鱇鱼": {
+   "spots": [
+    "小镇河(镇中心段)"
+   ],
+   "xp": 31,
+   "prices": {
+    "normal": 900,
+    "silver": 1125,
+    "gold": 1350,
+    "iridium": 1800
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "1.6 鱼王"
+  },
+  "河凝胶": {
+   "spots": [
+    "小镇河(镇中心段)",
+    "小镇河(北部段/农场下方/森林瀑布)",
+    "森林河(煤矿森林)",
+    "森林湖(秘密森林下方湖)",
+    "山顶湖(山区湖)",
+    "秘密森林池塘",
+    "沙漠绿洲湖",
+    "姜岛河流"
+   ],
+   "xp": 3,
+   "prices": {
+    "normal": 125,
+    "silver": 156,
+    "gold": 187,
+    "iridium": 250
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "虾虎鱼": {
+   "spots": [
+    "森林河(煤矿森林)"
+   ],
+   "xp": 21,
+   "prices": {
+    "normal": 150,
+    "silver": 187,
+    "gold": 225,
+    "iridium": 300
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "麻哈脂鲤": {
+   "spots": [
+    "森林河(煤矿森林)"
+   ],
+   "xp": 29,
+   "prices": {
+    "normal": 100,
+    "silver": 125,
+    "gold": 150,
+    "iridium": 200
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "午夜鲤鱼": {
+   "spots": [
+    "森林湖(秘密森林下方湖)",
+    "山顶湖(山区湖)",
+    "姜岛河流"
+   ],
+   "xp": 21,
+   "prices": {
+    "normal": 150,
+    "silver": 187,
+    "gold": 225,
+    "iridium": 300
+   },
+   "timeRanges": [
+    {
+     "start": 2200,
+     "end": 2600
+    }
+   ]
+  },
+  "冰川鱼": {
+   "spots": [
+    "森林湖(秘密森林下方湖)"
+   ],
+   "xp": 180,
+   "prices": {
+    "normal": 1000,
+    "silver": 1250,
+    "gold": 1500,
+    "iridium": 2000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "鱼王"
+  },
+  "小冰川鱼": {
+   "spots": [
+    "森林湖(秘密森林下方湖)"
+   ],
+   "xp": 36,
+   "prices": {
+    "normal": 1000,
+    "silver": 1250,
+    "gold": 1500,
+    "iridium": 2000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "1.6 鱼王"
+  },
+  "大嘴鲈鱼": {
+   "spots": [
+    "山顶湖(山区湖)"
+   ],
+   "xp": 19,
+   "prices": {
+    "normal": 100,
+    "silver": 125,
+    "gold": 150,
+    "iridium": 200
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "大头鱼": {
+   "spots": [
+    "山顶湖(山区湖)"
+   ],
+   "xp": 18,
+   "prices": {
+    "normal": 75,
+    "silver": 93,
+    "gold": 112,
+    "iridium": 150
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "鲟鱼": {
+   "spots": [
+    "山顶湖(山区湖)"
+   ],
+   "xp": 29,
+   "prices": {
+    "normal": 200,
+    "silver": 250,
+    "gold": 300,
+    "iridium": 400
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "鲤鱼": {
+   "spots": [
+    "山顶湖(山区湖)",
+    "秘密森林池塘",
+    "下水道",
+    "变异虫巢"
+   ],
+   "xp": 8,
+   "prices": {
+    "normal": 30,
+    "silver": 37,
+    "gold": 45,
+    "iridium": 60
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "传说之鱼": {
+   "spots": [
+    "山顶湖(山区湖)"
+   ],
+   "xp": 195,
+   "prices": {
+    "normal": 5000,
+    "silver": 6250,
+    "gold": 7500,
+    "iridium": 10000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "鱼王"
+  },
+  "传说之鱼二代": {
+   "spots": [
+    "山顶湖(山区湖)"
+   ],
+   "xp": 39,
+   "prices": {
+    "normal": 5000,
+    "silver": 6250,
+    "gold": 7500,
+    "iridium": 10000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "1.6 鱼王"
+  },
+  "木跃鱼": {
+   "spots": [
+    "秘密森林池塘"
+   ],
+   "xp": 19,
+   "prices": {
+    "normal": 75,
+    "silver": 93,
+    "gold": 112,
+    "iridium": 150
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "河豚": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)",
+    "姜岛海洋"
+   ],
+   "xp": 29,
+   "prices": {
+    "normal": 200,
+    "silver": 250,
+    "gold": 300,
+    "iridium": 400
+   },
+   "timeRanges": [
+    {
+     "start": 1200,
+     "end": 1600
+    }
+   ]
+  },
+  "鳀鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 13,
+   "prices": {
+    "normal": 30,
+    "silver": 37,
+    "gold": 45,
+    "iridium": 60
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "金枪鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)",
+    "姜岛海洋"
+   ],
+   "xp": 26,
+   "prices": {
+    "normal": 100,
+    "silver": 125,
+    "gold": 150,
+    "iridium": 200
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "沙丁鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 13,
+   "prices": {
+    "normal": 40,
+    "silver": 50,
+    "gold": 60,
+    "iridium": 80
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "红鲻鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 21,
+   "prices": {
+    "normal": 75,
+    "silver": 93,
+    "gold": 112,
+    "iridium": 150
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "鲱鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 11,
+   "prices": {
+    "normal": 30,
+    "silver": 37,
+    "gold": 45,
+    "iridium": 60
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "鳗鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 26,
+   "prices": {
+    "normal": 85,
+    "silver": 106,
+    "gold": 127,
+    "iridium": 170
+   },
+   "timeRanges": [
+    {
+     "start": 1600,
+     "end": 2600
+    }
+   ]
+  },
+  "章鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)",
+    "深海(夜市潜艇)",
+    "姜岛海洋"
+   ],
+   "xp": 34,
+   "prices": {
+    "normal": 150,
+    "silver": 187,
+    "gold": 225,
+    "iridium": 300
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1300
+    }
+   ]
+  },
+  "红鲷鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 16,
+   "prices": {
+    "normal": 50,
+    "silver": 62,
+    "gold": 75,
+    "iridium": 100
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "鱿鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 28,
+   "prices": {
+    "normal": 80,
+    "silver": 100,
+    "gold": 120,
+    "iridium": 160
+   },
+   "timeRanges": [
+    {
+     "start": 1800,
+     "end": 2600
+    }
+   ]
+  },
+  "海参": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)",
+    "深海(夜市潜艇)"
+   ],
+   "xp": 16,
+   "prices": {
+    "normal": 75,
+    "silver": 93,
+    "gold": 112,
+    "iridium": 150
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1900
+    }
+   ]
+  },
+  "比目鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)",
+    "姜岛海洋"
+   ],
+   "xp": 19,
+   "prices": {
+    "normal": 100,
+    "silver": 125,
+    "gold": 150,
+    "iridium": 200
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2000
+    }
+   ]
+  },
+  "青花鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 23,
+   "prices": {
+    "normal": 75,
+    "silver": 93,
+    "gold": 112,
+    "iridium": 150
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1100
+    },
+    {
+     "start": 1800,
+     "end": 2600
+    }
+   ]
+  },
+  "大比目鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 19,
+   "prices": {
+    "normal": 80,
+    "silver": 100,
+    "gold": 120,
+    "iridium": 160
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1100
+    },
+    {
+     "start": 1900,
+     "end": 2600
+    }
+   ]
+  },
+  "罗非鱼": {
+   "spots": [
+    "海滩(西海滩)",
+    "姜岛海洋",
+    "姜岛河流"
+   ],
+   "xp": 19,
+   "prices": {
+    "normal": 75,
+    "silver": 93,
+    "gold": 112,
+    "iridium": 150
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 1400
+    }
+   ]
+  },
+  "海凝胶": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)",
+    "深海(夜市潜艇)",
+    "姜岛海洋"
+   ],
+   "xp": 3,
+   "prices": {
+    "normal": 200,
+    "silver": 250,
+    "gold": 300,
+    "iridium": 400
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "绯红鱼": {
+   "spots": [
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 170,
+   "prices": {
+    "normal": 1500,
+    "silver": 1875,
+    "gold": 2250,
+    "iridium": 3000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "鱼王"
+  },
+  "绯红鱼之子": {
+   "spots": [
+    "海滩(东海滩/断桥后)"
+   ],
+   "xp": 34,
+   "prices": {
+    "normal": 1500,
+    "silver": 1875,
+    "gold": 2250,
+    "iridium": 3000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "1.6 鱼王"
+  },
+  "午夜鱿鱼": {
+   "spots": [
+    "深海(夜市潜艇)"
+   ],
+   "xp": 21,
+   "prices": {
+    "normal": 100,
+    "silver": 125,
+    "gold": 150,
+    "iridium": 200
+   },
+   "timeRanges": [
+    {
+     "start": 1700,
+     "end": 2600
+    }
+   ]
+  },
+  "幽灵鱼": {
+   "spots": [
+    "深海(夜市潜艇)"
+   ],
+   "xp": 23,
+   "prices": {
+    "normal": 220,
+    "silver": 275,
+    "gold": 330,
+    "iridium": 440
+   },
+   "timeRanges": [
+    {
+     "start": 1700,
+     "end": 2600
+    }
+   ]
+  },
+  "水滴鱼": {
+   "spots": [
+    "深海(夜市潜艇)"
+   ],
+   "xp": 28,
+   "prices": {
+    "normal": 500,
+    "silver": 625,
+    "gold": 750,
+    "iridium": 1000
+   },
+   "timeRanges": [
+    {
+     "start": 1700,
+     "end": 2600
+    }
+   ]
+  },
+  "变种鲤鱼": {
+   "spots": [
+    "下水道"
+   ],
+   "xp": 145,
+   "prices": {
+    "normal": 1000,
+    "silver": 1250,
+    "gold": 1500,
+    "iridium": 2000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "鱼王"
+  },
+  "放射性鲤鱼": {
+   "spots": [
+    "下水道"
+   ],
+   "xp": 29,
+   "prices": {
+    "normal": 1000,
+    "silver": 1250,
+    "gold": 1500,
+    "iridium": 2000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ],
+   "legendary": "1.6 鱼王"
+  },
+  "史莱姆鱼": {
+   "spots": [
+    "变异虫巢"
+   ],
+   "xp": 21,
+   "prices": {
+    "normal": 100,
+    "silver": 125,
+    "gold": 150,
+    "iridium": 200
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "沙鱼": {
+   "spots": [
+    "沙漠绿洲湖"
+   ],
+   "xp": 24,
+   "prices": {
+    "normal": 75,
+    "silver": 93,
+    "gold": 112,
+    "iridium": 150
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2000
+    }
+   ]
+  },
+  "蝎鲤鱼": {
+   "spots": [
+    "沙漠绿洲湖"
+   ],
+   "xp": 33,
+   "prices": {
+    "normal": 150,
+    "silver": 187,
+    "gold": 225,
+    "iridium": 300
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2000
+    }
+   ]
+  },
+  "石鱼": {
+   "spots": [
+    "矿井湖(20层)"
+   ],
+   "xp": 24,
+   "prices": {
+    "normal": 300,
+    "silver": 375,
+    "gold": 450,
+    "iridium": 600
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "鬼鱼": {
+   "spots": [
+    "矿井湖(20层)",
+    "矿井湖(60层)"
+   ],
+   "xp": 19,
+   "prices": {
+    "normal": 45,
+    "silver": 56,
+    "gold": 67,
+    "iridium": 90
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "洞穴凝胶": {
+   "spots": [
+    "矿井湖(20层)",
+    "矿井湖(60层)",
+    "矿井湖(100层)"
+   ],
+   "xp": 3,
+   "prices": {
+    "normal": 180,
+    "silver": 225,
+    "gold": 270,
+    "iridium": 360
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "冰柱鱼": {
+   "spots": [
+    "矿井湖(60层)"
+   ],
+   "xp": 31,
+   "prices": {
+    "normal": 500,
+    "silver": 625,
+    "gold": 750,
+    "iridium": 1000
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "岩浆鳗鱼": {
+   "spots": [
+    "矿井湖(100层)",
+    "火山口湖"
+   ],
+   "xp": 33,
+   "prices": {
+    "normal": 700,
+    "silver": 875,
+    "gold": 1050,
+    "iridium": 1400
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "虚空鲑鱼": {
+   "spots": [
+    "女巫沼泽"
+   ],
+   "xp": 29,
+   "prices": {
+    "normal": 150,
+    "silver": 187,
+    "gold": 225,
+    "iridium": 300
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "狮子鱼": {
+   "spots": [
+    "姜岛海洋"
+   ],
+   "xp": 19,
+   "prices": {
+    "normal": 100,
+    "silver": 125,
+    "gold": 150,
+    "iridium": 200
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "蓝铁饼鱼": {
+   "spots": [
+    "姜岛河流"
+   ],
+   "xp": 23,
+   "prices": {
+    "normal": 120,
+    "silver": 150,
+    "gold": 180,
+    "iridium": 240
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "黄貂鱼": {
+   "spots": [
+    "海盗湾"
+   ],
+   "xp": 29,
+   "prices": {
+    "normal": 180,
+    "silver": 225,
+    "gold": 270,
+    "iridium": 360
+   },
+   "timeRanges": [
+    {
+     "start": 600,
+     "end": 2600
+    }
+   ]
+  },
+  "大海参": {
+   "spots": [
+    "海滩(西海滩)",
+    "海滩(东海滩/断桥后)",
+    "深海(夜市潜艇)",
+    "姜岛海洋"
+   ],
+   "xp": 29,
+   "prices": {
+    "normal": 250,
+    "silver": 312,
+    "gold": 375,
+    "iridium": 500
+   },
+   "timeRanges": [
+    {
+     "start": 1800,
+     "end": 2600
+    }
+   ]
+  }
+ },
+ "crabPot": {
+  "蛤": {
+   "price": 50,
+   "water": "ocean",
+   "note": "1.6起被视为鱼；海滩可觅食",
+   "chance": 0.09
+  },
+  "龙虾": {
+   "price": 120,
+   "water": "ocean",
+   "note": "",
+   "chance": 0.04
+  },
+  "小龙虾": {
+   "price": 75,
+   "water": "freshwater",
+   "note": "",
+   "chance": 0.21
+  },
+  "螃蟹": {
+   "price": 100,
+   "water": "ocean",
+   "note": "岩石蟹15%/熔岩蟹25%掉落",
+   "chance": 0.08
+  },
+  "鸟蛤": {
+   "price": 50,
+   "water": "ocean",
+   "note": "",
+   "chance": 0.09
+  },
+  "蚌": {
+   "price": 30,
+   "water": "ocean",
+   "note": "",
+   "chance": 0.09
+  },
+  "牡蛎": {
+   "price": 40,
+   "water": "ocean",
+   "note": "",
+   "chance": 0.1
+  },
+  "虾": {
+   "price": 60,
+   "water": "ocean",
+   "note": "",
+   "chance": 0.09
+  },
+  "蜗牛": {
+   "price": 65,
+   "water": "freshwater",
+   "note": "",
+   "chance": 0.21
+  },
+  "玉黍螺": {
+   "price": 20,
+   "water": "freshwater",
+   "note": "",
+   "chance": 0.21
+  }
+ }
+}

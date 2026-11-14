@@ -1,0 +1,232 @@
+{{About|名称为“晶球”的物品|其他晶球|矿物#晶球}}
+<onlyinclude>{{{{{1|Infobox item}}}
+|name      = 晶球
+|eng       = Geode
+|source    = [[矿井|采矿]] • [[钓鱼#宝箱|钓鱼宝箱]] • [[掘地虫]]
+|sellprice = 50
+|quality   = false
+}}</onlyinclude>
+'''晶球'''是一种包含着[[矿物]]、[[古物]]、[[矿石]]或基础资源的一种[[矿物#晶球|晶球]]。晶球可以通过在[[矿井]]的 1~39 层中敲碎石头或破坏木桶获得。也可以通过敲碎“[[采矿#石头和采矿点|矿井外的石头]]”或打开[[钓鱼#宝箱|钓鱼宝箱]]获得。杀死[[矿井]]中的[[掘地虫]]也有 25% 的概率会掉落晶球。在[[冬日星盛宴]]上，如果给玩家送礼物的村民是[[克林特]]或儿童，玩家也可能获得 5 个或 1 个晶球。当饲养有[[石鱼]]的[[鱼塘]]在数量到达 9 时，每天有一定几率产出 1 个或 5 个晶球。
+
+晶球也可以通过敲碎[[采矿#Geode Node|晶球矿]]获得，这种石头只会出现在[[农场地图#Hilltop|山顶农场]]和[[农场地图#Four Corners|四角农场]]的小型采石场中。翻动博物馆外的[[垃圾桶]]也有概率找到晶球。如果玩家选择了[[农场地图#Beach|海滩农场]]，且[[农舍]]未进行过升级，则有概率从[[补给箱]]中获得 2~4 个晶球。玩家无法在第 1 年春季 1 日时通过敲碎石头获得晶球<ref name="newgame" />。在解锁[[铁路]]以后，第 2 年春季 8 日前经过的火车也有概率掉落晶球。
+
+晶球可以交给[[铁匠铺]]的[[克林特]]敲开以获取其中的物品，费用为{{price|25}}。它也可使用[[晶球破开器]]打开。
+
+[[运气#每日运气|每日运气]]和[[运气#增益效果|运气增益]]都不会影响晶球的开出物品。
+
+==晶球内的物品==
+===古物===
+{|class="wikitable roundedborder"
+!图片
+!名称
+!描述
+!售价
+!出现几率
+|-
+|[[File:Dwarvish Helm.png|center]]
+|[[矮人头盔]]
+|{{Description|Dwarvish Helm}}
+|{{price|100}}
+|{{Probability|1/32}}
+|}
+
+===可采集矿物===
+{|class="wikitable roundedborder"
+!图片
+!名称
+!描述
+!售价
+!出现几率
+|-
+|[[File:Earth Crystal.png|center]]
+|[[地晶]]
+|{{Description|Earth Crystal}}
+|{{price|50}}
+|{{Probability|1/16}}
+|}
+
+===晶球矿物===
+{|class="wikitable sortable roundedborder"
+!图片
+!名称
+!描述
+!售价
+!出现几率
+|-
+|[[File:Alamite.png|center]]
+|[[透闪石]]
+|{{Description|Alamite}}
+|data-sort-value=0150|{{price|150}}
+|{{Probability|1/32}}
+|-
+|[[File:Calcite.png|center]]
+|[[方解石]]
+|{{Description|Calcite}}
+|data-sort-value=0075|{{price|75}}
+|{{Probability|1/32}}
+|-
+|[[File:Celestine.png|center]]
+|[[天青石]]
+|{{Description|Celestine}}
+|data-sort-value=0125|{{price|125}}
+|{{Probability|1/32}}
+|-
+|[[File:Granite.png|center]]
+|[[花岗岩]]
+|{{Description|Granite}}
+|data-sort-value=0075|{{price|75}}
+|{{Probability|1/32}}
+|-
+|[[File:Jagoite.png|center]]
+|[[铁铅矿]]
+|{{Description|Jagoite}}
+|data-sort-value=0115|{{price|115}}
+|{{Probability|1/32}}
+|-
+|[[File:Jamborite.png|center]]
+|[[绿水镍矿]]
+|{{Description|Jamborite}}
+|data-sort-value=0150|{{price|150}}
+|{{Probability|1/32}}
+|-
+|[[File:Limestone.png|center]]
+|[[石灰石]]
+|{{Description|Limestone}}
+|data-sort-value=0015|{{price|15}}
+|{{Probability|1/32}}
+|-
+|[[File:Malachite.png|center]]
+|[[孔雀石]]
+|{{Description|Malachite}}
+|data-sort-value=0100|{{price|100}}
+|{{Probability|1/32}}
+|-
+|[[File:Mudstone.png|center]]
+|[[泥石]]
+|{{Description|Mudstone}}
+|data-sort-value=0025|{{price|25}}
+|{{Probability|1/32}}
+|-
+|[[File:Nekoite.png|center]]
+|[[新硅钙石]]
+|{{Description|Nekoite}}
+|data-sort-value=0080|{{price|80}}
+|{{Probability|1/32}}
+|-
+|[[File:Orpiment.png|center]]
+|[[雌黄]]
+|{{Description|Orpiment}}
+|data-sort-value=0080|{{price|80}}
+|{{Probability|1/32}}
+|-
+|[[File:Petrified Slime.png|center]]
+|[[石化史莱姆]]
+|{{Description|Petrified Slime}}
+|data-sort-value=0120|{{price|120}}
+|{{Probability|1/32}}
+|-
+|[[File:Sandstone.png|center]]
+|[[沙岩]]
+|{{Description|Sandstone}}
+|data-sort-value=0060|{{price|60}}
+|{{Probability|1/32}}
+|-
+|[[File:Slate.png|center]]
+|[[板岩]]
+|{{Description|Slate}}
+|data-sort-value=0085|{{price|85}}
+|{{Probability|1/32}}
+|-
+|[[File:Thunder Egg.png|center]]
+|[[雷公蛋]]
+|{{Description|Thunder Egg}}
+|data-sort-value=0100|{{price|100}}
+|{{Probability|1/32}}
+|-
+|}
+
+===资源===
+注意，玩家只有在达到[[矿井]]的26层后，才能从晶球中获得铁矿石。在未到达26层前，玩家把晶球交给[[克林特]]敲开，只能获得铜矿石。
+{|class="wikitable sortable roundedborder"
+!图片
+!名称
+!描述
+!售价
+!出现几率
+! style="min-width: 110px;" | 数量
+|-
+|[[File:Clay.png|center]]
+|[[粘土]]
+|{{Description|Clay}}
+|data-sort-value=0020|{{price|20}}
+|{{Probability|1/16}}
+| style="text-align: center;" | 1 个
+|-
+|[[File:Stone.png|center]]
+|[[石头]]
+|{{Description|Stone}}
+|data-sort-value=0002|{{price|2}}
+|{{Probability|1/8}}
+| rowspan="4" style="text-align: center;" | 1.0% - 20个 <br/> 9.9% - 10个 <br/> 29.7% - 5个 <br/> 29.7% - 3个 <br/> 29.7% - 1个 <br/> 平均 3.86 个
+|-
+|[[File:Coal.png|center]]
+|[[煤炭]]
+|{{Description|Coal}}
+|data-sort-value=0015|{{price|15}}
+|{{Probability|1/12}}
+|-
+|[[File:Copper Ore.png|center]]
+|[[铜矿石]]
+|{{Description|Copper Ore}}
+|data-sort-value=0005|{{price|5}}
+|{{Probability|1/12}}
+|-
+|[[File:Iron Ore.png|center]]
+|[[铁矿石]]
+|{{Description|Iron Ore}}
+|data-sort-value=0010|{{price|10}}
+|{{Probability|1/12}}
+|-
+|}
+
+==送礼==
+{{GiftsByItem}}
+
+==裁制==
+晶球可通过[[缝纫机]]使用[[布料]]制成 {{name|Shirt160|class=inline|link=裁缝#上衣{{!}}灰色卫衣}}。晶球可用于[[染色]]。放置在[[染色#染料罐|染料罐]]内时，晶球可用作'''橙色'''染料。放置在[[染色#缝纫机|缝纫机]]内时，晶球还可用作'''棕色'''染料。
+
+==任务==
+* 饲养有[[太阳鱼]]的[[鱼塘]]在数量从3提升到5的时候，会出现要求玩家提供2个晶球的[[鱼塘#任务|鱼塘任务]]。
+* 饲养有[[石鱼]]的[[鱼塘]]在数量从5提升到7的时候，会出现要求玩家提供5个晶球的[[鱼塘#任务|鱼塘任务]]。
+*[[大树桩（地点）#浣熊的请求|大树桩]]浣熊的第五个任务、第六个以及之后的任务可能会要求玩家提供8个晶球。
+
+==你知道吗==
+* 将每个内容物的售价、获得概率和平均获得数量（包括矿石、粘土和石头）相乘，然后再将四种内容物的预期利润相加，便可以得到打开单个晶球的平均利润。晶球的平均回报为{{Price|59.94}}。在有[[技能#采矿|宝石专家职业]]加成下，晶球的平均回报为{{Price|73.58}}。通过出货箱售卖晶球的价格为{{Price|50}}。因此，使用[[晶球破开器]]打开晶球并出售内容物是有利润的。
+{| class="wikitable sortable"
+|+ 每个晶球在不同打开方法和不同出售条件下的净利润对比
+|-
+! 打开方法 !! 无职业 !! [[File:Gemologist.png|24px|link=]]宝石专家
+|-
+| [[File:Clint_Icon.png|24px|link=]] [[克林特]] ||style="background-color: #FA8072| {{price|-15.06}} ||style="background-color: #FA8072| {{price|-2.42}}
+|-
+| [[File:Geode_Crusher.png|24px|link=]] [[晶球破开器]] || {{price|9.94}} || {{price|22.58}}
+|}
+
+==参考==
+<references>
+    <ref name="newgame">参见游戏代码中的<samp>GameLocation::OnStoneDestroyed</samp> </ref>
+</references>
+
+==站内工具==
+*可在[[存档事件预测]]处选择并提交存档来预测敲开晶球会获得的物品。
+
+==历史==
+{{History|1.4|现在可用于[[裁缝]]。可用于[[鱼塘]]的任务中。现在可由鱼塘产出。}}
+{{History|1.5|现在可从[[农场地图#Beach|海滩农场]]上的[[补给箱]]中获得。}}
+{{History|1.6|现在是浣熊任务的随机需求物品。开采[[随机事件#陨石|陨石]]不再获得晶球。}}
+
+{{NavboxMinerals}}
+
+[[Category:晶球]]
+
+{{EN|Geode}}

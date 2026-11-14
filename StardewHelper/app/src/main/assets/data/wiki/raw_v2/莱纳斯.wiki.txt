@@ -1,0 +1,437 @@
+{{Infobox villager
+|portrait  = Linus.png
+|birthday  = {{Season|冬季|3}}
+|location  = 深山
+|address   = [[帐篷]]
+|marriage  = 否
+|favorites = {{name|Blueberry Tart}}{{name|Cactus Fruit}}{{name|Coconut}}{{name|Dish O' The Sea}}{{name|The Alleyway Buffet}}{{name|Yam}}
+}}{{Quote|你可以学着在野外生存。我就是这样。我想我们心里都藏着一份想要回到大自然里的冲动。只是迈出那一步有点吓人而已。|莱纳斯}}
+'''莱纳斯'''是一位[[居民]]，居住在[[深山]]北部的[[帐篷]]之中。帐篷位于[[铁路]]入口附近的峭壁上，向东可以远远看见[[矿井]]的入口。
+
+==日程表==
+莱纳斯不会去姜岛的[[姜岛#海滩度假村|海滩度假村]]。
+
+下面显示的是莱纳斯的日程表，从上到下按优先顺序排列。例如下雨时优先采用雨天日程表。
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季16日（巴士站已修复）
+|-
+|style="width:15%"| 09:50 ||乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+| 10:20 ||站在[[沙漠节#卡利科三花蛋商人|卡利科三花蛋商人]]后方的一个垃圾桶旁。
+|-
+| 01:40 ||乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"| 06:00 ||站在他的[[帐篷]]南侧的悬崖处。
+|-
+| 12:00 ||走到并站在他的帐篷西侧的悬崖处。
+|-
+| 17:00 ||站在帐篷外的营火旁。
+|-
+| 22:00 ||回到他的帐篷上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|雨天
+|-
+|style="width:15%"| 06:00 ||在[[帐篷]]内。
+|-
+| 09:30 ||离开帐篷，站在帐篷西侧的灌木丛后面。
+|-
+| 10:10 ||回到帐篷。
+|-
+| 15:00 ||离开帐篷，站在帐篷西侧的一棵树下。
+|-
+| 19:00 ||回到帐篷。
+|-
+| 23:30 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|冬季15日
+|-
+|style="width:15%"| 06:00 ||在[[帐篷]]内。
+|-
+| 11:00 ||离开帐篷, 站在帐篷外的篝火西侧。
+|-
+| 16:00 ||走向海滩，参加[[夜市]]。
+|-
+| 23:30 ||回到帐篷过夜。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|春季
+|-
+|style="width:15%"| 06:00 ||在[[帐篷]]内。
+|-
+| 06:30 ||离开帐篷，站在帐篷西侧的灌木丛后面。
+|-
+| 07:00 ||走向帐篷外的篝火。
+|-
+| 09:30 ||离开帐篷，走向湖泊西侧。
+|-
+| 14:00 ||回到帐篷外的篝火边。
+|-
+| 19:00 ||回到帐篷。
+|-
+| 23:00 ||上床睡觉。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|夏季
+|-
+|style="width:15%"| 06:00 ||在[[帐篷]]内。
+|-
+| 06:30 ||走向帐篷东侧，从峭壁上眺望湖泊。
+|-
+| 09:40 ||走向湖西侧的围栏南端，并在附近踱步。
+|-
+| 13:00 ||在湖的西侧，往南再走一点。
+|-
+| 16:00 ||回到帐篷前的篝火。
+|-
+| 20:00 ||走向帐篷旁的灌木丛后面。
+|-
+| 20:20 ||回到帐篷过夜。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|秋季
+|-
+|style="width:15%"| 06:00 ||在[[帐篷]]内。
+|-
+| 07:00 ||离开帐篷，站在帐篷西侧的灌木丛后面。
+|-
+| 07:40 ||走向帐篷外的篝火。
+|-
+| 09:00 ||走向[[温泉]]，站在建筑东侧。
+|-
+| 14:00 ||走向湖的西侧，并在那站着。
+|-
+| 18:00 ||回到帐篷过夜。
+|-
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|冬季
+|-
+|style="width:15%"| 06:00 ||在[[帐篷]]内。
+|-
+| 11:00 ||离开帐篷, 站在帐篷外的篝火西侧。
+|-
+| 14:00 ||走向[[温泉]], 站在入口处。
+|-
+| 18:00 ||回到帐篷过夜。
+|-
+|}
+
+==人际关系==
+莱纳斯认为自己被整个鹈鹕镇排斥了。镇上的大多数人对他都不大友善，对话中，莱纳斯会提到有人往他的帐篷上扔石头。他不信任小镇上的任何人，也不认为自己在小镇上有朋友。[[节日]]期间，莱纳斯通常远离人群，独自一人呆在角落。
+
+在[[雷欧]]搬到星露谷后，莱纳斯会和他成为朋友。
+
+实际上，游戏文件中一段[[万灵节]]的对话表示[[法师]]是莱纳斯的朋友。如果玩家通过模组等特殊手段与该节日中的莱纳斯交谈，则可以看到这段对话。可能莱纳斯并不认为法师是小镇中的一员。
+
+[[罗宾]]表示她不介意莱纳斯住在自己家后面，只要不打扰自己的家人。[[潘妮]]和[[艾米丽]]的部分对话表明她们对他被忽视、不被理解感到同情。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|这份礼物真是太棒了！我这一天因为你变得格外特别。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Linus Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Blueberry Tart.png|center]]
+|[[蓝莓千层酥]]
+|味道微妙而又清新。
+|[[烹饪]]
+|{{name|Blueberry|1}}{{name|Wheat Flour|1}}{{name|Sugar|1}}{{name|Egg|1}}
+|-
+|[[File:Cactus Fruit.png|center]]
+|[[仙人掌果子]]
+|尖刺仙人掌的甜美果实。
+|[[采集#沙漠|采集]] - [[沙漠]]
+|
+|-
+|[[File:Coconut.png|center]]
+|[[椰子]]
+|椰树的种子。用途广泛。
+|[[采集#沙漠|采集]] - [[沙漠]]
+|
+|-
+|[[File:Dish O' The Sea.png|center]]
+|[[海之菜肴]]
+|{{Description|Dish O' The Sea}}
+|[[烹饪]]
+|{{name|Sardine|2}}{{name|Hashbrowns|1}}
+|-
+|[[File:Yam.png|center]]
+|[[山药]]
+|{{Description|Yam}}
+|[[农作物#山药|耕种]] - [[秋季]]
+|
+|-
+|[[File:The Alleyway Buffet.png|center]]
+|[[小巷自助餐]]
+|{{Description|The Alleyway Buffet}}
+|隐藏[[垃圾桶]]、[[书摊老板]]
+|
+|}
+
+===喜欢===
+{{Squote|这礼物真不错。非常感谢！}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Linus Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[财宝箱]]、'''[[矿物#可采集矿物|可采集矿物]]'''、不包括[[钻石]]和[[五彩碎片]]在内的'''[[矿物#宝石|宝石]]'''）</li><li>'''所有蛋'''（除了[[虚空蛋]]）</li><li>'''所有奶类'''</li><li>'''所有[[水果]]'''（除了[[仙人掌果子]]和[[椰子]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|一种美味的蘑菇，味道像水果，稍辣。
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|稍微坚硬，肉质滑。
+|[[采集]] - [[秋季]]
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|一种传统的春天花朵，适合送礼。
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|虽然不算漂亮，但是叶子适合做沙拉。
+|[[采集]] - [[春季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|真是巨大的一颗榛子！
+|[[采集]] - [[秋季]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|它的叶子和鲜红的浆果让它成为了极受欢迎的冬天饰品。
+|[[采集]] - [[冬季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|洋葱的美味近亲。
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|因为独特的味道而深受欢迎。
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|一种在山洞深处的稀有蘑菇。
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|这种小山药隐藏在雪地下。
+|[[采集]] - [[冬季]]
+|-
+|[[File:Spring Onion.png|center]]
+|[[大葱]]
+|在春天时疯狂生长。
+|[[采集]] - [[春季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|春天生长的一种根茎香料。
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|一种淀粉块茎植物。
+|[[采集]] - [[冬季]]
+|}
+
+===一般===
+{{Squote|礼物？真好啊。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Linus.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''</li><li>'''所有[[鱼#鱼的种类|鱼]] '''（除了[[蜗牛]]）</li></ul>
+|-
+|[[File:Wild Bait.png]]
+|[[万能鱼饵]]
+|{{description|Wild Bait}}
+|[[制作]]
+|}
+
+===不喜欢===
+{{Squote|唔……这个对我来说没什么用。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Linus Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了[[鱼]]和[[大葱]]）</li><li>'''所有[[矿物#可采集矿物|可采集矿物]]'''</li><li>'''所有[[矿物#宝石|宝石]]'''（除了[[钻石]]和[[五彩碎片]]）</li></ul>
+|-
+|[[File:Treasure Chest.png]]
+|[[财宝箱]]*
+|{{description|Treasure Chest}}
+|[[钓鱼]]，[[古物宝藏]]，[[鱿鱼节]]，[[秘密纸条#秘密纸条 #16|秘密纸条 #16]]，[[鱼塘]]
+|}
+<nowiki>*</nowiki>''如果玩家将财宝箱送给莱纳斯，他会将其退还。''
+
+===讨厌===
+{{Squote|你为什么要给我这个？我住在帐篷里所以你觉得我喜欢垃圾吗？真差劲。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Linus Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''（除了[[鲤鱼]]和[[万能鱼饵]]）</li></ul>
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|礼物
+|{{MailByType|礼物}}
+|零心
+|<nowiki />
+{{Event
+|hearts  = 0
+|trigger = 玩家和莱纳斯的[[友谊]]达到50点时，在晴天晚上8点至凌晨12点之间进入[[鹈鹕镇]]。（注意：无法在第一年春季7日前触发该事件）
+|details = [[乔治]]会要求你赶走一些在垃圾桶偷东西吃的浣熊。你没看到浣熊，却看到了莱纳斯。他非常尴尬地解释道，如果他不吃掉这些食物，它们就会被浪费掉。然后你可以选择你对他的行为有什么看法。玩家离开后，莱纳斯会继续试图从星之果实酒吧的垃圾桶里翻东西。[[格斯]]发现了他，给了他一些吃的，并说他不想让任何一个村民饿肚子。
+|quote = 
+|dialogues = {{EventByID|502969}}
+}}
+|三心
+|{{MailByType|食谱|3|Sashimi}}
+|四心
+|<nowiki />
+{{Event
+|hearts  = 4
+|trigger = 在晚上8点到12点间来到[[深山]]他的[[帐篷]]旁边。必须是晴天或下雪。
+|details = 莱纳斯会邀请玩家进入他的营地，对一开始表现的不信任道歉，并感谢你一直是个好朋友。然后他让玩家进入帐篷，来告诉玩家如何制作[[万能鱼饵]]。
+|quote = 
+|dialogues = {{EventByID|26}}
+}}
+|七心
+|{{MailByType|食谱|7|Fish Taco}}
+|八心
+|{{Event
+|hearts  = 8
+|trigger = 在没有下雨的天气，上午9点~下午5点之间离开[[木匠的商店]]。
+|details = 罗宾、莱纳斯和玩家会出现在[[木匠的商店]]门口，罗宾提出给莱纳斯做一顿午餐。莱纳斯会说：“我今天已经吃过了。”
+这时，罗宾会问玩家有什么想说的。
+* {{choice|我很高兴莱纳斯过得不错|250|莱纳斯}}<br />莱纳斯会对玩家表示感谢，同时表示担心玩家会让他搬到玩家的[[农场]]生活。他会对玩家尊重他的生活方式表示感谢。
+* {{choice|我想邀请莱纳斯到我的[[农场]]居住。}}<br />罗宾会提出给莱纳斯搭一间非常舒适的房间。莱纳斯会拒绝，并表示他非常感谢这些帮助，但是他选择继续自己的生活方式。他更想独自与和谐的自然居住。他说他珍惜和玩家的友谊。
+场景会以莱纳斯去找树莓（即使是冬天）结束。
+|quote = 
+|dialogues = {{EventByID|371652}}
+}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|特殊|{{Dialogue|特殊}}
+|备注|<nowiki />
+'''[[万灵节]]（奇数年）'''
+{{Squote|做得好，老朋友。}}
+注意：这句话是对法师说的。正常情况下玩家无法和莱纳斯交互，因此该对话无法在常规情况下触发。
+}}
+
+==任务==
+*[[任务#Blackberry Basket|"黑莓篮子"]]: 在秋季第八天莱纳斯会给玩家写信说他丢失了他的黑莓篮子。  还给莱纳斯可以增加一颗[[友谊]]红心。
+*莱纳斯会在[[任务#求助任务|"任务" 栏]] 中发出请求。 完成后奖励玩家3倍于原价值的金币和150点[[友谊]]。
+
+==你知道吗==
+*有时若玩家和莱纳斯对话，他会提及自己曾在矿洞中下到很深的经历；他也是会将玩家救出矿洞（当玩家失血昏厥）的NPC之一。
+*玩家可以点燃或熄灭莱纳斯帐篷前的篝火，不过这并不会对游戏剧情有任何影响（不会触发对话，不会影响好感度）；若将篝火熄灭，莱纳斯也不会将其重新点燃。
+*如果玩家尝试将[[财宝箱]]送给莱纳斯，他将会把礼物退还给玩家，但计入送礼次数且产生好感度变动。
+**在冬日星盛宴上送给莱纳斯的[[财宝箱]]不会被退还。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Linus.png
+File:Linus Happy.png
+File:Linus Concerned.png
+File:Linus Surprised.png
+File:Linus Bathing.png
+File:Linus Bathing Happy.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+File:Linus Winter 00.png
+File:Linus Winter 01.png
+File:Linus Winter 02.png
+File:Linus Winter 03.png
+</gallery>
+
+==动画==
+{{Alert|Caution|动画5、动画6为废案，具体用途不明，仅存在于解包的游戏数据中，流传较广的“莱纳斯是富豪”的人设'''并非官方设定'''，多为玩家的猜测或是模组的二次创作。|提醒}}
+{{Sprites}}
+
+==历史==
+{{History|1.3.27|增加8心事件。}}
+{{History|1.4|修正了所有菜谱会在3心时发送的错误。}}
+{{History|1.5|新增两个洗澡肖像。}}
+{{History|1.6|现在莱纳斯对鲤鱼和万能鱼饵的喜好改为一般，并且讨厌财宝箱。增加了收到特定礼物时的对话。新增冬季肖像。}}
+
+{{NavboxVillagers}}
+
+{{EN|Linus}}

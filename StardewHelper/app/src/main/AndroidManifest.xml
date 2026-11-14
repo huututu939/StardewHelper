@@ -1,0 +1,144 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- c214 触觉：勾选/按钮震动需要 VIBRATE 权限（普通短震，不申请运行时权限） -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <!-- v2.55.0：唯一用途是「设置 → 检查更新」的手动一次 GET（UpdateRepo.kt 是全项目唯一网络出口文件）。
+         不启动检查、不后台轮询、不上传任何数据；App 其余功能离线可用。
+         v2.68.0 同一文件多了一个 GET：用户在「从电脑接收」抽屉里点「下载电脑脚本」时拉 send_save.bat，
+         同样是点一下才发一次，不预取、不轮询。 -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <!-- v2.68.0：把电脑端脚本存进手机的「下载」目录。
+         Android 10（API 29）起走 MediaStore，一个权限都不需要，所以这条**必须限 maxSdkVersion=28**：
+         只在 Android 8/9 上走公共目录的旧路径。限了版本，新系统上 App 不会申请、也不会被追问。 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="28" />
+    <!-- v2.86.0：Steam 云存档导入。
+         · POST_NOTIFICATIONS：Android 13+ 发通知要用户授权（拒绝也不影响导入本身）。
+         · FOREGROUND_SERVICE：等待下载期间要在后台活着。
+         · FOREGROUND_SERVICE_DATA_SYNC：Android 14+ 前台服务必须声明类型；
+           「等一个文件下载完并导入」正是 dataSync 的语义。
+    -->
+    <!-- v2.91.0 补回：Steam 云存档的「所有文件访问」通道（与远端 2.90.0 对齐）。
+         ⚠ **这个权限不会在安装时弹窗** —— 它只在系统设置 → 应用 → 特殊权限里，
+           用户自己去勾。App 不申请、也不替用户决定，勾选永远是用户自己的选择。
+           · 不声明它，App 就**不在**那个列表里，用户想开也开不了
+             （2.90.0 声明过，2.91.0 若漏掉，系统会在升级时把已授的权限收回去）。
+           · 声明它**不等于**要权限：用户不开，App 就只走 SAF 子目录那条路。
+           · 读别的 App 的文件用不上 READ_EXTERNAL_STORAGE（Android 13+ 已经拿不到），
+             所以仍然不申请它，也不申请 READ_MEDIA_*（与本功能无关）。 -->
+    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_DATA_SYNC" />
+    <!-- c234：电池优化白名单（REQUEST_IGNORE_BATTERY_OPTIMIZATIONS）。
+         ⚠ **这不是「后台保活」的万能药**，实测（2026-11-09，魅族 20 / Flyme）：
+           息屏退后台后系统会把本 App **冻结**（dumpsys activity processes 里
+           isFrozen=4、isFreezeExempt=false）——进程还在、前台服务通知还在、
+           save-receiver/save-discovery 线程还在，但线程**不被调度**：
+           UDP 发现不回应、TCP 监听端口在 /proc/net/tcp 里整个消失。
+         加进电池优化白名单后，同一台机、同一 App，只切这一个开关：
+           退后台 60 秒 → 回应正常；息屏 90 秒 → 回应正常。
+           不加白名单 → 退后台 90 秒 → UDP 无回应（复现稳定）。
+         所以这把钥匙是**唯一真正管用的**，前台服务单独用**不够**。
+         ⚠ 用系统对话框申请（ACTION_REQUEST_IGNORE_BATTERY_OPTIMIZATIONS），
+           用户点一下即可；拒绝也不影响 App 其余功能，只是后台收不到。 -->
+    <uses-permission android:name="android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS" />
+    <!-- v2.17 D6：allowBackup 改 false——设置页文案承诺「换手机不会自动同步，记得定期导出」，
+         而 allowBackup=true 会把全部 DataStore 存档带到换机恢复里，与文案直接矛盾；
+         存档安全由「导出/导入 + 导入前自动备份」闭环保证 -->
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver
+            android:name=".widget.TodayWidget"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+                <action android:name="com.stardew.assistant.WIDGET_MIDNIGHT" />
+            </intent-filter>
+            <!-- v2.89.0：点「▸ 明天」的广播。
+                 ⚠⚠ **必须单独一个 intent-filter**（不能塞进上面那个）：
+                 系统是**按 manifest 里声明的 action** 决定广播发给谁的。
+                 少声明这一条 → 广播发出去没人接 → 按钮渲染得出来、**点了没反应**。
+                 这条漏过一次：补回 v2.89.0 时只补了代码、没补声明，
+                 dex 字符串表、aapt2 查 receiver 存在、单元测试**全都查不出来**
+                 （receiver 在、action 常量在、代码在，只少一行声明），
+                 最后是在模拟器上真机点小组件才暴露出来的。 -->
+            <intent-filter>
+                <action android:name="com.stardew.assistant.WIDGET_NEXT_DAY" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_today_info" />
+        </receiver>
+
+        <receiver
+            android:name=".widget.CardWidget"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_card_info" />
+        </receiver>
+
+        <receiver
+            android:name=".widget.WideWidget"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/widget_wide_info" />
+        </receiver>
+
+    <!-- v2.86.0：等待 Steam 云存档下载的前台服务。
+         ⚠ **exported = false**：外部 App 不能启动它（它只在 App 内部被点按钮启动）。
+         · foregroundServiceType=dataSync：Android 14+ 必需，语义 = 等待/传输数据。
+         · stopWithTask=false：用户切走 App 时**不要**跟着停 —— 用户这时
+           正在浏览器里下载存档，服务得继续活着。 -->
+        <service
+            android:name=".data.SteamImportService"
+            android:exported="false"
+            android:foregroundServiceType="dataSync"
+            android:stopWithTask="false" />
+    <!-- c233：局域网接收会话的后台常驻（**可选，默认关**）。
+         ⚠ **exported = false**：外部 App 不能启动它（只由 App 内部的开关启动）。
+         · foregroundServiceType=dataSync：与 SteamImportService 同款语义
+           （等待/传输数据），Android 14+ 必需声明类型。
+         · stopWithTask=false：用户切走 App 时**不要**跟着停 —— 用户这时
+           正在电脑上打游戏，接收必须继续活着。
+         · ⚠ Android 15 起 dataSync 有每日 6 小时上限，到顶系统会停掉它
+           （LanReceiveService.onTimeout 里如实告知用户，不悄悄死）。 -->
+        <service
+            android:name=".data.LanReceiveService"
+            android:exported="false"
+            android:foregroundServiceType="dataSync"
+            android:stopWithTask="false" />
+    <!-- v2.25 分享卡片：导出 PNG 走 FileProvider 发 uri，grantUriPermissions 随 Intent 临时授权，
+             外部应用只能读这一次。paths 见 res/xml/file_paths.xml（仅 cacheDir/shared/）。 -->
+        <provider
+            android:name="androidx.core.content.FileProvider"
+            android:authorities="${applicationId}.fileprovider"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+    </application>
+</manifest>

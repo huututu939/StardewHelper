@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- v2.25 分享：导出图只落在 cacheDir/shared/，系统可自行回收。
+     不写 DataStore、不进备份（allowBackup 已是 false）。 -->
+<paths>
+    <cache-path name="shared" path="shared/" />
+</paths>

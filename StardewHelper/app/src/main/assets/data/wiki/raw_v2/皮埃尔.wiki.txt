@@ -1,0 +1,406 @@
+{{Infobox villager
+|portrait  = Pierre.png
+|birthday  = {{Season|春季|26}}
+|location  = 鹈鹕镇
+|address   = [[皮埃尔的杂货店]]
+|family    = {{NPC|Caroline|妻子}}{{NPC|Abigail|女儿}}
+|marriage  = 否
+|favorites = {{name|Fried Calamari}}{{name|Price Catalogue}}
+}}{{Quote|如果想买种子的话，来我这里就对了。而且，如果你真的种出什么来，我还会高价收购哦！有了农业发展，相信本地的经济也会振兴起来的！|皮埃尔}}
+'''皮埃尔'''是[[鹈鹕镇]]的一位[[居民]]。他是[[皮埃尔的杂货店]]的老板，也负责杂货店的经营。
+
+==日程表==
+每天09:00至17:00，都可以在[[皮埃尔的杂货店]]中找到皮埃尔（但星期三时商店会关门）。周五晚上下班后，他会到[[星之果实酒吧]]犒劳自己。其他时间下班后，他离开商店柜台，在家里走动。
+
+[[社区中心]]重建后，[[皮埃尔的杂货店]]不再在周三休息，即一周中的每一天都会营业。
+
+[[姜岛#海滩度假村|姜岛的海滩度假村]]解锁后，皮埃尔可能会前往姜岛。他会在杂货店里留下一个钱箱，所以玩家仍然能够进行购物。下午6点离开姜岛后，皮埃尔会立刻回家上床睡觉。皮埃尔不会在[[节日]]当天前往姜岛。
+
+以下是皮埃尔的日程安排，优先度从高到低排序。
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|绿雨（第一年）
+|-
+|style="width:15%"|全天
+|位于家里的客厅。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|春季15日（巴士站已修复）
+|-
+|style="width:15%"|06:00
+|站在杂货店的柜台后方。
+|-
+|07:00
+|走向杂货店的货架。
+|-
+|08:30
+|回到杂货店的柜台后方。
+|-
+|18:00
+|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+|18:50
+|站在[[绿洲]]门外。
+|-
+|01:40
+|乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+|-
+!colspan="2"|沙漠节（作为商店摊主）
+|-
+|style="width:15%"|11:10
+|乘坐巴士前往[[沙漠]]参加[[沙漠节]]。
+|-
+|11:30
+|到达他的[[沙漠节#村民商铺|商店摊位]]。
+|-
+|00:00
+|离开摊位并乘坐巴士返回星露谷。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|雨天
+|-
+|style="width:15%"|06:00
+|站在杂货店的柜台后方。
+|-
+|07:00
+|走向杂货店的货架。
+|-
+|08:30
+|回到杂货店的柜台后方。
+|-
+|17:00
+|离开柜台，走向杂货店的货架。
+|-
+|19:00
+|走向家中的厨房。
+|-
+|21:00
+|走进他的卧室，站在书架前。
+|-
+|23:00
+|上床睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|星期五
+|-
+|style="width:15%"|06:00
+|站在杂货店的柜台后方。
+|-
+|07:00
+|走向杂货店的货架。
+|-
+|08:30
+|回到杂货店的柜台后方。
+|-
+|17:00
+|走向[[星之果实酒吧]]，站在酒吧柜台前。
+|-
+|22:50
+|回家睡觉。
+|}
+
+{|class="wikitable mw-collapsible mw-collapsed roundedborder scheduleheader"
+!colspan="2"|日常时间表
+|-
+|style="width:15%"|06:00
+|站在杂货店的柜台后方。
+|-
+|07:00
+|走向杂货店的货架。
+|-
+|08:30
+|回到杂货店的柜台后方。
+|-
+|17:00
+|离开柜台，走向杂货店的货架。
+|-
+|19:00
+|走向家中的厨房。
+|-
+|21:00
+|走进他的卧室，站在书架前。
+|-
+|23:00
+|上床睡觉。
+|}
+
+==人际关系==
+皮埃尔和他的妻子[[卡洛琳]]以及他们的女儿[[阿比盖尔‏‎]]一起住在商店后面。周五晚上他会和其他[[居民]]在[[星之果实酒吧]]会面，除此以外他只在[[皮埃尔的杂货店|他的商店]]与其他人互动。
+
+[[Joja超市]]和[[莫里斯]]试图从他的商店抢走顾客，这使他感受到了威胁，并担心自己因此无法赚到很多的钱。
+
+由于观念不同，他与阿比盖尔的关系有些紧张，这从一些爱心事件的过场动画中能看出。
+
+==送礼==
+{{GiftHeader}}
+
+===最爱===
+{{Squote|我最喜欢这个了！非常感谢！}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Pierre Happy.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#最爱的礼物|普遍最爱的礼物]]'''</li></ul>
+|-
+|[[File:Fried Calamari.png|center]]
+|[[炸鱿鱼]]
+|{{description|Fried Calamari}}
+|[[烹饪]]
+|{{name|Squid|1}}{{name|Wheat Flour|1}}{{name|Oil|1}}
+|-
+|[[file:Price Catalogue.png|center]]
+|[[价格目录]]
+|{{description|Price Catalogue}}
+|[[书摊老板]]
+|
+|}
+
+===喜欢===
+{{Squote|你人真好。我喜欢这个。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Pierre Happy.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#喜欢的礼物|普遍喜欢的礼物]]'''（除了[[玉米]]、[[蒜]]、'''[[矿物#可采集矿物|可采集矿物]]'''、不包括[[钻石]]和[[五彩碎片]]在内的'''[[矿物#宝石|宝石]]'''、[[防风草汤]]、[[墨西哥薄饼]]）</li><li>'''所有蛋'''（除了[[虚空蛋]]）</li><li>'''所有奶类'''</li></ul>
+|-
+|[[File:Daffodil.png|center]]
+|[[黄水仙]]
+|一种传统的春天花朵，适合送礼。
+|[[采集]] - [[春季]]
+|-
+|[[File:Dandelion.png|center]]
+|[[蒲公英]]
+|虽然不算漂亮，但是叶子适合做沙拉。
+|[[采集]] - [[春季]]
+|}
+
+===一般===
+{{Squote|礼物？谢谢！}} 
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Pierre.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#一般的礼物|普遍觉得一般的礼物]]'''</li><li>'''所有[[水果]]'''（除了[[果树|果树果实]]和[[美洲大树莓]]）</li></ul>
+|}
+
+===不喜欢===
+{{Squote|这可不是我的最爱……}}
+
+{|class="wikitable sortable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;" class="unsortable"|图片
+!名称
+!描述
+!来源
+|-
+| [[File:Pierre Concerned.png|48px|center]]
+| colspan="3"| <ul><li>'''所有[[友谊#不喜欢的礼物|普遍不喜欢的礼物]]'''（除了'''[[鱼#鱼的种类|鱼]]'''和[[价格目录]]）</li><li>'''所有[[矿物#可采集矿物|可采集矿物]]'''</li><li>'''所有[[矿物#宝石|宝石]]'''（除了[[钻石]]和[[五彩碎片]]）</li></ul>
+|-
+|[[File:Chanterelle.png|center]]
+|[[鸡油菌]]
+|一种美味的蘑菇，味道像水果，稍辣。
+|[[采集]] - [[秋季]]
+|-
+|[[File:Common Mushroom.png|center]]
+|[[普通蘑菇]]
+|稍微坚硬，肉质滑。
+|[[采集]] - [[秋季]]
+|-
+|[[File:Ginger.png|center]]
+|[[姜]]
+|{{Description|Ginger}}
+|[[采集]] - [[姜岛]]
+|-
+|[[File:Hazelnut.png|center]]
+|[[榛子]]
+|真是巨大的一颗榛子！
+|[[采集]] - [[秋季]]
+|-
+|[[File:Holly.png|center]]
+|[[冬青树]]
+|它的叶子和鲜红的浆果让它成为了极受欢迎的冬天饰品。
+|[[采集]] - [[冬季]]
+|-
+|[[File:Leek.png|center]]
+|[[韭葱]]
+|洋葱的美味近亲。
+|[[采集]] - [[春季]]
+|-
+|[[File:Magma Cap.png|center]]
+|[[熔岩菇]]
+|{{Description|Magma Cap}}
+|[[采集]] - [[火山地牢]]
+|-
+|[[File:Morel.png|center]]
+|[[羊肚菌]]
+|因为独特的味道而深受欢迎。
+|[[采集]] - [[春季]]
+|-
+|[[File:Salmonberry.png|center]]
+|[[美洲大树莓]]
+|一种带有森林的味道的春天浆果。
+|[[采集]] - [[春季]]
+|-
+|[[File:Purple Mushroom.png|center]]
+|[[紫蘑菇]]
+|一种在山洞深处的稀有蘑菇。
+|[[采集]] - [[矿井]]
+|-
+|[[File:Snow Yam.png|center]]
+|[[雪山药]]
+|这种小山药隐藏在雪地下。
+|[[采集]] - [[冬季]]
+|-
+|[[File:Wild Horseradish.png|center]]
+|[[野山葵]]
+|春天生长的一种根茎香料。
+|[[采集]] - [[春季]]
+|-
+|[[File:Winter Root.png|center]]
+|[[冬根]]
+|一种淀粉块茎植物。
+|[[采集]] - [[冬季]]
+|}
+
+===讨厌===
+{{Squote|拜托，再也别把这个带给我了。}}
+
+{|class="wikitable roundedborder" style="width: 65%; min-width: 500px; max-width: 100%;"
+!style="width: 48px;"|图片
+!名称
+!描述
+!来源
+!材料
+|-
+| [[File:Pierre Concerned.png|48px|center]]
+| colspan="4"| <ul><li>'''所有[[友谊#讨厌的礼物|普遍讨厌的礼物]]'''</li><li>'''所有[[鱼#鱼的种类|鱼]]</li></ul>
+|-
+|[[File:Corn.png|center]]
+|[[玉米]]
+|最常见的庄稼之一。甜甜的新鲜玉米棒是夏天最好的小吃。
+|[[农作物]] - [[夏季]]，[[秋季]]
+|
+|-
+|[[File:Garlic.png|center]]
+|[[蒜]]
+|给菜肴增加一些风味。质量好的大蒜可能会特别辣。
+|[[农作物]] - [[春季]]
+|
+|-
+|[[File:Parsnip Soup.png|center]]
+|[[防风草汤]]
+|鲜美又贴心。
+|[[烹饪]]
+|{{name|Parsnip|1}}{{name|Milk|1}}{{name|Vinegar|1}}
+
+|-
+|[[File:Tortilla.png|center]]
+|[[墨西哥薄饼]]
+|可以用来盛食物，也可以直接吃。
+|[[烹饪]]
+|{{name|Corn|1}}
+|}
+
+==观影==
+{{Theater}}
+
+==好感度事件==
+{{TabsP
+|返利
+|<nowiki/>
+皮埃尔对玩家的[[友谊|好感度]]大于 0 时，皮埃尔就有可能会向玩家赠送金币。好感度越高，玩家收到金币的可能性越大。
+{{Collapse|信件|content=<nowiki />
+{{Mail|id=Pierre}}
+无论玩家有没有在[[皮埃尔的杂货店]]中进行过消费，都有概率触发“返利计划”。金币的基础数额是{{price|250}}，有一定概率获得更多的金币。
+
+'''注：'''“股份信息”原文为 '''Sorry for the stock message'''。这个短语通常用于电子邮件或短信中，表示发送方发送了一条标准的、通用的信息（比如群发的新年祝福），而不是针对接收方的个性化信息。}}
+|三心
+|{{MailByType|食谱|3|Blueberry Tart}}
+|六心
+|<nowiki/>
+{{Event
+ |hearts  = 6
+ |trigger = 进入[[皮埃尔的杂货店]]后会触发一个过场动画。
+ |details = 玩家走进了皮埃尔的卧室，发现了皮埃尔在书架背后藏的私房钱，被皮埃尔抓了个正着。如果玩家愿意保守秘密，皮埃尔便不追究玩家随便进出他房间的事。
+* {{choice|我会为你保守秘密的。|70}} 他会回答：“谢谢你，感激不尽。你就当作没看见，好吗？而我也会忘记你随便进出我房间的事！”
+* {{choice|这事儿应该让你太太知道。|-500}} 他会回答：“你真的要那样对我？你真卑鄙。你本就不该随便进出我的房间！八卦的邻居什么的最讨厌了。”
+
+ |quote = 这下又得找个新的藏匿点了……
+ |dialogues = {{EventByID|16}}
+}}
+}}
+
+==对话==
+{{TabsP
+|日常|{{Dialogue|日常}}
+|节日|{{Dialogue|节日}}
+|特殊|{{Dialogue|特殊}}
+|备注|<nowiki />
+* [[社区中心]]重建完成之前，周三杂货店会停业，玩家无法与皮埃尔对话，但是数据文件中实际上存在正常对话内容。
+* 大多数节日皮埃尔都在经营商店，部分节日玩家无法与皮埃尔交互，但是数据文件中实际上存在正常对话内容。
+**特别的是，万灵节的奇数年对话不是正常内容（只有两个英语问号作为占位符）。
+* 玩家售出物品后触发的特殊对话中，皮埃尔可能会说“言归正传，哈？”。在英语原文中，为 "back to business, huh?"，即“还是谈谈生意吧，你要买点或者卖点什么吗？”
+* 将[[皮埃尔丢失的存货单]]归还给皮埃尔会触发特殊对话。
+**“哇！这是我以前的库存清单！我一直在到处找它。我看看……没错！都还在上面。有了这些订单码，我就可以全年售卖四季的种子了！{{玩家}}，非常感谢你把它还给我。”
+}}
+
+==任务==
+*[[任务#Pierres Notice|“皮埃尔的布告”]]：皮埃尔会在第二年[[春季]]21天给你寄一封[[信件]]，请求一份[[生鱼片]]。奖励是{{Price|1000}}和1心[[友谊]]。
+*皮埃尔会随机请求一些物品，公告张贴在皮埃尔商店外的[[任务#求助任务|布告栏]]上。奖励是3倍物品基础价格的金币和150点友谊值。
+*[[任务#Pierres Prime Produce|“皮埃尔优选”]]：在[[镇长的庄园]]前的[[任务#鹈鹕镇的特别任务|特别任务板]]上，皮埃尔有可能发布一个特别任务，要求玩家收获25份金星品质的[[蔬菜]]，并将其放入[[皮埃尔的杂货店]]中的箱子里。奖励是{{Price|2500}}和1个[[迷你出货箱]]。
+
+==肖像==
+<gallery mode="packed" class="portraitgallery">
+File:Pierre.png
+File:Pierre Happy.png
+File:Pierre Concerned.png
+File:Pierre Surprised.png
+File:Pierre Annoyed.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+Pierre Winter 00.png
+Pierre Winter 01.png
+Pierre Winter 02.png
+Pierre Winter 03.png
+Pierre Winter 04.png
+</gallery>
+<gallery mode="packed" class="portraitgallery">
+Pierre Beach.png
+Pierre Beach Happy.png
+Pierre Beach Concerned.png
+Pierre Beach Annoyed.png
+</gallery>
+
+==动画==
+{{Sprites}}
+
+==你知道吗==
+*他的女儿阿比盖尔想养猫，但皮埃尔本人“是超易过敏体质”。
+*皮埃尔自称自己曾是个优秀的拳击手，他的右勾拳“简直是天下无敌”。
+*大多数节日玩家都不能和皮埃尔交互，但实际上对话内容仍然存在。
+*他的人设的灵感可能来自于[[wikipedia:zh:牧场物语2|牧场物语2]]中的瑞克。
+
+==历史==
+{{History|1.5|新增海滩肖像。}}
+{{history|1.6|新增冬季肖像。现在[[价格目录]]是皮埃尔的最爱。}}
+
+{{NavboxVillagers}}
+
+{{EN|Pierre}}

@@ -9,6 +9,7 @@
 今日待办 · 图鉴 · 送礼反查 · 收益计算 · 存档解析
 
 [![Release](https://img.shields.io/github/v/release/huututu939/xingluguzhushou?label=release&color=2ea44f)](https://github.com/huututu939/xingluguzhushou/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/huututu939/xingluguzhushou/total?label=downloads&color=2ea44f)](https://github.com/huututu939/xingluguzhushou/releases/latest)
 [![Platform](https://img.shields.io/badge/Android-8.0%2B-3DDC84?logo=android&logoColor=white)](#下载与安装)
 [![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7F52FF?logo=kotlin&logoColor=white)](#项目结构)
 [![License](https://img.shields.io/badge/license-MIT%20%2B%20CC%20BY--NC--SA-blue)](LICENSING.md)

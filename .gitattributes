@@ -1,0 +1,19 @@
+# 换行与二进制规则：跨平台确定性（Windows 开发、Linux CI、API 推送三方看到同一份内容）
+* text=auto
+
+# Windows 批处理按原样存取，不做换行转换（否则跨工具 sha 不一致）
+*.bat -text
+
+# 脚本类永远 LF
+*.sh text eol=lf
+
+# 二进制
+*.png binary
+*.jpg binary
+*.webp binary
+*.ttf binary
+*.otf binary
+*.zip binary
+*.jar binary
+*.apk binary
+*.dll binary

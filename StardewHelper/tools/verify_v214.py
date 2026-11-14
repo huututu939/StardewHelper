@@ -14529,6 +14529,24 @@ def main():
               "157.14 源码仓 README 引用了预览横幅与 CI 徽章")
         check("CONTRIBUTING.md" in _rd246,
               "157.14a 源码仓 README 链到贡献指引（用户找得到入口）")
+        # c247：门面三轮 —— 换行规则 / 下载徽章 / 发布仓配图
+        _ga247p = os.path.join(_REPO_PARENT, "GitHub仓", ".gitattributes")
+        if os.path.exists(_ga247p):
+            _ga247 = io.open(_ga247p, encoding="utf-8").read()
+            check("text=auto" in _ga247 and "*.bat -text" in _ga247,
+                  "157.15 源码仓 .gitattributes 定了换行与二进制规则")
+        check("/downloads/huututu939/xingluguzhushou/total" in _rd246,
+              "157.15a 源码仓 README 挂了下载量徽章")
+    _pub247p = os.path.join(_REPO_PARENT, "发布仓", "assets", "screens.png")
+    check(os.path.exists(_pub247p) and os.path.getsize(_pub247p) > 100000,
+          "157.15b 发布仓 assets/screens.png 在（下载页配图有落点）")
+    _pr247p = os.path.join(_REPO_PARENT, "发布仓", "README.md")
+    if os.path.exists(_pr247p):
+        _pr247 = io.open(_pr247p, encoding="utf-8").read()
+        check("assets/screens.png" in _pr247 and "长什么样" in _pr247,
+              "157.15c 发布仓 README 有「长什么样」配图段")
+        check("/downloads/huututu939/xingluguzhushou/total" in _pr247,
+              "157.15d 发布仓 README 也挂了下载量徽章")
 
     # ==================================================================
     # 152 节（c235）：长线任务「存档局域网自动同步」验收标准 1-9 全项扫尾
